@@ -1,6 +1,6 @@
 # abssa-calendar
 
-This script fetches (ABSSA's fixtures data)[http://www.abssa.org/championnat] and output it as ics files which can then be imported in your favorite calendar.
+This script fetches [ABSSA's fixtures data](http://www.abssa.org/championnat) and output it as ics files which can then be imported in your favorite calendar.
 
 ## Quickstart
 
