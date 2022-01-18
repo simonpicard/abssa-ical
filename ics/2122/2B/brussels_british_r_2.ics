@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:70319418-2e0b-4c1f-821a-45e4a4e13921
+X-WR-CALNAME:ABSSA Brussels British R 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 18: Brussels British R 2 - Itt - Gecko Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:cac892c5-46be-4cb2-8aac-7d693e67b6a4
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 19: Lorraine (la) Rfc 1 - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:011b66c0-5add-4728-8319-7a64fe632821
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 20: Brussels British R 2 - Hermes Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:eea852b6-7d9c-4285-a957-f4638a834813
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 21: Braine-terminus Fc - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:3435bbdc-4c21-4689-a2de-f1dd10d8e209
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 22: Brussels British R 2 - Besace Rfc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:879ef65c-47ae-40ee-aeaa-e0c6565f38d2
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 23: Press (amicale) - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:0e76c2ff-6f2c-4812-8f86-150a07d38070
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie Jette-Wemmel (n
+ ° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, pren
+ dre direction Asse. Après l'église\, prendre la 1ère à main droite (di
+ rection Mollem). Après 2 km. prendre la Kouterstraat qui se trouve juste 
+ en face de l'église.
+LOCATION:Kouter\, 29\, 1730 Mollem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 24: Forestois Sc 1 - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:717a7889-ac26-4ef4-9e75-a1deffeeb338
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 25: Entente  Racb 1 - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:9c541eca-9dbb-449d-bdf6-c4f9e640f2a9
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 26: Brussels British R 2 - Vollenback Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:15862714-c825-4d12-b4cf-b98e1a6b48a6
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+END:VCALENDAR

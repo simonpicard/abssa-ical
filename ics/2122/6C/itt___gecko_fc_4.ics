@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:f93bf9a4-6f09-475f-9c90-ace065598cee
+X-WR-CALNAME:ABSSA Itt - Gecko Fc 4
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 18: Azur Rcs 6 - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:ae782a6c-dbe6-47e2-942d-7f7e938d4099
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 19: Itt - Gecko Fc 4 - Choule Auderghem 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:57ecfe9b-941e-4bdb-9dd7-a209e1c7d785
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 20: Pharma Sc 3 - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:35be566a-fe6f-4273-8edc-f74ff09250db
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 21: Itt - Gecko Fc 4 - Saint Georges Rcs 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:a360adef-3238-401a-8ca8-1d7d9e61813d
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 22: British United 5 - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T142500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5b3e05fd-73e0-4474-a2e1-0e4f138c7eb6
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 23: Lorraine (la) Rfc 3 - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:dc1e1f90-330d-4bc7-87ba-9dbad6cf993c
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 24: Itt - Gecko Fc 4 - Auderghem R.cf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:2851e64f-b9d2-4546-99be-406b989e1865
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 25: Itt - Gecko Fc 4 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:902a310c-2bd5-4978-b8ee-60f10f2c174b
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 26: Watermael Cs - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5966d9f7-f33d-44fb-8e53-3502599bc316
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+END:VCALENDAR

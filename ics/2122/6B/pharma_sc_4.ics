@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:463ad57a-5d1e-45d8-a09d-0f8b6c9a9dde
+X-WR-CALNAME:ABSSA Pharma Sc 4
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 18: Pharma Sc 4 - Tourinnois Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:fdf44fed-3d02-444a-887c-111ec6db74c9
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 19: New Arquois Fc 3 - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:e66fc349-1746-4f56-a479-54b60b17d8a3
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 20: Pharma Sc 4 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:1c1085f0-9245-4b7b-8109-d0f182a93631
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 21: Brussels Ltc 6 - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:94a7a930-8d04-468f-9f1f-4675764df08d
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 22: Pharma Sc 4 - Azur Rcs 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:9897d3ee-71a9-479b-a9a7-9b32e2e785ee
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 23: Pharma Sc 4 - Brussels British R 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:3e62d9e7-e8b3-4e5d-a45e-147d935b5e78
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 24: Ettekijs 3 - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:b915a6f3-6036-4683-806d-a1e4cdab8c37
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 25: Ecusson Fc - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f3cd2d6c-f1b0-4434-ba43-35df760f6d1c
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 26: Pharma Sc 4 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:206a7e76-0964-41a9-9348-bf2d2ed657e1
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:4eda00b1-ece2-40a2-a54b-295dff475100
+X-WR-CALNAME:ABSSA Elan Evere Rac 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 11: Elan Evere Rac 1 - Voirie Rac
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211113T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211113T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7ce90401-8e65-4bc0-b42e-d3431379bcb3
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Elan Evere Rac 1 - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:afcf06a1-eef1-481f-a21e-64efa0318ff5
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Union Tigers - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5207b854-0b37-404a-9208-382a5866b256
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Elan Evere Rac 1 - Rayo Latino
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:82e01315-8813-4f5b-aabe-d6603b6efd81
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Extranos (los) - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:bc974926-745a-404d-8a85-85c8a82be08b
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, Sortie Wemmel\, prendre l'A
+ venue Houba de Strooper\, puis la rue à gauche\, avant le bâtiment de l'
+ URBSFA\, direction Atomium.
+LOCATION:HEYSEL - ANNEXE 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Elan Evere Rac 1 - St. Josse Tennis
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:f0042f32-0c9d-4e5b-83d0-2234e8c8433e
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Grez Aj 2 - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:14a118e3-98b4-48c2-8619-49668ae3597b
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Elan Evere Rac 1 - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:4d2999fc-0020-4678-9216-9134bc6a1a39
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Voirie Rac - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:0a2d0c57-7b02-48e4-b818-e25a7f938913
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: Piraterie (la) - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:1f388104-9777-48b4-9d43-b5113e7c038d
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+END:VCALENDAR

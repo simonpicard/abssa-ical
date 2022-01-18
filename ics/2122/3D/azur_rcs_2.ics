@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:467f6067-f875-4aeb-bf6b-644713a11426
+X-WR-CALNAME:ABSSA Azur Rcs 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 18: Saint Georges Rcs 3 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:3a5725d2-fdb2-4c19-947d-5c75272cf504
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 19: Azur Rcs 2 - Rapid Mymol
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:8558fd87-5928-4dba-912a-4cbe0234af58
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 20: Ettekijs 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ce1b2ac7-72b2-46bb-a5c0-97f214198597
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 21: Azur Rcs 2 - Brussels British R 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f0df9f12-b464-4176-91a6-50dd0e3735c4
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 22: Maccabi Bxl - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:484060b2-dd18-4803-af74-a096df6058bd
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 23: British United 2 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:0022837e-17c3-464b-b608-bc085788da2f
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 24: Azur Rcs 2 - Higgins 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:727e7090-31bd-4f71-b7b2-48716d8f2ccc
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 25: Azur Rcs 2 - Macapsules (les)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:aea3b6a9-b311-409b-bc6a-be0ae10fbab4
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 26: Rapid Tamtam Fc. - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:55838d30-9881-43fa-b510-42402235b842
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+END:VCALENDAR

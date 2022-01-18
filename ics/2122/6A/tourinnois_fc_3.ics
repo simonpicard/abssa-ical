@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:0dd63855-36eb-415d-8847-d76025b1e975
+X-WR-CALNAME:ABSSA Tourinnois Fc 3
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 18: Mutuelle Rsb - Tourinnois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T164000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7b2eee0e-56b2-4fc6-83b8-13c7f95dd44e
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 19: Tourinnois Fc 3 - Trinquant 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:2f343b33-5360-42b2-a4ec-f29bf3b99606
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 20: Irlande Fc 5 - Tourinnois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:def3f16b-88ed-41ec-b8fc-e8038b6ffc06
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 21: Tourinnois Fc 3 - Metrasport R.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:3c88e06e-849b-42eb-ad53-02026230f229
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 22: Tourinnois Fc 3 - Forestois Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:9fc21204-e407-41c3-9ade-ed92f1da010d
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 23: Tourinnois Fc 3 - Jefke Country 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:ed358cfc-bd16-4a3a-b63a-c861e4a89a12
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 24: J.st-gilloise R. - Tourinnois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:e5cb6c49-af00-4106-857c-a5ddf6945bdc
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 25: Itt - Gecko Fc 3 - Tourinnois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5ef663e1-6fdc-4de6-908a-05e846e2414b
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 26: Tourinnois Fc 3 - Amb. Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:35560257-fd68-4138-b6fb-63d5f07aa635
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+END:VCALENDAR

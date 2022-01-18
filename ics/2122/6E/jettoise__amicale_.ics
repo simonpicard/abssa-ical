@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:7fd00bc0-2511-47b3-949a-9a9d2a90d3e6
+X-WR-CALNAME:ABSSA Jettoise (amicale)
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Lunette (la) Fc 3 - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220115T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220115T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:6c4da060-48a3-466c-93a1-4baea7ccfaee
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Jettoise (amicale) - Higgins 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:839b5231-b31e-4c23-88fd-b7f72f6dcc19
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: British United 7 - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:31222446-81b7-44e8-81be-6e37c6102465
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Jettoise (amicale) - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:46085292-558c-4c86-81cf-d4f5f6a1d066
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Ebl Fc. 2 - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T131500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T144000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:f226073c-dc93-4bc7-b75c-558bc0acc3ec
+DESCRIPTION:Acces voiture: Par la E411\, Sortie ! "Louvranges"\, direction
+  Louvain - Grez Doiceau - Chaumont-Gistoux\,\ncontinuer sur la N25\, prend
+ re la sortie en direction de Wavre - Perwez - Chaumont-Gistoux\,\nprendre 
+ à droite la 243 (+/- 4 km.)\, traverser Chaumont-Gistoux\, prendre à gau
+ che la rue de Wavre (devant le café de la Poste)\, continuer sur la rue C
+ olleau\, ensuite la rue du Pont des Brebis. Arrivée avenue du Ronvou.
+LOCATION:COMPLEXE SPORTIF DU RONVAU\, Avenue du Ronvau\, 8\, 1325 Chaumont
+ -Gistoux
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Jettoise (amicale) - Brussels Ltc 8
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7dec298e-281d-411d-97f2-8335b5266f5a
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Jettoise (amicale) - Elan Evere Rac 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:2554f8a4-0d65-4806-b1f2-777f1838e233
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Entente  Racb 2 - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:97a71501-c7e7-4419-98bc-49fcabe528bf
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Tigre (le) Fc - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:4aeee340-d450-47d4-ba89-88bfee015130
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Jettoise (amicale) - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:bacfc5a7-efbb-484c-94f0-7623c450e438
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+END:VCALENDAR

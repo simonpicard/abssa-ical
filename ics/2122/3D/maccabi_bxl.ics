@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:6d1877ef-1521-435f-8e22-131611f6acbd
+X-WR-CALNAME:ABSSA Maccabi Bxl
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 18: Maccabi Bxl - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d924a664-1c10-4ece-82bb-77c637672f63
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 19: Watermael Fc 1 - Maccabi Bxl
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d6b7417d-3fc1-43a6-b1df-4bcabc469a96
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 20: Maccabi Bxl - New Inn Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:c671f006-0afc-4ee5-9f10-9d9e8615849c
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 21: Sparta Scheut - Maccabi Bxl
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ebba4cf4-add3-4a09-873c-a30daf248b79
+DESCRIPTION:Acces voiture: Par le centre de la ville\, rejoindre la Barri
+ ère de Saint Gilles\, prendre la chaussée d'Alsemberg et puis l'avenue d
+ es Sept Bonniers (à droite au niveau de la rue \nL. Vanderkindere)\, le t
+ errain se trouve au bout de cette avenue.\nPar le sud\, prendre la rue de 
+ Stalle\, la rue Gatti de Gamond\, la rue Joseph Bens est la première rue 
+ à main droite après le Carrefour Market.
+LOCATION:TERRAIN J. BENS\, Rue Joseph Bens\, 124\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 22: Maccabi Bxl - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:6e2c87ec-47ef-441a-af6c-407e9083fa6a
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 23: Maccabi Bxl - Brussels British R 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:8f9e00ec-56a2-4901-8f9d-f298002b350a
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 24: Ettekijs 1 - Maccabi Bxl
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:088db267-bd09-439e-8512-c16f7fbe91b3
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 25: Saint Georges Rcs 3 - Maccabi Bxl
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:516e5791-d133-450e-85bd-de8e54f64ae3
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3D DAY 26: Maccabi Bxl - Rapid Mymol
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:05fbd07e-83e8-445f-ae30-282d9b9a5594
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+END:VCALENDAR

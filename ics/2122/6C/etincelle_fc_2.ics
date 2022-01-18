@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:c9717583-b79d-4467-9e6f-657d7784f9f0
+X-WR-CALNAME:ABSSA Etincelle Fc 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 18: Etincelle Fc 2 - Pharma Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:35bb90ef-11d6-40c9-9193-55ae41ee2bdc
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 19: British United 5 - Etincelle Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T142500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:17509234-b2c2-4905-9a76-789425300d36
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 20: Etincelle Fc 2 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:c1ca821d-5f57-4672-876b-ddd737c6587c
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 21: Lorraine (la) Rfc 3 - Etincelle Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:4001e86a-a7d9-4e4b-8ffa-7b7da3c2b98f
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 22: Etincelle Fc 2 - Cosmos Molenbeek 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:65fd1595-c8db-41e0-8186-e1fd93e4af13
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 23: Etincelle Fc 2 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:73e30735-d1bc-4d90-96bd-e4cce0f44bfc
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 24: Saint Georges Rcs 5 - Etincelle Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:07d92adc-70ef-422a-afe6-f1d49f9ad2d0
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 25: Ideal Rangers R - Etincelle Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:65757f4f-0061-49ff-a41a-e3f4aafde0dc
+DESCRIPTION:Acces voiture: Par le Centre\, prendre la chaussée d'Alsember
+ g\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les ra
+ ils du tram\, passer en dessous du pont du chemin de fer et au premier feu
+  de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère ru
+ e à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin de f
+ er et puis 1ère rue à main gauche (le complexe est fléché).\nPar le ri
+ ng\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre (G
+ rote Baan)\, au premier feu de signalisation\, passée l'église\, prendre
+  à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser la
+  chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du Bou
+ rdon\, pour continuer comme renseigné ci-dessus.
+LOCATION:COMPLEXE SPORTIF DE RIDDER\, Rue des Griottes\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 26: Etincelle Fc 2 - Choule Auderghem 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:1cbc6d29-36a3-47f0-9c8d-7091042c812b
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:95296722-3ea8-4cc9-8654-790fb362deb6
+X-WR-CALNAME:ABSSA Chenois (esper) 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Lunette (la) Fc 3 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:2e988ff2-5e72-49f7-9dfc-9838263e0318
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Chenois (esper) 2 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:a6eaa8f6-2f7a-426e-b799-606f3d21b6ca
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Higgins 3 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:13ec7f72-0553-43d1-8457-1a7d8256cb3d
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Chenois (esper) 2 - Entente  Racb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:a535b2ee-07f6-4ae3-8033-b9825d47cf3f
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: British United 7 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:90f8edfb-9847-44be-9559-47fff1860296
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Ebl Fc. 2 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T131500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T144000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:6a054a87-65d4-4357-99f3-247bcf0a028a
+DESCRIPTION:Acces voiture: Par la E411\, Sortie ! "Louvranges"\, direction
+  Louvain - Grez Doiceau - Chaumont-Gistoux\,\ncontinuer sur la N25\, prend
+ re la sortie en direction de Wavre - Perwez - Chaumont-Gistoux\,\nprendre 
+ à droite la 243 (+/- 4 km.)\, traverser Chaumont-Gistoux\, prendre à gau
+ che la rue de Wavre (devant le café de la Poste)\, continuer sur la rue C
+ olleau\, ensuite la rue du Pont des Brebis. Arrivée avenue du Ronvou.
+LOCATION:COMPLEXE SPORTIF DU RONVAU\, Avenue du Ronvau\, 8\, 1325 Chaumont
+ -Gistoux
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Chenois (esper) 2 - Brussels British R 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:bf4a0134-f1f9-45d6-a88b-04359d10e301
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Chenois (esper) 2 - Elan Evere Rac 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:9de28894-e82c-4245-82b6-8a3e89849d73
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Mireille Wemmel 2 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:bec344d3-b97f-46e2-9df8-18195496a4bb
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+END:VCALENDAR

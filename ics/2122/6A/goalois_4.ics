@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:35343e43-20a0-4b2c-b77e-be47ba8571b3
+X-WR-CALNAME:ABSSA Goalois 4
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 18: Goalois 4 - Itt - Gecko Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:e20bfa6e-4ed7-4fda-a907-1a22b15cc83d
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 19: Amb. Auderghem 2 - Goalois 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:95f0679e-c56e-4cb2-be87-393647128788
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 20: Goalois 4 - J.st-gilloise R.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:cc060e64-462c-46a1-a1d8-f695d3fe95e4
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 21: Jefke Country 2 - Goalois 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:1c776581-73ee-4a4e-8044-18f90055b62b
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 22: Goalois 4 - Auderghem Ru
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:9ee6a958-65cb-49fe-a4c0-5a0896718afb
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 23: Mutuelle Rsb - Goalois 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T164000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:8c4d0a5f-1862-4c5c-9c63-15fcbc2cb678
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 24: Forestois Sc 4 - Goalois 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:873de727-2b1d-40df-b423-821154c5ceff
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 25: Gast Fc 2 - Goalois 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:1793ec87-1cc5-4a5b-ac96-950caf951dfc
+DESCRIPTION:Acces voiture: Prendre l'Autoroute ou le ring Bruxelles-Mons-P
+ aris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devan
+ t la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tou
+ rner à main droite (Le terrain se trouve au bout de la rue au Bois).
+LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 26: Goalois 4 - Copains Reunis 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:699041d8-64d0-4844-8de5-3bf4b4e9029e
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:cf2e0159-443c-4bcb-ad5f-a6bb83fa6d77
+X-WR-CALNAME:ABSSA Cornoi As
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 9: Cornoi As - Voirie Rac
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211030T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211030T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7ea4bfb0-53cf-4034-ae1f-5d2c9777eb01
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Voirie Rac - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:076264b0-113a-4417-99fa-b94c1934415e
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Cornoi As - British United 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:df5bf120-08ae-4399-b88d-88bb7179e468
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Brussels Ltc 5 - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:dac46142-bfa3-4d53-ac3f-33d9c2699e64
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Cornoi As - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:67bdbe84-90a4-471a-a922-540efefe889f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Union Tigers - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:613f73f9-5074-4ae1-9d94-ae66f2b56783
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Cornoi As - Rayo Latino
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:23d7b53d-d51e-4d10-9558-e614666240fa
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Cornoi As - Piraterie (la)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:752d168c-f259-4e67-ac20-569a00dd33a1
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Elan Evere Rac 1 - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b27741e8-a116-4971-852d-063c8eb949e4
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Extranos (los) - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:866736e6-b4d0-460c-95b9-686eb3d8d38d
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, Sortie Wemmel\, prendre l'A
+ venue Houba de Strooper\, puis la rue à gauche\, avant le bâtiment de l'
+ URBSFA\, direction Atomium.
+LOCATION:HEYSEL - ANNEXE 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: Cornoi As - St. Josse Tennis
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7792f8d3-16f6-4f81-b218-cc36a551a52f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie  "Corroy-Le-Grand" (n° 9). Pr
+ endre à droite direction Nivelles. Au rond-point prendre à gauche\, la N
+ 4 en direction de Walhain. Au 3ème feu de signalisation prendre à droite
+ \, direction Chastre. Au rond-point\, tout droit\, direction Chastre. Just
+ e après le pont du chemin de fer prendre à droite en direction de Viller
+ oux. Traverser tout le village de Chastre. Le complexe se trouve à la sor
+ tie du village\, sur la droite et est fléché.
+LOCATION:COMPLEXE SPORTIF DES XV BONNIERS\, Rue des Quinze Bonniers\, 1450
+  Chastre
+END:VEVENT
+END:VCALENDAR

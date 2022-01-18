@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:df58bdb0-303f-4e44-b53d-82ee88c442ba
+X-WR-CALNAME:ABSSA Friends Spirit Aud
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 18: Friends Spirit Aud - Franginos (los)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:96dc2057-852b-48b1-bf42-332aa3bdd267
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 19: Clan (le) Rcs - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:17878891-6ccc-48b2-aed7-a97a36b07aed
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 20: Wong A.s. 2 - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5764e264-11fc-409e-a478-a15f3807252c
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 21: Friends Spirit Aud - Celtic Roosters
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:9a51ba3d-db69-4329-b1ba-98cf7dda5f2d
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 22: Moon Shooters - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:215a89ad-a09c-4b54-8909-785b9195cda0
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 23: Uccloise (entente) - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:6d93401f-59e3-4497-915b-06af854202c0
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 24: Friends Spirit Aud - Tauro Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:486546fa-8870-4383-8d8f-e5439e5a86f6
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 25: Friends Spirit Aud - Pangloss Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b5d58a56-86f2-48d5-9f0e-cb6ff2c2f98a
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 26: Trinquant 1 - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:2ab4b878-d92d-47ad-9667-bd555f713ac2
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+END:VCALENDAR

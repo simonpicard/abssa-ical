@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:6d660178-69dd-4c85-a18f-2f2f41f57abe
+X-WR-CALNAME:ABSSA Lunette (la) Fc 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 5: Erenler Genclik - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211002T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211002T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ae813b57-a868-4533-937b-83a35aac24ba
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 18: Breu United - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:b0e655fd-ff79-4adf-8d4d-2e97c9db2337
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 19: Lunette (la) Fc 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:3bafd988-0fd6-4f2e-9447-589edb422355
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 20: Irlande Fc 4 - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:4ef6d0a9-6e50-4741-a0c6-5c0fa1ad5992
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 21: Lunette (la) Fc 2 - String Penelope 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:aacef365-4083-4a03-b19b-669baad727e0
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 22: Lunette (la) Fc 2 - Vogelpik Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:de619d97-2365-486d-8b6a-d1e8a3bc5784
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 23: Lunette (la) Fc 2 - Omnisport Bierghes 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:3f8bfa9d-406a-478e-bf7a-646b77908ddc
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 24: Brussels Ltc 4 - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:86f82c44-0f27-4b91-a745-a33222cd1926
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 25: Uccle Stendhal 2 - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2f0bfca2-efbb-403e-be04-195430b0f53d
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 26: Lunette (la) Fc 2 - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:c930b83c-e685-4e0d-a384-8dd1e9753b34
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

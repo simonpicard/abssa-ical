@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:3a3c8c50-1953-4d88-a2f1-2ac06c013b12
+X-WR-CALNAME:ABSSA Forestois Sc 5
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 18: Campomaiorense Sc - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:76dfc3e2-3553-4ef3-acfd-1dddfc548c3f
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 19: Forestois Sc 5 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:10163fb5-133c-4354-b082-3b00be5a7000
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 20: Picardie As - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:fbb99fa0-be1a-40df-bcaf-e9232264c010
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 21: Forestois Sc 5 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2542faec-5074-4d7c-9de8-25d129421370
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 22: Tourinnois Fc 4 - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2f9a2530-c9cf-4487-a7bc-41354be0e0e7
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 23: Chiefs Wsl 4 - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d1925e11-58b5-4e12-89bb-0b2d2d8d7034
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 24: Forestois Sc 5 - Brussels British R 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:5e65360c-063d-4d6a-a937-950c1a1ab62e
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 25: Forestois Sc 5 - Ettekijs 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:eaf198b9-96c9-4394-b8f8-9cac2c38fa61
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 26: New Arquois Fc 3 - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2f29066e-5cd5-47b8-bdfb-35923890a570
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+END:VCALENDAR

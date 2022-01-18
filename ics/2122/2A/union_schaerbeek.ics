@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:52d51047-86d8-422d-b35e-84722cfa7cdc
+X-WR-CALNAME:ABSSA Union Schaerbeek
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 18: Tourinnois Fc 2 - Union Schaerbeek
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b2b1774e-e459-4797-9417-c392fa5fd4ab
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 19: Union Schaerbeek - Copains Reunis 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:88c27683-59fa-4331-a385-4a8316593545
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 20: Goalois 1 - Union Schaerbeek
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:72ece6e9-565b-4c98-9c64-415791601f1a
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 21: Union Schaerbeek - Chenois Sc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:a0512d9b-96d0-440b-93ea-3c3612f9d69d
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 22: Mtm Fc - Union Schaerbeek
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:20706626-599b-459b-8a55-ae2d00ce7821
+DESCRIPTION:Acces voiture: Autoroute E 411 direction Namur / Luxembourg\, 
+ prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur Boulevard
+  de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Wastinne. Ens
+ uite\, aprèsle passage à niveau\, prendre à gauche sur Rue Provinciale/
+ N239. Les terrains se trouvent sur la gauche de la route en contre-bas (fa
+ cilement visible de la route).
+LOCATION:Charles Jaumotte\, 156\, 1300 Wavre (Limal)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 23: Scheut Fc - Union Schaerbeek
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:6753a863-ce0a-4d17-863f-e4359302372c
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 24: Union Schaerbeek - British United 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:6583f8db-b269-45d6-aa73-a18b105c4978
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 25: Union Schaerbeek - Irlande Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:91c8432a-2bab-4321-81cf-0836b832a674
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2A DAY 26: Cobra Team - Union Schaerbeek
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:4f104f96-5b8d-4187-9ddf-413a71db4392
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+END:VCALENDAR

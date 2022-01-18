@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:7d536f3a-78f6-45da-a20d-939459481997
+X-WR-CALNAME:ABSSA Union Tigers
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 10: Voirie Rac - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211106T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211106T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:92d29991-1061-4309-aebf-5923ef358a2d
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Chiefs Wsl 3 - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:98914906-5788-4a36-baa1-8cd0e1a1412c
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 15: Union Tigers - Voirie Rac
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211211T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:fa1ad7a4-aa52-46a2-b9ef-c74136bc7b97
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: St. Josse Tennis - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:d1510b85-da9a-435a-b622-240dca0383c4
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Union Tigers - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:d71ae077-a8d5-489b-b5ba-af0c225d781b
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Piraterie (la) - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:1ed8450a-1d59-4e21-bc58-2444ab5ea857
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Union Tigers - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:7c20f9d7-1c99-4e19-bc6c-0ed4b9986b41
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Grez Aj 2 - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:d6d5fab8-1ad7-41be-91d8-58b3091af330
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Brussels Ltc 5 - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:38bc368e-80c7-456b-aa0d-4f6f4fcd4cd4
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Union Tigers - British United 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b0b1b06b-649c-41f9-8250-4044150b5013
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Union Tigers - Beekings F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:edfd3cfb-7c63-4a13-81a9-f7bcf022ec81
+DESCRIPTION:Acces voiture: A partir du Ring de Bruxelles prendre la E 19 d
+ irection Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche sur 
+ Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, après
+  400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstraat\
+ , puis prendre à gauche sur Kerkveldstraat. Après prendre à droite sur 
+ Schoolstraat\, le terrain se trouve sur la droite.
+LOCATION:Schoolstraat\, 46\, 1650 Beersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: Bousval Genappe 2 - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:c1d10a54-c283-48f9-b256-7948d6344021
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+END:VCALENDAR

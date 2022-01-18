@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:60745896-f229-438f-aa41-db00f506e447
+X-WR-CALNAME:ABSSA Blue Thrills
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 13: Blue Thrills - Neder Rangers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b03abd6a-ff71-49ad-83ef-88a00bcd18e5
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 18: String Penelope 1 - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:0219b3d9-d216-4882-bdaf-dfac57ce2185
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 19: Blue Thrills - Bruwolf Jette
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:59961946-cfa4-4036-aef4-c504ef9c1459
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 20: Azur Rcs 4 - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T120000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T132500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:d575857e-cd19-481c-a9df-39be2bd6582f
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 21: Blue Thrills - Pink Panthers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:4ed15fc7-6d41-4d56-aef9-397b440b70c6
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 22: Blue Thrills - Forestois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:b16b7b10-c90d-4b20-8a1c-86475f20182e
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 23: Blue Thrills - Aigles Noirs Afc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:f4504d7e-4e1a-45b3-ad3c-37c6374e6767
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 24: Sneaky Baboons - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:8b94d835-ed46-4357-a02d-469024076b69
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 25: Tiekss Wemmel - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T161000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:3a7d01f6-77ad-4597-8f7f-bcf77ce57659
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 26: Blue Thrills - Pantoufles Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:73b24fa3-585d-4236-8762-5cb86cc81a4b
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+END:VCALENDAR

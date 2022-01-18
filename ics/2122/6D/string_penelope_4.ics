@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:ac9d50cd-1074-4b81-90be-ca7b9ebc6431
+X-WR-CALNAME:ABSSA String Penelope 4
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 18: Postboys Fc 2 - String Penelope 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:93a23a91-fcbd-4c59-b0de-55ac89af824b
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 19: String Penelope 4 - Irlande Fc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d72e337a-377f-4d7b-a5b5-d31c60eb2a71
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 20: String Penelope 4 - Nivelles Cs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f8f28450-ad66-445a-a6b2-3d94ffc097db
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 21: British United 6 - String Penelope 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:8809cabf-c3e1-4a73-bdf9-0e6d9b961f39
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 22: String Penelope 4 - Coin Du Balai Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ea0a7225-f668-4d30-a4ca-4c7621f5f96e
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 23: String Penelope 4 - Cornac United Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:eca42d2e-2f6c-4f33-ad86-f30df0de5fb0
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 24: Omnisport Bierghes 2 - String Penelope 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:e944603c-5ab5-4124-a433-5709708224be
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Charleroi (E19)\, prendre l
+ a sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tournai-L
+ ille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n° 24)
+ . En bas de la sortie\, prendre à droite\, direction Bierghes. Rouler tou
+ t droit jusqu'au premier feu rouge. Tourner à droite en direction de Hall
+ e\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à gauch
+ e. Le terrain se trouve à 300 m.
+LOCATION:Rue du Sartiau\, 3B\, 1430 Bierghes-Rebecq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 25: Lorraine (la) Rfc 4 - String Penelope 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:82923ee7-4405-4902-a89e-f7c2aa773a4d
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 26: String Penelope 4 - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T162500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:424f2068-c9d7-425d-8c15-54bfac0ba979
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+END:VCALENDAR

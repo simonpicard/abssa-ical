@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:0aa8515e-3926-43ab-9a41-069a72e3bd08
+X-WR-CALNAME:ABSSA Mireille Wemmel 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Brussels British R 6 - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:c4379784-3767-4cee-a821-dff557c2ffcb
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Mireille Wemmel 2 - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:c374a570-c0ea-47da-9b07-369e17fe0db9
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Jettoise (amicale) - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:038267e8-0185-4039-afdb-fd2fa382d7bb
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Mireille Wemmel 2 - Lunette (la) Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:5d79541c-0591-4692-9926-7b282686802f
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Higgins 3 - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:e88a0f42-8f3b-4929-bef7-5ca9da5f7adf
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Mireille Wemmel 2 - Brussels Ltc 8
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:666592b4-c15e-434f-a577-aa1f3e223de2
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Ebl Fc. 2 - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T131500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T144000
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:57e0d87a-d173-40ec-b228-a1098d7de3e0
+DESCRIPTION:Acces voiture: Par la E411\, Sortie ! "Louvranges"\, direction
+  Louvain - Grez Doiceau - Chaumont-Gistoux\,\ncontinuer sur la N25\, prend
+ re la sortie en direction de Wavre - Perwez - Chaumont-Gistoux\,\nprendre 
+ à droite la 243 (+/- 4 km.)\, traverser Chaumont-Gistoux\, prendre à gau
+ che la rue de Wavre (devant le café de la Poste)\, continuer sur la rue C
+ olleau\, ensuite la rue du Pont des Brebis. Arrivée avenue du Ronvou.
+LOCATION:COMPLEXE SPORTIF DU RONVAU\, Avenue du Ronvau\, 8\, 1325 Chaumont
+ -Gistoux
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Mireille Wemmel 2 - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:15081012-6b4a-4432-a43c-7c74a9565163
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Mireille Wemmel 2 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104807Z
+UID:56d53808-e140-41fe-a95e-92afe14b447f
+DESCRIPTION:Acces voiture: A partir du centre de Wemmel\, prendre la direc
+ tion Meise via la Rasselstraat / F. Robberechtsstraat. Passé la Maison de
+  repos Armonea Hestia\, prendre à gauche vers le parking « Sporthal » f
+ léché comme JUST MOVE.\nParking  :  50.918474\,4.326794
+LOCATION:Zijp\, 14 - 16\, 1780 Wemmel
+END:VEVENT
+END:VCALENDAR

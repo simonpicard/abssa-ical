@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:386c1363-2e8b-4160-b319-1f262995e800
+X-WR-CALNAME:ABSSA Itt - Gecko Fc 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 7: Erenler Genclik - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211016T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211016T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2b72ff7e-c697-4e03-b052-2a2c78145e1d
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 18: Tricoteuses Fc. - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:35429fd5-022b-4313-b6c7-36fc5e245625
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 19: Itt - Gecko Fc 2 - Brussels British R 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:a36da220-21db-4a8c-9254-42723061883d
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 20: Breu United - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:988d5f63-954c-4e07-bd4e-879158a8d9da
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 21: Itt - Gecko Fc 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:cc0bd69b-de56-4701-b909-b3cf1163f278
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 22: Irlande Fc 4 - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:df124d20-93c2-42db-9c05-83eda4534a4b
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 23: Itt - Gecko Fc 2 - Vogelpik Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:b738e5cd-896f-4da4-848f-19778055ff0b
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 24: Itt - Gecko Fc 2 - Uccle Stendhal 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d7d8bb84-5f02-4884-9171-f6ea564a9664
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 25: Itt - Gecko Fc 2 - String Penelope 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:082302a2-d97a-47a4-84b7-e1a68cfb0a08
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 26: Lunette (la) Fc 2 - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:5263e9c2-aef9-42d1-a713-801f37eca212
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:082008cd-6e1d-416c-849c-078538b94582
+X-WR-CALNAME:ABSSA Biergeois Cs
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 18: Biergeois Cs - Lorgnette (la)  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2f23a954-7bdb-421b-b2f1-0e4cf075287a
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 19: Chenois (esper) 1 - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f2d69c0f-12ce-4332-b8ef-52fbe6355e61
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 20: Bea Woluwe - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:01237793-8c3d-4652-8182-b50c38fe6378
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 21: Biergeois Cs - Cosmos Molenbeek 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:1c69fba9-d385-44af-afce-62504a276d23
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 22: Patrons (les) - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d0d4680e-7c43-4446-a8ff-9017806bacd4
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 23: Vetuso Fc. - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f3f3f277-02a8-4196-83cb-41b5f12b550d
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n°25)\, prendre à droite sur la N 5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min. Prendre à gauche au carrefour entr
+ e la N 5 et la N 93 direction Nivelles. Dans le village\, prendre à gauch
+ e au carrefour en direction de la rue des Ecoles. une centaine de mètres 
+ plus loin\, prendre immédiatement à droite en direction de la rue du Bé
+ guinage et ensuite prendre imméeiatement à gauche en direction de la rue
+  du Pavillon. Suivre cette rue jusqu'au "T" formé par la rue du Pavillon 
+ et la rue de Ninove. Au "T" prendre à gauche. Le terrain de football se s
+ itue à une centaine de mètres sur le côté droit.
+LOCATION:Rue de Ninove\, 1\, 1476 Houtain-Le-Val
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 24: Biergeois Cs - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:eeff9c14-3017-4c8c-9b76-ae209b4cacc9
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 25: Biergeois Cs - Chenois Sc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ee68fac2-d318-480e-a721-d6cf86c148ec
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 26: Uccle Stendhal 1 - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:c97d9adc-d5fc-457c-9bee-d7651c05c267
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+END:VCALENDAR

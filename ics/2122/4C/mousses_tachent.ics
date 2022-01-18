@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:c372c5f7-ee69-4511-bc9a-bbfc932b15b1
+X-WR-CALNAME:ABSSA Mousses Tachent
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 18: Chenois Sc 2 - Mousses Tachent
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:7867ca65-7c15-47e7-b8d3-a970d5713f0e
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 19: Mousses Tachent - Uccle Stendhal 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:c3a807f7-04a8-4cc8-9163-f8506cce2316
+DESCRIPTION:Acces voiture: Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 20: Comp. Cinema R - Mousses Tachent
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d0f4b5a2-e6c0-4736-a487-12ec00f50fea
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 21: Mousses Tachent - Vetuso Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:6cbce2ef-22f3-45bc-a2c8-c711ed0c4e83
+DESCRIPTION:Acces voiture: Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 22: Mousses Tachent - Chenois (esper) 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:987defde-e668-44e2-bcb0-086c3ff23b99
+DESCRIPTION:Acces voiture: Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 23: Mousses Tachent - Lorgnette (la)  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f5b6c177-d4c9-4afe-8e66-a460d2a33c53
+DESCRIPTION:Acces voiture: Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 24: Boca Sublime - Mousses Tachent
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:3306e0c8-bc30-49f2-8159-2be79930a442
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 25: New Arquois Fc 2 - Mousses Tachent
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:2a7a593f-b8e0-41d1-9f97-b4f21bb92269
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 26: Mousses Tachent - Black Star Genval
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:dbd9b15d-080f-4642-8b43-e5705407718a
+DESCRIPTION:Acces voiture: Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne
+END:VEVENT
+END:VCALENDAR

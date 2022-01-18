@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:2dbfcb4e-c98d-45ed-aa5c-46afdc888359
+X-WR-CALNAME:ABSSA Erenler Genclik
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 1: Erenler Genclik - Neptune Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20210904T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20210904T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f8711729-ce78-4410-b394-2e951cc9b213
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 2: Vogelpik Fc. - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20210911T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20210911T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:66fa8e11-d7c2-49d9-a006-8989495c2bec
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 3: Erenler Genclik - Irlande Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20210918T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20210918T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:581c211f-f4db-4545-b9ed-33859ce1b55f
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 4: String Penelope 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20210925T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20210925T145500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:16784434-7ba6-4059-acc4-ad093e1682c0
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 5: Erenler Genclik - Lunette (la) Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211002T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211002T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ad52a25d-f9cf-41b0-8e38-3cf72586af8c
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 6: Uccle Stendhal 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211009T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211009T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:cc5f4207-04c6-442f-bc80-7b8af9ca4275
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 7: Erenler Genclik - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211016T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211016T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:85d16bf4-29dc-455a-95be-e64bfad93a3a
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 8: Brussels Ltc 4 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211023T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211023T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:e361bac1-6fa6-4246-b1c5-51133d569d07
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 9: Brussels British R 4 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211030T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211030T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d3440638-f5e9-4e8c-85e7-562b23de5ebe
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 10: Erenler Genclik - Breu United
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211106T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211106T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:010ea928-9902-4ee2-a65c-a7a4a7b95256
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 11: Erenler Genclik - Omnisport Bierghes 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211113T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211113T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:ac52dc7d-1053-4776-b7e6-ae70fafc81a1
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 13: Erenler Genclik - Brussels British R 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211127T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:c9f598e8-b5e0-4b38-8141-5a651cedce63
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 14: Tricoteuses Fc. - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211204T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d452e72e-d356-4b39-8c7f-366d2fcee7ba
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 15: Breu United - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20211211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20211211T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f0e0fe19-607a-4496-be24-bbf99b37d8d1
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 16: Erenler Genclik - Vogelpik Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220108T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220108T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:e4fe51d0-6009-4bb0-8261-b0ca838acda9
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 17: Irlande Fc 4 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220115T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220115T152500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:b2cfbcc1-fb64-4cb6-8816-240680eaf565
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 18: Erenler Genclik - String Penelope 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220122T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:24336195-943e-4d51-80c1-fb2f20702472
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 19: Lunette (la) Fc 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220129T135500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:e7bd411c-faab-4a22-bfca-66e46cd04ab9
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 20: Erenler Genclik - Uccle Stendhal 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220205T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:d5f36df6-e76c-4e0a-b7e8-4166f011c2ce
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 21: Itt - Gecko Fc 2 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220212T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:8708d7b1-cb0a-4562-893f-2d395d676948
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre la chaussée d
+ e Haacht jusqu'à Steenokkerzeel\, ensuite prendre à gauche Tervuursestee
+ nweg pendant +/- 1\,6 km. jusqu'à l'église Saint Nicolas (centre de Perk
+ )\, ensuite tourner à droite et prendre Kerkdreef. Les terrains se trouve
+ nt à 200 m. sur la gauche.
+LOCATION:PERK\, Kerkdreef\, 1820 Perk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 22: Erenler Genclik - Brussels Ltc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220219T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:683f8877-d647-49df-850a-d8130cc0639c
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 23: Erenler Genclik - Tricoteuses Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220226T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:bb4a225b-a189-4748-8977-cc7c66012d05
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 24: Neptune Fc - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220305T165500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:309b70e2-4a5a-4d46-9c5c-86789cb3f387
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 25: Omnisport Bierghes 1 - Erenler Genclik
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220312T142500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:f0f93891-6f70-4ee1-ab98-b403a41b59e8
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Charleroi (E19)\, prendre l
+ a sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tournai-L
+ ille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n° 24)
+ . En bas de la sortie\, prendre à droite\, direction Bierghes. Rouler tou
+ t droit jusqu'au premier feu rouge. Tourner à droite en direction de Hall
+ e\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à gauch
+ e. Le terrain se trouve à 300 m.
+LOCATION:Rue du Sartiau\, 3B\, 1430 Bierghes-Rebecq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 26: Erenler Genclik - Nivellois-aclot Bs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220319T155500
+DTSTAMP;VALUE=DATE-TIME:20220118T104808Z
+UID:14ff5ff0-ee2a-42aa-b823-027b156d4b52
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+END:VCALENDAR
