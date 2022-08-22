@@ -1,0 +1,518 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:22f4cb4f-139b-4e7f-8b72-74cf1a40b1ee
+X-WR-CALNAME:ABSSA String Penelope 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 1: Tiekss Wemmel - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d408e1a3-4e4e-406f-a5a2-47af4ed0b6e0
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 2: Forestois Sc 3 - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f7ba2707-9098-4a4c-b48a-f1276067ddaa
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 3: String Penelope 1 - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c569e4e6-9c35-4fc0-9d58-3c96cdd39548
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 4: String Penelope 1 - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f39553b2-76ef-4f6d-9ae6-d1b0fd38fae4
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 5: Biergeois Cs - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:880246a0-0a90-49bf-a272-b2004b0037ed
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 6: String Penelope 1 - Tauro Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:0916d03a-2628-423f-803f-b91226f0241a
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 7: Extranos (los) - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f1f2126c-1273-4336-b3f1-e4ebff360f9d
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 8: String Penelope 1 - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d78da054-461e-4ccc-8cf8-b55cd8b76d05
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 9: Uccle Stendhal - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:983a6df2-5b72-4058-b02a-43bb3fcf0f2d
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 10: String Penelope 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:85aab527-a6e5-4932-8950-9fb3f1ec4be7
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 11: Sneaky Baboons - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c56f7aa5-a3d7-439d-a911-98dfe2093896
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 12: String Penelope 1 - Black Star Genval
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:05cafbb1-19f6-4e13-bec7-e1dcfae34f0b
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 13: String Penelope 1 - Forestois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:2c298a30-9216-41d0-8050-6fab65000b80
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 14: Comp. Cinema R - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1793bff9-c8d1-4db7-814d-a3fc9cce8622
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 15: String Penelope 1 - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:43fbe8cc-2926-4ec0-b1e3-69efa193b19e
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 16: Itt - Gecko Fc 2 - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:374a3a15-8656-457e-b215-bedcd5f44745
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 17: String Penelope 1 - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:51ea1a42-40b2-40d8-bb79-09de4c3a1872
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 18: Tauro Fc 1 - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f5efcc80-3095-4e02-8079-0bb734273cea
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 19: String Penelope 1 - Extranos (los)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:0c9eabe8-e6f0-4a9e-98f2-16685eb26c6f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 20: Beethoven Fcs - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:35808853-ff5d-4845-8bf6-9fba18c046be
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 21: String Penelope 1 - Uccle Stendhal
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:feff6c62-8efd-4035-9e47-11521878e08f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 22: Black Star Genval - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ac901275-b873-4d22-ac9f-9c2471a201c8
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 23: Bye - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:040dc095-6b04-4662-9d1e-79a86166bffd
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 24: String Penelope 1 - Sneaky Baboons
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1883c562-9bcc-4965-9fd2-5320d8594d28
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 25: String Penelope 1 - Tiekss Wemmel
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b4eac73e-0eef-4cbf-9224-39861f3d9772
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 26: Union Tigers - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1d532491-280e-45f2-9cc7-7763d39ef4f4
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

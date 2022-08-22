@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:a353c71c-6886-437f-a515-e384b4c0ff51
+X-WR-CALNAME:ABSSA Brussels Ltc 6
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 1: Brussels Ltc 6 - Etincelle Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9ae021b0-91b7-40a2-829a-10c339cd6104
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 2: Brussels Ltc 6 - Azur Rcs 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:540f6d9e-4cba-4bdd-b9f6-d050d909698a
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 3: New Arquois Fc 3 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:65f27c5c-62c2-4f8e-a7ff-90708804f6c0
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 4: Brussels Ltc 6 - Cosmos Bruwolf Mj 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a38a1576-b8f6-4a9d-a468-28a696068330
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 5: Coin Du Balai Fc 2 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8cad194d-81f4-410a-9a02-86c615d7c98b
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 6: Brussels Ltc 6 - Ettekijs 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:eaaaf7d2-ce77-4c4b-b75f-49f4ebde2c7e
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 7: Nivelles Cs 2 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2bb0bd07-e8b9-473d-96f6-5526eeb12590
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 8: Brussels Ltc 6 - Goalois 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cb8bdf99-f2f0-4fa2-86b0-38887f9ba6f4
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 9: Tourinnois Fc 4 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d4469d82-f0b7-4159-a926-ff268587918b
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 10: Copains Reunis 2 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5fead606-d105-4492-989a-0bcd0886e03b
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 11: Brussels Ltc 6 - Brussels British R 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:66bb2614-380f-4fed-91c1-c6fdc761ea7a
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 12: Pharma Sc 3 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1648eabb-ab6b-4e91-a1ac-61373c358357
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 13: Azur Rcs 5 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dce6ae71-e0c3-4469-b655-ac607f40df2f
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 14: Brussels Ltc 6 - New Arquois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cac17568-edf6-4613-9ae5-d4bd44a4e5de
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 15: Itt - Gecko Fc 4 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a5f05447-bf71-41ec-be36-7a9eebdf0a54
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 16: Cosmos Bruwolf Mj 2 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9dcdea2d-07f4-4e59-81be-8a52b4d71295
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 17: Brussels Ltc 6 - Coin Du Balai Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:958089a4-02b5-4081-acd6-aa050350900e
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 18: Ettekijs 3 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:084cae25-a257-4400-b56d-6bc372ab2c3c
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 19: Brussels Ltc 6 - Nivelles Cs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a270c4ec-ae41-45bd-a6a8-f5d96ff0cafe
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 20: Goalois 3 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0c4c30ca-24fb-494c-9e7f-21a5d92a3b2f
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 21: Brussels Ltc 6 - Tourinnois Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:bd302663-ed39-4608-9ea9-f93ced0030c2
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 22: Brussels Ltc 6 - Pharma Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:745c74f4-ee27-4269-925e-654e8bd92d0f
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 23: Brussels Ltc 6 - Copains Reunis 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d251ba5d-6dab-4355-81f2-c351c06cdd90
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 24: Brussels British R 5 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a7ac9b0e-a827-40f9-8eaa-c101339919db
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 25: Etincelle Fc 2 - Brussels Ltc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:816498a7-fd3f-4c1b-95fa-0f9e289f4f8d
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6B DAY 26: Brussels Ltc 6 - Itt - Gecko Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4a6efded-00c6-4904-bfe2-a860967f2fac
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+END:VCALENDAR

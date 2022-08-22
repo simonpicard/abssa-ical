@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:eac88170-2892-4c78-bd73-cbf9c0322c3c
+X-WR-CALNAME:ABSSA Mutuelle Rsb
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 1: J.st-gilloise R. - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:71759774-d8e2-4f1b-8f64-434047de5841
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 2: Mutuelle Rsb - Gast Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b43b55ad-945e-4db9-9fda-9945c0746f83
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 3: Metrasport R. - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f0367248-a323-4587-8a86-376cda55b115
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, Sortie Wemmel\, prendre l'A
+ venue Houba de Strooper\, puis la rue à gauche\, avant le bâtiment de l'
+ URBSFA\, direction Atomium.
+LOCATION:HEYSEL - ANNEXE 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 4: Mutuelle Rsb - Jefke Country 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1691c404-3b0a-47a2-900d-6b7103abf206
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 5: Itt - Gecko Fc 3 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3ea6332c-fc32-4dab-9cb4-0b9e0352e3d6
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 6: Mutuelle Rsb - Irlande Fc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1b52f427-08b1-4a17-9f2e-e27e0582ef6e
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 7: Choule Auderghem 3 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:398956cf-6445-474e-ad60-cf3ed7997a84
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 8: Mutuelle Rsb - Tourinnois Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:95de5b0f-a3c6-4c24-9f49-f7a408d5d74f
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 9: Trinquant 2 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c65fcf50-94e3-4a21-94a5-26a69b1369a2
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 10: Mutuelle Rsb - British United 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:225d6c6c-fdf7-4fe2-921e-b88f55b5833c
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 11: Mutuelle Rsb - Auderghem Ru
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:cf470de6-57ff-4728-b2ad-bfa3268e194c
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 12: Mutuelle Rsb - Amb. Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e252aebd-391b-46ea-9764-878c38e5a499
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 13: Gast Fc 2 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b0f1f303-2bb7-42de-a2a0-506aae158942
+DESCRIPTION:Acces voiture: Prendre l'Autoroute ou le ring Bruxelles-Mons-P
+ aris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devan
+ t la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tou
+ rner à main droite (Le terrain se trouve au bout de la rue au Bois).
+LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 14: Mutuelle Rsb - Metrasport R.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e6cbb69d-1c57-4e50-9e7b-d420cd0babd4
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 15: Forestois Sc 4 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b7da1a8f-172c-4701-9e87-2e2e60bc6c7c
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 16: Jefke Country 2 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d990e6d6-55b6-458f-8430-a91c17b2d51a
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 17: Mutuelle Rsb - Itt - Gecko Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:8cc84d06-978e-40c5-8fce-99db55842442
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 18: Irlande Fc 5 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7554e813-0bff-4428-920e-be066165af2a
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 19: Mutuelle Rsb - Choule Auderghem 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:741eb7bc-7834-49d4-b350-9ff45c1a3977
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 20: Tourinnois Fc 3 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:87fdfc4d-6f33-4566-b741-234c85b93279
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 21: Mutuelle Rsb - Trinquant 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3b898e79-9bd7-42f4-89e8-a69228d3e992
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 22: Amb. Auderghem 2 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c9a2028a-f663-434a-9476-632b74359dd1
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 23: British United 5 - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b61cc9cd-44f7-4614-a6b6-8a73c05bc82d
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 24: Auderghem Ru - Mutuelle Rsb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ade6c51c-7517-496c-beb6-af98259afe45
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 25: Mutuelle Rsb - J.st-gilloise R.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:13ec869f-0b9f-4f96-b58e-1fda16a22bca
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6A DAY 26: Mutuelle Rsb - Forestois Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T151500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T164000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:acfddf5d-e47d-4cad-9aae-ae6da1d43119
+DESCRIPTION:Acces voiture: Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.
+LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:de665de8-6e4b-4b4f-80c1-1262e0e2e8c6
+X-WR-CALNAME:ABSSA Brussels British R 7
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 1: Brussels British R 7 - Tigre (le) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ccb34150-1d37-4da5-878e-ff9e123ad7a2
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 2: Brussels British R 7 - Choule Auderghem 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:656843fb-c5bf-4982-8442-fcd9520f4cca
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 3: Ecusson Fc - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:46c07f7c-17c8-44d0-b427-af94f27d33df
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 4: Watermael Cs - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:99aeb456-e765-441c-b46b-c0abaf78bcc4
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 5: Brussels British R 7 - Pangloss Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d064a5b4-ea33-4c7f-8a6d-6a08ceb4929a
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 6: Braine-terminus Fc 2 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1046f244-6490-45a8-807e-7f0c799d561f
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 7: Brussels British R 7 - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a1798fb0-ad4f-4349-8c63-dbb807f9fe99
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 8: Brussels Ltc 7 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1c62137b-0404-4448-8d49-36c5f3e8b00a
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 9: Brussels British R 7 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:77803b2e-37e8-4225-b890-6ba32538f152
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 10: Bye - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2a1c6465-4bcf-403b-b8cd-b7d642790560
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 11: Brussels British R 7 - Cheverny Schaerb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cbeed5ed-0d96-4906-ace0-af80c6bbf442
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 12: Aema Veterans - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:27341cd6-dd18-45cf-89cd-db33b9eecd1c
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 13: Choule Auderghem 4 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9ef54483-acd7-462b-8a73-328b4f155682
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 14: Brussels British R 7 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4bd701b4-e770-48c1-ae17-da3e35c70e69
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 15: Karia Fc 2 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1172ad36-2e90-4091-b4b8-4e063d2158a3
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 16: Brussels British R 7 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b11046fb-f61b-4197-8005-23dcd2095f74
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Pangloss Fc 2 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:68067d1d-a706-4bc2-b7d5-ab5825306688
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Brussels British R 7 - Braine-terminus Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0aaf9ec8-ff5c-4afd-9de6-6842cd3e7568
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: British United 7 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:81ba434c-b272-4d20-97a5-955061592c69
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Brussels British R 7 - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dfa6d5c5-7b77-474a-8170-2970322124fe
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Bousval Genappe 3 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:aec006b1-22a4-4461-b024-6b70df266c73
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Brussels British R 7 - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2712a5c1-8315-49a5-8c1d-709266cdf907
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Brussels British R 7 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1d2c65bf-6880-4d5a-b3fe-69c95b81543f
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Cheverny Schaerb 2 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d3eac722-39b4-4a17-b202-19b00b43c68a
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Tigre (le) Fc - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a8f16ab3-0efe-4053-89a7-584deb2e7fce
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Brussels British R 7 - Karia Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f11c3a7e-ecad-4719-83b5-1ddbf71c90ad
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:b7117ddc-9b42-4a01-88d7-e5dd5b757c1b
+X-WR-CALNAME:ABSSA Bousval Genappe 3
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 1: Braine-terminus Fc 2 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1d6cc75b-9e73-4337-8e51-09e3fc158924
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 2: Bousval Genappe 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:685855ea-ddbe-44bf-879e-ed1f8a4c42ab
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 3: Tigre (le) Fc - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:94fa0b29-6968-4b3a-957f-665890dfc95c
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 4: Bousval Genappe 3 - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:561a2d1b-1610-442d-acb2-e90edd3a1c1c
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 5: Cheverny Schaerb 2 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2609ec2e-4f2d-46e7-b7b4-d70534dc3bfe
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 6: Bousval Genappe 3 - Karia Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8473e1be-a2f0-44a7-ac07-8e69d92b5ab9
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 7: Choule Auderghem 4 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:34b22416-7525-4b1f-9b77-2fd64b7e4fb3
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 8: Bousval Genappe 3 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:79ad0b31-2b58-4d7b-a7ae-e6e002c0897e
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 9: Brussels British R 7 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:12fdbce5-87b0-4d4e-bce1-9819bf46173e
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 10: Bousval Genappe 3 - Pangloss Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dc43bdad-0446-4387-8946-8c9cbe4562b7
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 11: Brussels Ltc 7 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:759f29e2-0fd1-47cb-8177-ed70b9d12748
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 12: Bousval Genappe 3 - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:be8e037b-a7d2-4bbe-ae0d-46404ade982c
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 13: Bye - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:61e59c56-e0ce-4d75-bdf6-e7f8f34277da
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 14: Bousval Genappe 3 - Tigre (le) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3b2c2769-519b-4b33-b33a-29753f2ad3a5
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 15: Bousval Genappe 3 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:21add15b-fd48-4e3b-91df-f4e651a45cef
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 16: Aema Veterans - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c589bbff-89da-4326-ab05-9d66d7cab9f0
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Bousval Genappe 3 - Cheverny Schaerb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ffba6149-e4fb-40a7-94dc-6dcbdc429f06
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Karia Fc 2 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1144ae3d-7206-4249-b660-1941d0da6db1
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Bousval Genappe 3 - Choule Auderghem 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a5f2f746-8bce-4420-8d01-c799c414d029
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Ecusson Fc - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4815c4a3-6843-4786-8e6f-314d0ec5488a
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Bousval Genappe 3 - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:47f0e90e-75d3-4c30-99c7-a25328064a90
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: British United 7 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:14fff243-7f85-4e00-930e-27f81c98d4b7
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Pangloss Fc 2 - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:236d12b3-f1e9-4e1b-9d62-974fbf407962
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Bousval Genappe 3 - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b885a519-bc96-48da-bcae-b666dd6399f0
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Bousval Genappe 3 - Braine-terminus Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dfd7d697-3104-413a-8799-967c71812c39
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Watermael Cs - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2109c574-4220-4283-be42-8be009b38dde
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+END:VCALENDAR

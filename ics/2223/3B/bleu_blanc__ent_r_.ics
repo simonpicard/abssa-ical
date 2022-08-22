@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:289c5e85-fb3f-45f5-8720-b7189fd20233
+X-WR-CALNAME:ABSSA Bleu-blanc (ent)r.
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 1: Bleu-blanc (ent)r. - Asturias Sporting
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f0995b70-95e3-4562-8519-0392e3c6af93
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 2: Irlande Fc 3 - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6d74636c-9478-49dc-a667-6dad259b0b5c
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 3: Bleu-blanc (ent)r. - Charles-quint Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5253601f-61c3-4553-a1b1-502a21a2ad64
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 4: Foot Josaphat - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:715ff98e-a06a-499f-b7ad-90e4a05c30d2
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 5: Bleu-blanc (ent)r. - Saint Georges Rcs 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:35960ad8-0536-4870-b665-8eb893728d8b
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 6: Copains Reunis 1 - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8d6e477e-708c-4479-b712-0324fff8699c
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 7: Bleu-blanc (ent)r. - Rapid Tamtam Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:28da1905-6a38-46a3-9608-d86e44bf7a87
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 8: New Inn Fc 4 - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:356e52ea-08f3-4bc1-b987-a5a6836f0bfd
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 9: Bleu-blanc (ent)r. - Green Devils
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b6a19e8a-37e2-4e35-9371-5d7a1e976a2b
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 10: Forestoise E.j. - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6d3ce06b-6b15-4992-a6a4-281c9c1074a4
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 11: Pharma Sc 2 - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3ba1498c-2d5c-4c83-b34f-f55152a40d94
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 12: Bleu-blanc (ent)r. - Rapid Mymol
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:58b02e6b-d707-4dfb-a7c0-eb2a868b3167
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 13: Bleu-blanc (ent)r. - Irlande Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:582435a6-3e52-4a28-9a18-22adf8b6d93a
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 14: Charles-quint Fc - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fdf5780b-7c2c-4935-a8d6-8d9bfce14087
+DESCRIPTION:Acces voiture: Par la ville. A partir de la Basilique de Koeke
+ lberg\, prendre l'Avenue Charles Quint\, prendre 3ème rue à droite\, Ave
+ nue de Villegas. Arrivé au rond point prendre la 3ème sortie et  continu
+ er sur l'avenue Marie de Hongrie. Prendre ensuite la première à droite\,
+  l'avenue des Neuf Provinces. Au 2ème rond point\, prendre la première s
+ ortie\, rue Vanderveken. Un parking est accessible dans la première rue 
+ à gauche. (Indication Hall des Sports).\nPar le ring. En sortant du ring 
+ à Koekelberg\, prendre l'avenue Charles Quint. Au 3ème feu\, prendre à 
+ gauche sur la place Marguerite d'Autriche. Prendre la 1ère rue à droite 
+ et rester sur l'avenue Marie de Hongrie. Ensuite suivre comme ci-dessus.
+LOCATION:Rue A. Roobaert\, 1083 Ganshoren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 15: Bleu-blanc (ent)r. - Patjes Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ba508321-673e-4a1c-a469-6739a67db101
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 16: Bleu-blanc (ent)r. - Foot Josaphat
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2c62e03c-ee9b-4082-8b57-96875ac16452
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 17: Saint Georges Rcs 1 - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1de8a30b-a323-4ae4-9dee-b376ba075a65
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 18: Bleu-blanc (ent)r. - Copains Reunis 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f21f7c1b-ed76-448a-b065-105489f738b0
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 19: Rapid Tamtam Fc. - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:74315d09-8cb7-4fed-88ca-ee4838ec9d5d
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 20: Bleu-blanc (ent)r. - New Inn Fc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9cbfc115-f49e-486d-aa9a-691c347e3215
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 21: Green Devils - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3fffb7eb-8d18-45d0-928c-8ea6d60e6958
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 22: Rapid Mymol - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0e0e25d6-937f-4a01-9356-17c029df2fc7
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 23: Bleu-blanc (ent)r. - Forestoise E.j.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9a736e54-8e87-4ec6-ab11-8f6b957b0964
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 24: Bleu-blanc (ent)r. - Pharma Sc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:eb6eb3a9-d349-4b6b-ab2b-4084eb07e291
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 25: Asturias Sporting - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:49df59b6-a294-4da0-ae20-54e246c55d80
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3B DAY 26: Patjes Fc - Bleu-blanc (ent)r.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7a7b5aa9-6f06-409c-912a-2300cf7501d3
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+END:VCALENDAR

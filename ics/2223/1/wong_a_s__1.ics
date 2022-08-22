@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:cdf97b37-7040-41dd-9c48-2d467768798c
+X-WR-CALNAME:ABSSA Wong A.s. 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 1: Portugal Fc - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:2bcbbaab-be5f-4dc4-8377-aba85bc8041b
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 2: Euro Union - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:594a50ce-e6eb-44be-8619-7bf3ed580acc
+DESCRIPTION:Acces voiture: Avenue de la Couronne jusqu'au cimetière d'Ixe
+ lles\, suivre les plaques "Stade A. Demuyter".
+LOCATION:STADE A. DEMUYTER\, Rue Volta\, 18\, 1050 Ixelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 3: Wong A.s. 1 - Lxg Cinquantenaire
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:32a49024-8144-4fc5-b361-b3c1e2c7e790
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 4: Amb. Auderghem 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4b101759-4291-4f51-9284-6ad44cf3a2f6
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 5: Wong A.s. 1 - Brussels Ltc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ae9fce09-6b66-405c-b86a-f55a6c6d55a0
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 6: Brussels British R 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:838b5cef-a37c-486a-af3c-cb598453e8ec
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 7: Wong A.s. 1 - Itt - Gecko Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d31c9d58-e981-4108-aaf8-d98be624798f
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 8: Choule Auderghem 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:7f919c5d-414a-40c6-ad5a-92f0317591f5
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 9: Wong A.s. 1 - Grez Aj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:7495e814-bcaf-4503-bf92-487e7cd07d3a
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 10: Wong A.s. 1 - Chenois Sc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:94cd4a7e-1c0b-40a7-aacc-59f7aa8034a1
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 11: Jefke Country 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b0d23917-4548-4863-b68c-d4e4759e8296
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 12: Wong A.s. 1 - Coin Du Balai Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f3833a73-b68b-431b-8441-dd2ae3d5ad8b
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 13: Wong A.s. 1 - Euro Union
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1b9a566c-d1f7-4ce1-9e7d-6d2a93921071
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 14: Lxg Cinquantenaire - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:34f532f8-20c9-4a46-bd4d-d7302c3014eb
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 15: Wong A.s. 1 - Irlande Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:3f5fa096-5710-4999-803f-2f6bcdae609c
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 16: Wong A.s. 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:85382834-c034-4223-a53d-336a80158f48
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 17: Brussels Ltc 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4a1542e7-963d-4879-89f1-fe60addbe22e
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 18: Wong A.s. 1 - Brussels British R 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:54fa81c4-db23-4075-861f-43b7337378ef
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 19: Itt - Gecko Fc 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b5a92e39-a915-489e-8ea0-903e0fc6560e
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 20: Wong A.s. 1 - Choule Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:51cf1477-ec89-45e3-bb9e-92b9e27bcf65
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 21: Grez Aj 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e0e8a469-db51-4f9a-8e24-38f229aac3e3
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 22: Coin Du Balai Fc 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f6185d6b-5ae0-4570-8f48-56902682e240
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 23: Chenois Sc 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1b16c231-4e6a-4c44-a425-f3a03c2ca569
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 24: Wong A.s. 1 - Jefke Country 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:fca487bf-901b-4835-a4d6-a007a8624d57
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 25: Wong A.s. 1 - Portugal Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:5674a157-51fe-4c28-bbbc-9eaeac0f923a
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 26: Irlande Fc 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b61a70d1-741b-42bf-9795-2814e2cd177f
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+END:VCALENDAR

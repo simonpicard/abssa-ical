@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:ac68ec3f-24a2-41b4-a110-3bc781ff4e7c
+X-WR-CALNAME:ABSSA Watermael Cs
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 1: Karia Fc 2 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:569be80c-bfac-4e8d-852c-f0097864b562
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 2: Watermael Cs - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cb19b773-9b10-4882-9920-6a95013ec807
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 3: Bye - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f6a06aab-fe6f-4754-951c-ef11be6faffb
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 4: Watermael Cs - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f1fc0c95-6c6a-4b59-8062-78447b62396f
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 5: Tigre (le) Fc - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:53b4f76d-ca14-498e-b27f-279d8c6316c0
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 6: Watermael Cs - Pangloss Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dfdb6dfb-f5d2-4142-b5c7-87519271c4f9
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 7: Aema Veterans - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0f756a1e-2499-4df0-abbb-baa1c1273c6d
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 8: Watermael Cs - Braine-terminus Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:30f879be-a8da-4e4e-a771-eac671e1145b
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 9: Cheverny Schaerb 2 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e34d91d8-54eb-437e-bfb0-b10fcd00221a
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 10: Watermael Cs - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c75bfdc4-6c59-40ea-bcff-5dc1b8c22cd2
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 11: Watermael Cs - Choule Auderghem 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b11951dd-76a9-43aa-a2b5-6d125a9e474e
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 12: Watermael Cs - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9e00db2b-9bc0-4709-ae0d-bac329ba4499
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 13: Ecusson Fc - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ba950b23-3731-44b0-b29f-d77130bb92e3
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 14: Watermael Cs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7ee17a9a-82e8-4e3e-8cdb-cdb0dd3b2b7c
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 15: Bousval Genappe 3 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0c9fa9d5-09d1-40a5-8d7b-f0aabf4f756a
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 16: Brussels British R 7 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:264eda57-8446-4d45-adbc-28583402ea0b
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Watermael Cs - Tigre (le) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:12ccec2b-679d-4593-89fe-ae5ccbb85c00
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Pangloss Fc 2 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:eda96c44-eb10-440f-b732-f9bda3f6b79d
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Watermael Cs - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c935b17a-ad85-4b88-8559-392437fac5a4
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Braine-terminus Fc 2 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e3c6b40f-c491-476e-acab-16d0b817526a
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Watermael Cs - Cheverny Schaerb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:88aa14ec-d503-49d6-9c2c-cd3efbbf2a5b
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Brussels Ltc 7 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:40aad540-f080-43ff-a3c3-84f4082c392d
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: British United 7 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dbd3c98c-99f4-4aaa-8e79-2dea1de145b3
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Choule Auderghem 4 - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f262cfda-a74e-461e-bb4b-f844619f87a1
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Watermael Cs - Karia Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5de0c45c-a70b-4285-a23b-2a4876f7343c
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Watermael Cs - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8dac7f64-854c-40ed-883a-4fb876a9f99a
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:b5186f52-05e0-42f8-b521-676d97af3d7b
+X-WR-CALNAME:ABSSA Beethoven Fcs
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 1: Beethoven Fcs - Tauro Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:96e04512-cfe2-416e-bd75-ccd0fd9e98d5
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 2: Bye - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:dd29b0ba-3524-4905-ae67-fd2cb1a1af98
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 3: Beethoven Fcs - Tiekss Wemmel
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:15fbac0b-ef54-44ee-b66d-a3a01252ab4d
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 4: Black Star Genval - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:56f786dd-3fd1-4535-9257-8f3aafef2acd
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 5: Beethoven Fcs - Sneaky Baboons
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:feae649e-86a5-4631-bb1b-857fa1162218
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 6: Union Tigers - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:24f3bac0-9a18-4350-beb7-2d008202266d
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 7: Beethoven Fcs - Forestois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9a5bdf24-8224-45c0-aa74-8ed24b3dbee4
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 8: String Penelope 1 - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c1552688-5a12-403b-9c58-599e9716cecb
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 9: Beethoven Fcs - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:631522a4-40e2-4c18-8055-f40ff14969a1
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 10: Biergeois Cs - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:84c5033e-8a5c-4b88-b0dc-947ec67094f0
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 11: Comp. Cinema R - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:04991266-be32-4f00-8f7a-bd47f826d5b1
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 12: Extranos (los) - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4da5efc1-c364-487b-9ed6-272cc17ac1e8
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 13: Beethoven Fcs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:41b2da13-41b7-48b9-b94c-205bf20dabd6
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 14: Tiekss Wemmel - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:07b002c9-b73a-4c4c-8c37-1a0ab4d0dd24
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 15: Beethoven Fcs - Uccle Stendhal
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4131414b-3881-47e6-9269-dfc859cba684
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 16: Beethoven Fcs - Black Star Genval
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:20179e46-7a56-42bb-9397-717e6036006a
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 17: Sneaky Baboons - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f5c869e0-bd0d-4ec9-b014-f8fd5ddb60fc
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 18: Beethoven Fcs - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b6cdea34-9259-4265-b338-55eb9145b893
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 19: Forestois Sc 3 - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7d37a9f5-423d-4762-b9e4-2d24c2811288
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 20: Beethoven Fcs - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f9875ffb-0071-4ae8-a2e9-f99050376a5f
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 21: Itt - Gecko Fc 2 - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:21f7591d-d5b3-4e2b-994f-16d24d030834
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 22: Beethoven Fcs - Extranos (los)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:08bf5933-1f45-4236-8ca8-32db7381f7a7
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 23: Beethoven Fcs - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e545b9a0-951e-435e-adcd-90b1b0ef0807
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 24: Beethoven Fcs - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:79b27af2-b580-479f-a5c8-62dcca95a7ea
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 25: Tauro Fc 1 - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:88188408-b55e-4adf-bfe6-e4633fc81270
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 26: Uccle Stendhal - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a877acba-df18-4341-9dff-3f224f695a19
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+END:VCALENDAR

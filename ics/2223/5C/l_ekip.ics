@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:15639f60-566f-4c64-9f88-f775de7e9fb5
+X-WR-CALNAME:ABSSA L'ekip
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 1: L'ekip - Choule Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a3d8071f-2e97-40b2-aa8e-43763826b5b8
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 2: L'ekip - Cheverny Schaerb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:30d6b91e-499e-4a73-86b2-a92ffd6c0507
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 3: Saint-josse 95 Fc - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bf90d73e-e475-4708-b5fe-7de5254e6883
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 4: L'ekip - Blood Spikes
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f77ce205-246f-46ac-860c-517212c7a00b
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 5: Wokrasse F.c. - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:efdfa67e-0bb6-4df1-8cf4-64e2c2eb4c60
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 6: L'ekip - Pantoufles Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:eeef01d0-860a-4973-a614-61026679fbd0
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 7: Sanserif Fc - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T113000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T125500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:11f9655c-d5a6-41ac-becb-71cd57a42bdd
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 8: Jodoignoise Fc - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2dfa058a-814a-472e-9d3c-ec3548144895
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l’E411 en di
+ rection de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à droi
+ te vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise la N9
+ 1 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndirectio
+ n de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain se 
+ trouve directement sur la droite.
+LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 9: L'ekip - Faubourg-brainoise 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:8d8e3afb-8581-43e3-978d-233d96714ede
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 10: Picardie As - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2d13e3b0-6071-4e03-a27b-fdeffbdb6912
+DESCRIPTION:Acces voiture: Ring RO\, sortie Ophain\, prendre la direction 
+ de Ophain Village\, jusqu'à l'église. Ensuite à droite. Le terrain se t
+ rouve à 200 m. à gauche.
+LOCATION:Rue de Lillois\, 19\, 1421 Ophain/Braine-l'Alleud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 11: L'ekip - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4fc218fb-f7e1-49b7-88e8-7c7435cd2cdd
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 12: Red Star Brussels - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:60432f8a-74e4-4ebe-8740-5a87e14d0b1d
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Cheverny Schaerb 1 - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9995d3ed-f25f-4f9d-9e3b-690e4367e90f
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 14: L'ekip - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2c4df882-3ce5-4a1d-9e8f-a9f65545f3b5
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 15: Bye - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:28070830-7b49-4791-b8b4-96c5fc746666
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 16: Blood Spikes - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e75e1c34-9342-45cb-a091-6613ce0b3e81
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 17: L'ekip - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:483564bf-2d13-404b-bc25-5120a70cfa70
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Pantoufles Fc - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ff81a3d4-4f9b-429c-87de-aa531d43652f
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: L'ekip - Sanserif Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:815d6720-cbde-4354-b6bd-5a20e3979323
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: L'ekip - Jodoignoise Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:415d18f3-22e0-4501-a031-cc9c67907dcf
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Faubourg-brainoise 1 - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:107cf6ee-8767-41f4-b326-71b1f71b45cf
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: L'ekip - Red Star Brussels
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bcb4c697-1e9a-4e89-8019-e0c175daa0fa
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: L'ekip - Picardie As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d8502a2b-a174-45dd-80a2-07543ace4f87
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Chiefs Wsl 3 - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:fc9ce1cd-6471-4671-9962-9aaeda8df131
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Choule Auderghem 2 - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c69e2059-0600-46f7-a5f4-c22f2ea90e8d
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: L'ekip - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4e1a9ec2-a7e9-44fd-a06c-865ced6aeb20
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+END:VCALENDAR

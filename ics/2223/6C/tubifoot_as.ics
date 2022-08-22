@@ -1,0 +1,449 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:0d5933d1-1b1a-45a0-b0e1-a5c501a83996
+X-WR-CALNAME:ABSSA Tubifoot As
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 1: Tubifoot As - Campomaiorense Sc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9adcb64d-6c0e-4683-9c98-ce003b1bd7cd
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 2: Tubifoot As - Auderghem R.cf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:04956589-407d-49f1-a573-5ac5b11d404b
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 3: Ideal Rangers R - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:065c6921-d81b-4809-a73c-810551cec8bd
+DESCRIPTION:Acces voiture: Par le Centre\, prendre la chaussée d'Alsember
+ g\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les ra
+ ils du tram\, passer en dessous du pont du chemin de fer et au premier feu
+  de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère ru
+ e à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin de f
+ er et puis 1ère rue à main gauche (le complexe est fléché).\nPar le ri
+ ng\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre (G
+ rote Baan)\, au premier feu de signalisation\, passée l'église\, prendre
+  à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser la
+  chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du Bou
+ rdon\, pour continuer comme renseigné ci-dessus.
+LOCATION:COMPLEXE SPORTIF DE RIDDER\, Rue des Griottes\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 4: Tubifoot As - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2bc08903-a5d6-4d90-977a-5d75b31c4abe
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 5: Alize Veterans Fc - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:32e1096a-ccdc-4a42-b867-59c4e5c0ddc8
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 6: Anderlecht Us - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d508708c-9998-4e03-b0d6-066127d176b8
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 7: Tubifoot As - Elan Evere Rac 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6fc768bd-b51b-41bf-953e-16d954da4f32
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 8: Brussels Ltc 5 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b87d525c-5210-483b-b4b8-58e7fcc66baa
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 9: Tubifoot As - Saint Georges Rcs 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:8770499a-b26c-4bd5-a550-ddbf9a825fe4
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 10: Forestois Sc 5 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:fc757ab8-c004-4a3e-b7ad-6093dd65887a
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 11: Tubifoot As - Azur Rcs 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b93ed3ea-3a48-4a00-bb03-abf6379f2ae2
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 12: Brussels British R 6 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ff9a7f62-854d-473a-91d0-3e71dc299263
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 13: Auderghem R.cf - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:83af2391-9eec-4cf4-a82d-3a66b2429083
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 14: Tubifoot As - Ideal Rangers R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f508ac0f-081c-43b4-b233-6150dbd4098a
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 15: Faubourg-brainoise 2 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:76780195-d7a0-4c3b-80a8-8fe5b1a39b1f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 16: Pharma Sc 4 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4e59c5a2-3308-4065-a9c2-cfc33892d275
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 17: Tubifoot As - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:38407d71-e9cf-457d-8aee-c6ca2869daad
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 18: Tubifoot As - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:16cc823b-8333-4661-a3a9-53b8f96ef99b
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 19: Elan Evere Rac 2 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:01b766fe-8543-4360-b1c7-3959ed768926
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 20: Tubifoot As - Brussels Ltc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:14c45a9d-f41b-4936-ac0d-4d568b1e8cd2
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 21: Saint Georges Rcs 4 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:777767a2-48cf-43cf-9a42-ca6ff7d0a1ef
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 22: Tubifoot As - Brussels British R 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9a9d8d0d-80d7-4cf8-891f-e77a703de322
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 23: Tubifoot As - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:01fb5d7b-26a5-45b0-87b7-e20f1bf4eff2
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 24: Azur Rcs 6 - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b6dfc4aa-c00d-446c-ae3a-e931591f13a0
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 25: Campomaiorense Sc - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6540c673-4c79-491d-b9b5-8d2d1cc47dc5
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 26: Tubifoot As - Faubourg-brainoise 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bf4a7050-65f9-4eb3-832d-6c1be89325e6
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+END:VCALENDAR

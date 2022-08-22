@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:8c3a85af-fb21-41e0-a993-3f33820c047c
+X-WR-CALNAME:ABSSA Ecusson Fc
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 1: Ecusson Fc - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ae253242-16bd-4e73-9830-596c0485f8d4
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 2: Watermael Cs - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1551c63a-39fe-416f-95bb-8f55da1dfe54
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 3: Ecusson Fc - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:94d355be-9816-4b7a-9ae0-1fac3edc8188
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 4: Pangloss Fc 2 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7eb426bb-d6a4-48d1-bfea-ecb22a582a76
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 5: Ecusson Fc - Braine-terminus Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3df04093-8175-436b-b8c8-c34200535055
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 6: British United 7 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:736dcf28-6322-4bac-b0fa-43c1ba9561cb
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 7: Ecusson Fc - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3418cfd9-39eb-42a3-bc27-b181c6899185
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 8: Bousval Genappe 3 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c0846516-f1b0-4288-9eda-e14c57e80b7d
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 9: Ecusson Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9af2fad5-2832-44ea-892b-e5b26bf1790c
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 10: Tigre (le) Fc - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:db35aa22-9a86-45ef-959d-687e70a80bff
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 11: Ecusson Fc - Karia Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ed8ae8ae-282d-47b5-a54e-003bc3e6983d
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 12: Cheverny Schaerb 2 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8aeb0b87-1eeb-4dcf-9965-487dc216f2d7
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 13: Ecusson Fc - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:055ee001-ef78-45c2-aa3f-5db0f9297272
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 14: Brussels British R 7 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cdc42c3c-63e5-40d3-acd3-c73db3309b1f
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 15: Choule Auderghem 4 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f4a259ce-6031-41c3-8d37-c3859365a0ac
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 16: Ecusson Fc - Pangloss Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2631cd37-507a-4598-a40f-695a7497aa00
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Braine-terminus Fc 2 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7e36f671-197f-4127-93ee-9f167d7bafed
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Ecusson Fc - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f2e20cd0-1e75-4af8-8e2d-f8669e840b13
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Brussels Ltc 7 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:78d63ccf-6601-4c7e-a1be-ee2a1d2080a9
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Ecusson Fc - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:849e27d2-e42c-409d-b1fd-0f7fb41f98e4
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Bye - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:bedc4cb3-8af5-40ea-b791-b140364dde00
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Ecusson Fc - Cheverny Schaerb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:44d88855-57f1-4c38-b71f-d720005c3218
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Ecusson Fc - Tigre (le) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e9fc620f-42a4-4369-bdc2-0fcfb4696364
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Karia Fc 2 - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6c2baec6-824d-436e-a26d-d3e60c266ab9
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Aema Veterans - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:71a3d0d5-bd29-4482-8ec0-de956cab7ac5
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Ecusson Fc - Choule Auderghem 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c0b781dd-251a-48f1-b341-511d998d7e32
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

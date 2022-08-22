@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:0986bb21-3040-4b86-9c48-c515e1b9f226
+X-WR-CALNAME:ABSSA Wokrasse F.c.
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 1: Wokrasse F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1442a3b2-b93d-478f-8951-25fcb4bac675
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 2: Jodoignoise Fc - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:46d54abf-c685-47b9-8c25-6ac944d43243
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l’E411 en di
+ rection de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à droi
+ te vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise la N9
+ 1 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndirectio
+ n de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain se 
+ trouve directement sur la droite.
+LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 3: Wokrasse F.c. - Pantoufles Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4f5f1040-b24a-4999-8ea0-fbe20af417e4
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 4: Sanserif Fc - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T113000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T125500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:266785a6-2075-4858-ba23-86348257cfe8
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 5: Wokrasse F.c. - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a098d447-38d6-41ca-b128-599bcc19a130
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 6: Faubourg-brainoise 1 - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7ec3b27b-6c19-464e-b32e-42f69a33e2a6
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 7: Wokrasse F.c. - Picardie As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ef9b0b03-2d03-43ee-b78d-812d723d4b9b
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 8: Choule Auderghem 2 - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3238e996-0b7d-4e8b-a1db-be609755926f
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 9: Wokrasse F.c. - Red Star Brussels
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b6a74849-ce04-4db1-8d89-fb4dc61337ce
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 10: Chiefs Wsl 3 - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e4cd9ee7-5914-4d34-b13c-d786f07b1b1c
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 11: Wokrasse F.c. - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1cc8e934-f46b-4eac-9b51-364d183ea0c9
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 12: Cheverny Schaerb 1 - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:59efa859-b9b3-4b97-8b30-c7e02310b9fb
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Wokrasse F.c. - Jodoignoise Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:45f2fc51-58d0-4796-8065-f51a92abe5f0
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 14: Pantoufles Fc - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2e6bfdaa-66bc-4717-b0cc-549f40bbc1ea
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 15: Blood Spikes - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5077aec4-3ee6-4720-85e7-7ee23e787eb5
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 16: Wokrasse F.c. - Sanserif Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f9547292-be14-4f35-be1e-0ced2a2e75ff
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 17: L'ekip - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:cb6e0895-4a16-4470-9805-5132b6f44f6b
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Wokrasse F.c. - Faubourg-brainoise 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ca016407-056e-442a-bcde-1c6d077b8538
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Picardie As - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:24ebf638-fc15-4e3d-b1af-5b732bdff8c9
+DESCRIPTION:Acces voiture: Ring RO\, sortie Ophain\, prendre la direction 
+ de Ophain Village\, jusqu'à l'église. Ensuite à droite. Le terrain se t
+ rouve à 200 m. à gauche.
+LOCATION:Rue de Lillois\, 19\, 1421 Ophain/Braine-l'Alleud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Wokrasse F.c. - Choule Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:699ecbff-a205-450c-9e1b-2ed8cf235882
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Red Star Brussels - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:39e1379c-701b-499e-8099-efdfabe8bb20
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Wokrasse F.c. - Cheverny Schaerb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f3ad91b5-7f4f-4772-b16b-b86db769f5a2
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Wokrasse F.c. - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1ffe8f88-390b-4bbc-b838-c458bbfe13c0
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Saint-josse 95 Fc - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2c3dea4e-3225-4294-aa65-7617087a244c
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Bye - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5440f14e-ea06-4ada-be97-7b3cf236001f
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: Wokrasse F.c. - Blood Spikes
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4bc01570-7959-425a-a786-c7343808dbc4
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+END:VCALENDAR

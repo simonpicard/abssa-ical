@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:3e9e8182-da33-4415-8404-515c5bb10567
+X-WR-CALNAME:ABSSA Hellas Berchem Fc.
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 1: Hellas Berchem Fc. - Vogelpik Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d4f515da-49e8-47be-bf7c-48f4dd64fc56
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 2: Hellas Berchem Fc. - Beekings F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4406e1f4-b463-4848-a8c4-c8a4bdad0582
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 3: Neptune Fc - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:429bede3-2eac-4a80-a915-a4c660384ad1
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 4: Realistes Mexico R - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:93395949-8a81-40d2-b587-4e171d981440
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 5: Hellas Berchem Fc. - Rhinoceros
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:90dfa39d-f629-4c10-ac2a-0b769f7864ed
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 6: Brussels Ltc 4 - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5386d6f5-d57e-4b40-b977-2be6c4018a85
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 7: Hellas Berchem Fc. - Tauro Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5496bd58-08b8-4e2a-814e-df9424ba1d1b
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 8: Saint Georges Rcs 2 - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0a15f363-2c6d-4b18-955b-ed0c2bcded4e
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 9: Hellas Berchem Fc. - Duden Sport R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b1dbb6a5-042f-44e5-ab4d-d4948e979f2a
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 10: Brussels British R 3 - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b3ae5676-6de0-4c0c-befc-9abd3242b5d0
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 11: Hellas Berchem Fc. - Nivellois-aclot Bs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9d21be02-6c56-45e6-8083-02d24a26d70c
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 12: String Penelope 2 - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:df2ecf71-0c25-4f7a-adc2-a2526f912f10
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 13: Beekings F.c. - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c55c77a8-d87d-4204-be86-75138dbf41bd
+DESCRIPTION:Acces voiture: Par la E411 Bruxelles-Namur\, prendre la sortie
+  n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendan
+ t 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite 
+ la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de 
+ la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'av
+ enue Clermont Tonnerre.
+LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
+ 1330 Rixensart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 14: Hellas Berchem Fc. - Neptune Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8a49f59b-4bb8-405c-8e54-d171178b9624
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 15: Bye - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d2e6582c-c48f-4516-a63f-17769a1d75b9
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 16: Hellas Berchem Fc. - Realistes Mexico R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6319ba95-f556-4573-a505-97fb21abd346
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 17: Rhinoceros - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:bfa02ffc-a16b-442b-81be-663f1fdbac8c
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 18: Hellas Berchem Fc. - Brussels Ltc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:57440da5-7f19-4849-a4ca-256e729931f5
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 19: Tauro Fc 2 - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5913b9d2-c8f6-4f3a-9754-f091322ac490
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 20: Hellas Berchem Fc. - Saint Georges Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7dcd380c-0ed8-4adc-b6d6-f70e6a7bd8ea
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 21: Duden Sport R - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a98ab5d9-8665-45e8-b0fe-2cfcb0db93f3
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 22: Hellas Berchem Fc. - String Penelope 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d5c9de5a-4d52-4278-aa53-65d10c0b0dce
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 23: Hellas Berchem Fc. - Brussels British R 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1487040b-8bf3-4ecf-b5e4-c25b47af90e1
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 24: Nivellois-aclot Bs - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:202f07bb-5597-4966-8680-d0393fcfebd1
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 25: Vogelpik Fc. - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:767bcac5-3368-42ee-a106-1d3aa6455ae2
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 26: Hellas Berchem Fc. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:759688bc-9506-4709-b9fc-7715dabab3a9
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+END:VCALENDAR

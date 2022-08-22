@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:100efe02-be09-4c82-8ea2-f86d065ffb1b
+X-WR-CALNAME:ABSSA British United 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 1: British United 2 - Big J - Asps
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:679877e0-73e5-4b2b-805b-0a4f0066b83a
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 2: British United 2 - Tourinnois Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:8123af25-6bde-45f9-8dea-81be34f7ec86
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 3: Enghien Amical - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d579b62d-43fc-4be0-b87a-f05365e4b2cc
+DESCRIPTION:Acces voiture: Prendre la E429 (Lille-Tournai-Ath) à hauteur 
+ de Halle. Prendre la sortie Petit-Enghien-Hoves (25)\, prendre à droite\,
+  direction  Petit-Enghien. Au bout de la route prendre à gauche\, directi
+ on Enghien. Arrivé à Enghien\, prendre la 2ème rue à gauche\, suivre l
+ e panneau "Auberge du Vieux Cèdre".
+LOCATION:R. ENGHIEN SPORT (PARC)\, Rue Saint Quentin\, 7850 Enghien
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 4: British United 2 - Press (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f19c23ce-d159-4096-8d79-40b8c6ff2bff
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 5: Entente  Racb 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e23a2d3f-705d-4bf6-b023-dea5d8ce2550
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 6: British United 2 - Gast Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f7de75e3-509e-4076-9017-1470da036b06
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 7: Lorraine (la) Rfc 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4071b29e-707f-4a14-9ba3-73cb5d8895b3
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 8: British United 2 - Goalois 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:de0b49ad-c910-4e7a-8132-be127e8037de
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 9: Azur Rcs 2 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:df04a170-f748-4ae6-8d02-15e69523eede
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 10: Higgins 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e72da6f5-c213-4988-b5c5-100447f7a768
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 11: British United 2 - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d684a42c-1b28-4307-b670-7fe0f9d62bd1
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 12: Forestois Sc 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e5cf9cab-4ffd-4eb3-8672-5c3474eb0b06
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 13: Tourinnois Fc 2 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:92ef99b8-27d4-487d-b43b-8fb779fe6a3b
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 14: British United 2 - Enghien Amical
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:310db29e-c5c4-45fb-b01a-e4bdead3ea50
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 15: Vollenback Fc - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:8eb1c326-363c-42af-b95f-5be348c36be7
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 16: Press (amicale) - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f64e0fba-f81f-4381-8d47-4b5d48c10aa8
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie Jette-Wemmel (n
+ ° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, pren
+ dre direction Asse. Après l'église\, prendre la 1ère à main droite (di
+ rection Mollem). Après 2 km. prendre la Kouterstraat qui se trouve juste 
+ en face de l'église.
+LOCATION:Kouter\, 29\, 1730 Mollem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 17: British United 2 - Entente  Racb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e812e637-7c40-42f5-8ad5-4440fde7c79d
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 18: Gast Fc 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T134500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T151000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:63a8905d-2e0b-4edc-8d1d-72412eb84092
+DESCRIPTION:Acces voiture: Prendre l'Autoroute ou le ring Bruxelles-Mons-P
+ aris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devan
+ t la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tou
+ rner à main droite (Le terrain se trouve au bout de la rue au Bois).
+LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 19: British United 2 - Lorraine (la) Rfc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:a013da3a-294a-47f9-b33c-770f996301d4
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 20: Goalois 1 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:519b7c91-fbea-411e-b728-c52878c693ed
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 21: British United 2 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:59b7c062-a400-4809-b53d-6fa014722fa7
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 22: British United 2 - Forestois Sc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:dc10ce1c-05dd-4e51-8033-5d548fb0376d
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 23: British United 2 - Higgins 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:fc1376bf-d67c-49cc-a299-b74b09c35402
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 24: Brussels British R 2 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f84feb38-a648-42f9-b069-8368ea1e7360
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 25: Big J - Asps - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b6396adb-c988-4d4b-bbcc-7c1553049cb9
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 26: British United 2 - Vollenback Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:135caed8-eb56-45e7-baf4-06a9d2af03e4
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+END:VCALENDAR

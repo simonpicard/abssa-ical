@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:15ac9e29-c27c-4f3c-9e3d-8fd03918a90a
+X-WR-CALNAME:ABSSA Saint-josse 95 Fc
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 1: Saint-josse 95 Fc - Jodoignoise Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d8385f21-9f1d-4458-a9c9-d793fbe5f120
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 2: Sanserif Fc - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T113000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T125500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7e71b97f-337b-44d3-ace3-57f1837f8f86
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 3: Saint-josse 95 Fc - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:68976119-d421-4de2-853b-a58c4ec62706
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 4: Faubourg-brainoise 1 - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9ce157c1-66a5-43dc-9722-67e3a3c8c595
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 5: Saint-josse 95 Fc - Picardie As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:33f7e0c0-e80c-4ca1-aa15-f3db5bc671c8
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 6: Choule Auderghem 2 - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d27077d9-dafe-4714-88f9-ad3430af60c3
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 7: Saint-josse 95 Fc - Red Star Brussels
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:100fa9fe-653e-49a0-90d2-d9e5846e5b65
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 8: Chiefs Wsl 3 - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6dbc3393-2489-4021-8003-02df4592debc
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 9: Saint-josse 95 Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:669fee7a-b013-4222-876a-10fb5838b191
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 10: Cheverny Schaerb 1 - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0f0f7411-8216-4843-9f65-be4a43c84a0d
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 11: Wokrasse F.c. - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5969ae96-a5c4-469a-8100-3be8d5cc0c40
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 12: Saint-josse 95 Fc - Blood Spikes
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:26ada3ca-2a4e-4bf6-ae30-0841e01a2b83
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Saint-josse 95 Fc - Sanserif Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d68970ab-b8a2-4c71-bb5e-db55355df0dd
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 14: L'ekip - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6138cbbc-1819-4c27-babc-28b3d7df50b9
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 15: Saint-josse 95 Fc - Pantoufles Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c42c2343-6378-41eb-bd03-f4da742b9e66
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 16: Saint-josse 95 Fc - Faubourg-brainoise 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f1951d68-8cc9-4a08-ac7f-e7028c237e68
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 17: Picardie As - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6741c222-6587-4562-8615-e6746cc2d53b
+DESCRIPTION:Acces voiture: Ring RO\, sortie Ophain\, prendre la direction 
+ de Ophain Village\, jusqu'à l'église. Ensuite à droite. Le terrain se t
+ rouve à 200 m. à gauche.
+LOCATION:Rue de Lillois\, 19\, 1421 Ophain/Braine-l'Alleud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Saint-josse 95 Fc - Choule Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:35ed1069-8f00-4271-b9b4-776ce3b20170
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Red Star Brussels - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3c013494-705d-4d6a-9119-d80c1e79626f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Saint-josse 95 Fc - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a6ae1a20-9775-461f-9830-288aa0422086
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Bye - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f0424e31-0103-4695-9663-46707dda5ada
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Blood Spikes - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:eb3ab41c-6afb-4477-a580-7ff251a0da2a
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Saint-josse 95 Fc - Cheverny Schaerb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6712182e-d02f-4ddb-b901-e021b7d82fe4
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Saint-josse 95 Fc - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3212f8bf-b4ea-47eb-9288-2b62ce39242a
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Jodoignoise Fc - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b1d9765e-c24c-4b71-acd7-ec330d48d490
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l’E411 en di
+ rection de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à droi
+ te vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise la N9
+ 1 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndirectio
+ n de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain se 
+ trouve directement sur la droite.
+LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: Pantoufles Fc - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:205820d6-b01e-446a-8aa3-0df9377d95e1
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+END:VCALENDAR

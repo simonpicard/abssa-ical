@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:d4df0a8b-d5fc-4abf-baef-4feb15fbfde2
+X-WR-CALNAME:ABSSA Cosmos Bruwolf Mj 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 1: Cosmos Bruwolf Mj 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:56902f76-3a64-4162-a373-31c01ca5bee8
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 2: Union Bruxelloise - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a84a0108-440f-48f8-934a-5a1d9f5db137
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 3: Cosmos Bruwolf Mj 1 - Masia City
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:865161d7-8fa1-49ef-b0b4-4c931d4eb6bc
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 4: Galactic Jumpertz - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:82ec1f26-e43f-4d3f-a3c2-ca3f14bdd817
+DESCRIPTION:Acces voiture: Par la E411 Bruxelles-Namur\, prendre la sortie
+  n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendan
+ t 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite 
+ la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de 
+ la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'av
+ enue Clermont Tonnerre.
+LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
+ 1330 Rixensart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 5: Cosmos Bruwolf Mj 1 - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bfc37afe-0082-4f5b-8383-73ab21f66947
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 6: Deaf Brussels Fc - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3a90efe6-bef8-47b3-86f1-22500a148694
+DESCRIPTION:Acces voiture: Chaussée de Haecht\, vers Diegem. Prendre la r
+ ue Harenheyde à gauche\, juste au feu de signalisation\, après la statio
+ n "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\, 100 m
+ . au-delà du pont du chemin de fer.
+LOCATION:Rue de la Paroisse\, 1130 Haeren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 7: Cosmos Bruwolf Mj 1 - Piraterie (la)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3a232b7d-2116-4acb-a96b-3aaa78028d04
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 8: Rayo Latino - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:92090beb-7dcf-4159-aff6-3d6864e2e833
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 9: Cosmos Bruwolf Mj 1 - Grez Aj 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:eefbf837-e280-4223-bb3b-897223fe1481
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 10: Pink Panthers - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:304f7546-dd5e-4953-ae2c-650e6afbe4ec
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 11: Celtic Forestois - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:52e0d389-92f1-4efb-8dad-946b4f871ac8
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 12: Cosmos Bruwolf Mj 1 - Karia Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:63dd5d46-04de-45e4-bbd0-36a92f0b9b5e
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 13: Cosmos Bruwolf Mj 1 - Union Bruxelloise
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a8b1cce1-e1aa-48b2-a237-476fe1670e34
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 14: Masia City - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:89ced885-c6af-4983-8700-2227044ff545
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 15: Cosmos Bruwolf Mj 1 - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3a70df0b-e773-4a20-b2fc-9407805f3856
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 16: Cosmos Bruwolf Mj 1 - Galactic Jumpertz
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:25ab5a77-daf1-427b-9cf6-091b623d741a
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 17: Blue Thrills - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bbb6d286-4e21-468a-87d1-07729d412bcc
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 18: Cosmos Bruwolf Mj 1 - Deaf Brussels Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e33e2b49-06f9-4ea9-9e72-a93f9051866a
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 19: Piraterie (la) - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:cac201a7-6cf5-4316-9735-f6b8b6757fc9
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 20: Cosmos Bruwolf Mj 1 - Rayo Latino
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0ea5a7d5-bdf3-4206-93da-d5f6d69ed7a1
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 21: Grez Aj 2 - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ff0abae8-a1b5-4424-b826-34b0bbae3d52
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 22: Karia Fc 1 - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:431dd3e4-c86f-4d5d-a75e-e9872c838234
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 23: Cosmos Bruwolf Mj 1 - Pink Panthers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6787da05-eb22-4523-b4f2-6705c05a9ab7
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 24: Cosmos Bruwolf Mj 1 - Celtic Forestois
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ae9917d2-cdbb-4724-8c39-94e37e55792e
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 25: Bye - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:af7799f3-e164-47e1-82e3-2f7c21fd9140
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 26: Cornoi As - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a481b6ab-985d-49b9-afb1-885a7253ebd5
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+END:VCALENDAR

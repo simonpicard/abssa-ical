@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:b81642e1-2872-40bc-81c0-c01f3e08f5fa
+X-WR-CALNAME:ABSSA Azur Rcs 2
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 1: Azur Rcs 2 - Forestois Sc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f94cd51e-bd9f-4b61-9278-800279c326d0
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 2: Azur Rcs 2 - Enghien Amical
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:07701870-4d54-4350-8507-a6c08dea125c
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 3: Press (amicale) - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:159defda-6d29-44ae-a113-8442590c9fb2
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie Jette-Wemmel (n
+ ° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, pren
+ dre direction Asse. Après l'église\, prendre la 1ère à main droite (di
+ rection Mollem). Après 2 km. prendre la Kouterstraat qui se trouve juste 
+ en face de l'église.
+LOCATION:Kouter\, 29\, 1730 Mollem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 4: Azur Rcs 2 - Entente  Racb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ad03fe39-0111-416e-bd21-7f30991d5286
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 5: Gast Fc 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T134500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T151000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:eb042965-25c4-40fa-99f8-99de713c03f6
+DESCRIPTION:Acces voiture: Prendre l'Autoroute ou le ring Bruxelles-Mons-P
+ aris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devan
+ t la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tou
+ rner à main droite (Le terrain se trouve au bout de la rue au Bois).
+LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 6: Azur Rcs 2 - Lorraine (la) Rfc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f7932f8b-db71-41f4-9965-75daf30638e4
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 7: Goalois 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1750fc44-0b83-4a09-a776-42bc8b710394
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 8: Higgins 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c214e9e5-4a5c-4bd5-bfe4-2b7f105e01a3
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 9: Azur Rcs 2 - British United 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c3b3f3e7-dbb8-4e3c-adf8-3619bc2068fd
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 10: Big J - Asps - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f9caf893-c3ad-4150-82f3-665ebda87874
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 11: Azur Rcs 2 - Vollenback Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:81aa935f-7c70-4177-b29b-74eb5a2e83e1
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 12: Brussels British R 2 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:03a1a2dc-7c0b-4967-ba6f-92e76742ed02
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 13: Enghien Amical - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:3adb2f7f-17ff-45f5-8f63-b3c8a2f74b13
+DESCRIPTION:Acces voiture: Prendre la E429 (Lille-Tournai-Ath) à hauteur 
+ de Halle. Prendre la sortie Petit-Enghien-Hoves (25)\, prendre à droite\,
+  direction  Petit-Enghien. Au bout de la route prendre à gauche\, directi
+ on Enghien. Arrivé à Enghien\, prendre la 2ème rue à gauche\, suivre l
+ e panneau "Auberge du Vieux Cèdre".
+LOCATION:R. ENGHIEN SPORT (PARC)\, Rue Saint Quentin\, 7850 Enghien
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 14: Azur Rcs 2 - Press (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f0d4d195-c28b-4692-a173-fac9a295204b
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 15: Tourinnois Fc 2 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:7aadde92-a23f-40f6-85c1-f213d77dbf52
+DESCRIPTION:Acces voiture: A partir de l'autoroute Bruxelles-Namur (E411)\
+ , prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suiv
+ re la direction Walhain vers la droite et après 200 m. prendre à droite 
+ et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve 
+ à +/- 300 m. sur la gauche.
+LOCATION:Rue des Cortils\, 1457 Walhain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 16: Entente  Racb 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:0f731333-dba3-4aef-8f62-913a1c9298ce
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 17: Azur Rcs 2 - Gast Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:16d86cf1-1f5e-422c-b859-f3d077184789
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 18: Lorraine (la) Rfc 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:8a8fe404-04bd-4a74-bae4-c202f1cdb332
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 19: Azur Rcs 2 - Goalois 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:93603043-335e-440d-87ec-31bb26ae591e
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 20: Azur Rcs 2 - Higgins 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:cc905af4-dc26-4280-851a-5d0c8bd73ed2
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 21: British United 2 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d4112d6f-767d-4a65-88b5-4446e7b2edc4
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 22: Azur Rcs 2 - Brussels British R 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ce47936b-ef32-4bdc-a20d-892c617d96b2
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 23: Azur Rcs 2 - Big J - Asps
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:45cb9dca-9b96-4cc3-b3c3-4b32a414d85f
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 24: Vollenback Fc - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4b0b8a97-3dea-49c5-bab6-9ffc8cf2f35b
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 25: Forestois Sc 1 - Azur Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c318bcf9-94b4-45b1-b74c-553b12b1ff95
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 2B DAY 26: Azur Rcs 2 - Tourinnois Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:cde9da90-f46d-4b5b-b9a9-337044032ed9
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+END:VCALENDAR

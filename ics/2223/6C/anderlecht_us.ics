@@ -1,0 +1,365 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:004af066-2935-4a58-9ea6-de1cf2999578
+X-WR-CALNAME:ABSSA Anderlecht Us
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 1: Auderghem R.cf - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:96de6501-1105-44a8-bace-72ba751b5463
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 2: Anderlecht Us - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3b5a169b-92e2-4afa-8ccb-812b180c5919
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 3: Campomaiorense Sc - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e2de1198-64ca-4d8c-bd2a-cab361a94075
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 4: Anderlecht Us - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e50c904e-3c75-42e5-939e-166342fa39c3
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 5: Brussels British R 6 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:24292c6d-126b-49c9-9787-77a1e4ebb71d
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 6: Anderlecht Us - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:e4d28af1-a6c8-4882-99be-2c0cb25682b3
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 7: Azur Rcs 6 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:47c36017-de09-4098-9533-092663c10f14
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 8: Anderlecht Us - Elan Evere Rac 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:40628032-7c1e-436a-b606-789a63048fa5
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 9: Faubourg-brainoise 2 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f5a441f4-479b-472d-9580-e7b7b3b282e8
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 10: Anderlecht Us - Brussels Ltc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6c8031d9-0e63-45ca-8524-4547234b4b1a
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 11: Anderlecht Us - Ideal Rangers R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d10299e5-9842-4a42-acc2-11aebb52fff9
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 12: Anderlecht Us - Saint Georges Rcs 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:be8b607f-6184-44c3-b1f0-e3f80c9c9386
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 13: Pharma Sc 4 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:65f3ba1c-e017-4fd0-a267-1dd66843a62e
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 14: Anderlecht Us - Campomaiorense Sc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:da925550-de56-45dd-9ba0-355d8b85128e
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 15: Forestois Sc 5 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9b0d7bd4-aeba-4311-b27d-c3c308e28b2d
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 16: Alize Veterans Fc - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:06f10e1d-eefb-4710-80c5-cc670afe7e9b
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 17: Anderlecht Us - Brussels British R 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:63fb6fa1-00a6-4b28-a27a-ec5b016e6a1e
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 18: Tubifoot As - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9bc89c44-6ff1-4291-a0da-90bd5c639c22
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 19: Anderlecht Us - Azur Rcs 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:fba7bd35-9f5e-41aa-aaee-364aa4927215
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 20: Elan Evere Rac 2 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:48a2a620-9a40-43f3-bc83-273f188f46b3
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 21: Anderlecht Us - Faubourg-brainoise 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0f61d8e1-d131-44da-8a7a-799ce09efbf6
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 22: Saint Georges Rcs 4 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a0d4d6f1-b95f-405e-a05d-7c2b3ae52dcd
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 23: Brussels Ltc 5 - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:63bf9bbf-37b7-42e4-a304-32e41ce0bd6d
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 24: Ideal Rangers R - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:eff00227-b46e-421e-9364-eb6b2cc39d0a
+DESCRIPTION:Acces voiture: Par le Centre\, prendre la chaussée d'Alsember
+ g\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les ra
+ ils du tram\, passer en dessous du pont du chemin de fer et au premier feu
+  de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère ru
+ e à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin de f
+ er et puis 1ère rue à main gauche (le complexe est fléché).\nPar le ri
+ ng\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre (G
+ rote Baan)\, au premier feu de signalisation\, passée l'église\, prendre
+  à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser la
+  chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du Bou
+ rdon\, pour continuer comme renseigné ci-dessus.
+LOCATION:COMPLEXE SPORTIF DE RIDDER\, Rue des Griottes\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 25: Anderlecht Us - Auderghem R.cf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:45daea7f-196a-4631-b50d-4e5a53dfe894
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 26: Anderlecht Us - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0564e1b0-2ef1-4b4b-8dc8-a63f720839dd
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

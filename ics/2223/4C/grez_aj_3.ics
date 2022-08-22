@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:a099c567-5af5-4caf-859c-7f6ab7e173a2
+X-WR-CALNAME:ABSSA Grez Aj 3
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 1: Grez Aj 3 - Brussels Ltc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:bca1959a-4447-452e-851d-3bf3c61c8a30
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 2: Grez Aj 3 - Bousval Genappe 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:663e49b2-243c-49f5-8b14-1ed7a7a3e1f9
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 3: New Arquois Fc 2 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:44e2687c-ea0e-44d4-8f20-1412439274da
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 4: Grez Aj 3 - Lorgnette (la)  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:93c4b141-f1a3-428b-8a94-43283d4978c0
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 5: Mireille Wemmel 1 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d5aa77d5-0f48-43b2-a68a-6d4e5324a9bd
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 6: Grez Aj 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d5167edc-a1f2-4090-9782-dc0bce1f687f
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 7: Pangloss Fc 1 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e0dbaa85-05a4-46ba-8ea6-4f045bcdfa00
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 8: Tricoteuses Fc. - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:9baac06c-1abc-47fc-a30c-8d82fc165348
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 9: Grez Aj 3 - British United 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:8f1aadcd-b452-47bc-9846-53c4eb2bbc9d
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 10: Zijp Fc - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:0d891f8c-d2be-4827-9ff7-6eeb17ee84a4
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 11: Grez Aj 3 - New Inn Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:16a38cbd-cbde-4885-8603-b07a4eb74fc0
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 12: Lunette (la) Fc - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:132bab04-9e5a-4bc1-91e6-69a99f23add5
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 13: Bousval Genappe 2 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c49a734d-1c7d-4149-90c0-6ad1bab778c4
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 14: Grez Aj 3 - New Arquois Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e631f92e-41a5-4ff9-a49f-0260f6927c21
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 15: Peter Pan Fc - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:56e77130-bb6c-41bf-a09d-b2a72d6c9426
+DESCRIPTION:Acces voiture: R.O. Sortie Beersel (n° 19)\, prendre directio
+ n Beersel\, ensuite direction Linkebeek En face du Delhaize prendre la rue
+  de la Brasserie et ensuite suivre les indications LHC-KHVCL.\nR.E. Sortie
+  Groenendael - Direction Uccle\, dans la forêt prendre la première à ga
+ uche\, direction Rhode St. Genèse\, ensuite à la chaussée de Waterloo p
+ rendre à gauche. Au premier feux (Espinette Centrale) à droite\, ensuite
+  le premier feux à droite\, puis tout droit\, et après le chemin de fer 
+ suivre les indications LHC-KHVCL.\nItinéraire d'accès au parking\, à la
+  Ferme Holleken\, rue Hollebeek\, 212 (près du parc à conteneurs)\nEntr
+ ée du parking: chemin à gauche de l'entrée du cimetière.\nPour rejoind
+ re le terrain à pied à partir du parking\, descendre le chemin balisé e
+ n contournant le parc à conteneurs.
+LOCATION:WOUTERBOS\, Rue Schavei\, 31\, 1630 Linkebeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 16: Lorgnette (la)  Fc - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d4e959e9-d370-447d-bc86-95696ee92fbc
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 17: Grez Aj 3 - Mireille Wemmel 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4884bcd9-2bc3-4a4c-9485-fdebc75c1a1c
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 18: Bye - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:9827c121-cb03-4b61-8b5c-81e1ed3c0cd2
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 19: Grez Aj 3 - Pangloss Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:eb94a0af-82ef-4c4d-b47f-3423eb961024
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 20: Grez Aj 3 - Tricoteuses Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:78a024f9-3931-4b0a-b7e5-91f241efff38
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 21: British United 3 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b729940f-9a22-40c9-88c5-59bd94eef03f
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 22: Grez Aj 3 - Lunette (la) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:4714d4f0-9c9b-4c03-b7dc-3096e0cf27da
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 23: Grez Aj 3 - Zijp Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:291a1256-80e5-4545-987c-1bbc34761f17
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 24: New Inn Fc 3 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f32fd5c8-e290-40ef-bddd-f5776c6182e0
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 25: Brussels Ltc 2 - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:66b26538-d9f1-4dd8-8ab2-a6cb43e40696
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 26: Grez Aj 3 - Peter Pan Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c95b18fd-f35a-47dc-a016-d4cab306e429
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+END:VCALENDAR

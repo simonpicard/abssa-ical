@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:b18b7a5b-d4df-46e0-9a1b-779f48305e3f
+X-WR-CALNAME:ABSSA Cornac United Fc 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 1: Cornac United Fc 1 - Well Team
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fb44dccb-728e-43fd-8c0d-2d05dbede539
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 2: Central Park Fc 1 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:72f976ed-fe9f-48ea-b58c-5633246179d2
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 3: Cornac United Fc 1 - Ster's
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3c04935b-d44f-45f8-890a-e3601e26c6ea
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 4: Bye - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:08777af5-aee6-47d1-9f86-f8c39bc5accd
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 5: Cornac United Fc 1 - Saint Georges Rcs 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:13746507-a33d-47c5-8ede-ee01a8a6bb5e
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 6: Watermael Fc 1 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:12effb09-7a75-4e9b-bb60-663971aae26f
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 7: Cornac United Fc 1 - Brussels British R 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:98d11f2b-5611-4bb3-901a-d83b68e5b3f7
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 8: Chiefs Wsl 1 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c871d29a-641e-4dbe-a5a0-7f03b80d4681
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 9: Cornac United Fc 1 - Real Trappiste
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a196ee7c-4b0d-41d2-a076-c9be50e309e4
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 10: Bouks  Fc - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9f2509e4-8535-42d2-a3f5-ed0a1dd98a76
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 11: Ettekijs 1 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3472a9cc-5d65-4476-8ff9-476ec922f50c
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 12: Cornac United Fc 1 - Breu United
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3da37644-2966-4d9c-9b7e-16b69912e906
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 13: Cornac United Fc 1 - Central Park Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1069d554-1223-414a-9db9-d93bf7c1261c
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 14: Ster's - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:129b2550-589f-438a-a493-7cb480f1929a
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 15: Cornac United Fc 1 - Syb  Rfc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c30c8e5b-dd3a-4c08-a5fd-da57eda9e7fb
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 16: Cornac United Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:77085062-e206-40a0-bf8f-0a429ef132ce
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 17: Saint Georges Rcs 3 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5f3e2b80-4072-42ee-ae68-8d75c2c9e7fc
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 18: Cornac United Fc 1 - Watermael Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:07a56882-9733-4013-a20e-f72d6920e7ff
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 19: Brussels British R 4 - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5116d84a-fde3-4b83-8e1d-383c5f87e44a
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 20: Cornac United Fc 1 - Chiefs Wsl 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:567eb3b6-c583-4bcd-a621-81c81b98c02e
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 21: Real Trappiste - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3940166b-1b8e-4267-b7a1-e16d162a9ff6
+DESCRIPTION:Acces voiture: Ring O\, sortie Ninove-Dilbeek (n° 13) directi
+ on Molenbeek\, par la chaussée de Ninove \n(+/- 3 km.). Au feu de signali
+ sation qui se trouve juste après le "BRICO" prendre à gauche l'Avenue J.
+  Baeck. Le terrain se trouve à main droite\, juste au début de cette ave
+ nue.
+LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
+ k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 22: Breu United - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4e566baa-7ddd-4423-81da-399f8c10cfbc
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 23: Cornac United Fc 1 - Bouks  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d49a7670-7946-4c54-9a57-c9511345cf9a
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 24: Cornac United Fc 1 - Ettekijs 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f86a3384-a5ec-457b-bae2-db43c0ddd1cc
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 25: Well Team - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9a9dea7e-4bb6-4731-acaa-689fe5de8062
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 26: Syb  Rfc - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b5d02619-2cf9-4fdf-bb26-9a435264fbcc
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

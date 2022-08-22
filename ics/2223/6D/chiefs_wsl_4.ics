@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:1f6e4657-8639-4981-9892-0c33471321e8
+X-WR-CALNAME:ABSSA Chiefs Wsl 4
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 1: Lorraine (la) Rfc 3 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a62c03b7-29e3-4a6a-8fe1-796625372326
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 2: Chenois (esper) 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:710f03b7-5ff9-45f8-b6e6-01dc797276eb
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 3: Chiefs Wsl 4 - String Penelope 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a871a4fc-f014-4e68-ba1d-14b0fb53d92d
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 4: Postboys Fc 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b9940cf5-b9e2-4135-8abd-46247a7c04f2
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 5: Chiefs Wsl 4 - Omnisport Bierghes 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b8d46c4e-a454-4c1b-899f-d2795fe8a639
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 6: Chiefs Wsl 4 - Chenois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a29ece0b-287b-41c7-b7e2-61934103ea3a
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 7: Jettoise (amicale) - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:19a3c09f-2566-4de7-af9f-a2e610631775
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 8: Chiefs Wsl 4 - Cornac United Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0841f431-0508-4416-b50e-4b0933978352
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 9: Entente  Racb 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:db1a7514-7c0b-42ee-9962-39452aa69997
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 10: Chiefs Wsl 4 - Mireille Wemmel 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7537e1dc-6a93-4feb-b78d-e6d2143d7375
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 11: Higgins 3 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:df6adfe0-ba1f-4cef-a409-985d8135d25e
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 12: Chiefs Wsl 4 - Irlande Fc 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:a407d284-9099-4c30-b6d3-3f72b35b066c
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 13: Chiefs Wsl 4 - Chenois (esper) 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:0e4ed10a-d6d6-41ea-b338-f12d68fa32af
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 14: String Penelope 4 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d8eb4b73-fcfb-4096-8677-c8170abc5967
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 15: Chiefs Wsl 4 - British United 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f0b169f8-259d-4af9-b131-0e40c542381e
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 16: Chiefs Wsl 4 - Postboys Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:41b84583-b0e6-4deb-9c6f-04eb604411bd
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 17: Omnisport Bierghes 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:1080c18f-bd55-4253-8258-b8667b8bcc41
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Charleroi (E19)\, prendre l
+ a sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tournai-L
+ ille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n° 24)
+ . En bas de la sortie\, prendre à droite\, direction Bierghes. Rouler tou
+ t droit jusqu'au premier feu rouge. Tourner à droite en direction de Hall
+ e\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à gauch
+ e. Le terrain se trouve à 300 m.
+LOCATION:Rue du Sartiau\, 3B\, 1430 Bierghes-Rebecq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 18: Chenois Sc 3 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:bb241202-cb7c-43e9-84b2-32c0d29666d2
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 19: Chiefs Wsl 4 - Jettoise (amicale)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:90ccc156-597a-417e-93d8-c1edd30d3afc
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 20: Cornac United Fc 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:fcd58735-9ada-449a-97dc-b3417370484a
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 21: Chiefs Wsl 4 - Entente  Racb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4b836792-6ab1-4383-b838-750395d27dd1
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 22: Irlande Fc 6 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f13b1e3a-bdc0-4ac7-b280-914ca61a7834
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 23: Mireille Wemmel 2 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7398ed09-5006-4d4b-a087-5511931b8137
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 24: Chiefs Wsl 4 - Higgins 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:d3291b3c-5e15-42c1-85f1-89c5417013de
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 25: Chiefs Wsl 4 - Lorraine (la) Rfc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T110000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T122500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:853f63ce-ba00-45fa-9870-bd75520b3d4c
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6D DAY 26: British United 6 - Chiefs Wsl 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5d308be8-fdb9-4f6c-a1ea-9a78ff9292ee
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+END:VCALENDAR

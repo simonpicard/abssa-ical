@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:565b9a67-fc89-40de-bc92-37a7f481d4cc
+X-WR-CALNAME:ABSSA Amb. Auderghem 1
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 1: Lxg Cinquantenaire - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e94b256a-a468-43f5-8bd3-17032cad173a
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 2: Amb. Auderghem 1 - Itt - Gecko Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:943ee612-bf36-4ec8-bf10-1aeadafd8d6a
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 3: Choule Auderghem 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:72042718-3ee1-4880-a7c7-aeb788c44c5b
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 4: Amb. Auderghem 1 - Wong A.s. 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:832b0430-3ef6-4941-8a90-982969dd2c23
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 5: Chenois Sc 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:19e54f49-bfcc-47c7-9fd5-ad83fd6e2289
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 6: Amb. Auderghem 1 - Portugal Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:aa957289-17e3-4754-8a62-1379e9773e19
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 7: Coin Du Balai Fc 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:48b72b62-dcf9-446e-b9c5-db0a21049421
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 8: Amb. Auderghem 1 - Jefke Country 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:a330e975-6717-4084-980d-80faca537a19
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 9: Irlande Fc 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ec1274aa-f73b-4dfe-a9f7-b670742ebf3f
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 10: Amb. Auderghem 1 - Euro Union
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:3a93a8fb-acbf-4eab-a4bf-44df64a10219
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 11: Amb. Auderghem 1 - Brussels Ltc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b4bee803-10ac-4721-9538-7b56877cfa32
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 12: Grez Aj 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:b34200cc-f96b-4fca-864d-c443fe597c99
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 13: Itt - Gecko Fc 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:841906e1-9f0e-45bf-bcf6-12b5ac181cff
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 14: Amb. Auderghem 1 - Choule Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:648ab96e-82e8-4d83-8de6-3f85772ed6f4
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 15: Brussels British R 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:a16c6735-13f8-442a-af48-95b173211a67
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 16: Wong A.s. 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:44ed09df-37e9-4c59-8960-df5afa967efd
+DESCRIPTION:Acces voiture: Aux quatre-Bras\, prendre direction Tervuren vi
+ a l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1èr
+ e sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis prend
+ re à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre l
+ égèrement sur la droite dans la Wijngaardstraat pendant 400m et tourner 
+ à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite sur
+  la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout droi
+ t sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche dans l
+ a rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la dro
+ ite de la route!
+LOCATION:Schonenboormstraat\, 3080 Tervuren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 17: Amb. Auderghem 1 - Chenois Sc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:770d4328-8413-4e4b-9631-d0ac61e5c172
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 18: Portugal Fc - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:6e66a934-66ec-49bf-b5e0-46e76c5e3a7f
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 19: Amb. Auderghem 1 - Coin Du Balai Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:da810d45-739b-45ce-8858-940db3617c6a
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 20: Jefke Country 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:072c0ff3-51a3-4e0a-af2f-72523b13cd86
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 21: Amb. Auderghem 1 - Irlande Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:eaf64dae-67e9-4639-819b-b8263316e061
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 22: Amb. Auderghem 1 - Grez Aj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:082515f9-90a6-4d0b-bc20-03c17959cd09
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 23: Euro Union - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:3ddd16e1-cfd3-4263-9d1f-5254e3dd048a
+DESCRIPTION:Acces voiture: Avenue de la Couronne jusqu'au cimetière d'Ixe
+ lles\, suivre les plaques "Stade A. Demuyter".
+LOCATION:STADE A. DEMUYTER\, Rue Volta\, 18\, 1050 Ixelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 24: Brussels Ltc 1 - Amb. Auderghem 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:363f7d4e-d35e-46d7-b562-847ebe2509c9
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 25: Amb. Auderghem 1 - Lxg Cinquantenaire
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f8a87a19-42e7-44e5-97a1-80ead316781b
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 1 DAY 26: Amb. Auderghem 1 - Brussels British R 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:434e6bc7-4121-4a20-8ffc-b5f48b063c1e
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+END:VCALENDAR

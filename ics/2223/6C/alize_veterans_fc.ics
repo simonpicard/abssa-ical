@@ -1,0 +1,341 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:50484544-d78b-4e8a-9246-06955156b2e3
+X-WR-CALNAME:ABSSA Alize Veterans Fc
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 1: Alize Veterans Fc - Brussels British R 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:65c13079-e223-4a17-a90d-a273e4c65b70
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 2: Alize Veterans Fc - Ideal Rangers R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9d63654e-03c8-415c-90dd-bdae4e4d54de
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 3: Pharma Sc 4 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:102bae98-72a5-41fa-8756-00f2a4d9d7c7
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 4: Anderlecht Us - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:91dc8c79-e6dc-4dab-9223-3c6d5d1820fc
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 5: Alize Veterans Fc - Tubifoot As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:9200e0ac-9ca4-4d43-b054-f2c81ea8d596
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 6: Elan Evere Rac 2 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b42fbc7e-29e5-4fd1-ad2b-5b75a6d06d5a
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 7: Alize Veterans Fc - Brussels Ltc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:8f407f91-7c05-44d3-9a94-08e7702c6571
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 8: Saint Georges Rcs 4 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:2fbcd90c-1b10-4d59-8a93-d3b79121ee48
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 9: Alize Veterans Fc - Forestois Sc 5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:4baa4b38-b95d-441e-b1c9-6819fa3b768e
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 10: Campomaiorense Sc - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3e5dd335-d08d-429e-9dd6-1fa98009758b
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 11: Alize Veterans Fc - Faubourg-brainoise 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b2d4d54f-fae0-4f52-9614-a1c946a47756
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 12: Azur Rcs 6 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5b9ca1b4-cd01-4807-aa74-06894bf5f1e1
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 13: Ideal Rangers R - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:860f064f-4336-47b3-81a7-0556410268b6
+DESCRIPTION:Acces voiture: Par le Centre\, prendre la chaussée d'Alsember
+ g\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les ra
+ ils du tram\, passer en dessous du pont du chemin de fer et au premier feu
+  de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère ru
+ e à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin de f
+ er et puis 1ère rue à main gauche (le complexe est fléché).\nPar le ri
+ ng\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre (G
+ rote Baan)\, au premier feu de signalisation\, passée l'église\, prendre
+  à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser la
+  chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du Bou
+ rdon\, pour continuer comme renseigné ci-dessus.
+LOCATION:COMPLEXE SPORTIF DE RIDDER\, Rue des Griottes\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 14: Alize Veterans Fc - Pharma Sc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:3fc635ac-139f-470b-872c-f97b335e98c0
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 15: Auderghem R.cf - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:ae6a5468-091f-4add-8ab9-ba320e105113
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 16: Alize Veterans Fc - Anderlecht Us
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6fb0f3f0-9d2c-4fee-8f5f-4c6fe9d9402c
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 17: Tubifoot As - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:6e710256-90e9-42f3-a28d-472cb2264ddc
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 18: Alize Veterans Fc - Elan Evere Rac 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f5be59c4-e91e-41a1-9eec-3690d802f19d
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 19: Brussels Ltc 5 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:18b86a51-0c81-40ca-993d-c6afe444a49f
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 20: Alize Veterans Fc - Saint Georges Rcs 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:5a05f86e-4e65-45fa-b917-9e0ccccb6b76
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 21: Forestois Sc 5 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f66da74a-df3e-4039-8e9b-de4e09ed749d
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 22: Alize Veterans Fc - Azur Rcs 6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:7e1aaf3d-847e-454b-8460-ffe8a8866d9d
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 23: Alize Veterans Fc - Campomaiorense Sc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:435a884f-6328-4b09-baab-3ffb2a4fea74
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 24: Faubourg-brainoise 2 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:b1126fa0-ab0b-4561-9032-aaae5807a550
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 25: Brussels British R 6 - Alize Veterans Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:f40a03fa-5c6b-4d17-8a78-61b216e9a741
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6C DAY 26: Alize Veterans Fc - Auderghem R.cf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191344Z
+UID:c5ae3f7f-1924-44c8-8e55-5e3189f7c3b3
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+END:VCALENDAR

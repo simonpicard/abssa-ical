@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:a6f1746e-ca28-4a93-b780-5761d0ab63bb
+X-WR-CALNAME:ABSSA Comp. Cinema R
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 1: Extranos (los) - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:fff72533-a355-4809-8479-be820327eb50
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 2: Comp. Cinema R - Uccle Stendhal
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:1923859a-ce96-45cb-81b3-3f31471481f0
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 3: String Penelope 1 - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ece95814-0314-448c-ad90-e339fdf48c1f
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 4: Comp. Cinema R - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:30776a7d-ee9f-4ffc-a75e-7d87eef35ebe
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 5: Itt - Gecko Fc 2 - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:a2ff8ba8-59d7-4dd9-9341-288c299b0cfa
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 6: Comp. Cinema R - Tiekss Wemmel
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:185b96ce-4d4f-4882-b78a-4cf19415af38
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 7: Biergeois Cs - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e0735d56-b6e8-43a2-9f0a-b208135d2c37
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 8: Comp. Cinema R - Black Star Genval
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:8c842a91-b10d-447a-bd85-8936966d3f67
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 9: Tauro Fc 1 - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:2631cb19-8818-4793-bc3e-7cf8ea0137e7
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 10: Comp. Cinema R - Sneaky Baboons
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e8d87c2a-3b59-432a-a262-46713cee35d9
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 11: Comp. Cinema R - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:f2d5f860-fe98-4a55-be18-8a65f677e717
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 12: Comp. Cinema R - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:6190ea19-391d-439c-95f8-fc87d26dedef
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 13: Uccle Stendhal - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:29764145-1b08-4205-b598-8d07083d28e3
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 14: Comp. Cinema R - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:2b53154f-6d59-4c1b-8e95-cd9daf9c3770
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 15: Forestois Sc 3 - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:51766a75-1509-44c7-b676-1bfa1a804401
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 16: Bye - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:fe4ce9d0-6142-43ae-951e-701bd36306af
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 17: Comp. Cinema R - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:17c9609e-d4e6-41b7-8ce0-f1fe271073c1
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 18: Tiekss Wemmel - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:a18314b2-a02f-4541-a6d4-ba3c58d26380
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 19: Comp. Cinema R - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:6f2efed5-3983-4494-ae8d-c9d6068f6360
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 20: Black Star Genval - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:d4144dcf-a5f8-4ca1-ba48-30898b6249cf
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 21: Comp. Cinema R - Tauro Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:e1bbca59-7b45-4249-82a5-ffc6958501d4
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 22: Union Tigers - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:ff3f04ec-ac52-4c61-a54b-249d5486a074
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 23: Sneaky Baboons - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:0f84cb94-0279-4626-8f20-65b1e72d488b
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 24: Beethoven Fcs - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:07845600-7bd0-43a6-84f8-8e4ecc73a9db
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 25: Comp. Cinema R - Extranos (los)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:eba4bfb7-b0fa-4d46-9cf4-ef71bafecc36
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 26: Comp. Cinema R - Forestois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191343Z
+UID:c9713f4a-aff6-4468-a440-80da2dc4d9a0
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+END:VCALENDAR

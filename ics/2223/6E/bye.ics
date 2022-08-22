@@ -1,0 +1,2672 @@
+BEGIN:VCALENDAR
+VERSION:0.1
+PRODID:4772d2f9-c4e4-4bc8-a00a-250fe312ce6c
+X-WR-CALNAME:ABSSA Bye
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART;VALUE=DATE-TIME:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;VALUE=DATE-TIME:19700329T020000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 1: Bye - Itt - Gecko Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d4f48b3d-cf28-4e47-895f-6e008e746217
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 1: Bye - Winchester F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dfe670b5-bc18-403f-bcc7-5e41e3bbbe8a
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 1: Bye - Saint Georges Rcs 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f330b197-09b9-4747-bcf5-b7f2158b57cb
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 1: Bye - Realistes Mexico R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cc12f4d4-3518-44e3-821d-928e5992caae
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 1: Bye - New Inn Fc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9d968f55-ae99-43b3-84d3-161146b2a5c8
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 1: Bye - Omnisport Bierghes 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fb736a33-3c28-403f-9ab9-15231882e12b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 1: Wokrasse F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:83963d59-eb54-4401-bc2c-09074b04795f
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 1: Cosmos Bruwolf Mj 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:00549e81-1336-425b-a0a1-cbbe98a770b1
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 1: Pangloss Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220903T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0d3792ae-4928-46f5-bfb5-f2c06e394a66
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 2: Bye - Real Trappiste
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:afcc1fe4-c830-40e1-9490-ec09dee2f8fa
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 2: Bye - Celtic Forestois
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:829aca25-49b0-42d4-a48a-f1a571dbceac
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 2: Bye - Lorgnette (la)  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:31ea17a5-5189-4b1b-aacb-9d238bd0d632
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 2: Bye - Beethoven Fcs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d6a5d8a8-d906-4d9c-bcbf-5c92627e5b86
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 2: Bye - Virginal Asf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1b866655-2707-47e8-9a9b-e4d6f5a6d083
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 2: Bye - Postboys Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3b7f5ce3-27c1-4099-a1e4-c31a9716ce48
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 2: Faubourg-brainoise 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:631e55f8-11fc-4c8c-89e6-4fd3e9ba3a4d
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 2: Rhinoceros - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:19682f8b-1e69-46e3-b5a6-66a4f478b444
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 2: Bousval Genappe 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220910T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e606d990-d753-4658-a7df-d69360971328
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 3: Bye - Picardie As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:79232e28-f2ba-4435-80be-2332f23b4360
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 3: Bye - Brussels Ltc 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3cf1ff58-5607-47e6-b790-416ec10f8439
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 3: Bye - Watermael Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:879a1585-f012-4895-8bdc-6f08e62d273d
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 3: Gambrinus F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:be920d47-3049-4b67-b8bc-670ef40759db
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 3: Bouks  Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c4b4f9e3-339b-4be6-bfbe-7c975c20c029
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 3: Moon Shooters - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4d11c2fd-c0b4-4ac4-adc1-95f2ab86f82b
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 3: Uccle Stendhal - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ad82a67c-5289-4d59-894f-9c036a28e2ab
+DESCRIPTION:Acces voiture: L'entrée se fait par la rue du Zwartebeek.\nPa
+ r le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par 
+ la rue de Stalle prolongée.  Après le rond-point prendre la 1ère rue à
+  gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, ru
+ e du Zwartebeek\, l'entrée du complexe est située à +/- 200 mètres sur
+  la droite.
+LOCATION:LEOPOLD-UCCLE\, Rue du Zwartebeek\, 1180 Uccle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 3: Mireille Wemmel 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:de653aa1-dfb9-4881-a6a1-3065e4cab9a3
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 3: Piraterie (la) - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220917T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4fac0c4d-266d-4dd4-8e74-5e19847dd431
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 4: Bye - Cornoi As
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:36964292-ad24-4c9c-bdc3-6bf3a3122fa1
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 4: Bye - Tigre (le) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ab8ba201-4c62-4d94-80d1-cfba2099d3f1
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 4: Bye - Cornac United Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c1ddce3e-cc6a-44be-9992-4d3643ae0293
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 4: Bye - Goalois 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c175ba9f-c95a-4f7c-a0e8-c5607f95bd18
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 4: Choule Auderghem 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:97e87eea-4769-4e58-a6a8-db159062b5df
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 4: Comp. Cinema R - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a86a760a-07b2-409f-af9a-efdeb5bd3c28
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 4: Woluwe Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8ddc2fbb-984f-4b42-8b6a-32c5a9e623c3
+DESCRIPTION:Acces voiture: Par la E411 Bruxelles-Namur\, prendre la sortie
+  n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendan
+ t 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite 
+ la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de 
+ la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'av
+ enue Clermont Tonnerre.
+LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
+ 1330 Rixensart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 4: Tauro Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b779c987-60c0-4f82-980d-cecd8c003830
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 4: Tricoteuses Fc. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20220924T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:73cb00c7-7e84-4b48-b560-3ee6ba7c03d4
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 5: Bye - Saint Georges Rcs 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b92cd608-c565-413f-bec5-504cbb4b5137
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 5: Bye - Pangloss Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:18041c6c-6fd0-46f2-9adf-f65703c82fe9
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 5: Bye - Tiekss Wemmel
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:aae8c143-56e3-445d-99de-c61183ae630e
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 5: Bye - Red Star Brussels
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:60655018-2e0d-42ad-9a35-5fbb06744a36
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 5: Bye - Central Park Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3464541d-2092-43d1-854f-6042318e3f44
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 5: Breu United - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:986e40b3-f0da-4ceb-8bbe-1d116fd0d97e
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 5: Aema Veterans - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:10ba56b9-45c4-44bb-b619-3ac36b7daf9c
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 5: Celtic Roosters - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e7c9eb2c-0863-4c1c-9f15-2514797002c8
+DESCRIPTION:Acces voiture: Autoroute E 411 direction Namur / Luxembourg\, 
+ prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	
+ point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entrer 
+ dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prendre 
+ la première sortie Rue Haute\, continuer sur rue de Bruxelles\, continuer
+  sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à droite
+  l'avenue du Centre Sportif.
+LOCATION:Stade JUSTIN PEETERS\, Avenue du Centre Sportif\, 20\, 1300 Wavre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 5: Rayo Latino - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221001T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:08e6ec9a-ab7e-4930-aa6b-ad80fee5c058
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 6: Bye - Ettekijs 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6c904860-a143-4d27-b84b-9e2748946329
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 6: Bye - Cheverny Schaerb 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:29806628-61bc-4411-8e49-cfc483306514
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 6: Bye - Nivelles Cs 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:03fbac03-1d66-443a-8d0a-9bfc7800342c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 6: Bye - Union Bruxelloise
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:573121dd-a0f3-4efd-8897-28905d56d16b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 6: Chiefs Wsl 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ff147bf3-3133-4e13-9d55-3900deb8ac64
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 6: Duden Sport R - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e33be407-50c9-43b5-8ce9-0f3dcfc6ce1e
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 6: Black Star Genval - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1efb6768-5c07-487b-9f62-73ef187f8260
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 6: Elan Evere Rac 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c971e3fa-35ec-4df2-91c5-971f3933373e
+DESCRIPTION:Acces voiture: Le terrain se trouve derrière l'église St. Vi
+ ncent
+LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 6: Grez Aj 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221008T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:059e8310-4889-491d-b84f-1d60386b1c71
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 7: Bye - Brussels British R 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:37b46cba-7257-4efb-ba49-98446484b306
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 7: Bye - Jodoignoise Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f34c3552-b696-48d7-a41a-25eee6d1c2f7
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 7: Bye - British United 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a83e6a4a-a438-4a5e-8ead-9d73c3d0518e
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 7: Bye - British United 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:39c59294-1c7c-4b83-8302-93b2aca59fb0
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 7: Bye - Sneaky Baboons
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c1d9c225-e0ef-48c1-b7ac-f10687315c25
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 7: Grez Aj 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e0b81480-9cb0-4a31-bfcc-884f3f299952
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 7: Patrons (les) - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b6e1255f-7d12-4c93-925e-5d5eff400968
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 7: Karia Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4e77894d-6ac2-4e55-ab4c-200d389c2168
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 7: Syb  Rfc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221015T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dce8ffea-8603-4ec4-852f-c55ae723d431
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 8: Bye - Masia City
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a0482620-7ca5-4667-b0d0-99ff3c99c565
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 8: Bye - Cheverny Schaerb 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:92621262-ed5f-4842-b680-188d1a7f67c7
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 8: Bye - Choule Auderghem 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3daa87dc-20a9-4ab5-8ebe-aba781db70ee
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 8: Bye - Central Park Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:8894bc9c-22d5-4653-919b-044650c7aad4
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 8: Effeta Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cb8ab5a9-5f89-4c57-9129-48ab1f7010e5
+DESCRIPTION:Acces voiture: Ring O\, sortie Ninove-Dilbeek (n° 13) directi
+ on Molenbeek\, par la chaussée de Ninove \n(+/- 3 km.). Au feu de signali
+ sation qui se trouve juste après le "BRICO" prendre à gauche l'Avenue J.
+  Baeck. Le terrain se trouve à main droite\, juste au début de cette ave
+ nue.
+LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
+ k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 8: Vogelpik Fc. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:94e56d88-0f32-4612-8592-2cfb0f5c44f5
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur E411\, après Wavre p
+ rendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, 
+ au premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hoc
+ aille". Après le second rond-point\, prendre à droite\, au carrefour\, l
+ a rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS 
+ se trouve au bout de l'avenue.
+LOCATION:Terrain Royal Ottignies Stimont (ROS)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 8: Wappers Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:aaf9c7e0-9b89-4f3b-ab07-d3863459e731
+DESCRIPTION:Acces voiture: Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.
+LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 8: Union Tigers - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b0bd0b66-87fd-439d-9252-c5bc7b61ba0f
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 8: Zijp Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221022T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f9a20f23-671b-43fb-91ce-59967f35d951
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 9: Bye - Forestois Sc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c034898e-7c83-412a-b278-0119f5646449
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 9: Bye - String Penelope 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:69ffc2e6-d61b-445a-89ee-794f20c795ef
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 9: Bye - Forestois Sc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:73d3528d-22a8-468b-9f72-553ec2c70254
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 9: Bye - Brussels Ltc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2db9e7df-68a1-43cd-bc42-161bc3004c7b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 9: Bye - Friends Spirit Aud
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4663db05-90ea-4431-b36c-c0758cb172ae
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 9: Saint-josse 95 Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5a8c41d0-648a-49d9-8782-df0445dada30
+DESCRIPTION:Acces voiture: Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.
+LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 9: Ster's - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4975482b-73cc-4a2f-a88f-7bc9312be636
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 9: Pink Panthers - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fd37741f-a98f-40e8-96a5-2649645d52b3
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 9: Ecusson Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221105T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:4b6eac76-52f1-4c78-805e-17f51ad0cf1a
+DESCRIPTION:Acces voiture: Ring\, sortie Hopital Erasme\, après 300 m. en
+  direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\
+ , carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo
+  Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction d
+ e Lennik.
+LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
+ \, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 10: Bye - Blood Spikes
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c0c5d974-7ef9-4bc9-8b0a-d4cafac5792a
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 10: Bye - Brussels British R 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:41ea42e2-1420-4b96-b3b5-73ccfe2a954c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 10: Bye - Galactic Jumpertz
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9716175b-dc86-4fa1-a156-19d726572313
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 10: Watermael Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f904e22a-3f21-4ef7-a240-e639aa7b3d63
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 10: Well Team - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d8df61b8-0fa4-43b3-bf44-6d2608fbd062
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 10: String Penelope 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:de7b3dfb-6498-441b-a773-75c002707860
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 10: Chenois (esper) 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fd0f44d6-339f-46d9-875b-5898c747b177
+DESCRIPTION:Acces voiture: Venant d'Uccle\, prendre la chaussée de Waterl
+ oo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Va
+ ndevelde (intersection de la chaussée de Bruxelles avec la chaussée de T
+ ervuren à Joli-Bois). Au feu de signalisation prendre à droite la chauss
+ ée Bara. Le terrain se trouve à droite à +/- 500 m.
+LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 10: Nivellois-aclot Bs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:231618a8-5aee-4a6f-a4eb-b4cc3db60187
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 10: Lunette (la) Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221112T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:52e3f1b7-1027-4bbc-afb8-a7ce1045e326
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 11: Bye - Rangers F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e0f528f3-ec9f-47b0-8d63-d036272ac005
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 11: Bye - Karia Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c66c6874-f3ec-488b-b4ff-46a55162e2df
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 11: Bye - Brussels British R 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:44821c69-0e27-4737-8af1-e4c9f870ccbf
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 11: Bye - Bousval Genappe 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f5ef351f-4471-4983-a85d-f4ec46c39257
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 11: Bye - New Inn Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:aadee66e-e67d-4c02-b213-f267686c6e3b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 11: Bye - Tauro Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:89fe1cd6-397d-4d54-940e-c19945497588
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 11: Sanserif Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T113000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T125500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:740b9b24-7834-4155-8772-fa83ac69830c
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Prendre le RO en direc
+ tion Mons-Bergen / Charleroi - prendre la sortie 21 et continuer sur la E4
+ 29 direction Lille/Rijsel sur 7\,2 km. Ensuite prendre la sortie 23 et con
+ tinuer sur le Hondzochtsesteenweg pendant 1\,7km. Au rond point continuer 
+ tout droit Chaussée d'Hondzocht sur 857 m\, \, prendre à droite Rue de B
+ ruxelles sur 141 m.\, au rond- point continuer tour droit et à nouveau au
+  rond-point continuer tout droite sur 537 m.\,\npasser devant l'Eglise de 
+ Tubize et après le 2ème feu rouge\, prendre la 2ème rue à gauche\,\nRu
+ e des Ponts et continuer sur 470 m. (suivre les panneaux AFC. Tubize) puis
+  prendre la 2ème à droite (à côté des terrains de tennis) chemin mena
+ nt au parking du Stade de Tubize.\nPrendre le chemin à pied sur +/- 50 m.
+  à gauche du stade jusqu'à l'arrière de la tribune T3.
+LOCATION:Allée des Sports\, 7\, 1480  Tubize
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 11: Neptune Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f37aad0e-c148-46aa-8fc1-8923954ebba9
+DESCRIPTION:Acces voiture: Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.
+LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 11: British United 7 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221119T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:49c3291c-44ec-4950-8c5c-7cd011678b50
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 12: Bye - Beekings F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:68bcb7ce-1759-4c18-864a-4d7e1839a672
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 12: Bye - Braine-terminus Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:743bef0e-b0ce-4eaf-b88b-5bf36f4173d5
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 12: Bye - Pantoufles Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5f21c111-55b9-49b2-8d4f-1f7eee4ab962
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 12: Bye - Blue Thrills
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6ea52b0e-339e-421e-86ea-5fa8eec68c03
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 12: Azur Rcs 4 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T120000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T132500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:dd3f853e-cd67-460b-990e-b2e17e9371ac
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, direction Tervuren. Passé
+  le boulevard du Souverain prendre à gauche au premier feu de signalisati
+ on (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à m
+ ain droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).
+LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 12: Peter Pan Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:368b85be-fd51-4ecd-8182-3ef0268052d1
+DESCRIPTION:Acces voiture: R.O. Sortie Beersel (n° 19)\, prendre directio
+ n Beersel\, ensuite direction Linkebeek En face du Delhaize prendre la rue
+  de la Brasserie et ensuite suivre les indications LHC-KHVCL.\nR.E. Sortie
+  Groenendael - Direction Uccle\, dans la forêt prendre la première à ga
+ uche\, direction Rhode St. Genèse\, ensuite à la chaussée de Waterloo p
+ rendre à gauche. Au premier feux (Espinette Centrale) à droite\, ensuite
+  le premier feux à droite\, puis tout droit\, et après le chemin de fer 
+ suivre les indications LHC-KHVCL.\nItinéraire d'accès au parking\, à la
+  Ferme Holleken\, rue Hollebeek\, 212 (près du parc à conteneurs)\nEntr
+ ée du parking: chemin à gauche de l'entrée du cimetière.\nPour rejoind
+ re le terrain à pied à partir du parking\, descendre le chemin balisé e
+ n contournant le parc à conteneurs.
+LOCATION:WOUTERBOS\, Rue Schavei\, 31\, 1630 Linkebeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 12: Watermael Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b4a0d95e-06d8-4a2d-88dd-8e02adc9f36d
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 12: Brussels Ltc 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e0a4139b-7eed-4158-aef1-a309e59ffc57
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 12: Biergeois Cs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221126T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a0842cff-ca1e-447e-bc7b-59e010c45e4d
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur\, sortie Bierges\, pr
+ endre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+LOCATION:COMPLEXE SPORTIF J. COLETTE\, Rue des Combattants\, 1301 Bierges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 13: Bye - Rhinoceros
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:84527f19-6ed4-4aa0-ad56-3e0d9c96c899
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 13: Bye - Bousval Genappe 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:936fb197-adcc-42a8-a144-4f2e3909eff2
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 13: Bye - Faubourg-brainoise 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9631771b-bb20-41b7-8280-808408ee520c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 13: Postboys Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:94f22834-2946-4562-afc4-112049a38a4b
+DESCRIPTION:Acces voiture: Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.
+LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 13: Beethoven Fcs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f77d3c2b-b937-41a2-a827-37183fa472cb
+DESCRIPTION:Acces voiture: En venant de la Route de Lennik (Citroën) ou d
+ e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
+ lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
+ rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
+ t des terrains se situe à +/- 500 m. sur la gauche.
+LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 13: Virginal Asf - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:891c0635-17f1-49dd-9ecd-608430694f58
+DESCRIPTION:Acces voiture: Au départ de Bruxelles\, l'autoroute E19 ou pa
+ r le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virginal. Traver
+ ser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Franchir le
+  pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout droit par 
+ la rue de Catala\, ne pas suivre la direction Virginal Centre\, mais pours
+ uivre la route et prendre la 2ème rue à main droite (rue de Tubize). Pas
+ ser devant le château d'eau et un peu plus loin\, à l'incinérateur\, pr
+ endre à droite en direction de Oisquercq. Le terrain se trouve à droite 
+ dans la descente (panneau ASF Virginal).
+LOCATION:Rue de Tubize\, 1460 Virginal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 13: Real Trappiste - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:789b660f-2cf9-4786-ad91-95a7ce98d5c8
+DESCRIPTION:Acces voiture: Ring O\, sortie Ninove-Dilbeek (n° 13) directi
+ on Molenbeek\, par la chaussée de Ninove \n(+/- 3 km.). Au feu de signali
+ sation qui se trouve juste après le "BRICO" prendre à gauche l'Avenue J.
+  Baeck. Le terrain se trouve à main droite\, juste au début de cette ave
+ nue.
+LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
+ k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 13: Lorgnette (la)  Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:19d8c202-b4ba-47fa-af7b-9c62683f87ae
+DESCRIPTION:Acces voiture: Boulevard Lambermont\, prendre le boulevard Lé
+ opold III\, direction aéroport de Bruxelles-National\, au 3ème feu de si
+ gnalisation prendre à droite. le terrain se trouve à 50 m.
+LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
+ 140 Evere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 13: Celtic Forestois - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221203T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5b0e783f-ad6f-4a22-9ed5-553e7d54c6a4
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 14: Bye - Gambrinus F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d1c6fe78-6012-4df0-ad8e-c93900048a57
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 14: Bye - Bouks  Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fa9e9ad2-1cb6-4e3a-9aaf-d1767f323c15
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 14: Bye - Piraterie (la)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3fd6c930-9eab-4270-889f-d873cd8a1adb
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 14: Bye - Uccle Stendhal
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7083dbc5-fe15-47c4-9a5a-e4f589b5ac5d
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 14: Bye - Mireille Wemmel 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e49e8fd1-ad1e-460b-a66d-58f49d813db2
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 14: Bye - Moon Shooters
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:eb11b143-4bb3-4e0c-b37b-fabfd351a9ba
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 14: Picardie As - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T133000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T145500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:be642ff6-8178-4905-b65a-f809607eaae4
+DESCRIPTION:Acces voiture: Ring RO\, sortie Ophain\, prendre la direction 
+ de Ophain Village\, jusqu'à l'église. Ensuite à droite. Le terrain se t
+ rouve à 200 m. à gauche.
+LOCATION:Rue de Lillois\, 19\, 1421 Ophain/Braine-l'Alleud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 14: Brussels Ltc 4 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:be880639-ff28-4259-a097-dda3e77d61bc
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 14: Watermael Cs - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221210T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:db080eaf-9fc2-485f-84c1-db576df64d24
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 15: Bye - Hellas Berchem Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b3ad6a11-8a67-4e5e-a013-e41c04e29c3c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 15: Bye - L'ekip
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cbf111ec-4816-4323-949a-bd60f3445e27
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 15: Bye - Brussels Ltc 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0e8e81ac-38a1-49d8-82dc-a4bbb5b9ee5a
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 15: Bea Woluwe - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9d15f953-c8bd-4fa1-9066-5ddda13b57d1
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 15: Chiefs Wsl 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fd1671ce-a2c4-47bf-a45e-23e96d8055aa
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 15: Extranos (los) - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:900e2507-393c-4ba2-938f-717ae274add1
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 15: Trinquant 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:11c331ad-28aa-4c34-b05a-7a0f05b8d54a
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 15: New Arquois Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fc28fc19-1a88-45e5-af36-03c4d42ed256
+DESCRIPTION:Acces voiture: Autoroute E 19 (Bruxelles-Charleroi)\, sortie A
+ rquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, p
+ rendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droi
+ te en direction du château de La Rocq\, passez sous le pont\, le terrain 
+ se trouve à 100 mètres (à proximité du cimetière).
+LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 15: Deaf Brussels Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20221217T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e68873e3-819b-4445-b43a-e61bed629f8d
+DESCRIPTION:Acces voiture: Chaussée de Haecht\, vers Diegem. Prendre la r
+ ue Harenheyde à gauche\, juste au feu de signalisation\, après la statio
+ n "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\, 100 m
+ . au-delà du pont du chemin de fer.
+LOCATION:Rue de la Paroisse\, 1130 Haeren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 16: Bye - Tricoteuses Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e31b0523-1c9b-4f7d-8d7b-94b65db66b8b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 16: Bye - Tauro Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f6b6e906-9eba-4904-89b4-6cc439096889
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 16: Bye - Choule Auderghem 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:10ffbc0e-f209-4b31-b4db-0bbe2c5f6656
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 16: Bye - Woluwe Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:410c1ac8-f573-4d8d-960f-b0126f4e399c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 16: Bye - Comp. Cinema R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:52e5be87-5748-4483-b06b-bda8fab8dde5
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 16: Tigre (le) Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6af42ae4-ab45-41d3-b84a-b600dc1ddf05
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 16: Cornac United Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T143000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T155500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7e393522-c0e7-4c4f-8584-0808992d8b8c
+DESCRIPTION:Acces voiture: Par le Ring Ouest\, direction Paris\, sortie We
+ stland Shopping Center (n° 14) continuer tout droit\, remonter vers le Ri
+ ng et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itt
+ erbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se t
+ rouve à gauche\, entre l'école Van Belle et Veeweyde.
+LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 16: Goalois 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:379ef39d-0bbe-45a8-b09c-5de4b5ba00c4
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 16: Cornoi As - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230107T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b08620e9-2cae-4594-9db1-09439b994dc1
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, emprunter la chaussée
+  de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefou
+ r (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au 
+ deuxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.
+LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 17: Bye - Celtic Roosters
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:bc0be7f6-0f7f-49db-ba42-46ed6e20f622
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 17: Bye - Rayo Latino
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:477c295d-18e3-4902-b316-8d20a7a922ea
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 17: Bye - Breu United
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1b1bb272-f5ae-4228-9f80-56c9bbfff3db
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 17: Bye - Aema Veterans
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d2c61044-b612-4d14-8b7a-59c57a63ebca
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 17: Red Star Brussels - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:88288b9e-9fb3-41b3-85a1-a1dbe51542bd
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 17: Saint Georges Rcs 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2df48b36-ebb6-40bb-8796-1af5f62c3704
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 17: Tiekss Wemmel - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T144500
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T161000
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:370590ff-6c56-4aca-812c-acbee7d4eafa
+DESCRIPTION:Acces voiture: Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richt
+ ing Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de r
+ otonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op
+  Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links 
+ van de steenweg\, bevindt zich het stadium (parking)
+LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
+ 80 Wemmel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 17: Central Park Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3ee6c3f2-827a-466c-9386-f7aa789c6c1a
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 17: Pangloss Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230114T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:978bbe5e-cfb1-454d-b678-639de60d4b6e
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 18: Bye - Grez Aj 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:35876882-0738-40ff-8fbe-60a00e197e98
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 18: Bye - Elan Evere Rac 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1c11411c-d094-4e44-98bb-4f483bd19586
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 18: Bye - Chiefs Wsl 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:189b5147-89b8-484f-95af-995aa83c0f87
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 18: Bye - Duden Sport R
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:058e48d4-f916-4ab0-a1af-4c03bf376c9f
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 18: Bye - Black Star Genval
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:05d6600a-cfa2-4a73-828f-ea8ee4cbc796
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 18: Ettekijs 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:572a9b1d-9f34-4fa6-bdb4-eef172ced9b3
+DESCRIPTION:Acces voiture: A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.
+LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
+ l-Boitsfort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 18: Cheverny Schaerb 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e2151d71-2381-432c-9d4c-4d09cd516687
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 18: Union Bruxelloise - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:693701f8-4e70-46be-8acf-96ee4b8c6fbb
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 18: Nivelles Cs 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230121T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:ab669b2a-c77f-4304-b92d-38e0ce3673e8
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, par l'autoroute Bruxel
+ les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
+ de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
+ nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
+  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
+ pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
+  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
+  gauche et prendre la rue du Progrès pendant +/- 400 m.
+LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 19: Bye - Patrons (les)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:199e17dd-fbb9-4aea-90b0-8b50675af6a0
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 19: Bye - Grez Aj 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b503c437-1a98-4c15-bfe9-d2bb568d6404
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 19: Bye - Syb  Rfc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d819fde0-18cd-4411-a567-71fa540c2b0c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 19: Bye - Karia Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a23f2040-cdcd-4241-8345-36f390faf00c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 19: British United 4 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fd3449fc-342e-47de-8f03-3524b64c7ede
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 19: Jodoignoise Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a3f4dc8e-358b-4f6d-9548-64a64bbf3fda
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l’E411 en di
+ rection de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à droi
+ te vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise la N9
+ 1 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndirectio
+ n de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain se 
+ trouve directement sur la droite.
+LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 19: Sneaky Baboons - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:91d0d05d-ad68-45eb-87e4-ebe321a0e20a
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.
+LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
+ chaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 19: Brussels British R 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b16c56fa-4f96-4ac4-935a-8e47d3e19e55
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 19: British United 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230128T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:977d637d-a2d7-4bf7-9599-ff13c67ec2a8
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Anvers (E19) sortie Mechele
+ n-Noord (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op
+ -den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Après 1
+  km. suivre les flèches "De Nekker". Garer les voitures à l'extérieur d
+ u complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.
+LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 20: Bye - Union Tigers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:87d1aaf4-d342-4a20-a882-662721beac41
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 20: Bye - Vogelpik Fc.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6846d62b-3b76-46cb-aff2-a7fdd5991971
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 20: Bye - Effeta Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1f108df4-c3f3-4b4f-ac20-652f0ba9c22e
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 20: Bye - Zijp Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:90f12de2-2d9e-4875-aca5-2e45e6911fd0
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 20: Bye - Wappers Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a9812343-c335-4b2a-b4fd-9af276adba17
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 20: Cheverny Schaerb 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b58bb328-e738-471d-93a9-5cabc56c315d
+DESCRIPTION:Acces voiture: Place Meiser\, descendre le boulevard Wahis et 
+ le boulevard Lambermont\, puis prendre à droite\, la rue Kennis(avant la 
+ station Villo)\, Terrain à 200 m. à droite.
+LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 20: Masia City - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:62796d28-0602-47e7-bee5-2583e1157803
+DESCRIPTION:Acces voiture: Prendre l'autoroute de Namur (E411)\, sortie n
+ ° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue à
+  droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond p
+ oint continuez à suivre la direction "Genval - Maubroux" (continuation de
+  la rue de La Hulpe). Au rond point suivant\, suivre toujours la direction
+  "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche) 
+ suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Genv
+ al). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genval)
+  et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'
+ ancienne station service\, prendre à gauche et suivre la route (rue Josep
+ h Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul (p
+ anneau : Les Charmettes). Le terrain se trouve à environ 200 mètres sur 
+ la droite.
+LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
+ t)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 20: Central Park Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1c88d567-06a5-4b75-aa4e-cf7a7ba0d705
+DESCRIPTION:Acces voiture: Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.
+LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
+ é-Saint-Lambert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 20: Choule Auderghem 4 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230204T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7cc1cae6-2810-4206-8f45-99088a57e9f3
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 21: Bye - Saint-josse 95 Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e68d3d5c-65ba-493b-a03f-965c5ceb9e7c
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 21: Bye - Ster's
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:11a42ee9-e13f-428a-9beb-3fe60158a941
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 21: Bye - Ecusson Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:deaf92e1-cc6e-46e6-81d3-3e8f2d1369b7
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 21: Bye - Pink Panthers
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:633c3b54-cd94-4e60-b7f8-4cd152dc3264
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 21: Forestois Sc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:e5ae7cde-1654-4202-a580-ede0f98d81d7
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 21: Forestois Sc 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:6a214888-4b17-41fc-9da2-3bd0b8fdc544
+DESCRIPTION:Acces voiture: Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 21: String Penelope 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:28a1ed18-aa60-4784-aef2-d34bca9d9e25
+DESCRIPTION:Acces voiture: En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 21: Friends Spirit Aud - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:01bc0718-8d61-4b3d-80d8-0dfa8e51d2f3
+DESCRIPTION:Acces voiture: En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.
+LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 21: Brussels Ltc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230211T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:77c49f4d-fbed-4589-9684-d36923fd314b
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 22: Bye - Azur Rcs 4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5f6ea219-0f91-4fdf-a285-cb6d780c3896
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 22: Bye - Brussels Ltc 3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:12584ba6-3b24-4654-bda8-e4455febd5ac
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 22: Bye - Biergeois Cs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:0854b934-0d39-479a-a205-23226e79fcbe
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 22: Bye - Peter Pan Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:863a8ee5-9408-4938-95ff-691680161142
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 22: Bye - Watermael Fc 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d3c609be-bef0-45c2-a8f0-ee1317968df0
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 22: Pantoufles Fc - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:56cc137f-2266-4507-9d81-86e3b6f711a6
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 22: Beekings F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2f906cc4-e5fd-4d8d-b640-4a3723b40520
+DESCRIPTION:Acces voiture: Par la E411 Bruxelles-Namur\, prendre la sortie
+  n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendan
+ t 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite 
+ la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de 
+ la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'av
+ enue Clermont Tonnerre.
+LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
+ 1330 Rixensart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 22: Blue Thrills - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:23c73cd8-cada-4fb8-8202-37f4cf58b58a
+DESCRIPTION:Acces voiture: L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.
+LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 22: Braine-terminus Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230225T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3d04b6f3-aeeb-473c-8dfd-e8bbc67efdf1
+DESCRIPTION:Acces voiture: En venant de Bruxelles : Autoroute Tournai - Li
+ lle (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la N 6 Bruxe
+ lles-Mons en direction de Mons. Entrer dans l'agglomération de Braine-Le-
+ Comte et prendre la 1ère rue à droite\, le terrain se situe au bout de l
+ a rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Braine-Le-Comte
+ . Entrer dans l'agglomération de Braine-Le-Comte et suivre la direction d
+ e Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauche\, le ter
+ rain se situe au bout de la rue.
+LOCATION:Rue du Poseur\, 39\, 7090 Braine-Le-Comte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 23: Bye - Well Team
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d65b5fe4-67be-4e93-9ac0-0d825ad3c43f
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 23: Bye - Watermael Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d21715f3-d58d-4e6d-8af7-d481b50c9a79
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 23: Bye - String Penelope 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:64a75389-cbe4-40dd-b714-0f26928fe91d
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 23: Bye - Nivellois-aclot Bs
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:58623e60-7043-43d8-a2b7-dbded3028871
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 23: Bye - Chenois (esper) 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5c7ad9fa-f1cc-495b-bb67-69e5a0862995
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 23: Bye - Lunette (la) Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:81764eb7-2c64-4d1d-bd39-fd862bd5c9d5
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 23: Blood Spikes - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:cad1112b-38df-44d6-b622-b3bd55e7557f
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Namur (E411) prendre la sor
+ tie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/
+ Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'issue 
+ de la RN 25. Au troisième rond-point prendre à droite. Le terrain se tro
+ uve 150 m. plus loin à gauche de la rue du Stampia.
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 23: Galactic Jumpertz - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:92cc10d0-1927-4732-8fca-3804a7cb2a3f
+DESCRIPTION:Acces voiture: Par la E411 Bruxelles-Namur\, prendre la sortie
+  n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendan
+ t 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite 
+ la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de 
+ la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'av
+ enue Clermont Tonnerre.
+LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
+ 1330 Rixensart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 23: Brussels British R 7 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230304T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:acf08a7c-3a18-48e8-b6c9-f8d8c817839a
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 24: Bye - British United 7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:87ff40b1-4461-4cf4-95c3-65f485312748
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 24: Bye - Sanserif Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:66fe4b9d-1826-4e49-a942-ef02ea2682b6
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 24: Bye - Neptune Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fb6ef7c6-f982-415c-97e5-f63905f42f29
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 24: Rangers F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:574c0f17-7145-4d4a-82b2-cd0951e58c71
+DESCRIPTION:Acces voiture: De la Place Meiser\, remonter tous les boulevar
+ ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
+ nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
+ ite (rue Baron Dhanis).
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 24: Bousval Genappe 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:1c7781b8-ea0f-46b8-b522-3ec54d7093dc
+DESCRIPTION:Acces voiture: Venant de Bruxelles prendre le Ring Ouest\, sor
+ tie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) d
+ irection Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le c
+ arrefour\, tout droit direction route du sucre.
+LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 24: New Inn Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:d72e836e-23f7-4199-b215-82fd53ed24d4
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 24: Brussels British R 4 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:c38bc5af-b5c0-43cd-8153-8f23743c70a1
+DESCRIPTION:Acces voiture: Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 24: Tauro Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f681ab26-02f1-4213-9f77-0f9e359ec38f
+DESCRIPTION:Acces voiture: Place Meiser\, descendre Bd. Général Wahis\, 
+ Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore la 
+ première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram 
+ n° 7  - Bus 65 arrêt Chazal
+LOCATION:Complexe CHAZAL\, Rue Ernest Cambier\, 2\, 1030 Schaerbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 24: Karia Fc 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230311T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:2cc6e10e-dbbd-47d6-88d3-e80864dec924
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 25: Bye - Wokrasse F.c.
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:26ba7361-3037-4a63-a102-bb91bc1fdb27
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 25: Bye - Pangloss Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:3a2eb165-ab1a-4d23-a0f3-4f0ef98a475b
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 25: Bye - Cosmos Bruwolf Mj 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:87260fa7-0038-477a-b47f-22f3036e8f8d
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 25: Winchester F.c. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:f549f0ea-1d43-465f-87c1-b8a91104cfde
+DESCRIPTION:Acces voiture: A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.
+LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 25: Itt - Gecko Fc 2 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T123000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T135500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:fbdcd8ee-1a41-4c3a-bd19-115b76af37f9
+DESCRIPTION:Acces voiture: Chaussée de Louvain jusqu'à Nossegem\, au pre
+ mier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est in
+ diqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre
+  la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, t
+ raverser la chaussée de Louvain\, et suivre comme ci-avant.
+LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 25: Saint Georges Rcs 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:9774fac7-6ced-4ef8-be53-3da71410a25e
+DESCRIPTION:Acces voiture: Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.
+LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 25: Omnisport Bierghes 1 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:da6d3de9-5fae-49c8-8d2d-e8509f705a4d
+DESCRIPTION:Acces voiture: Autoroute Bruxelles-Charleroi (E19)\, prendre l
+ a sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tournai-L
+ ille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n° 24)
+ . En bas de la sortie\, prendre à droite\, direction Bierghes. Rouler tou
+ t droit jusqu'au premier feu rouge. Tourner à droite en direction de Hall
+ e\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à gauch
+ e. Le terrain se trouve à 300 m.
+LOCATION:Rue du Sartiau\, 3B\, 1430 Bierghes-Rebecq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 25: Realistes Mexico R - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7b0532cd-401f-4c78-a366-5d7fc22cd7a3
+DESCRIPTION:Acces voiture: Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.
+LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
+ beek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 25: New Inn Fc 3 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T140000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230318T152500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:23e25a0a-f080-435b-b487-5818109a36cf
+DESCRIPTION:Acces voiture: Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.
+LOCATION:Bosstraat\, 1950 Kraainem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4C DAY 26: Bye - New Arquois Fc 2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b599982e-fb58-4b82-be8e-c9e4976a1741
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 3C DAY 26: Bye - Chiefs Wsl 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:5be93829-30db-4fc2-8179-f2d2168b8c15
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5A DAY 26: Bye - Bea Woluwe
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:b13fad18-7d9d-4afb-abca-a5d5ba681406
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4B DAY 26: Bye - Trinquant 1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:47c593b9-88e0-42e3-b014-c708cddf8c4f
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5B DAY 26: Bye - Deaf Brussels Fc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:44c51843-ba95-4c09-b520-4c22940aff76
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4D DAY 26: Bye - Extranos (los)
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T000000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T012500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:7a4f313d-28bd-451f-aca8-a4aa028b2b41
+DESCRIPTION:Not found
+LOCATION:Not found
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 5C DAY 26: L'ekip - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T150000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T162500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:a8ffe179-399d-4a87-a02c-2fd37a01ddb3
+DESCRIPTION:Acces voiture:
+LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
+ rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
+ oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
+ N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
+ ndre chaque fois la première sortie.\, Av. des Marronniers\, 17\, 1360 Pe
+ rwez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 4A DAY 26: Hellas Berchem Fc. - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T130000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T142500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:404f412c-c7d8-430f-b670-f98326b5b574
+DESCRIPTION:Acces voiture: A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )
+LOCATION:PARC J. MONNET\, Lusthuizenstraat\, 1\, 1080 Sint-Agatha-Berchem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA 6E DAY 26: Brussels Ltc 7 - Bye
+DTSTART;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T153000
+DTEND;TZID=Europe/Brussels;VALUE=DATE-TIME:20230325T165500
+DTSTAMP;VALUE=DATE-TIME:20220822T191345Z
+UID:423432ac-34e9-4d31-b382-00dc3c0f24ee
+DESCRIPTION:Acces voiture: Venant de Bruxelles\, prendre le Ring Est direc
+ tion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval
+ . Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout d
+ roit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dir
+ ection Genval. Au feu de signalisation prendre à gauche et ensuite direct
+ ement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
+ à 300 m.
+LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe
+END:VEVENT
+END:VCALENDAR

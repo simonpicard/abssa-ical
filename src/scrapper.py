@@ -28,6 +28,8 @@ def get_field_address(url):
     res = requests.get(url)
     soup = BeautifulSoup(res.text, "html.parser")
     ul = soup.find_all("ul", {"class": "abssa_list"})
+    if len(ul) == 0:
+        return "Not found", "Not found"
     locality = re.search("Localité:(.+)", ul[3].text).group(1).strip()
     street = re.search("Rue:(.+)", ul[3].text).group(1).strip()
     name = re.search("Situation:(.+)", ul[3].text).group(1).strip()
