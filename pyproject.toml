@@ -1,0 +1,17 @@
+[tool.kedro]
+package_name = "abssa_calendar"
+project_name = "ABSSA calendar"
+project_version = "0.18.3"
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+addopts = """
+--cov-report term-missing \
+--cov src/abssa_calendar -ra"""
+
+[tool.coverage.report]
+fail_under = 0
+show_missing = true
+exclude_lines = ["pragma: no cover", "raise NotImplementedError"]

@@ -1,0 +1,68 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/data/data_catalog.html
+
+fields_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/fields.csv
+
+clubs_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/clubs.csv
+
+teams_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/teams.csv
+
+fixtures_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/fixtures.csv
+
+fixtures_intermediate:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/fixtures.csv
+
+fixtures_primary:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/fixtures.csv
+
+fields_primary:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/fields.csv
+
+clubs_primary:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/clubs.csv
+
+teams_primary:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/teams.csv
+
+clubs_teams_primary:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/club_teams.csv
+
+events_feature:
+  type: pandas.CSVDataSet
+  filepath: data/04_feature/events.csv
+  load_args:
+    parse_dates:
+      - datetime_start
+      - datetime_end
+
+metadata_feature:
+  type: pandas.CSVDataSet
+  filepath: data/04_feature/metadata.csv
+
+metadata_mo:
+  type: json.JSONDataSet
+  filepath: data/07_model_output/metadata.json
+
+ics_mo:
+  type: PartitionedDataSet
+  path: data/07_model_output/ics
+  dataset: text.TextDataSet
+  filename_suffix: ".ics"
+
+  
