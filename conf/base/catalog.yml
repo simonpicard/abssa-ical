@@ -59,6 +59,10 @@ metadata_mo:
   type: json.JSONDataSet
   filepath: data/07_model_output/metadata.json
 
+metadata_day_div_mo:
+  type: json.JSONDataSet
+  filepath: data/07_model_output/metadata_day_div.json
+
 ics_mo:
   type: PartitionedDataSet
   path: data/07_model_output/ics

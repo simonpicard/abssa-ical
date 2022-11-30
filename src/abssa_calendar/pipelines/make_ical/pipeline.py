@@ -5,7 +5,7 @@ generated using Kedro 0.18.3
 
 from kedro.pipeline import Pipeline, node, pipeline
 
-from .nodes import get_calendars, get_metadata_json
+from .nodes import get_calendars, get_metadata_day_div_json, get_metadata_json
 
 
 def create_pipeline(**kwargs) -> Pipeline:
@@ -22,6 +22,12 @@ def create_pipeline(**kwargs) -> Pipeline:
                 inputs="metadata_feature",
                 outputs="metadata_mo",
                 name="get_metadata_json",
+            ),
+            node(
+                func=get_metadata_day_div_json,
+                inputs="events_feature",
+                outputs="metadata_day_div_mo",
+                name="get_metadata_day_div_json",
             ),
         ]
     )

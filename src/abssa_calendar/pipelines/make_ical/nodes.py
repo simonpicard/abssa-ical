@@ -5,10 +5,13 @@ generated using Kedro 0.18.3
 import datetime
 import uuid
 
+import pandas as pd
 from icalendar import Calendar, Event, vCalAddress, vGeo, vText
 
 
 def generate_ics(events_df, name, desc, calendar_id):
+    events_df = events_df.sort_values("datetime_start")
+
     cal = Calendar()
     cal["VERSION"] = "2.0"
     cal["PRODID"] = calendar_id
@@ -65,21 +68,43 @@ def get_calendars_clubs(events_df, metadata_df):
 def get_calendars_days(events_df):
     calendars = {}
     for day in events_df["day"].unique():
-        name = f"Journée {day}"
-        desc = f"Les matches de la journée {day} en ABSSA."
-        calendar_id = f"abbsa_j_{day}"
+        for division in events_df["division"].unique():
+            name = f"D{division} Journée {day}"
+            desc = f"Les matches de la journée {day} en divion {division} d'ABSSA."
+            calendar_id = f"abbsa_j_{day}_d_{division.lower()}"
 
-        scope = events_df["day"] == day
+            scope = events_df["day"] == day
+            scope &= events_df["division"] == division
 
-        scoped_event_df = events_df.loc[scope]
-        calendars[calendar_id] = (
-            generate_ics(scoped_event_df, name, desc, calendar_id)
-            .to_ical()
-            .decode("utf-8")
-        )
+            scoped_event_df = events_df.loc[scope]
+            calendars[calendar_id] = (
+                generate_ics(scoped_event_df, name, desc, calendar_id)
+                .to_ical()
+                .decode("utf-8")
+            )
     return calendars
 
 
 def get_metadata_json(metata_df):
     metadata_json = metata_df.set_index("calendar_id").to_dict("index")
     return metadata_json
+
+
+def get_metadata_day_div_json(events_df):
+    metadata_day_div_json = events_df.groupby(["day", "division"], as_index=False)[
+        "datetime_start"
+    ].min()
+    metadata_day_div_json["calendar_id"] = metadata_day_div_json.apply(
+        lambda x: f"abbsa_j_{x['day']}_d_{x['division'].lower()}", axis=1
+    )
+    metadata_day_div_json["name"] = metadata_day_div_json.apply(
+        lambda x: f"D{x['division']} - Journée {x['day']}", axis=1
+    )
+
+    metadata_day_div_json = metadata_day_div_json.rename(
+        columns={"datetime_start": "date"}
+    )
+
+    metadata_day_div_json["date"] = metadata_day_div_json["date"].apply(str)
+
+    return metadata_day_div_json.set_index("calendar_id").to_dict("index")
