@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J1: ETTEKIJS (Eq. 3) vs AZUR RCS (Eq. 5)
 DTSTART:20220903T140000Z
-DTEND:20220903T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:5c3ccddd-ed8b-43f5-9248-bc7a59932e58
+DTEND:20220903T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:8e8cd338-ba0d-4117-b078-399f3176937b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu ciel\
  n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A
@@ -25,9 +25,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J2: COPAINS REUNIS (Eq. 2) vs ETTEKIJS (Eq. 3)
 DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:23c04d0b-d6e7-4020-898c-733dbc146b07
+DTEND:20220910T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:bd4ae8ac-9b7b-44f3-ac41-ae747afa87c4
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture 
@@ -46,9 +46,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J3: ETTEKIJS (Eq. 3) vs NIVELLES CS (Eq. 2)
 DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:7456215e-d2cb-4ba4-971e-7d2fa7c7c669
+DTEND:20220917T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:157476e3-1884-45b3-adc3-e13144283ff8
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Orange flu
  o\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture :
@@ -64,9 +64,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J4: GOALOIS (Eq. 3) vs ETTEKIJS (Eq. 3)
 DTSTART:20220924T140000Z
-DTEND:20220924T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:20a6013c-fe9f-42f5-9c7e-9735b28a547c
+DTEND:20220924T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:531b3cf2-d230-4656-b26e-f1d0cdc15432
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nC
  ontact équipe domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : B
@@ -83,9 +83,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J5: ETTEKIJS (Eq. 3) vs TOURINNOIS FC (Eq. 4)
 DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:fb41b806-b444-46bd-a93d-24827319499c
+DTEND:20221001T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:9b810f92-99c2-42b6-9921-11a091be0fea
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Rouge et b
  leu\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture
@@ -101,9 +101,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J6: BRUSSELS LTC (Eq. 5) vs ETTEKIJS (Eq. 3)
 DTSTART:20221008T153000Z
-DTEND:20221008T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:498bdd62-0075-4373-a894-21ce0cdeaa04
+DTEND:20221008T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:64d2173d-0f9c-4076-b445-19ed6c9bddaa
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Noir rayé de blanc\n
  \nContact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture
@@ -123,9 +123,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J7: ETTEKIJS (Eq. 3) vs ETINCELLE FC (Eq. 2)
 DTSTART:20221015T140000Z
-DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:e31091d5-1a13-4b4f-b878-cad03341a752
+DTEND:20221015T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:9a613f27-b8ad-4030-8df7-07d6b0135ad5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Jaune et b
  leu\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture
@@ -141,9 +141,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: PHARMA SC (Eq. 3) vs ETTEKIJS (Eq. 3)
 DTSTART:20221022T133000Z
-DTEND:20221022T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:998fa798-0124-45d1-837e-2122753547ba
+DTEND:20221022T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:b5301725-17fe-4daa-92c8-5d9c99ea1e81
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : 
@@ -160,9 +160,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J9: ETTEKIJS (Eq. 3) vs BRUSSELS BRITISH R (Eq. 5)
 DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:72582e8e-9b1f-45e8-8304-0327ff6f333b
+DTEND:20221105T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:c812db71-fc47-4f42-83d8-0a5d6642fd65
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
  ontact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A par
@@ -178,9 +178,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J10: ITT - GECKO FC (Eq. 4) vs ETTEKIJS (Eq. 3)
 DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:4ab86cc4-2946-4dcd-b5e4-52e52df9327f
+DTEND:20221112T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:3c6f4d12-bc82-4d89-8d25-989bed336a40
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Ch
@@ -199,9 +199,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: ETTEKIJS (Eq. 3) vs IDEAL RANGERS R
 DTSTART:20221119T140000Z
-DTEND:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:f2443091-cbc2-4aa0-8d51-bb067f6fda47
+DTEND:20221119T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:d528d4bd-de3e-490e-895a-eefbf8814aaf
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Orange et 
  Noir\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voitur
@@ -217,9 +217,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J12: NEW ARQUOIS FC (Eq. 3) vs ETTEKIJS (Eq. 3)
 DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:0879e6d1-bd85-48a8-abd9-37ebf37ae45b
+DTEND:20221126T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:c7bf3c18-5d0a-4864-a5e3-bee97c5c2254
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Auto
@@ -238,9 +238,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J13: ETTEKIJS (Eq. 3) vs COPAINS REUNIS (Eq. 2)
 DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:cfecc424-3370-47bd-bae1-49ce6819bd69
+DTEND:20221203T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:e9439efe-8ee8-484b-a70d-b67559e403a2
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Gris\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
@@ -256,9 +256,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J14: NIVELLES CS (Eq. 2) vs ETTEKIJS (Eq. 3)
 DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:bf399107-a21f-4255-ac37-bc6a404292f0
+DTEND:20221210T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:ccc599dd-bca0-4ecf-b0a7-9bdd3ccbe5f3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange fluo\nCouleur principale équipe exterieure: Noir rayé de blan
  c\n\nContact équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture
@@ -279,9 +279,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J15: COIN DU BALAI FC (Eq. 2) vs ETTEKIJS (Eq. 3)
 DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:f2554709-2bef-41e6-b1bc-3ade7f6b3252
+DTEND:20221217T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:fa196539-3405-409f-b46c-3221803727a3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A
@@ -297,9 +297,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J16: ETTEKIJS (Eq. 3) vs GOALOIS (Eq. 3)
 DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:c915bf7a-68fb-46ac-9603-296138a4ec2d
+DTEND:20230107T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:3f1fbc4b-6a4d-4e74-b4ce-101fcda42a2c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
  ontact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A par
@@ -315,9 +315,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J17: TOURINNOIS FC (Eq. 4) vs ETTEKIJS (Eq. 3)
 DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:83ef81ce-3a20-40a9-8f06-54e7be7167e7
+DTEND:20230114T161000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:cb04711b-a456-4e70-a4cb-45ec96029cdb
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et bleu\nCouleur principale équipe exterieure: Noir rayé de bl
  anc\n\nContact équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voitur
@@ -335,9 +335,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J18: ETTEKIJS (Eq. 3) vs BRUSSELS LTC (Eq. 5)
 DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:96af0514-5852-4a15-a0a1-851111e332ed
+DTEND:20230121T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:a85cdf13-04de-422e-8eef-24366a9c2ef7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bordeaux\n
  \nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A 
@@ -353,9 +353,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J19: ETINCELLE FC (Eq. 2) vs ETTEKIJS (Eq. 3)
 DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:3db67d7f-4c06-4d2b-b737-1d5d30837e5e
+DTEND:20230128T134000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:81d95d7d-6adc-401b-b800-b0a7a385bda8
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Noir rayé de bl
  anc\n\nContact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voitur
@@ -374,9 +374,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J20: ETTEKIJS (Eq. 3) vs PHARMA SC (Eq. 3)
 DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:88cc86b0-820c-4c30-9bbd-e2f7eccf7a76
+DTEND:20230204T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:ea9cc802-1ef8-4929-b119-3c11de38ec39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
@@ -392,9 +392,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: BRUSSELS BRITISH R (Eq. 5) vs ETTEKIJS (Eq. 3)
 DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:69fab0fe-0434-4746-8186-fdccafe7a04b
+DTEND:20230211T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:e2890ce3-35ab-4fbf-947e-eeb0904cc687
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nC
  ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
@@ -410,9 +410,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: ETTEKIJS (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:daaefaf5-1fed-4ce7-960f-ad8893e045c3
+DTEND:20230225T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:d4efdc62-7431-4959-8279-52fa7c989174
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
@@ -428,9 +428,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J23: ETTEKIJS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
 DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:a9c0d4df-4bfe-4781-9fda-1cf40d9613db
+DTEND:20230304T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:b9ea8c0b-3fd2-44ba-ad0d-11454a9d7d6b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Noir\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
@@ -446,9 +446,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: IDEAL RANGERS R vs ETTEKIJS (Eq. 3)
 DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:977647ce-b2bd-4f1b-84e6-9189f18ef2f5
+DTEND:20230311T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:dce0d2d2-3547-4fcf-aa47-41b09207f66f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Noir\nCouleur principale équipe exterieure: Noir rayé de b
  lanc\n\nContact équipe domicile: SIMON A. (0477.87.83.33)\n\nAccès voitu
@@ -473,9 +473,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: AZUR RCS (Eq. 5) vs ETTEKIJS (Eq. 3)
 DTSTART:20230318T133000Z
-DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:eb26667f-1585-4518-acd7-b1482e23b920
+DTEND:20230318T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:72a8c4dc-1c8f-456b-b2c2-d681c1af5b46
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Noir rayé de blanc\
  n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voi
@@ -494,9 +494,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J26: ETTEKIJS (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
 DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001026Z
-UID:4359a180-9f9f-4fd2-a70f-edaba2a9e6b1
+DTEND:20230325T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:28acbaa3-a30b-484f-a722-f036069994e1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part

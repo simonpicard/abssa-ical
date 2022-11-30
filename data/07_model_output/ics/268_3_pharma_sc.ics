@@ -7,9 +7,9 @@ X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J1: TOURINNOIS FC (Eq. 4) vs PHARMA SC (Eq. 3)
 DTSTART:20220903T150000Z
-DTEND:20220903T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:dedc940a-7b7e-4dbb-a27b-81c6f4119408
+DTEND:20220903T161000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:5b1cecb1-1711-4567-9857-9a9ab5673b7e
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
@@ -27,9 +27,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J2: PHARMA SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 5)
 DTSTART:20220910T133000Z
-DTEND:20220910T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:c171d81c-fb2e-4b79-ab9d-cada0988a404
+DTEND:20220910T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:90cea682-cce8-4f5e-afdc-4bd93b3bd3f0
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
  domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxel
@@ -46,9 +46,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J3: ITT - GECKO FC (Eq. 4) vs PHARMA SC (Eq. 3)
 DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:9d05e332-0d1b-43d6-bb4c-5072aceca59b
+DTEND:20220917T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:e94c0400-0ab2-453f-b274-153d533cdc91
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
@@ -67,9 +67,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J4: PHARMA SC (Eq. 3) vs AZUR RCS (Eq. 5)
 DTSTART:20220924T133000Z
-DTEND:20220924T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:9524d8d5-49dd-4106-aa13-a2f63d9bdf60
+DTEND:20220924T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:2f4ca074-31ff-40b5-8f02-17b48cb06f86
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Br
@@ -86,9 +86,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J5: NEW ARQUOIS FC (Eq. 3) vs PHARMA SC (Eq. 3)
 DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:af05d577-19cb-4d9d-bda8-e35ed6c0f2ac
+DTEND:20221001T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:4e64f36b-b2aa-4153-87db-6cd4af55db28
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
@@ -107,9 +107,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J6: PHARMA SC (Eq. 3) vs IDEAL RANGERS R
 DTSTART:20221008T133000Z
-DTEND:20221008T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:8f4ea08d-75d7-43fd-a155-2509d1c448b4
+DTEND:20221008T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:9a58ce8c-cbc5-41d6-abed-d9a22b927e43
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
   équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring 
@@ -126,9 +126,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J7: COIN DU BALAI FC (Eq. 2) vs PHARMA SC (Eq. 3)
 DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:354d0684-d75e-47c7-82bf-0ee0832830a0
+DTEND:20221015T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:c15a8044-322c-4cc5-a961-222c23e88b84
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
@@ -144,9 +144,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: PHARMA SC (Eq. 3) vs ETTEKIJS (Eq. 3)
 DTSTART:20221022T133000Z
-DTEND:20221022T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:f80b4bc5-6042-4cbb-b2e4-20e76d82dea7
+DTEND:20221022T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:810f20d9-2088-40b4-9722-7ea5cfb4d9da
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : 
@@ -163,9 +163,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J9: NIVELLES CS (Eq. 2) vs PHARMA SC (Eq. 3)
 DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:4ec9122b-4035-4ad4-a141-e00e0df9b668
+DTEND:20221105T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:3bfcd3e3-6a0d-44e1-bfe7-693b30e78292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange fluo\nCouleur principale équipe exterieure: Vert\n\nContact é
  quipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant de
@@ -186,9 +186,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J10: PHARMA SC (Eq. 3) vs GOALOIS (Eq. 3)
 DTSTART:20221112T133000Z
-DTEND:20221112T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:d7ceee65-ed4e-4531-aa6b-ca222883fd8e
+DTEND:20221112T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:5adecbef-042b-4aa4-8af1-9e61aaaafab6
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
  domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxel
@@ -205,9 +205,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: ETINCELLE FC (Eq. 2) vs PHARMA SC (Eq. 3)
 DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:b95c7fc3-93ec-4b4a-92d1-d2fe55ee68cf
+DTEND:20221119T134000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:41d3b3d3-04f9-49ac-99d8-d1708898f2e3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
  équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
@@ -226,9 +226,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J12: PHARMA SC (Eq. 3) vs BRUSSELS LTC (Eq. 5)
 DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:d7450ece-debc-44dc-8c3e-b06ef2e1b445
+DTEND:20221126T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:3356ad1b-9583-486d-85ef-16e43c4bd9cc
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
  pe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bru
@@ -245,9 +245,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J13: BRUSSELS BRITISH R (Eq. 5) vs PHARMA SC (Eq. 3)
 DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:1fcb172a-a5f1-4995-830c-85db06a32165
+DTEND:20221203T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:3f582a2c-10dc-429c-a5e9-0b95488187da
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
@@ -263,9 +263,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J14: PHARMA SC (Eq. 3) vs ITT - GECKO FC (Eq. 4)
 DTSTART:20221210T133000Z
-DTEND:20221210T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:d71192fe-2622-40fb-8b83-509afa685d20
+DTEND:20221210T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:b0544fcf-e331-4686-8b2c-1686b0a6faaa
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
  omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
@@ -282,9 +282,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J15: PHARMA SC (Eq. 3) vs COPAINS REUNIS (Eq. 2)
 DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:ddb8e99e-07a2-4d0f-85ff-1a6aa9af2e09
+DTEND:20221217T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:ba2bea06-068b-443f-8e1e-82b07b2b0a79
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
  omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
@@ -301,9 +301,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J16: AZUR RCS (Eq. 5) vs PHARMA SC (Eq. 3)
 DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:430fe845-bf4d-40a9-b332-3bf25a82c674
+DTEND:20230107T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:8c5fc7d8-b69f-4b62-b5c2-a572ac528a9c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -321,9 +321,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J17: PHARMA SC (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART:20230114T133000Z
-DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:d67e5ae3-4285-44db-b902-4a919d3d913e
+DTEND:20230114T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:12482d42-304c-4b0d-bbeb-659a8712658e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
@@ -340,9 +340,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J18: IDEAL RANGERS R vs PHARMA SC (Eq. 3)
 DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:6dba6e33-5cb9-4915-9b07-af6db0d72637
+DTEND:20230121T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:0dcd360c-cdcc-4ff7-9e6c-b7c756b003f5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Noir\nCouleur principale équipe exterieure: Vert\n\nContact
   équipe domicile: SIMON A. (0477.87.83.33)\n\nAccès voiture : Par le Cen
@@ -367,9 +367,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J19: PHARMA SC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
 DTSTART:20230128T133000Z
-DTEND:20230128T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:39492fe2-d5a6-493d-b269-ace4489f1d13
+DTEND:20230128T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:86e8f1c6-81a4-4cb7-affc-9f73fa77037e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
@@ -386,9 +386,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J20: ETTEKIJS (Eq. 3) vs PHARMA SC (Eq. 3)
 DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:538923ae-a768-453d-bba0-309e8dc26361
+DTEND:20230204T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:e4c5f04f-bf9b-49cf-8041-837ad7916bc7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
  ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
@@ -404,9 +404,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: PHARMA SC (Eq. 3) vs NIVELLES CS (Eq. 2)
 DTSTART:20230211T133000Z
-DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:79c56ac4-be7d-44f8-a44d-6de45fd4ac5f
+DTEND:20230211T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:a149e122-de0a-4513-9eb6-87c3e1006af7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
  quipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de 
@@ -423,9 +423,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: BRUSSELS LTC (Eq. 5) vs PHARMA SC (Eq. 3)
 DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:5c2817f5-b616-476b-89e1-90bd5e96b15c
+DTEND:20230225T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:1f0faf3c-c964-4d10-8150-d46623ac15a7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
  pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
@@ -445,9 +445,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J23: GOALOIS (Eq. 3) vs PHARMA SC (Eq. 3)
 DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:f152eb36-60b6-4158-94a8-6e6905382cb7
+DTEND:20230304T151000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:e825b2e8-0540-4e51-9cea-a326fff08f96
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : Boulevard de la 
@@ -464,9 +464,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: PHARMA SC (Eq. 3) vs ETINCELLE FC (Eq. 2)
 DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:5d96d093-21e5-460d-af36-10b4cfc932ae
+DTEND:20230311T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:716921a1-e2df-4d76-932e-3fd25bae1d66
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring d
@@ -483,9 +483,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: PHARMA SC (Eq. 3) vs TOURINNOIS FC (Eq. 4)
 DTSTART:20230318T133000Z
-DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:800c4d9f-df3b-4d54-abc8-77e14901d9d2
+DTEND:20230318T144000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:f676aad5-8b55-4efc-b7d7-d024adf37f24
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring d
@@ -502,9 +502,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J26: COPAINS REUNIS (Eq. 2) vs PHARMA SC (Eq. 3)
 DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T001027Z
-UID:06e35765-9689-49d8-981d-35cd6d690e75
+DTEND:20230325T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221201T001157Z
+UID:0f2c7b0b-fccb-4edc-bcf7-851acc7014bc
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de 
