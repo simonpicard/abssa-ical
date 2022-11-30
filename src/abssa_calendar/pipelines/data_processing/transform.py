@@ -66,7 +66,7 @@ def process_fixtures(fixtures_df):
     )
 
     fixtures_df["datetime_end"] = fixtures_df["datetime_start"] + datetime.timedelta(
-        minutes=35 * 2 + 15
+        minutes=35 * 2
     )
 
     return fixtures_df

@@ -5,7 +5,6 @@ generated using Kedro 0.18.3
 import datetime
 import uuid
 
-import pandas as pd
 from icalendar import Calendar, Event, vCalAddress, vGeo, vText
 
 
