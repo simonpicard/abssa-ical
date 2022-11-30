@@ -32,8 +32,17 @@ def generate_ics(events_df, name, desc, calendar_id):
 
 
 def get_calendars(events_df, metadata_df):
+    calendars_clubs = get_calendars_clubs(events_df, metadata_df)
+    calendars_days = get_calendars_days(events_df)
+
+    calendars = {**calendars_clubs, **calendars_days}
+
+    return calendars
+
+
+def get_calendars_clubs(events_df, metadata_df):
     calendars = {}
-    for rid, row in metadata_df.iterrows():
+    for rid_, row in metadata_df.iterrows():
         name = row["calname"]
         desc = row["caldesc"]
         calendar_id = row["calendar_id"]
@@ -50,19 +59,27 @@ def get_calendars(events_df, metadata_df):
             .to_ical()
             .decode("utf-8")
         )
-    calendars["all"] = (
-        generate_ics(
-            events_df,
-            "ABSSA tout les clubs",
-            "Les matches de tout les club en ABSSA.",
-            calendar_id,
+    return calendars
+
+
+def get_calendars_days(events_df):
+    calendars = {}
+    for day in events_df["day"].unique():
+        name = f"Journée {day}"
+        desc = f"Les matches de la journée {day} en ABSSA."
+        calendar_id = f"abbsa_j_{day}"
+
+        scope = events_df["day"] == day
+
+        scoped_event_df = events_df.loc[scope]
+        calendars[calendar_id] = (
+            generate_ics(scoped_event_df, name, desc, calendar_id)
+            .to_ical()
+            .decode("utf-8")
         )
-        .to_ical()
-        .decode("utf-8")
-    )
     return calendars
 
 
 def get_metadata_json(metata_df):
-    metadata_json = metata_df.to_dict("records")
+    metadata_json = metata_df.set_index("calendar_id").to_dict("index")
     return metadata_json
