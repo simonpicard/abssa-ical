@@ -23,7 +23,8 @@ logs/**
 !.gitkeep
 
 # also keep the example dataset
-!data/07_model_output/
+!data/07_model_output/*
+!data/07_model_output/**
 
 
 ##########################
