@@ -5,90 +5,30 @@ X-WR-CALDESC:Les matches du club AZUR RCS (equipe 4) en ABSSA.
 X-WR-CALNAME:ABSSA: AZUR RCS (eq. 4)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J11: CENTRAL PARK FC (Eq. 2) vs AZUR RCS (Eq. 4)
-DTSTART:20221119T140000Z
-DTEND:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:a45eec33-c459-46d8-b42b-17f492f120df
+SUMMARY:ABSSA D5A J1: GAMBRINUS F.C. vs AZUR RCS (Eq. 4)
+DTSTART:20220903T140000Z
+DTEND:20220903T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:943f5355-4b95-4b1f-8552-38deaa75179f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\nContact 
- équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard d
- e la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au 
- Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche
- .\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC
- \nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo t
- errain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J23: WINCHESTER F.C. vs AZUR RCS (Eq. 4)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:b97edbd0-b741-4fa6-9e18-2b80bb2e848d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture 
- : A partir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre 
- la sortie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gist
- oux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre
-  la sortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans 
- la rue de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org
- /team/653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/te
- am/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J20: RANGERS F.C. vs AZUR RCS (Eq. 4)
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:a0c56128-4ba3-4963-abe9-d5c8885a5f6f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu ciel\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès vo
- iture : De la Place Meiser\, remonter tous les boulevards. Au carrefour de
-  la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue
-  à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhan
- is).\n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\n
- Info équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo ter
- rain: https://www.abssa.org/terrain/E04\n
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J4: FORESTOIS SC (Eq. 3) vs AZUR RCS (Eq. 4)
-DTSTART:20220924T153000Z
-DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:a69c36a8-6c95-4bd7-8083-8f8f8287d4ff
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
- e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
-  la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
- ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
- e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
- Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.
- org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/
- team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ le: Rose\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la cha
+ ussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2
+ ème rue à droite\, l' Avenue des Communautés\, l'entrée au terrain est
+  situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645
+ /GAMBRINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZU
+ R-RCS\nInfo terrain: https://www.abssa.org/terrain/E10
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J2: BRITISH UNITED (Eq. 4) vs AZUR RCS (Eq. 4)
 DTSTART:20220910T130000Z
 DTEND:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:18a93364-b617-402c-a23e-d825eb10fd51
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:3a04bdde-fa1f-45e2-b3a5-add748c90038
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autorout
@@ -98,95 +38,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10
   min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abss
  a.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.
- org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02\n
+ org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J26: ELAN EVERE RAC vs AZUR RCS (Eq. 4)
-DTSTART:20230325T133000Z
-DTEND:20230325T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:cc56a5e7-01e7-424b-b52b-edc5c45ec7e3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain s
- e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieure: https://w
- ww.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrai
- n/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J9: BEA WOLUWE vs AZUR RCS (Eq. 4)
-DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:4545f9d5-6c4d-4bc3-9146-9c25b2bec7dc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe exterieure: Bleu ciel\n\nContac
- t équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Ave
- nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\n
- Info équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo ter
- rain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J1: GAMBRINUS F.C. vs AZUR RCS (Eq. 4)
-DTSTART:20220903T140000Z
-DTEND:20220903T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:4ec0d833-a785-45d5-950d-c150a79be3aa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la cha
- ussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2
- ème rue à droite\, l' Avenue des Communautés\, l'entrée au terrain est
-  situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645
- /GAMBRINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZU
- R-RCS\nInfo terrain: https://www.abssa.org/terrain/E10\n
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J19: WOLUWE FC vs AZUR RCS (Eq. 4)
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:e36d6708-e092-48f0-bf8f-d57627cef8a9
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par
-  la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart
- \, Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-po
- int\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rix
- ensart. Après 900 mètres\, à la Place de la Perche\, prendre à droite 
- l'avenue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInf
- o équipe domicile: https://www.abssa.org/team/153/WOLUWE-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https:
- //www.abssa.org/terrain/R03\n
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5A J3: AZUR RCS (Eq. 4) vs EFFETA FC
 DTSTART:20220917T120000Z
 DTEND:20220917T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:9c5782bc-f24a-4a29-8ac5-75a834e80e68
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:cc9c0956-fb1d-4d21-9a57-703aa86b943d
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et noir\n\nCon
  tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
@@ -196,81 +59,39 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
  ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
  ww.abssa.org/team/516/EFFETA-FC\nInfo terrain: https://www.abssa.org/terra
- in/W12\n
+ in/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J21: AZUR RCS (Eq. 4) vs BEA WOLUWE
-DTSTART:20230211T120000Z
-DTEND:20230211T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:97a2f6c2-84f2-4e87-a983-55f7e74f644d
+SUMMARY:ABSSA D5A J4: FORESTOIS SC (Eq. 3) vs AZUR RCS (Eq. 4)
+DTSTART:20220924T153000Z
+DTEND:20220924T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:c3c69583-b3d0-47a1-945e-9ee0f8963230
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu clair\n\nContac
- t équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Av
- enue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pr
- endre à gauche au premier feu de signalisation (Av. Madoux). Au feu de si
- gnalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin).
-  Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: http
- s://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.
- abssa.org/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain
- /W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J25: AZUR RCS (Eq. 4) vs GAMBRINUS F.C.
-DTSTART:20230318T120000Z
-DTEND:20230318T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:0f65b046-85f0-46d4-8f76-6cf68771de23
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rose\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/W12
- \n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J24: AZUR RCS (Eq. 4) vs CENTRAL PARK FC (Eq. 2)
-DTSTART:20230311T120000Z
-DTEND:20230311T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:5e6c967a-3e23-4c45-9aa3-c7dab0c3a52b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bordeaux\n\nContact 
- équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Aven
- ue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pren
- dre à gauche au premier feu de signalisation (Av. Madoux). Au feu de sign
- alisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). E
- nsuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https:
- //www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.ab
- ssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terr
- ain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
+ e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
+  la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
+ ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
+ e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
+ Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/
+ team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J5: AZUR RCS (Eq. 4) vs WATERMAEL FC (Eq. 2)
 DTSTART:20221001T120000Z
 DTEND:20221001T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:7c7e2b0a-c3ec-450d-bb19-e0fc6ec73f2d
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:cfa8344a-37c9-48e9-be9e-55891b9c9911
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -280,102 +101,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
  org/team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/W12
- \n
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J8: AZUR RCS (Eq. 4) vs RANGERS F.C.
-DTSTART:20221022T120000Z
-DTEND:20221022T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:fb546729-2fc9-414f-a72b-2525223c16b5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc
-  et Bleu\n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nA
- ccès voiture : Avenue de Tervuren\, direction Tervuren. Passé le bouleva
- rd du Souverain prendre à gauche au premier feu de signalisation (Av. Mad
- oux). Au feu de signalisation suivant prendre la 2ème rue à main droite 
- (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équ
- ipe domicile: https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exteri
- eure: https://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www
- .abssa.org/terrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J10: AZUR RCS (Eq. 4) vs WINCHESTER F.C.
-DTSTART:20221112T120000Z
-DTEND:20221112T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:520a72ad-1e3d-416e-a5d1-4e85d094937d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu et blanc\n\nCon
- tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
-  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
-  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
-  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
- n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/t
- errain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J15: AZUR RCS (Eq. 4) vs ELAN EVERE RAC
-DTSTART:20221217T120000Z
-DTEND:20221217T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:5c10fe8f-2e36-413e-a3ab-1e3b028bc534
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: AZUR RCS (Eq. 4) vs FORESTOIS SC (Eq. 3)
-DTSTART:20230107T120000Z
-DTEND:20230107T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:90fb8937-33ce-4d4d-8e87-9fac3a31f1de
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/W12
- \n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+SUMMARY:ABSSA D5A J6: POSTBOYS FC vs AZUR RCS (Eq. 4)
+DTSTART:20221008T140000Z
+DTEND:20221008T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b96d877f-d935-4c5b-8fe4-83409f52f3fe
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Di
+ rection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jus
+ qu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à 
+ gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-
+ FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo
+  terrain: https://www.abssa.org/terrain/J01
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER:MAILTO:secretariat@postboys.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J7: AZUR RCS (Eq. 4) vs WOLUWE FC
 DTSTART:20221015T120000Z
 DTEND:20221015T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:cd489458-1852-437b-a823-c5e741a5c4ad
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:6b4140d3-f8a0-4886-9e55-64e03da5633f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et Bleu\n\nCon
  tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
@@ -385,39 +140,97 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
  ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
  ww.abssa.org/team/153/WOLUWE-FC\nInfo terrain: https://www.abssa.org/terra
- in/W12\n
+ in/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J18: AZUR RCS (Eq. 4) vs POSTBOYS FC
-DTSTART:20230121T120000Z
-DTEND:20230121T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:799427f1-535b-4079-8cd0-ec7c8b88a6c4
+SUMMARY:ABSSA D5A J8: AZUR RCS (Eq. 4) vs RANGERS F.C.
+DTSTART:20221022T120000Z
+DTEND:20221022T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:3b6993f1-a7c7-4eae-b30c-edda5181ca47
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et noir\n\nCon
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc
+  et Bleu\n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nA
+ ccès voiture : Avenue de Tervuren\, direction Tervuren. Passé le bouleva
+ rd du Souverain prendre à gauche au premier feu de signalisation (Av. Mad
+ oux). Au feu de signalisation suivant prendre la 2ème rue à main droite 
+ (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équ
+ ipe domicile: https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exteri
+ eure: https://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www
+ .abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J9: BEA WOLUWE vs AZUR RCS (Eq. 4)
+DTSTART:20221105T140000Z
+DTEND:20221105T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:ac26e6ee-73b7-4e89-b004-c0a580ad213e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu clair\nCouleur principale équipe exterieure: Bleu ciel\n\nContac
+ t équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Ave
+ nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\n
+ Info équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo ter
+ rain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J10: AZUR RCS (Eq. 4) vs WINCHESTER F.C.
+DTSTART:20221112T120000Z
+DTEND:20221112T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:1086084a-3025-40a8-a803-b3592ce3b2bc
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu et blanc\n\nCon
  tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
   Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
   prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
   signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
  n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
  ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/ter
- rain/W12\n
+ ww.abssa.org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/t
+ errain/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J11: CENTRAL PARK FC (Eq. 2) vs AZUR RCS (Eq. 4)
+DTSTART:20221119T140000Z
+DTEND:20221119T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b4bc2016-c2d4-48a6-9760-7999f1d23247
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\nContact 
+ équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard d
+ e la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au 
+ Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC
+ \nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo t
+ errain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J13: AZUR RCS (Eq. 4) vs BRITISH UNITED (Eq. 4)
 DTSTART:20221203T120000Z
 DTEND:20221203T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:70e89040-71b6-41a8-989a-9e5a9f4326d4
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:0bd4197d-229d-4794-8a51-7e0b0a8f747b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -427,7 +240,67 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
  org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
+ 12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J14: EFFETA FC vs AZUR RCS (Eq. 4)
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:03fb4d16-0bf8-4633-846a-001e5549b9b2
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Auto
+ route Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre 
+ à gauche\, direction Londerzeel. Suivre la plaque Stationstraat. Passée 
+ la gare (après env. 1200 m.) prendre à gauche au " Monument aux Morts". 
+ Le terrain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/516/EFFETA-FC\nInfo équipe exterieure: https://www.abssa.org/tea
+ m/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/L05
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER:MAILTO:effetafc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J15: AZUR RCS (Eq. 4) vs ELAN EVERE RAC
+DTSTART:20221217T120000Z
+DTEND:20221217T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:6fc4eb55-4702-4c1e-b853-701f69444104
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/W
+ 12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: AZUR RCS (Eq. 4) vs FORESTOIS SC (Eq. 3)
+DTSTART:20230107T120000Z
+DTEND:20230107T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b5af1d3e-eef2-46f5-86b5-4102b1522a3b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -437,8 +310,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J17: WATERMAEL FC (Eq. 2) vs AZUR RCS (Eq. 4)
 DTSTART:20230114T133000Z
 DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:40bf3934-ff0c-494e-b953-a79cecf3a696
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:bcdfd1fe-21b8-4f38-91dc-3094aa3310e6
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au
@@ -449,48 +322,172 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  s la piste d'athlétisme et le terrain de hockey.\n\nInfo équipe domicile
  : https://www.abssa.org/team/611/WATERMAEL-FC\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org
- /terrain/A10\n
+ /terrain/A10
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
 ORGANIZER:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J6: POSTBOYS FC vs AZUR RCS (Eq. 4)
-DTSTART:20221008T140000Z
-DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:34149a8a-c76b-41af-8193-e44a37e24127
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Di
- rection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jus
- qu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à 
- gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-
- FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo
-  terrain: https://www.abssa.org/terrain/J01\n
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+SUMMARY:ABSSA D5A J18: AZUR RCS (Eq. 4) vs POSTBOYS FC
+DTSTART:20230121T120000Z
+DTEND:20230121T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:64850c76-50a0-4312-862b-b0a040cabf34
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et noir\n\nCon
+ tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
+  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
+  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
+  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
+ n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/ter
+ rain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J14: EFFETA FC vs AZUR RCS (Eq. 4)
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:206184bb-e2d3-41a0-8282-e15b15c0d789
+SUMMARY:ABSSA D5A J19: WOLUWE FC vs AZUR RCS (Eq. 4)
+DTSTART:20230128T153000Z
+DTEND:20230128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:309341ab-556a-41b7-b5d0-ad3c2670993f
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre 
- à gauche\, direction Londerzeel. Suivre la plaque Stationstraat. Passée 
- la gare (après env. 1200 m.) prendre à gauche au " Monument aux Morts". 
- Le terrain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.
- org/team/516/EFFETA-FC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/L05\n
-GEO:51.0192214;4.2904455
-LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
-ORGANIZER:MAILTO:effetafc@gmail.com
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par
+  la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart
+ \, Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-po
+ int\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rix
+ ensart. Après 900 mètres\, à la Place de la Perche\, prendre à droite 
+ l'avenue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/153/WOLUWE-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https:
+ //www.abssa.org/terrain/R03
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER:MAILTO:kevin.purnelle@ing.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J20: RANGERS F.C. vs AZUR RCS (Eq. 4)
+DTSTART:20230204T140000Z
+DTEND:20230204T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b69e8681-b957-40f2-9e04-28ae2de9cdf4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
+ leu ciel\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès vo
+ iture : De la Place Meiser\, remonter tous les boulevards. Au carrefour de
+  la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue
+  à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhan
+ is).\n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\n
+ Info équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo ter
+ rain: https://www.abssa.org/terrain/E04
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER:MAILTO:samuel.thuns@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J21: AZUR RCS (Eq. 4) vs BEA WOLUWE
+DTSTART:20230211T120000Z
+DTEND:20230211T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:49fdbc33-903c-45e1-926a-be958ee65410
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu clair\n\nContac
+ t équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Av
+ enue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pr
+ endre à gauche au premier feu de signalisation (Av. Madoux). Au feu de si
+ gnalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin).
+  Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.
+ abssa.org/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain
+ /W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J23: WINCHESTER F.C. vs AZUR RCS (Eq. 4)
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:34ab3912-bca9-498f-aba4-561954e785e5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture 
+ : A partir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre 
+ la sortie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gist
+ oux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre
+  la sortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans 
+ la rue de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/te
+ am/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:winchesterfc@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J24: AZUR RCS (Eq. 4) vs CENTRAL PARK FC (Eq. 2)
+DTSTART:20230311T120000Z
+DTEND:20230311T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:ca08c43c-fa33-447c-bbdb-5b9e7c322956
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bordeaux\n\nContact 
+ équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Aven
+ ue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pren
+ dre à gauche au premier feu de signalisation (Av. Madoux). Au feu de sign
+ alisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). E
+ nsuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terr
+ ain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J25: AZUR RCS (Eq. 4) vs GAMBRINUS F.C.
+DTSTART:20230318T120000Z
+DTEND:20230318T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:112fcb62-b2c7-4028-b6c3-3aaa0d165619
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rose\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J26: ELAN EVERE RAC vs AZUR RCS (Eq. 4)
+DTSTART:20230325T133000Z
+DTEND:20230325T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:d608c3b0-1d6e-412a-9bd6-0bdb038e80f6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain s
+ e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrai
+ n/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 END:VCALENDAR

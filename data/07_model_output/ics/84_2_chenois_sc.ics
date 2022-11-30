@@ -5,51 +5,111 @@ X-WR-CALDESC:Les matches du club CHENOIS SC (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: CHENOIS SC (eq. 2)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: HIGGINS (Eq. 2) vs CHENOIS SC (Eq. 2)
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4e85fd8f-d084-442f-823b-fa58aa7a5030
+SUMMARY:ABSSA D3D J1: CHENOIS SC (Eq. 2) vs GERMINAL CSA
+DTSTART:20220903T133000Z
+DTEND:20220903T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1743598e-7bc4-440c-84e0-577aa268123b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/084/C
- HENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+ le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
+ \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
+ continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
+  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
+ ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
+ à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/235/GERMINAL-
+ CSA\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J8: CHIEFS WSL (Eq. 2) vs CHENOIS SC (Eq. 2)
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0f8fc8cf-ebc4-42cd-a4e0-1d01dd71e479
+SUMMARY:ABSSA D3D J2: IRLANDE FC (Eq. 4) vs CHENOIS SC (Eq. 2)
+DTSTART:20220910T140000Z
+DTEND:20220910T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9a76cb6d-7491-4b73-8a29-3bca18e17df2
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J3: CHENOIS SC (Eq. 2) vs HIGGINS (Eq. 2)
+DTSTART:20220917T133000Z
+DTEND:20220917T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b867d15f-452c-4dcc-8b7d-0adeef078c04
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
- oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
- Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
- nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
- ipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: h
- ttps://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ le: Rouge\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
+ ontact équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture :
+  Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée 
+ de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection de 
+ la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au 
+ feu de signalisation prendre à droite la chaussée Bara. Le terrain se tr
+ ouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/tea
+ m/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J4: BXL ALLIANCE JETTE vs CHENOIS SC (Eq. 2)
+DTSTART:20220924T140000Z
+DTEND:20220924T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:43ed19f8-a258-4c02-915b-5e0cdb647e25
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Direction cimeti
+ ère de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, p
+ uis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/566/BXL-ALLIANCE-JETTE\nInf
+ o équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terr
+ ain: https://www.abssa.org/terrain/J01
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER:MAILTO:zal.stan@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J5: CHENOIS SC (Eq. 2) vs SPARTAK SYNERGY
+DTSTART:20221001T133000Z
+DTEND:20221001T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3620e718-023a-4990-b843-f4f0307b9671
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Rouge et blanc\n\nContac
+ t équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Vena
+ nt d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Br
+ uxelles\, continuer jusqu'à la place E. Vandevelde (intersection de la ch
+ aussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu d
+ e signalisation prendre à droite la chaussée Bara. Le terrain se trouve 
+ à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/637
+ /SPARTAK-SYNERGY\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J6: COLO-COLO UNITED vs CHENOIS SC (Eq. 2)
 DTSTART:20221008T123000Z
 DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e1fdf676-89f2-4471-92e6-d70d0aa0aa65
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4cbf6352-c983-416c-86b5-e4927a36a546
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Rouge\n\n
  Contact équipe domicile: DE LE COURT Y. (0472.35.25.20)\n\nAccès voiture
@@ -60,197 +120,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  la 4ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. 
  sur la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/625/CO
  LO-COLO-UNITED\nInfo équipe exterieure: https://www.abssa.org/team/084/CH
- ENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/K02\n
+ ENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:youdelecourt@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: CHENOIS SC (Eq. 2) vs COLO-COLO UNITED
-DTSTART:20230121T133000Z
-DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:83f7f2c5-6084-457e-9dac-647970426fc4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu foncé et blanc\n\n
- Contact équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture 
- : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée
-  de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection de
-  la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au
-  feu de signalisation prendre à droite la chaussée Bara. Le terrain se t
- rouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.
- org/team/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/te
- am/625/COLO-COLO-UNITED\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: CHENOIS SC (Eq. 2) vs WONG A.S. (Eq. 2)
-DTSTART:20230304T133000Z
-DTEND:20230304T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cdcf01b1-b5cb-4f8b-8c4b-8bd37fa8bc47
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
- e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
-  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
- e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
- sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
-  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
- ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/523/WONG-AS\
- nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: CHENOIS SC (Eq. 2) vs VETUSO FC.
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a8812e36-1df2-43ef-8600-e47463c1711f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
- \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
- continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
-  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
- ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
- à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/624/VETUSO-FC
- \nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: CHENOIS SC (Eq. 2) vs BOUSVAL GENAPPE
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cde44722-717c-46bb-ba8f-49c1b9934a4e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
- e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
-  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
- e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
- sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
-  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
- ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/401/BOUSVAL-
- GENAPPE\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: CHENOIS SC (Eq. 2) vs BXL ALLIANCE JETTE
-DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c1aa0d1b-50ca-4b7e-91eb-55558983b075
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
- \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
- continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
-  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
- ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
- à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/566/BXL-ALLIA
- NCE-JETTE\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: CHENOIS SC (Eq. 2) vs CHIEFS WSL (Eq. 2)
-DTSTART:20230204T133000Z
-DTEND:20230204T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d154859f-e35c-45ec-aebf-8a3f4006c5eb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
- e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
-  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
- e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
- sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
-  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
- ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS-W
- SL\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: CHENOIS SC (Eq. 2) vs MACCABI BXL
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5579eb9a-5b24-4617-9aeb-8686c49611b2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
- \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
- continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
-  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
- ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
- à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/634/MACCABI-B
- XL\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J13: CHENOIS SC (Eq. 2) vs IRLANDE FC (Eq. 4)
-DTSTART:20221203T133000Z
-DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:25e63ec8-aca0-4096-8502-f62c3a15f076
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
- \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
- continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
-  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
- ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
- à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-F
- C\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J1: CHENOIS SC (Eq. 2) vs GERMINAL CSA
-DTSTART:20220903T133000Z
-DTEND:20220903T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:971e6b4b-3dd2-47d7-9c1e-d43cb72f4a2e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
- \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
- continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
-  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
- ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
- à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/235/GERMINAL-
- CSA\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D3D J7: CHENOIS SC (Eq. 2) vs MOUSSES TACHENT
 DTSTART:20221015T133000Z
 DTEND:20221015T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:91e3c533-1e60-4360-8d33-fc2512f21d0d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b938cdc9-19fc-4199-a08a-2417e0dd0eee
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
  ipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'U
@@ -260,37 +140,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  alisation prendre à droite la chaussée Bara. Le terrain se trouve à dro
  ite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084
  /CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/643/MOUSS
- ES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/W02\n
+ ES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER:MAILTO:sc.chenois@waterloo.eu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J5: CHENOIS SC (Eq. 2) vs SPARTAK SYNERGY
-DTSTART:20221001T133000Z
-DTEND:20221001T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5097a400-fd46-413e-b93f-c871d22b6ece
+SUMMARY:ABSSA D3D J8: CHIEFS WSL (Eq. 2) vs CHENOIS SC (Eq. 2)
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:20bd3d63-72aa-4927-b0e0-01fdc5666d31
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Rouge et blanc\n\nContac
- t équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Vena
- nt d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Br
- uxelles\, continuer jusqu'à la place E. Vandevelde (intersection de la ch
- aussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu d
- e signalisation prendre à droite la chaussée Bara. Le terrain se trouve 
- à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/637
- /SPARTAK-SYNERGY\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+ le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
+  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
+ oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
+ Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: h
+ ttps://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J9: CHENOIS SC (Eq. 2) vs FRANGINOS (LOS)
 DTSTART:20221105T133000Z
 DTEND:20221105T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b8167a54-ff3e-4283-a1ee-efda34d35637
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1e455609-4d96-417e-a163-ad7c4a2cbbba
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
   domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
@@ -300,222 +179,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
   à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
  ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/647/FRANGINO
- S-LOS\nInfo terrain: https://www.abssa.org/terrain/W02\n
+ S-LOS\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J3: CHENOIS SC (Eq. 2) vs HIGGINS (Eq. 2)
-DTSTART:20220917T133000Z
-DTEND:20220917T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:094d19ef-b2a7-4fcb-a465-4decab71fb0a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture :
-  Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée 
- de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection de 
- la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au 
- feu de signalisation prendre à droite la chaussée Bara. Le terrain se tr
- ouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: GERMINAL CSA vs CHENOIS SC (Eq. 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3615e7ec-1d81-4dde-8ede-0e82ae64fbb1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambermo
- nt\, prendre le boulevard Léopold III\, direction aéroport de Bruxelles-
- National\, au 3ème feu de signalisation prendre à droite. le terrain se 
- trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/235/G
- ERMINAL-CSA\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENO
- IS-SC\nInfo terrain: https://www.abssa.org/terrain/E07\n
-GEO:50.8691981;4.4067073
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER:MAILTO:m.naniot@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J11: MACCABI BXL vs CHENOIS SC (Eq. 2)
-DTSTART:20221119T140000Z
-DTEND:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:66666507-3727-4381-9f30-d7c7b51f1e1b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: GODART D. (0491.61.16.92)\n\nAccès voiture : Au départ de la P
- lace St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la ru
- e de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler 
- env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pen
- dant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\,
-  à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/634/MACCABI-BXL\nInfo équipe exterieure: https://www.abssa.org/team/08
- 4/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:maccabibxl@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J2: IRLANDE FC (Eq. 4) vs CHENOIS SC (Eq. 2)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:253f7185-5bb9-4d0f-846a-2ec50a576080
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/084/CHE
- NOIS-SC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J4: BXL ALLIANCE JETTE vs CHENOIS SC (Eq. 2)
-DTSTART:20220924T140000Z
-DTEND:20220924T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:37ebcbc1-25d8-4651-ba80-21657f1b01aa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Direction cimeti
- ère de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, p
- uis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nInf
- o équipe domicile: https://www.abssa.org/team/566/BXL-ALLIANCE-JETTE\nInf
- o équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terr
- ain: https://www.abssa.org/terrain/J01\n
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:zal.stan@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: FRANGINOS (LOS) vs CHENOIS SC (Eq. 2)
-DTSTART:20230211T150000Z
-DTEND:20230211T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:98de5f49-a522-4b1f-a49f-f0e4c333720d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a Partir de Bruxe
- lles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  Gembl
- oux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodoigne
-  / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de la R
- ue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la premi
- ère Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sortie e
- t Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la Ru
- e des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domicil
- e: https://www.abssa.org/team/647/FRANGINOS-LOS\nInfo équipe exterieure: 
- https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa
- .org/terrain/P02\n
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: VETUSO FC. vs CHENOIS SC (Eq. 2)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b5700947-8f82-4a67-a25e-23a59298af5f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelles p
- rendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la 
- N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie 
- Loupoigne\, traverser le carrefour\, tout droit direction route du sucre.\
- n\nInfo équipe domicile: https://www.abssa.org/team/624/VETUSO-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrai
- n: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: BOUSVAL GENAPPE vs CHENOIS SC (Eq. 2)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:09bfb7e4-aa87-4655-a29c-32a273f9a8fb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxe
- lles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite s
- ur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, s
- ortie Loupoigne\, traverser le carrefour\, tout droit direction route du s
- ucre.\n\nInfo équipe domicile: https://www.abssa.org/team/401/BOUSVAL-GEN
- APPE\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\n
- Info terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: SPARTAK SYNERGY vs CHENOIS SC (Eq. 2)
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9d76a882-546a-41c6-a485-7033e4b570ae
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge\n\nContac
- t équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voiture : Ring de 
- Bruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Bruss
- egem au carrefour Asse-Wolvertem\, prendre direction Asse. Après l'églis
- e\, prendre la 1ère à main droite (direction Mollem). Après 2 km. prend
- re la Kouterstraat qui se trouve juste en face de l'église.\n\nInfo équi
- pe domicile: https://www.abssa.org/team/637/SPARTAK-SYNERGY\nInfo équipe 
- exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https
- ://www.abssa.org/terrain/M07\n
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: MOUSSES TACHENT vs CHENOIS SC (Eq. 2)
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2aad75a5-1f73-462c-8014-733387fef289
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
- irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
- \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
- la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
- ienne) et prendre à gauche\, le terrain se trouve à 1 km. a main droite.
- \nPar la E411: Prendre la E411 direction Namur\, ensuite sortir a Wavre\, 
- prendre ensuite la sortie Villers-La-Ville\, ensuite à droite puis direct
- ement à gauche a l'arbre et descendre jusque dans le fond\, prendre a dro
- ite et le terrain se trouve à 500 m. a main gauche.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/643/MOUSSES-TACHENT\nInfo équipe exterieu
- re: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.a
- bssa.org/terrain/C02\n
-GEO:50.6343528;4.5383633
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J10: WONG A.S. (Eq. 2) vs CHENOIS SC (Eq. 2)
 DTSTART:20221112T144500Z
 DTEND:20221112T161000Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:01349a46-1578-4592-92f3-23ee8e5d1afd
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ec4eaf40-6bac-44db-9a8e-0d592f3343a9
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
   domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : Aux quatre-Bras
@@ -530,9 +204,335 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  \nLe terrain se situe sur la droite de la route!\n\nInfo équipe domicile:
   https://www.abssa.org/team/523/WONG-AS\nInfo équipe exterieure: https://
  www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/ter
- rain/T07\n
+ rain/T07
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER:MAILTO:vanimpe-julien@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J11: MACCABI BXL vs CHENOIS SC (Eq. 2)
+DTSTART:20221119T140000Z
+DTEND:20221119T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5947c0fc-9b12-4728-91fb-6b27a8f5ffe6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: GODART D. (0491.61.16.92)\n\nAccès voiture : Au départ de la P
+ lace St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la ru
+ e de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler 
+ env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pen
+ dant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\,
+  à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/634/MACCABI-BXL\nInfo équipe exterieure: https://www.abssa.org/team/08
+ 4/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:maccabibxl@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J12: CHENOIS SC (Eq. 2) vs VETUSO FC.
+DTSTART:20221126T133000Z
+DTEND:20221126T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b9e0d0a9-e90c-436e-b11d-f1965d7b78cd
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
+ \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
+ continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
+  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
+ ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
+ à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/624/VETUSO-FC
+ \nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J13: CHENOIS SC (Eq. 2) vs IRLANDE FC (Eq. 4)
+DTSTART:20221203T133000Z
+DTEND:20221203T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ba7717d8-90d0-4241-95c9-ce987c832b12
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
+ \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
+ continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
+  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
+ ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
+ à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-F
+ C\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J14: HIGGINS (Eq. 2) vs CHENOIS SC (Eq. 2)
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5e787b2e-6868-4951-b889-5559e395b842
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge\n\nC
+ ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/084/C
+ HENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J15: CHENOIS SC (Eq. 2) vs BOUSVAL GENAPPE
+DTSTART:20221217T133000Z
+DTEND:20221217T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:01f0f807-1900-449d-a168-3c3098e3c58f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
+ e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
+  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
+ e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
+ sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
+  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
+ ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/401/BOUSVAL-
+ GENAPPE\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J16: CHENOIS SC (Eq. 2) vs BXL ALLIANCE JETTE
+DTSTART:20230107T133000Z
+DTEND:20230107T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:852ecbe3-d760-4add-8a03-69aec13f7c1b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
+ \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
+ continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
+  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
+ ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
+ à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/566/BXL-ALLIA
+ NCE-JETTE\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J17: SPARTAK SYNERGY vs CHENOIS SC (Eq. 2)
+DTSTART:20230114T153000Z
+DTEND:20230114T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4b06c3f2-3c26-44b3-bb92-e2595a0c4de5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge\n\nContac
+ t équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voiture : Ring de 
+ Bruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Bruss
+ egem au carrefour Asse-Wolvertem\, prendre direction Asse. Après l'églis
+ e\, prendre la 1ère à main droite (direction Mollem). Après 2 km. prend
+ re la Kouterstraat qui se trouve juste en face de l'église.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/637/SPARTAK-SYNERGY\nInfo équipe 
+ exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https
+ ://www.abssa.org/terrain/M07
+GEO:50.9278393;4.2227906
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J18: CHENOIS SC (Eq. 2) vs COLO-COLO UNITED
+DTSTART:20230121T133000Z
+DTEND:20230121T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fd15fd2d-e199-44a5-9f85-a03149341e85
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu foncé et blanc\n\n
+ Contact équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture 
+ : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée
+  de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection de
+  la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au
+  feu de signalisation prendre à droite la chaussée Bara. Le terrain se t
+ rouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/te
+ am/625/COLO-COLO-UNITED\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J19: MOUSSES TACHENT vs CHENOIS SC (Eq. 2)
+DTSTART:20230128T153000Z
+DTEND:20230128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dd8725a7-5cad-4ffe-8ce4-eeecccc005cd
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
+ ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
+ \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
+ la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
+ ienne) et prendre à gauche\, le terrain se trouve à 1 km. a main droite.
+ \nPar la E411: Prendre la E411 direction Namur\, ensuite sortir a Wavre\, 
+ prendre ensuite la sortie Villers-La-Ville\, ensuite à droite puis direct
+ ement à gauche a l'arbre et descendre jusque dans le fond\, prendre a dro
+ ite et le terrain se trouve à 500 m. a main gauche.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/643/MOUSSES-TACHENT\nInfo équipe exterieu
+ re: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.a
+ bssa.org/terrain/C02
+GEO:50.6343528;4.5383633
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J20: CHENOIS SC (Eq. 2) vs CHIEFS WSL (Eq. 2)
+DTSTART:20230204T133000Z
+DTEND:20230204T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:461fbdc8-7a6a-4c11-9775-efc931691a4f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
+ e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
+  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
+ e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
+ sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
+  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
+ ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS-W
+ SL\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J21: FRANGINOS (LOS) vs CHENOIS SC (Eq. 2)
+DTSTART:20230211T150000Z
+DTEND:20230211T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e6fe2b36-0d4f-4096-a08a-a8e280148672
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
+  domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a Partir de Bruxe
+ lles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  Gembl
+ oux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodoigne
+  / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de la R
+ ue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la premi
+ ère Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sortie e
+ t Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la Ru
+ e des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domicil
+ e: https://www.abssa.org/team/647/FRANGINOS-LOS\nInfo équipe exterieure: 
+ https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa
+ .org/terrain/P02
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J22: VETUSO FC. vs CHENOIS SC (Eq. 2)
+DTSTART:20230225T140000Z
+DTEND:20230225T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:713395f8-e22e-4e56-927d-5bfad0fd2bc5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelles p
+ rendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la 
+ N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie 
+ Loupoigne\, traverser le carrefour\, tout droit direction route du sucre.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/624/VETUSO-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrai
+ n: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J23: CHENOIS SC (Eq. 2) vs WONG A.S. (Eq. 2)
+DTSTART:20230304T133000Z
+DTEND:20230304T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2cd52052-b4f5-4b5b-8858-88b494a821d0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
+  domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccl
+ e\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\,
+  continuer jusqu'à la place E. Vandevelde (intersection de la chaussée d
+ e Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signali
+ sation prendre à droite la chaussée Bara. Le terrain se trouve à droite
+  à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CH
+ ENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/523/WONG-AS\
+ nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J24: CHENOIS SC (Eq. 2) vs MACCABI BXL
+DTSTART:20230311T133000Z
+DTEND:20230311T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8b895cd5-93bd-4477-b8eb-ad7c3fbd8b5a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'Uccle
+ \, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, 
+ continuer jusqu'à la place E. Vandevelde (intersection de la chaussée de
+  Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de signalis
+ ation prendre à droite la chaussée Bara. Le terrain se trouve à droite 
+ à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team/084/CHE
+ NOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/634/MACCABI-B
+ XL\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: GERMINAL CSA vs CHENOIS SC (Eq. 2)
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ba5de44e-c641-4cd2-91e3-239737d52d92
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambermo
+ nt\, prendre le boulevard Léopold III\, direction aéroport de Bruxelles-
+ National\, au 3ème feu de signalisation prendre à droite. le terrain se 
+ trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/235/G
+ ERMINAL-CSA\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENO
+ IS-SC\nInfo terrain: https://www.abssa.org/terrain/E07
+GEO:50.8691981;4.4067073
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER:MAILTO:m.naniot@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J26: BOUSVAL GENAPPE vs CHENOIS SC (Eq. 2)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:968029e3-e39f-4062-bdef-29115c786ab8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
+  domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxe
+ lles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite s
+ ur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, s
+ ortie Loupoigne\, traverser le carrefour\, tout droit direction route du s
+ ucre.\n\nInfo équipe domicile: https://www.abssa.org/team/401/BOUSVAL-GEN
+ APPE\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENOIS-SC\n
+ Info terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
 END:VEVENT
 END:VCALENDAR

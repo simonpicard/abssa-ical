@@ -5,32 +5,215 @@ X-WR-CALDESC:Les matches du club SCHEUT FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: SCHEUT FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: COBRA TEAM vs SCHEUT FC
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:921045a1-fd37-400a-8e18-e9c19fe7bcb6
+SUMMARY:ABSSA D2A J1: SCHEUT FC vs COBRA TEAM
+DTSTART:20220903T140000Z
+DTEND:20220903T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3476721a-a381-43fd-bf16-67111b38313e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bordeaux\nCouleur principale équipe exterieure: Gris et Noir\
- n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/541/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/27
- 4/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ le: Gris et Noir\nCouleur principale équipe exterieure: Noir et bordeaux\
+ n\nContact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : E
+ n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
+ )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
+ rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
+ Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +
+ /- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/541
+ /COBRA-TEAM\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J2: LORRAINE (LA) RFC vs SCHEUT FC
+DTSTART:20220910T123000Z
+DTEND:20220910T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5359bf48-e068-4f12-8cc4-c0abd79df8df
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute
+  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
+ toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\n
+ Info équipe exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo te
+ rrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: SCHEUT FC vs IRLANDE FC (Eq. 2)
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d401d769-5129-4f72-9e3f-1e3a0e88d359
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC
+ \nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J4: AZUR RCS vs SCHEUT FC
+DTSTART:20220924T150000Z
+DTEND:20220924T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:13a1a911-62db-4851-8a15-2475404e7f98
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Gris et Noir\n\nCont
+ act équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : 
+ Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain 
+ prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de 
+ signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin
+ ). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: ht
+ tps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://ww
+ w.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrai
+ n/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: SCHEUT FC vs BRITISH UNITED
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0d86ef8f-4a91-43be-bad8-a67649069cc1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UN
+ ITED\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: ETINCELLE FC vs SCHEUT FC
+DTSTART:20221008T140000Z
+DTEND:20221008T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bf5458af-58d3-4a70-9f08-5ea76c860494
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Gris et Noir\n\n
+ Contact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Rin
+ g\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre
+  à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken
+ \, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, a
+ près l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure
+ : https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abss
+ a.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J7: SCHEUT FC vs ENGHIEN AMICAL
+DTSTART:20221015T140000Z
+DTEND:20221015T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e7526b16-e4df-407c-8721-73ea5cd12495
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Blanc\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/031/ENGHIEN-AM
+ ICAL\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J8: BRAINE STORMING vs SCHEUT FC
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ae11323e-14ec-4203-be41-0b967e6856be
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant d
+ e Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à d
+ roite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 m
+ in.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction rou
+ te du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAI
+ NE-STORMING\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEU
+ T-FC\nInfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J9: SCHEUT FC vs UNION JP
+DTSTART:20221105T140000Z
+DTEND:20221105T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a7ccb9b7-a270-4bb2-8022-dd82d45afb5e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu et jaune\n\n
+ Contact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En v
+ enant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\,
+  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard 
+ Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Ois
+ eaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 
+ 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/504/UN
+ ION-JP\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J10: TOURINNOIS FC vs SCHEUT FC
+DTSTART:20221112T133000Z
+DTEND:20221112T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7255fc0f-7cfa-4375-8fbb-8d9efc552eb8
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
+  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
+  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
+  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
+ au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https
+ ://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J11: CURTIS L'AUSELE vs SCHEUT FC
 DTSTART:20221119T140000Z
 DTEND:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f3dc5528-2810-4210-8838-ac07113d697d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d245b04a-d686-41ec-8724-6954c4b28482
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Gris et Noir\n\nCo
  ntact équipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : E
@@ -41,311 +224,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  suite la 3ème rue à gauche et le terrain se trouve directement sur la dr
  oite.\n\nInfo équipe domicile: https://www.abssa.org/team/599/CURTIS-LAUS
  ELE\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nIn
- fo terrain: https://www.abssa.org/terrain/I03\n
+ fo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER:MAILTO:thomas.lambricht@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: SCHEUT FC vs UNION JP
-DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:562ac7c7-2ffa-47d8-9390-a1393ddbbdec
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu et jaune\n\n
- Contact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En v
- enant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\,
-  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard 
- Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Ois
- eaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 
- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team
- /274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/504/UN
- ION-JP\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: SCHEUT FC vs IRLANDE FC (Eq. 2)
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:dadae51b-c56d-4f1a-9d3a-0fbe212ba47e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC
- \nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: SCHEUT FC vs BRITISH UNITED
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c2064a9d-b9ef-426b-b7dc-d90ba44fc24d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UN
- ITED\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: SCHEUT FC vs ENGHIEN AMICAL
-DTSTART:20221015T140000Z
-DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b486a5d9-5ee9-4dd0-a71a-089078797039
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/031/ENGHIEN-AM
- ICAL\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: SCHEUT FC vs COBRA TEAM
-DTSTART:20220903T140000Z
-DTEND:20220903T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:51d0cb8d-5ac5-4be4-8eaa-f1a7f73c0008
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Noir et bordeaux\
- n\nContact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : E
- n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
- )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
- rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
- Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +
- /- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/541
- /COBRA-TEAM\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: SCHEUT FC vs BESACE RFC
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4645dccf-6bff-48d4-b7f2-698b9c9a3965
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/024/BESACE-RFC
- \nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: SCHEUT FC vs CURTIS L'AUSELE
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cae6f9a3-b33f-4194-a93d-5d1ea6f3ddbd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu marine\n\nCo
- ntact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En ven
- ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
- rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
- sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
- ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
- 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/2
- 74/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/599/CURT
- IS-LAUSELE\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: SCHEUT FC vs AZUR RCS
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7fbcaa73-200b-4c83-9219-1caf39ec7bf6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCont
- act équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venan
- t de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pre
- ndre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Joss
- e Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux
-  (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 
- m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274
- /SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-R
- CS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: SCHEUT FC vs ETINCELLE FC
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fe8aeda2-c516-44cb-8f55-48c7a1af9fbb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Jaune et bleu\n\n
- Contact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En v
- enant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\,
-  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard 
- Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Ois
- eaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 
- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team
- /274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/035/ET
- INCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: SCHEUT FC vs TOURINNOIS FC
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8944836d-b8a8-42a1-baf5-84c53a9dfce9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS
- -FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: SCHEUT FC vs BRAINE STORMING
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:42544639-5c81-4d29-a17f-cb9267261478
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/630/BRAINE-STO
- RMING\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: SCHEUT FC vs NEW ARQUOIS FC
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a51e137e-9064-43a7-aff3-ebebb5dcd44a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-ARQUOI
- S-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: SCHEUT FC vs LORRAINE (LA) RFC
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7d8349bb-e2a4-4310-b43e-3ff2ef76d4e6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/044/LORRAINE-L
- A-RFC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: IRLANDE FC (Eq. 2) vs SCHEUT FC
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1ab37aa6-2d66-4152-b7a5-348a437b144b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D2A J12: NEW ARQUOIS FC vs SCHEUT FC
 DTSTART:20221126T140000Z
 DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5acace9e-a9a5-415d-b167-7cbf72f60803
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:de78970f-5956-4df0-9e1f-bdd543d36825
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
  équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute 
@@ -355,18 +244,102 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  cq\, passez sous le pont\, le terrain se trouve à 100 mètres (à proximi
  té du cimetière).\n\nInfo équipe domicile: https://www.abssa.org/team/2
  63/NEW-ARQUOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/274
- /SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/A12\n
+ /SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/A12
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
 ORGANIZER:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D2A J13: SCHEUT FC vs LORRAINE (LA) RFC
+DTSTART:20221203T140000Z
+DTEND:20221203T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d6001a2a-bb51-4677-87fc-082f06fc4e6b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/044/LORRAINE-L
+ A-RFC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: IRLANDE FC (Eq. 2) vs SCHEUT FC
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:00eef6ff-ff00-4004-859e-c72711789950
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
+  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
+ ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
+ prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
+ , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
+ /274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: SCHEUT FC vs BESACE RFC
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b75d48b2-4390-41ae-95af-89b311b83169
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/024/BESACE-RFC
+ \nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J16: SCHEUT FC vs AZUR RCS
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8fa4a81b-78ba-4ae3-b33e-d1392a2ef569
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCont
+ act équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venan
+ t de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pre
+ ndre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Joss
+ e Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux
+  (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 
+ m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274
+ /SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-R
+ CS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D2A J17: BRITISH UNITED vs SCHEUT FC
 DTSTART:20230114T130000Z
 DTEND:20230114T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:55762710-4821-4872-9c24-8af2863771e2
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:31391740-28b4-4351-90f9-c6ac7310edd6
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
  équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
@@ -377,118 +350,39 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
  abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
  ssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/M0
- 2\n
+ 2
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: AZUR RCS vs SCHEUT FC
-DTSTART:20220924T150000Z
-DTEND:20220924T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aea8bde6-e790-42a3-8973-dc466f3a9ec6
+SUMMARY:ABSSA D2A J18: SCHEUT FC vs ETINCELLE FC
+DTSTART:20230121T140000Z
+DTEND:20230121T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:da134805-34cc-43a0-8871-061715c11865
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Gris et Noir\n\nCont
- act équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : 
- Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain 
- prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de 
- signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin
- ). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://ww
- w.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrai
- n/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: LORRAINE (LA) RFC vs SCHEUT FC
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6be546cc-659d-4316-86c2-21dcf572b2ea
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute
-  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
- toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
- n\nInfo équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\n
- Info équipe exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo te
- rrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: ETINCELLE FC vs SCHEUT FC
-DTSTART:20221008T140000Z
-DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c29b29c4-4142-45c3-bc18-c042cb253983
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Gris et Noir\n\n
- Contact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Rin
- g\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre
-  à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken
- \, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, a
- près l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domi
- cile: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abss
- a.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: UNION JP vs SCHEUT FC
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fb731ad3-8984-4a1f-9fa9-2b3941b233bd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et jaune\nCouleur principale équipe exterieure: Gris et Noir\n\n
- Contact équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture 
- : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pr
- endre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van K
- alken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carèm
- e\, après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe
-  domicile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieur
- e: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abs
- sa.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: BESACE RFC vs SCHEUT FC
-DTSTART:20230325T133000Z
-DTEND:20230325T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e8b7ff53-44ce-440f-bb39-eb1400bfd910
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Br
- uxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la
-  sortie\, en venant de Charleroi prendre à droite. Au feu rouge continuer
-  sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pomp
- e à essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/
- BESACE-RFC\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEUT
- -FC\nInfo terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+ le: Gris et Noir\nCouleur principale équipe exterieure: Jaune et bleu\n\n
+ Contact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En v
+ enant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\,
+  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard 
+ Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Ois
+ eaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 
+ 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /274/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/035/ET
+ INCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J19: ENGHIEN AMICAL vs SCHEUT FC
 DTSTART:20230128T150000Z
 DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:26a2ad35-119c-4f23-a899-2036f16196db
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f06f3303-68c9-4578-999f-5fc4f7c5dac4
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
  équipe domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : P
@@ -498,49 +392,155 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  en\, prendre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux 
  Cèdre".\n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-
  AMICAL\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEUT-FC\
- nInfo terrain: https://www.abssa.org/terrain/E02\n
+ nInfo terrain: https://www.abssa.org/terrain/E02
 GEO:50.6970878;4.0470023
 LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
  ique
 ORGANIZER:MAILTO:e.vdps.ev@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J10: TOURINNOIS FC vs SCHEUT FC
-DTSTART:20221112T133000Z
-DTEND:20221112T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7f56f3f9-2901-4602-aeeb-04bed9b7f6ca
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
-  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
-  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
-  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
- au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https
- ://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+SUMMARY:ABSSA D2A J20: SCHEUT FC vs BRAINE STORMING
+DTSTART:20230204T140000Z
+DTEND:20230204T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d7ac516-5d1e-41d1-ae52-87ec9d92c5f5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/630/BRAINE-STO
+ RMING\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J8: BRAINE STORMING vs SCHEUT FC
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f7983f2a-674c-4d16-9115-39aa411c3321
+SUMMARY:ABSSA D2A J21: UNION JP vs SCHEUT FC
+DTSTART:20230211T153000Z
+DTEND:20230211T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c7ab84b2-25f3-492e-b61f-c2f768fa68a4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et jaune\nCouleur principale équipe exterieure: Gris et Noir\n\n
+ Contact équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture 
+ : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pr
+ endre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van K
+ alken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carèm
+ e\, après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieur
+ e: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abs
+ sa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J22: SCHEUT FC vs NEW ARQUOIS FC
+DTSTART:20230225T140000Z
+DTEND:20230225T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d103d79a-d8fb-440c-b91e-6cecce9470d7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-ARQUOI
+ S-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J23: SCHEUT FC vs TOURINNOIS FC
+DTSTART:20230304T140000Z
+DTEND:20230304T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a1b40a40-4b9b-4e40-bc60-a61f94fb6a51
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Rouge\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS
+ -FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J24: SCHEUT FC vs CURTIS L'AUSELE
+DTSTART:20230311T140000Z
+DTEND:20230311T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:22a4de44-407b-432a-a478-a4e242dd58ca
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu marine\n\nCo
+ ntact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En ven
+ ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
+ rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
+ sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
+ ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
+ 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/2
+ 74/SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/599/CURT
+ IS-LAUSELE\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J25: COBRA TEAM vs SCHEUT FC
+DTSTART:20230318T123000Z
+DTEND:20230318T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ebdb3c1b-b774-41e0-aa42-3cd0d0ecf4d4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et bordeaux\nCouleur principale équipe exterieure: Gris et Noir\
+ n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/541/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/27
+ 4/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:maximelechien@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J26: BESACE RFC vs SCHEUT FC
+DTSTART:20230325T133000Z
+DTEND:20230325T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dfc82889-bafe-4a5c-8266-fd04033e5e4d
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant d
- e Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à d
- roite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 m
- in.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction rou
- te du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAI
- NE-STORMING\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEU
- T-FC\nInfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:manu.goethals@gmail.com
+ équipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Br
+ uxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la
+  sortie\, en venant de Charleroi prendre à droite. Au feu rouge continuer
+  sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pomp
+ e à essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/
+ BESACE-RFC\nInfo équipe exterieure: https://www.abssa.org/team/274/SCHEUT
+ -FC\nInfo terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 END:VCALENDAR

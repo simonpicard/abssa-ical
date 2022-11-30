@@ -5,90 +5,69 @@ X-WR-CALDESC:Les matches du club FORESTOIS SC (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: FORESTOIS SC (eq. 3)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J23: CENTRAL PARK FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8457b0a1-b831-47bb-992f-8a72c77b96bf
+SUMMARY:ABSSA D5A J1: ELAN EVERE RAC vs FORESTOIS SC (Eq. 3)
+DTSTART:20220903T133000Z
+DTEND:20220903T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cfc71cef-9cdf-49a0-b3c2-d4a639cadc1e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
- pe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard de la 
- Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
-  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
- Info équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo te
- rrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+ le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain se tro
+ uve derrière l'église St. Vincent\n\nInfo équipe domicile: https://www.
+ abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain
+ /E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J7: WINCHESTER F.C. vs FORESTOIS SC (Eq. 3)
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b4c2692d-d81b-4aa8-ad32-748395eaf765
+SUMMARY:ABSSA D5A J2: FORESTOIS SC (Eq. 3) vs WATERMAEL FC (Eq. 2)
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b688c028-65d4-45bf-b135-20cc4e93b1ba
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture : A p
- artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
- rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
-  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
- ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
- e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
- /653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/team/15
- 2/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J5: RANGERS F.C. vs FORESTOIS SC (Eq. 3)
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b4afa759-fb3b-4cb0-ad39-2a63f8354428
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: V
- ert\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
-  : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
- haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
- roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
- n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terr
- ain: https://www.abssa.org/terrain/E04\n
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J24: FORESTOIS SC (Eq. 3) vs EFFETA FC
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8a91ac6b-8fe3-4013-a61c-1b720356b3aa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
- rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
- u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
- ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
- nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
- ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
- org/team/516/EFFETA-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
+ Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
+ ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
+  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
+ ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
+ , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J3: POSTBOYS FC vs FORESTOIS SC (Eq. 3)
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1f70adb8-454f-4832-ac40-459548e68b8e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
+ on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
+  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-FC\nI
+ nfo équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo 
+ terrain: https://www.abssa.org/terrain/J01
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER:MAILTO:secretariat@postboys.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J4: FORESTOIS SC (Eq. 3) vs AZUR RCS (Eq. 4)
 DTSTART:20220924T153000Z
 DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:febc1085-a2bf-4c31-9c55-f83076a124f2
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a604cc8a-4758-4514-9455-b0bc2f97714f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
@@ -98,18 +77,37 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
  Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.
  org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/
- team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J5: RANGERS F.C. vs FORESTOIS SC (Eq. 3)
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:817c1dde-2a30-4256-9c8f-6f7282db265b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: V
+ ert\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+  : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
+ haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
+ roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
+ n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terr
+ ain: https://www.abssa.org/terrain/E04
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER:MAILTO:samuel.thuns@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J6: FORESTOIS SC (Eq. 3) vs BEA WOLUWE
 DTSTART:20221008T153000Z
 DTEND:20221008T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d355fffb-658b-4675-92bb-84a7cfce8cb3
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cf676bd1-abfd-48f7-8d1a-4f4fc6eef6db
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu clair\n\nContact éq
  uipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ 
@@ -119,18 +117,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
  y Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abss
  a.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.or
- g/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ g/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J7: WINCHESTER F.C. vs FORESTOIS SC (Eq. 3)
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ca291020-1369-4901-a4f2-fecec829af8d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et blanc\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture : A p
+ artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
+ rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
+  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
+ ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
+ e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/team/15
+ 2/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:winchesterfc@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: FORESTOIS SC (Eq. 3) vs GAMBRINUS F.C.
 DTSTART:20221022T153000Z
 DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ae945aef-972b-492a-a512-a87021b8583c
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4b0665c6-dcfe-46f4-9338-cca4dcf2f415
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rose\n\nContact équipe d
  omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
@@ -140,7 +158,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
  , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
  eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ 645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -150,8 +168,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: FORESTOIS SC (Eq. 3) vs CENTRAL PARK FC (Eq. 2)
 DTSTART:20221112T153000Z
 DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a27bfd4b-6bc5-41e8-a35c-e1f924d4bdd3
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e95df56e-43df-46c3-a18b-10fa6c86e3d0
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
  pe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de
@@ -161,147 +179,37 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City C
  art\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/t
- eam/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ eam/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J2: FORESTOIS SC (Eq. 3) vs WATERMAEL FC (Eq. 2)
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:35b5f7e9-59f6-434f-8373-b1cc9157709d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
- Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
- ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
-  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
- ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
- , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J17: FORESTOIS SC (Eq. 3) vs RANGERS F.C.
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:707533fc-8dd3-4a01-8d63-101077e6fb62
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voi
- ture : Au départ de la Place St. Denis à Forest prendre la chaussée de 
- Neerstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la 
- rue de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2èm
- e Armée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve 
- à hauteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www.abssa.or
- g/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J19: FORESTOIS SC (Eq. 3) vs WINCHESTER F.C.
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2b08526e-f90c-4a32-a20b-38b41cfe6e61
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact 
- équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
- rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
- u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
- ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
- nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
- ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
- org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/terrain/F0
- 1\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J25: FORESTOIS SC (Eq. 3) vs ELAN EVERE RAC
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:61a539fd-826d-472b-abb5-80874563cea2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
- Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
- ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
-  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
- ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
- , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J15: FORESTOIS SC (Eq. 3) vs WOLUWE FC
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:375ddba2-bbe6-4777-863c-1b361be0b85b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
- équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
- rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
- u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
- ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
- nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
- ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
- org/team/153/WOLUWE-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J14: FORESTOIS SC (Eq. 3) vs POSTBOYS FC
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8adb7c18-f089-448c-9d80-d3bac4a1b0ec
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
- rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
- u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
- ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
- nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
- ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
- org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/F01\
- n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+SUMMARY:ABSSA D5A J11: EFFETA FC vs FORESTOIS SC (Eq. 3)
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:56a3f951-26c8-4fd3-a5be-84955366378c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Autoroute
+  Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre à gau
+ che\, direction Londerzeel. Suivre la plaque Stationstraat. Passée la gar
+ e (après env. 1200 m.) prendre à gauche au " Monument aux Morts". Le ter
+ rain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/516/EFFETA-FC\nInfo équipe exterieure: https://www.abssa.org/team/152/
+ FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/L05
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER:MAILTO:effetafc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J12: FORESTOIS SC (Eq. 3) vs BRITISH UNITED (Eq. 4)
 DTSTART:20221126T153000Z
 DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:978c26fe-a2a6-4f13-93c3-33e1311d17c2
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0878c5be-74f1-4a46-b178-9ec6bfdbe3c5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
@@ -311,137 +219,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
  , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
  eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ 132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J22: BRITISH UNITED (Eq. 4) vs FORESTOIS SC (Eq. 3)
-DTSTART:20230225T130000Z
-DTEND:20230225T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:db682ce3-0010-4915-a170-5a87428c9fe7
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
- /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J1: ELAN EVERE RAC vs FORESTOIS SC (Eq. 3)
-DTSTART:20220903T133000Z
-DTEND:20220903T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1cbf09c8-5de9-4738-bf03-6b64381ee90c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain se tro
- uve derrière l'église St. Vincent\n\nInfo équipe domicile: https://www.
- abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieure: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain
- /E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J18: BEA WOLUWE vs FORESTOIS SC (Eq. 3)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:95b8ffa8-6737-4b41-bc85-702c823e63b1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe exterieure: Vert\n\nContact éq
- uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
- e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\
- n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\nInfo 
- équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terr
- ain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J20: GAMBRINUS F.C. vs FORESTOIS SC (Eq. 3)
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:766ed349-9438-4da1-90aa-425006d68238
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la chaussé
- e de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème r
- ue à droite\, l' Avenue des Communautés\, l'entrée au terrain est situ
- é à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645/GAMB
- RINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/152/FORESTOI
- S-SC\nInfo terrain: https://www.abssa.org/terrain/E10\n
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J26: WOLUWE FC vs FORESTOIS SC (Eq. 3)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bd98fb7d-c782-4749-8d29-1db1f5340670
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
- 411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bi
- erges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\,
-  prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensar
- t. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'ave
- nue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInfo éq
- uipe domicile: https://www.abssa.org/team/153/WOLUWE-FC\nInfo équipe exte
- rieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https:/
- /www.abssa.org/terrain/R03\n
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: AZUR RCS (Eq. 4) vs FORESTOIS SC (Eq. 3)
-DTSTART:20230107T120000Z
-DTEND:20230107T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d79579ef-77d9-4f61-ba03-4873cde6902b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/W12
- \n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5A J13: WATERMAEL FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
 DTSTART:20221203T133000Z
 DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:35abc0d4-9333-4390-bd74-a142f15b110d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5c27940b-2a31-47b3-851c-25e199a1202a
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
@@ -452,48 +241,257 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   piste d'athlétisme et le terrain de hockey.\n\nInfo équipe domicile: ht
  tps://www.abssa.org/team/611/WATERMAEL-FC\nInfo équipe exterieure: https:
  //www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org
- /terrain/A10\n
+ /terrain/A10
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
 ORGANIZER:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J3: POSTBOYS FC vs FORESTOIS SC (Eq. 3)
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2f9a9078-6ae5-4ab5-bf81-9e5047462ef3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-FC\nI
- nfo équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo 
- terrain: https://www.abssa.org/terrain/J01\n
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+SUMMARY:ABSSA D5A J14: FORESTOIS SC (Eq. 3) vs POSTBOYS FC
+DTSTART:20221210T153000Z
+DTEND:20221210T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8df9f8af-58bb-4968-87f6-6c0992e238a8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
+ équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
+ rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
+ u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
+ ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
+ nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
+ ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
+ org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J11: EFFETA FC vs FORESTOIS SC (Eq. 3)
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:81c5d378-f78b-4bb9-a4c2-95ed451ea945
+SUMMARY:ABSSA D5A J15: FORESTOIS SC (Eq. 3) vs WOLUWE FC
+DTSTART:20221217T153000Z
+DTEND:20221217T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c5d8b0b7-0be7-4e74-9e16-8287a8be2ca8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
+ équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
+ rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
+ u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
+ ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
+ nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
+ ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
+ org/team/153/WOLUWE-FC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: AZUR RCS (Eq. 4) vs FORESTOIS SC (Eq. 3)
+DTSTART:20230107T120000Z
+DTEND:20230107T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b7a98f9a-e4c0-49e4-88a0-138b49711491
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J17: FORESTOIS SC (Eq. 3) vs RANGERS F.C.
+DTSTART:20230114T153000Z
+DTEND:20230114T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:79ab38a0-bd64-4aaf-ad6a-25b3e2d75e55
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
+ leu\n\nContact équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voi
+ ture : Au départ de la Place St. Denis à Forest prendre la chaussée de 
+ Neerstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la 
+ rue de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2èm
+ e Armée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve 
+ à hauteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile:
+  https://www.abssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www.abssa.or
+ g/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J18: BEA WOLUWE vs FORESTOIS SC (Eq. 3)
+DTSTART:20230121T140000Z
+DTEND:20230121T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:eb9b76fa-87fa-4ca3-bddf-73b60f4a4b25
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu clair\nCouleur principale équipe exterieure: Vert\n\nContact éq
+ uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
+ e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\nInfo 
+ équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terr
+ ain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J19: FORESTOIS SC (Eq. 3) vs WINCHESTER F.C.
+DTSTART:20230128T153000Z
+DTEND:20230128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1ecae363-867b-448a-ac19-4d8cfd0a4f3f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact 
+ équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
+ rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
+ u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
+ ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
+ nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
+ ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
+ org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/terrain/F0
+ 1
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J20: GAMBRINUS F.C. vs FORESTOIS SC (Eq. 3)
+DTSTART:20230204T140000Z
+DTEND:20230204T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d5c62401-f576-4a07-b173-4c8c8f9ddaec
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rose\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la chaussé
+ e de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème r
+ ue à droite\, l' Avenue des Communautés\, l'entrée au terrain est situ
+ é à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645/GAMB
+ RINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/152/FORESTOI
+ S-SC\nInfo terrain: https://www.abssa.org/terrain/E10
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J22: BRITISH UNITED (Eq. 4) vs FORESTOIS SC (Eq. 3)
+DTSTART:20230225T130000Z
+DTEND:20230225T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:87722cb5-9b68-4602-bca4-98f77cc5f95a
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Autoroute
-  Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre à gau
- che\, direction Londerzeel. Suivre la plaque Stationstraat. Passée la gar
- e (après env. 1200 m.) prendre à gauche au " Monument aux Morts". Le ter
- rain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/516/EFFETA-FC\nInfo équipe exterieure: https://www.abssa.org/team/152/
- FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/L05\n
-GEO:51.0192214;4.2904455
-LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
-ORGANIZER:MAILTO:effetafc@gmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
+ re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
+  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
+ rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
+  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J23: CENTRAL PARK FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART:20230304T140000Z
+DTEND:20230304T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6cb0bdf8-e26e-4e93-8f3b-90e3424bce2f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
+ pe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard de la 
+ Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
+  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
+ Info équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo te
+ rrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J24: FORESTOIS SC (Eq. 3) vs EFFETA FC
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:66e321b9-35e9-435e-bd60-f7e4fd2337fa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
+ équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa
+ rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
+ u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
+ ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
+ nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
+ ity Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.
+ org/team/516/EFFETA-FC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J25: FORESTOIS SC (Eq. 3) vs ELAN EVERE RAC
+DTSTART:20230318T153000Z
+DTEND:20230318T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6790b41d-0bb0-4c1a-8519-3818bf81601d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
+ Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
+ ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
+  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
+ ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
+ , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J26: WOLUWE FC vs FORESTOIS SC (Eq. 3)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3809c349-37ae-45f9-a99e-37469a5eea3b
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
+ 411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bi
+ erges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\,
+  prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensar
+ t. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'ave
+ nue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInfo éq
+ uipe domicile: https://www.abssa.org/team/153/WOLUWE-FC\nInfo équipe exte
+ rieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https:/
+ /www.abssa.org/terrain/R03
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 END:VCALENDAR

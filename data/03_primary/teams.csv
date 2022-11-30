@@ -1,0 +1,258 @@
+club_id,team_id,game_time,division,artificial_grass,field_id,color
+427,1,12:30,6E,True,A08,Jaune et bleu
+395,1,14:00,6C,True,A08,Jaune
+249,1,15:30,1,True,A11,Noir
+249,2,14:00,6A,True,A11,Blanc rayé de Gris
+280,1,14:00,6C,True,A09,Mauve
+602,1,15:30,3B,True,A03,Bleu ciel
+72,1,14:00,6C,True,A11,Bleu
+376,1,15:30,6A,True,A11,Jaune
+109,1,15:00,2A,True,W12,Bleu ciel
+109,2,13:30,2B,True,W12,Bleu ciel
+109,3,12:00,3A,True,W12,Bleu ciel
+109,4,12:00,5A,True,W12,Bleu ciel
+109,5,13:30,6B,True,W12,Bleu ciel
+109,6,15:00,6C,True,W12,Bleu ciel
+459,1,14:00,5A,True,W15,Bleu clair
+648,1,15:00,4A,False,R03,Jaune et noir
+493,1,12:30,4D,True,A09,Bleu ciel
+24,1,13:30,2A,True,J02,Bleu
+70,1,14:30,4D,False,B01,Bleu
+137,1,15:30,2B,True,B08,Bleu
+601,1,15:30,4D,False,G01,Noir
+53,1,15:30,3B,True,W15,Bleu rayé de Blanc
+660,1,15:30,5C,False,G04,Rouge
+619,1,15:00,5B,False,A10,Bleu Marine
+579,1,15:30,3C,True,L09,Bleu
+401,1,15:30,3D,True,L01,Blanc
+401,2,15:30,4C,False,H04,Orange et bleu
+401,3,14:00,6E,True,L01,Bleu
+630,1,15:30,2A,True,L01,Bleu
+537,1,15:00,3A,False,B11,Jaune et rouge
+537,2,15:00,6E,False,B11,Jaune et rouge
+603,1,14:00,3C,True,A09,Orange et Mauve
+132,1,13:00,2A,False,M02,Bleu
+132,2,15:30,2B,False,M02,Bleu
+132,3,15:30,4C,False,M02,Bleu
+132,4,13:00,5A,False,M02,Bleu
+132,5,15:30,6A,False,M02,Bleu
+132,6,13:00,6D,False,M02,Bleu
+132,7,15:30,6E,False,M02,Bleu
+1,1,14:00,1,True,R02,Blanc
+1,2,15:30,2B,False,R02,Blanc
+1,3,12:30,3C,False,R02,Blanc
+1,4,12:30,4A,True,R02,Blanc
+1,5,15:30,6B,True,R02,Blanc
+1,6,14:00,6C,False,R02,Blanc
+1,7,15:30,6E,False,R02,Blanc
+39,1,14:00,1,True,O01,Bordeaux
+39,2,12:30,4A,True,O01,Bordeaux
+39,3,13:30,4B,True,B14,Bordeaux
+39,4,15:30,4C,True,L09,Bordeaux
+39,5,15:30,6B,True,L09,Bordeaux
+39,6,14:00,6C,True,L09,Bordeaux
+39,7,15:30,6E,False,L09,Bordeaux
+566,1,14:00,3D,True,J01,Vert
+467,1,15:30,6C,True,W10,Vert rayé de blanc
+330,1,14:00,5B,True,F01,Vert et  blanc
+626,1,15:30,3C,True,W07,Vert et blanc
+562,1,15:30,3C,True,W10,Bleu et Blanc
+562,2,14:00,5A,True,W10,Bordeaux
+499,1,15:30,3B,True,G03,Bleu marine
+412,1,13:30,4B,True,W02,Blanc et rouge
+412,2,15:00,6D,True,W02,Blanc et rouge
+84,1,15:00,1,True,W02,Rouge et blanc
+84,2,13:30,3D,True,W02,Rouge
+84,3,15:00,6D,False,W02,Rouge et noir
+128,1,14:00,5C,False,S03,Jaune
+128,2,15:30,6E,False,S03,Jaune
+303,1,14:00,3C,True,W10,Blanc
+303,2,15:30,3D,True,W10,Blanc
+303,3,12:30,5C,True,W10,Blanc
+303,4,12:30,6D,True,W10,Blanc
+517,1,12:30,1,True,A11,Bleu
+517,2,12:30,5C,True,W05,Noir
+517,3,14:00,6A,True,A11,Blanc
+517,4,15:30,6E,False,w19,Blanc
+541,1,12:30,2A,True,A11,Noir et bordeaux
+229,1,14:00,1,True,W05,Bleu
+229,2,15:30,6B,True,W05,Bleu
+625,1,12:30,3D,True,K02,Bleu foncé et blanc
+16,1,12:30,4D,True,E07,Vert
+49,1,15:30,3B,True,A09,Jaune
+49,2,15:30,6B,True,A09,Gris
+151,1,14:30,3C,True,A01,Rouge
+151,2,12:30,6D,True,A01,Rouge
+417,1,15:00,5B,False,B03,Rouge et blanc
+338,1,15:30,5B,True,J01,Orange/Noir
+338,2,14:00,6C,True,M06,Orange/Noir
+599,1,14:00,2A,True,I03,Bleu marine
+593,1,15:30,5B,True,B05,Vert et noir
+22,1,15:30,4A,True,A03,Rouge et blanc
+404,1,15:30,6E,True,A03,Jaune et Bleu
+516,1,12:30,5A,False,L05,Rouge et noir
+7,1,13:30,5A,True,E08,Vert
+7,2,15:00,6C,True,E08,Rouge et blanc rayé
+31,1,15:00,2A,False,E02,Blanc
+2,1,14:00,2B,True,B08,Rouge
+2,2,14:00,6D,True,B08,Rouge
+35,1,14:00,2A,True,A03,Jaune et bleu
+35,2,12:30,6B,True,A03,Jaune et bleu
+343,1,12:30,3A,True,W05,Noir
+343,2,12:30,3C,True,W05,Noir rayé de blanc
+343,3,14:00,6B,True,W05,Noir rayé de blanc
+567,1,13:30,1,True,I02,Bleu
+569,1,15:30,4D,True,E04,Rouge et Bleu
+100,1,14:00,5C,False,B03,Rouge
+100,2,14:00,6C,False,B03,Rouge
+597,1,15:00,3B,True,S01,Gris
+152,1,14:00,2B,True,F01,Vert
+152,2,14:00,4D,True,F01,Vert
+152,3,15:30,5A,True,F01,Vert
+152,4,15:30,6A,True,F01,Vert
+152,5,14:00,6C,True,F01,Vert
+623,1,15:30,3B,True,F01,Bleu Ciel
+217,1,15:00,3A,True,M08,Jaune fluo
+647,1,15:00,3D,True,P02,Blanc
+522,1,12:30,4B,True,A11,Bleu
+659,1,12:30,5B,False,R03,Orange
+645,1,14:00,5A,True,E10,Rose
+388,1,13:45,2B,False,D01,Jaune
+388,2,15:30,6A,False,D01,Gris
+235,1,14:00,3D,True,E07,Vert
+345,1,12:30,2B,True,W10,Jaune
+345,2,14:00,4B,True,I03,Rouge
+345,3,14:00,6B,True,W10,Blanc
+90,1,13:30,3B,True,E08,Vert
+514,1,15:30,1,True,B14,Noir
+514,2,15:30,4C,True,G04,Noir
+514,3,15:30,5B,True,G04,Vert
+488,1,13:00,4A,True,S04,Bleu
+357,1,14:00,3A,True,W05,Rayé bleu jaune
+416,1,15:30,2B,True,A11,Rayé Bleu et Blanc
+416,2,12:30,3D,True,A11,Rayé Bleu et Blanc
+416,3,14:00,6D,True,A11,Rayé Bleu et Blanc
+47,1,15:30,6B,True,U04,Orange et Noir
+402,1,14:00,1,True,N04,Vert
+402,2,12:30,2A,True,N04,Vert
+402,3,12:30,3B,False,N04,Vert
+402,4,14:00,3D,False,N04,Vert
+402,5,15:30,6A,True,N04,Vert
+402,6,15:30,6D,False,N04,Vert
+92,1,15:30,1,True,N04,Noir
+92,2,12:30,4D,False,N04,Noir
+92,3,12:30,6A,True,N04,Noir
+92,4,14:00,6B,True,N04,Noir
+38,1,14:00,6A,True,A03,Bleu foncé
+423,1,13:00,1,True,W10,Noir et blanc
+423,2,14:30,6A,True,W10,Noir et blanc
+347,1,15:30,6D,True,J01,Bleu et blanc
+664,1,15:30,5C,True,I03,Noir et jaune
+498,1,15:30,5B,True,B08,Orange
+498,2,15:30,6E,True,B08,Jaune
+662,1,15:00,5C,True,P02,Blanc
+392,1,14:00,4C,True,E07,Bordeaux
+44,1,12:30,2A,True,R02,Bleu
+44,2,14:00,2B,True,R02,Bleu
+44,3,14:00,6D,False,R02,Bleu
+130,1,14:00,4C,False,A09,Jaune et bleu
+542,1,13:30,1,True,S09,Jaune et Bleu.
+627,1,15:30,3C,False,G04,Vert/blanc
+634,1,14:00,3D,True,F01,Bleu
+661,1,13:30,5B,False,B14,Beige et bordeaux
+33,1,14:00,6A,False,B07,Rouge et Bleu
+169,1,15:30,3A,True,B03,Rouge
+93,1,15:30,4C,False,W16,Rouge et  Noir
+93,2,14:00,6D,False,W16,Noir
+606,1,15:30,4B,True,A11,Jaune
+643,1,15:30,3D,True,C02,Bordeaux
+578,1,15:30,2B,True,W07,Bleu et bordeaux
+5,1,15:15,6A,True,J02,Vert rayé de blanc
+56,1,15:30,4A,True,A08,Bleu
+263,1,14:00,2A,False,A12,Bleu
+263,2,12:30,4C,False,A12,Bleu
+263,3,15:30,6B,False,A12,Bleu
+359,1,15:30,3A,False,K02,Rouge foncé
+359,2,15:30,3B,True,K02,Rose
+359,3,14:00,4B,True,K02,Noir et rouge
+359,4,14:00,4C,False,K02,"Bordeaux, Blanc"
+306,1,14:00,4B,True,N03,Bleu et jaune
+306,2,15:30,6B,True,N03,Orange fluo
+503,1,15:00,4A,False,N03,Rouge et noir
+420,1,12:30,3A,True,A03,Bleu
+455,1,13:00,4B,False,B02,Jaune et bleu
+455,2,15:30,6D,False,B02,Noir
+123,1,14:00,4C,False,K02,Bleu
+123,2,15:30,6E,False,K02,Bleu
+428,1,15:30,5C,True,R02,Bleu
+582,1,15:30,3B,True,O05,Rouge et blanc.
+628,1,15:30,4B,True,W10,Rouge
+279,1,14:00,4C,False,L07,Noir
+268,1,15:30,3A,True,W05,Blanc
+268,2,15:30,3B,True,F01,Jaune
+268,3,13:30,6B,True,J02,Vert
+268,4,14:00,6C,True,F01,Bleu
+63,1,13:30,5C,False,O02,Bleu
+635,1,15:30,5B,False,G04,Noir/ rose
+652,1,14:00,5B,True,N03,Noir
+403,1,15:30,1,True,A03,Rouge
+75,1,14:00,5A,False,J01,Rouge et noir
+75,2,15:30,6D,False,J01,Rouge et noir
+30,1,15:30,2B,True,M07,Bleu
+620,1,14:00,5A,True,E04,Rayé Bordeaux Blanc et Bleu
+622,1,14:00,3B,True,W19,Bleu et Jaune
+600,1,14:00,3B,True,W10,Jaune et rose
+572,1,14:00,5B,False,N04,Rouge et noir
+605,1,14:00,3A,True,M06,Jaune
+57,1,14:00,4A,True,B08,Bleu marine/Orange
+663,1,15:30,5C,True,N03,Noir et rouge
+556,1,14:00,3A,True,O05,Noir
+654,1,15:30,4A,True,L08,Jaune et bleu
+221,1,14:00,3B,True,W15,Blanc
+221,2,15:30,3C,True,W15,Blanc
+221,3,15:30,4A,True,W13,Blanc
+221,4,14:00,6C,True,W13,Blanc
+658,1,13:30,5C,True,E10,Noir et bleu
+657,1,11:30,5C,False,T06,Bleu marine
+274,1,14:00,2A,True,A09,Gris et Noir
+641,1,12:30,4D,True,W05,Noir
+340,1,15:30,3A,True,A03,Rayé Bleu et Jaune
+637,1,15:30,3D,True,M07,Rouge et blanc
+598,1,12:30,3C,True,O05,Vert et Blanc
+181,1,14:00,3A,True,O05,Orange
+181,2,12:30,4A,True,O05,Orange
+181,3,15:30,4D,True,O05,Orange
+181,4,15:00,6D,False,O04,Orange
+48,1,15:30,3C,False,A09,Rayé Vert et blanc
+574,1,13:00,4A,True,S09,Noir
+574,2,13:30,4D,True,S01,Noir
+644,1,14:45,4D,True,W16,Rouge et noir
+237,1,12:30,6E,False,K02,Orange
+292,1,13:30,2A,False,T02,Rouge
+292,2,15:00,2B,False,T02,Rouge
+292,3,13:30,6A,False,T02,Rouge
+292,4,15:00,6B,False,T02,Rouge et bleu
+617,1,15:30,4C,True,W19,Bordeaux
+445,1,12:30,4B,True,L09,Bleu marine
+445,2,14:00,6A,True,L09,Bleu marine
+451,1,15:30,6C,False,T06,Jaune et Rouge
+214,1,14:00,4D,True,U02,Equipe 1 : Rouge rayé de noir
+655,1,12:30,5B,False,K02,Bleu
+504,1,15:30,2A,True,A03,Bleu et jaune
+543,1,14:30,3A,True,S01,Rouge et noir
+649,1,12:30,4D,False,A01,Bleu ciel et Blanc
+624,1,14:00,3D,True,L01,Bleu
+497,1,15:00,4B,False,V02,Rouge
+629,1,15:30,4A,True,L08,Rouge et noir
+589,1,14:45,2B,True,W16,Rose et noir
+67,1,14:00,4B,True,W19,Rayé noir et blanc
+375,1,15:30,6E,True,W05,Rouge
+611,1,14:00,3C,True,W05,Bleu
+611,2,13:30,5A,False,A10,Bleu
+544,1,15:30,3C,True,W05,Bleu marine
+653,1,15:30,5A,True,B14,Bleu et blanc
+656,1,12:30,5C,True,K02,Blanc
+153,1,15:30,5A,False,R03,Jaune et Bleu
+523,1,13:00,1,True,T07,Jaune
+523,2,14:45,3D,True,T07,Jaune
+646,1,15:30,4C,True,E04,Noir

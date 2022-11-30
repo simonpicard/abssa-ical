@@ -5,161 +5,95 @@ X-WR-CALDESC:Les matches du club PHARMA SC (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: PHARMA SC (eq. 2)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J21: RAPID TAMTAM FC. vs PHARMA SC (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3cba96e2-0a1c-4624-87d5-f63d0a50b8c2
+SUMMARY:ABSSA D3B J1: PHARMA SC (Eq. 2) vs GREEN DEVILS
+DTSTART:20220903T153000Z
+DTEND:20220903T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6193a882-f764-4dd9-b522-fd42afe0e8b8
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et rose\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: BELLENS S. (0474.72.49.62)\n\nAccès voiture : Boulevar
- d de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'
- au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/600/RAPID-TAMTAM
- -FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nIn
- fo terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:s.bellens@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J15: RAPID MYMOL vs PHARMA SC (Eq. 2)
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4b79b823-d56c-4064-bd4f-e9e711b963cd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Ring de
-  Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensu
- ite première rue à droite (Louis Marcelisstraat) puis la troisième à d
- roite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre 
- les n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, pren
- dre l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shoppi
- ng de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefour"
- \, puis au 2ème feu de signalisation prendre à droite et ensuite tout dr
- oit. Au bout de la rue prendre à droite\, le terrain se trouve à 100 mè
- tres  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/
- 622/RAPID-MYMOL\nInfo équipe exterieure: https://www.abssa.org/team/268/P
- HARMA-SC\nInfo terrain: https://www.abssa.org/terrain/W19\n
-GEO:50.8424503;4.4865891
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J10: NEW INN FC (Eq. 2) vs PHARMA SC (Eq. 2)
-DTSTART:20221112T153000Z
-DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:45079fcc-fae1-4ac0-a03a-da3092b66c78
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ de la P
- lace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraai
- nem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Comba
- ttants. Juste après le carrefour avec des feux de signalisation prendre 
- à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main
-  droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nIn
- fo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: htt
- ps://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J8: COPAINS REUNIS vs PHARMA SC (Eq. 2)
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f2c5fff2-d40a-4682-ac91-4a8f9eb04574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/CO
- PAINS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/268/PHAR
- MA-SC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J9: PHARMA SC (Eq. 2) vs RAPID TAMTAM FC.
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a86e9dad-e125-480d-ab8d-8f7768fa8a71
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Jaune et rose\n\nContact
-  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au d
- épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
- jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
- oierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Br
- itannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur 
- de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa
- .org/team/600/RAPID-TAMTAM-FC\nInfo terrain: https://www.abssa.org/terrain
- /F01\n
+ le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
+ a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
+ ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
+  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
+ rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J11: PHARMA SC (Eq. 2) vs BLEU-BLANC (ENT)R.
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f273ea0e-a6bc-4fb7-b330-57dcfcc0b255
+SUMMARY:ABSSA D3B J2: ASTURIAS SPORTING vs PHARMA SC (Eq. 2)
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ad083ad8-25bc-45a2-8a4c-d1ce5c8135a1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Bleu rayé de Blanc\n\nC
- ontact équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture :
-  Au départ de la Place St. Denis à Forest prendre la chaussée de Neerst
- alle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de
-  la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Arm
- ée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à ha
- uteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile: http
- s://www.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www
- .abssa.org/team/053/BLEU-BLANC-ENTR\nInfo terrain: https://www.abssa.org/t
- errain/F01\n
+ le: Bleu ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
+ uipe domicile: STULENS K. (0474.62.61.41)\n\nAccès voiture : Ring\, sorti
+ e Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droit
+ e.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A
+ . Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'h
+ opital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.or
+ g/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J3: PHARMA SC (Eq. 2) vs PATJES FC
+DTSTART:20220917T153000Z
+DTEND:20220917T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d3cb15a-e7cc-4ad7-8eae-e148b4dce591
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Rouge et blanc.\n\nConta
+ ct équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au 
+ départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
+  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
+ Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
+ ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
+  de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abss
+ a.org/team/582/PATJES-FC\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J12: FORESTOISE E.J. vs PHARMA SC (Eq. 2)
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1a39f68c-ec31-4ebd-8c95-0ad0a3a6f6f7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu Ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ
-  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
- à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
-  rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
- que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
- y Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abss
- a.org/team/623/FORESTOISE-EJ\nInfo équipe exterieure: https://www.abssa.o
- rg/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+SUMMARY:ABSSA D3B J4: IRLANDE FC (Eq. 3) vs PHARMA SC (Eq. 2)
+DTSTART:20220924T123000Z
+DTEND:20220924T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5446c6b0-7cc0-47ff-b0f4-c207964e442a
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHA
+ RMA-SC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J5: PHARMA SC (Eq. 2) vs CHARLES-QUINT FC
 DTSTART:20221001T153000Z
 DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:50832ee7-8ea5-44fb-9286-3044ab5f31d8
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5deb21d1-fec1-441e-bbf4-c344f569f296
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dé
@@ -170,18 +104,37 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.
  abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.o
  rg/team/499/CHARLES-QUINT-FC\nInfo terrain: https://www.abssa.org/terrain/
- F01\n
+ F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3B J6: FOOT JOSAPHAT vs PHARMA SC (Eq. 2)
+DTSTART:20221008T150000Z
+DTEND:20221008T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8a76ee0d-c76f-4b94-9fab-9750c260a31f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\
+ , descendre le boulevard Lambermont. Au 3ème feu de signalisation prendre
+  à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terra
+ in/S01
+GEO:50.8666244;4.382361899999999
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER:MAILTO:jawad.ely@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3B J7: PHARMA SC (Eq. 2) vs SAINT GEORGES RCS
 DTSTART:20221015T153000Z
 DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:73651bdb-d577-4171-b95b-7db7a6e4aa82
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:94b3cb76-cbca-4d10-bc66-b1f62710c2cd
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
   domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de
@@ -191,41 +144,41 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City C
  art\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team
- /221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ /221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J1: PHARMA SC (Eq. 2) vs GREEN DEVILS
-DTSTART:20220903T153000Z
-DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7a4696f2-b3d8-4f34-b4c6-a62216e64c42
+SUMMARY:ABSSA D3B J8: COPAINS REUNIS vs PHARMA SC (Eq. 2)
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:41f04052-afae-4f1a-8a8b-c401a1fdf313
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ le: Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
+  domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/CO
+ PAINS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/268/PHAR
+ MA-SC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J26: PHARMA SC (Eq. 2) vs RAPID MYMOL
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4f66a62a-4876-45ce-a8e1-989e4f0cf72a
+SUMMARY:ABSSA D3B J9: PHARMA SC (Eq. 2) vs RAPID TAMTAM FC.
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d3f9773c-d3d8-436e-91b5-9f7b9e195462
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Bleu et Jaune\n\nContact
+ le: Jaune\nCouleur principale équipe exterieure: Jaune et rose\n\nContact
   équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au d
  épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
@@ -233,41 +186,83 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  itannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur 
  de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa
- .org/team/622/RAPID-MYMOL\nInfo terrain: https://www.abssa.org/terrain/F01
- \n
+ .org/team/600/RAPID-TAMTAM-FC\nInfo terrain: https://www.abssa.org/terrain
+ /F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J3: PHARMA SC (Eq. 2) vs PATJES FC
-DTSTART:20220917T153000Z
-DTEND:20220917T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2b0d0ba9-e0ae-4bf2-8d7e-b741022a0be8
+SUMMARY:ABSSA D3B J10: NEW INN FC (Eq. 2) vs PHARMA SC (Eq. 2)
+DTSTART:20221112T153000Z
+DTEND:20221112T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:42dcfc94-71db-45b3-81b8-b021fffb41a5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Rouge et blanc.\n\nConta
- ct équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au 
- départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
-  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
- Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
- ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
-  de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://w
- ww.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abss
- a.org/team/582/PATJES-FC\nInfo terrain: https://www.abssa.org/terrain/F01\
- n
+ le: Rose\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ de la P
+ lace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraai
+ nem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Comba
+ ttants. Juste après le carrefour avec des feux de signalisation prendre 
+ à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main
+  droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: htt
+ ps://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J11: PHARMA SC (Eq. 2) vs BLEU-BLANC (ENT)R.
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3bcecbd2-5cac-4dd6-815b-b604ee327a07
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Bleu rayé de Blanc\n\nC
+ ontact équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture :
+  Au départ de la Place St. Denis à Forest prendre la chaussée de Neerst
+ alle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de
+  la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Arm
+ ée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à ha
+ uteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www
+ .abssa.org/team/053/BLEU-BLANC-ENTR\nInfo terrain: https://www.abssa.org/t
+ errain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J12: FORESTOISE E.J. vs PHARMA SC (Eq. 2)
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c9c1d652-e315-4015-aec5-2ebf608d4a76
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu Ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
+ uipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ
+  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
+ à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
+  rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
+ que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
+ y Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/623/FORESTOISE-EJ\nInfo équipe exterieure: https://www.abssa.o
+ rg/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J13: PHARMA SC (Eq. 2) vs ASTURIAS SPORTING
 DTSTART:20221203T153000Z
 DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:be548f72-3437-40a3-b248-9bb0d023fc36
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:54df4eb2-84c9-40e1-bc7b-ea108f8f5f41
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
  uipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dépar
@@ -278,144 +273,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ty Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abs
  sa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/
  team/602/ASTURIAS-SPORTING\nInfo terrain: https://www.abssa.org/terrain/F0
- 1\n
+ 1
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J18: PHARMA SC (Eq. 2) vs FOOT JOSAPHAT
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:838adb6b-d35c-4672-9501-de8a2da2ab25
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Gris\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J23: PHARMA SC (Eq. 2) vs NEW INN FC (Eq. 2)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fc7389bb-7b01-49ac-a3bb-0969034a6d98
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Rose\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J20: PHARMA SC (Eq. 2) vs COPAINS REUNIS
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:051f3fde-fefa-4d95-845e-e5b1e8dc5c49
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de
-  la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à 
- la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie ro
- uler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique
- ) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City C
- art\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team
- /049/COPAINS-REUNIS\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J22: PHARMA SC (Eq. 2) vs FORESTOISE E.J.
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7964b61b-c7db-4856-9dbe-3dd11fab083b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact éq
- uipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dépar
- t de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu
- 'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soieri
- e rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britann
- ique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Ci
- ty Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abs
- sa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/
- team/623/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J16: PHARMA SC (Eq. 2) vs IRLANDE FC (Eq. 3)
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d9fca158-eec3-4183-a397-5bce15b1c21d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J4: IRLANDE FC (Eq. 3) vs PHARMA SC (Eq. 2)
-DTSTART:20220924T123000Z
-DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f3139647-dadc-4da9-9e52-ab4325bffcb6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHA
- RMA-SC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J14: PATJES FC vs PHARMA SC (Eq. 2)
 DTSTART:20221210T153000Z
 DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b5c88bfb-1c92-4a08-8510-5af893d3565b
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8f750d5f-1d49-4211-85ac-a4adc40a668c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc.\nCouleur principale équipe exterieure: Jaune\n\nConta
  ct équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venan
@@ -437,111 +306,62 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est sit
  uée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www.a
  bssa.org/team/582/PATJES-FC\nInfo équipe exterieure: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/O05\n
+ g/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J6: FOOT JOSAPHAT vs PHARMA SC (Eq. 2)
-DTSTART:20221008T150000Z
-DTEND:20221008T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:30907d8d-559d-4357-8ace-dd4348138139
+SUMMARY:ABSSA D3B J15: RAPID MYMOL vs PHARMA SC (Eq. 2)
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:592130a8-b12f-4f72-a6b6-54c0c1dad28b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\
- , descendre le boulevard Lambermont. Au 3ème feu de signalisation prendre
-  à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https://w
- ww.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terra
- in/S01\n
-GEO:50.8666244;4.382361899999999
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER:MAILTO:jawad.ely@hotmail.com
+ le: Bleu et Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact
+  équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Ring de
+  Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensu
+ ite première rue à droite (Louis Marcelisstraat) puis la troisième à d
+ roite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre 
+ les n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, pren
+ dre l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shoppi
+ ng de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefour"
+ \, puis au 2ème feu de signalisation prendre à droite et ensuite tout dr
+ oit. Au bout de la rue prendre à droite\, le terrain se trouve à 100 mè
+ tres  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/
+ 622/RAPID-MYMOL\nInfo équipe exterieure: https://www.abssa.org/team/268/P
+ HARMA-SC\nInfo terrain: https://www.abssa.org/terrain/W19
+GEO:50.8424503;4.4865891
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J25: GREEN DEVILS vs PHARMA SC (Eq. 2)
-DTSTART:20230318T133000Z
-DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aa6c2944-d0f2-41ac-8c91-e98e2bdeb162
+SUMMARY:ABSSA D3B J16: PHARMA SC (Eq. 2) vs IRLANDE FC (Eq. 3)
+DTSTART:20230107T153000Z
+DTEND:20230107T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8805ee2a-65e9-4447-a43b-56959f2d875e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
- e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
- .abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain
- /E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J24: BLEU-BLANC (ENT)R. vs PHARMA SC (Eq. 2)
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9a324a00-da52-4a4f-b215-5c361ad4a918
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture : Ave
- nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLANC-E
- NTR\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nIn
- fo terrain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:josexavier.mineur@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J19: SAINT GEORGES RCS vs PHARMA SC (Eq. 2)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b144b7e7-5f99-4de5-bdf9-6a2ac7d8bd5b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervure
- n\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo 
- équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain
- : https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J2: ASTURIAS SPORTING vs PHARMA SC (Eq. 2)
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:64c492f8-76f1-42bb-912a-7e9e1d1c1717
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: STULENS K. (0474.62.61.41)\n\nAccès voiture : Ring\, sorti
- e Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droit
- e.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A
- . Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'h
- opital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.or
- g/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kevin.stulens@live.be
+ le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
+ a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
+ ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
+  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
+ rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J17: CHARLES-QUINT FC vs PHARMA SC (Eq. 2)
 DTSTART:20230114T153000Z
 DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:45720e64-d309-41ce-b24b-58a501b17ff6
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:51abb2b8-a1df-4c1e-aebf-9841eb58b320
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Jaune\n\nContact 
  équipe domicile: WOUSSEN N. (0479.26.00.34)\n\nAccès voiture : Par la vi
@@ -557,9 +377,187 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ie. Ensuite suivre comme ci-dessus.\n\nInfo équipe domicile: https://www.
  abssa.org/team/499/CHARLES-QUINT-FC\nInfo équipe exterieure: https://www.
  abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/
- G03\n
+ G03
 GEO:50.876279;4.3026291
 LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
 ORGANIZER:MAILTO:slipnic@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J18: PHARMA SC (Eq. 2) vs FOOT JOSAPHAT
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:336e8f89-a54b-43cb-adce-36ecd974cbeb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Gris\n\nContact équipe 
+ domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
+ a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
+ ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
+  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
+ rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J19: SAINT GEORGES RCS vs PHARMA SC (Eq. 2)
+DTSTART:20230128T140000Z
+DTEND:20230128T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9ec3c4dc-67a1-4604-adc7-f0cb5ff595ec
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
+  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervure
+ n\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo 
+ équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain
+ : https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J20: PHARMA SC (Eq. 2) vs COPAINS REUNIS
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:701e8d1f-da3a-4cb8-a99d-f9fd28236ec4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
+  domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de
+  la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à 
+ la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie ro
+ uler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique
+ ) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City C
+ art\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team
+ /049/COPAINS-REUNIS\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J21: RAPID TAMTAM FC. vs PHARMA SC (Eq. 2)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:69ab1b53-80e5-46cb-9b6f-f4e9e2a1c013
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et rose\nCouleur principale équipe exterieure: Jaune\n\nContact
+  équipe domicile: BELLENS S. (0474.72.49.62)\n\nAccès voiture : Boulevar
+ d de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'
+ au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/600/RAPID-TAMTAM
+ -FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nIn
+ fo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:s.bellens@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J22: PHARMA SC (Eq. 2) vs FORESTOISE E.J.
+DTSTART:20230225T153000Z
+DTEND:20230225T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e8ab5a31-16bd-4d20-aa81-cfc1b6520fd8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact éq
+ uipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dépar
+ t de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu
+ 'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soieri
+ e rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britann
+ ique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Ci
+ ty Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abs
+ sa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/
+ team/623/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J23: PHARMA SC (Eq. 2) vs NEW INN FC (Eq. 2)
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5a1b23d2-32dd-47a4-883a-1abbe793e85c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Rose\n\nContact équipe 
+ domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
+ a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
+ ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
+  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
+ rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J24: BLEU-BLANC (ENT)R. vs PHARMA SC (Eq. 2)
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6b5a22bb-e577-459d-bc06-12ecf8479855
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Jaune\n\nC
+ ontact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture : Ave
+ nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLANC-E
+ NTR\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nIn
+ fo terrain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:josexavier.mineur@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J25: GREEN DEVILS vs PHARMA SC (Eq. 2)
+DTSTART:20230318T133000Z
+DTEND:20230318T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ddfe9224-d0c6-4a9c-b5d7-caf756b5ab62
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
+ e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
+ .abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain
+ /E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J26: PHARMA SC (Eq. 2) vs RAPID MYMOL
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:16ec0019-a463-4ceb-81c3-6a72b1cbfeb1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Bleu et Jaune\n\nContact
+  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au d
+ épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
+ jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
+ oierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Br
+ itannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur 
+ de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa
+ .org/team/622/RAPID-MYMOL\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 END:VCALENDAR

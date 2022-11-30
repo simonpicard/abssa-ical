@@ -5,54 +5,108 @@ X-WR-CALDESC:Les matches du club GREEN DEVILS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: GREEN DEVILS (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J17: RAPID TAMTAM FC. vs GREEN DEVILS
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e4e6077a-a9b5-4cca-90a0-9b9a54021021
+SUMMARY:ABSSA D3B J1: PHARMA SC (Eq. 2) vs GREEN DEVILS
+DTSTART:20220903T153000Z
+DTEND:20220903T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:88e36f11-6830-44aa-85dc-21f6c2582a64
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et rose\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: BELLENS S. (0474.72.49.62)\n\nAccès voiture : Boulevard
-  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
- u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
- he.\n\nInfo équipe domicile: https://www.abssa.org/team/600/RAPID-TAMTAM-
- FC\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\n
- Info terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:s.bellens@gmail.com
+ le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
+ a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
+ ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
+  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
+ rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J23: RAPID MYMOL vs GREEN DEVILS
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:63c579e2-116f-48e2-8bc1-639e3bcd03a0
+SUMMARY:ABSSA D3B J2: FOOT JOSAPHAT vs GREEN DEVILS
+DTSTART:20220910T150000Z
+DTEND:20220910T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cb0dae54-e575-47d1-8119-9ec95907e497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Jaune\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Ring de 
- Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensui
- te première rue à droite (Louis Marcelisstraat) puis la troisième à dr
- oite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre l
- es n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, prend
- re l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shoppin
- g de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefour"\
- , puis au 2ème feu de signalisation prendre à droite et ensuite tout dro
- it. Au bout de la rue prendre à droite\, le terrain se trouve à 100 mèt
- res  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/6
- 22/RAPID-MYMOL\nInfo équipe exterieure: https://www.abssa.org/team/090/GR
- EEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/W19\n
-GEO:50.8424503;4.4865891
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
+ le: Gris\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\,
+  descendre le boulevard Lambermont. Au 3ème feu de signalisation prendre 
+ à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https://ww
+ w.abssa.org/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/ter
+ rain/S01
+GEO:50.8666244;4.382361899999999
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER:MAILTO:jawad.ely@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J3: GREEN DEVILS vs SAINT GEORGES RCS
+DTSTART:20220917T133000Z
+DTEND:20220917T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:aa0a933e-c164-4760-80c3-e0dd9d573219
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
+ e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
+ .abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org
+ /terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J4: COPAINS REUNIS vs GREEN DEVILS
+DTSTART:20220924T153000Z
+DTEND:20220924T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f149f972-38bc-4f4b-82fe-276efe14e928
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/COP
+ AINS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN
+ -DEVILS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J5: GREEN DEVILS vs RAPID TAMTAM FC.
+DTSTART:20221001T133000Z
+DTEND:20221001T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:52ead8c6-63f5-4ecd-b2e0-6f12a8b1eb8f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Jaune et rose\n\nContact 
+ équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le t
+ errain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile:
+  https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/600/RAPID-TAMTAM-FC\nInfo terrain: https://www.abs
+ sa.org/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J6: NEW INN FC (Eq. 2) vs GREEN DEVILS
 DTSTART:20221008T153000Z
 DTEND:20221008T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:83a49211-8921-4579-aa1c-6748998c724a
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6a6fb20c-6252-4f3a-a3d7-68d15f698ea4
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rose\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ de la Pl
@@ -63,81 +117,89 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nInfo
   équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInfo équipe
   exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo terrain: ht
- tps://www.abssa.org/terrain/K02\n
+ tps://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J4: COPAINS REUNIS vs GREEN DEVILS
-DTSTART:20220924T153000Z
-DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:75ce79d1-ed86-4237-8d05-56f1338dfb6e
+SUMMARY:ABSSA D3B J7: GREEN DEVILS vs ASTURIAS SPORTING
+DTSTART:20221015T133000Z
+DTEND:20221015T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8612ea08-7b4c-4f49-be8f-9627d348a40a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/COP
- AINS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN
- -DEVILS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terra
+ in se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo terrain: https://www.abssa
+ .org/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J1: PHARMA SC (Eq. 2) vs GREEN DEVILS
-DTSTART:20220903T153000Z
-DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f93db105-f80f-4123-a590-aef3ee00069d
+SUMMARY:ABSSA D3B J8: GREEN DEVILS vs FORESTOISE E.J.
+DTSTART:20221022T133000Z
+DTEND:20221022T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2b23a0d0-0588-4a2c-bea8-ef3f53786222
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ le: Vert\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
+ ipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terra
+ in se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/623/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org
+ /terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J20: FORESTOISE E.J. vs GREEN DEVILS
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2d2a5068-5b7d-40e7-9fad-dfb69d9c910e
+SUMMARY:ABSSA D3B J9: BLEU-BLANC (ENT)R. vs GREEN DEVILS
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:11774fe7-1a63-409a-8a2f-da78533b50c2
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu Ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
- de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
- à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
-  rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
- que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
- y Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abss
- a.org/team/623/FORESTOISE-EJ\nInfo équipe exterieure: https://www.abssa.o
- rg/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01\
- n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
+ ntact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture : Aven
+ ue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauc
+ he.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLANC-EN
+ TR\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\n
+ Info terrain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:josexavier.mineur@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J10: GREEN DEVILS vs RAPID MYMOL
+DTSTART:20221112T133000Z
+DTEND:20221112T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:756eb438-e3a4-4ee3-85ab-7e2207d4cc47
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu et Jaune\n\nContact 
+ équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le t
+ errain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile:
+  https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/622/RAPID-MYMOL\nInfo terrain: https://www.abssa.o
+ rg/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J11: IRLANDE FC (Eq. 3) vs GREEN DEVILS
 DTSTART:20221119T123000Z
 DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d9b1814f-33e5-489d-b90c-b327718d3787
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d6bd6193-1e3d-455c-aad2-1f2f0f46c473
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
@@ -147,18 +209,205 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
  e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
  /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN
- -DEVILS\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ -DEVILS\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3B J12: GREEN DEVILS vs PATJES FC
+DTSTART:20221126T133000Z
+DTEND:20221126T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:655e748c-2abe-463f-9853-c851253190e4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge et blanc.\n\nContac
+ t équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le
+  terrain se trouve derrière l'église St. Vincent\n\nInfo équipe domicil
+ e: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: h
+ ttps://www.abssa.org/team/582/PATJES-FC\nInfo terrain: https://www.abssa.o
+ rg/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J13: GREEN DEVILS vs FOOT JOSAPHAT
+DTSTART:20221203T133000Z
+DTEND:20221203T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:41a1600d-4f27-4482-aa70-16e197d491d3
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
+ omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
+  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
+ www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
+ abssa.org/team/597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.org/terr
+ ain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J14: SAINT GEORGES RCS vs GREEN DEVILS
+DTSTART:20221210T140000Z
+DTEND:20221210T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:21911e83-5be1-4e2e-8b55-a7942004f514
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervuren
+ \, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo terrain
+ : https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J15: GREEN DEVILS vs CHARLES-QUINT FC
+DTSTART:20221217T133000Z
+DTEND:20221217T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:01bc37c5-0e4c-4bd0-b33e-230da8d8c0dd
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
+ quipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le ter
+ rain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https
+ ://www.abssa.org/team/499/CHARLES-QUINT-FC\nInfo terrain: https://www.abss
+ a.org/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J16: GREEN DEVILS vs COPAINS REUNIS
+DTSTART:20230107T133000Z
+DTEND:20230107T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3c8ab446-4416-456b-ad94-afa18576f322
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
+ e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
+ .abssa.org/team/049/COPAINS-REUNIS\nInfo terrain: https://www.abssa.org/te
+ rrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J17: RAPID TAMTAM FC. vs GREEN DEVILS
+DTSTART:20230114T140000Z
+DTEND:20230114T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b217b367-242f-42b9-8ae2-8a74288923da
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et rose\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: BELLENS S. (0474.72.49.62)\n\nAccès voiture : Boulevard
+  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
+ u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
+ he.\n\nInfo équipe domicile: https://www.abssa.org/team/600/RAPID-TAMTAM-
+ FC\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\n
+ Info terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:s.bellens@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J18: GREEN DEVILS vs NEW INN FC (Eq. 2)
+DTSTART:20230121T133000Z
+DTEND:20230121T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ce10efb1-9322-4673-997e-fc1ae9d246d2
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rose\n\nContact équipe d
+ omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
+  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
+ www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
+ abssa.org/team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain
+ /E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J19: ASTURIAS SPORTING vs GREEN DEVILS
+DTSTART:20230128T153000Z
+DTEND:20230128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3cab6e8a-cbb0-4263-b99c-5b0896827198
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: STULENS K. (0474.62.61.41)\n\nAccès voiture : Ring\, sortie
+  Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droite
+ .\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A.
+  Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'ho
+ pital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.
+ org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J20: FORESTOISE E.J. vs GREEN DEVILS
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:31483125-2c82-4ef9-a506-dddd4e3eec35
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu Ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
+ de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
+ à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
+  rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
+ que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
+ y Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/623/FORESTOISE-EJ\nInfo équipe exterieure: https://www.abssa.o
+ rg/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J21: GREEN DEVILS vs BLEU-BLANC (ENT)R.
+DTSTART:20230211T133000Z
+DTEND:20230211T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f82d6fc4-61a5-46a9-b753-40f9e633c2b1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu rayé de Blanc\n\nCo
+ ntact équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture 
+ : Le terrain se trouve derrière l'église St. Vincent\n\nInfo équipe dom
+ icile: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieur
+ e: https://www.abssa.org/team/053/BLEU-BLANC-ENTR\nInfo terrain: https://w
+ ww.abssa.org/terrain/E08
+GEO:50.8786351;4.3949376
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
+ elgique
+ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3B J22: PATJES FC vs GREEN DEVILS
 DTSTART:20230225T153000Z
 DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d5551ad4-a4eb-41e4-a18a-73e038b3eb36
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:25a64df3-ffbf-4b97-a7e4-804eacf62a7c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc.\nCouleur principale équipe exterieure: Vert\n\nContac
  t équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venant
@@ -180,61 +429,48 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est situ
  ée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www.ab
  ssa.org/team/582/PATJES-FC\nInfo équipe exterieure: https://www.abssa.org
- /team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/O05\n
+ /team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J2: FOOT JOSAPHAT vs GREEN DEVILS
-DTSTART:20220910T150000Z
-DTEND:20220910T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9b303ce3-51cf-4bd4-a3fe-5cf9cc1b8464
+SUMMARY:ABSSA D3B J23: RAPID MYMOL vs GREEN DEVILS
+DTSTART:20230304T140000Z
+DTEND:20230304T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f3d085ae-5319-4d87-90e8-3d0dd2c5d8a5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\,
-  descendre le boulevard Lambermont. Au 3ème feu de signalisation prendre 
- à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https://ww
- w.abssa.org/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/ter
- rain/S01\n
-GEO:50.8666244;4.382361899999999
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER:MAILTO:jawad.ely@hotmail.com
+ le: Bleu et Jaune\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Ring de 
+ Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensui
+ te première rue à droite (Louis Marcelisstraat) puis la troisième à dr
+ oite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre l
+ es n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, prend
+ re l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shoppin
+ g de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefour"\
+ , puis au 2ème feu de signalisation prendre à droite et ensuite tout dro
+ it. Au bout de la rue prendre à droite\, le terrain se trouve à 100 mèt
+ res  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/6
+ 22/RAPID-MYMOL\nInfo équipe exterieure: https://www.abssa.org/team/090/GR
+ EEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain/W19
+GEO:50.8424503;4.4865891
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J5: GREEN DEVILS vs RAPID TAMTAM FC.
-DTSTART:20221001T133000Z
-DTEND:20221001T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:823234a8-9e29-4849-a77a-ec0686ad05d9
+SUMMARY:ABSSA D3B J24: GREEN DEVILS vs IRLANDE FC (Eq. 3)
+DTSTART:20230311T133000Z
+DTEND:20230311T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bd5d5cf2-cf41-4416-8db9-bc013eb40885
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune et rose\n\nContact 
- équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le t
- errain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile:
-  https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/600/RAPID-TAMTAM-FC\nInfo terrain: https://www.abs
- sa.org/terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J21: GREEN DEVILS vs BLEU-BLANC (ENT)R.
-DTSTART:20230211T133000Z
-DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d506ee72-1f28-4eac-95a9-bb1c38adeeeb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu rayé de Blanc\n\nCo
- ntact équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture 
- : Le terrain se trouve derrière l'église St. Vincent\n\nInfo équipe dom
- icile: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieur
- e: https://www.abssa.org/team/053/BLEU-BLANC-ENTR\nInfo terrain: https://w
- ww.abssa.org/terrain/E08\n
+ le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
+  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
+ www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
+ abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain
+ /E08
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
@@ -244,263 +480,26 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J25: GREEN DEVILS vs PHARMA SC (Eq. 2)
 DTSTART:20230318T133000Z
 DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:df677781-fc48-4c4e-b385-d33ab8103c19
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0f32c7a2-8bef-412c-8758-78c18488d53d
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
  domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
  e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
  /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
  .abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain
- /E08\n
+ /E08
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
 ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J15: GREEN DEVILS vs CHARLES-QUINT FC
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9905a8a5-9bba-45c4-a457-2da2eb653498
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le ter
- rain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https
- ://www.abssa.org/team/499/CHARLES-QUINT-FC\nInfo terrain: https://www.abss
- a.org/terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J3: GREEN DEVILS vs SAINT GEORGES RCS
-DTSTART:20220917T133000Z
-DTEND:20220917T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c9c28902-c3a4-44fc-931d-e4202aa74374
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
- e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
- .abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org
- /terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J10: GREEN DEVILS vs RAPID MYMOL
-DTSTART:20221112T133000Z
-DTEND:20221112T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:790de0b1-64a3-49ec-9503-b3a4f060c93c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu et Jaune\n\nContact 
- équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le t
- errain se trouve derrière l'église St. Vincent\n\nInfo équipe domicile:
-  https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/622/RAPID-MYMOL\nInfo terrain: https://www.abssa.o
- rg/terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J12: GREEN DEVILS vs PATJES FC
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f97aba23-d0bc-412e-a528-1e1b5ccb9fa8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge et blanc.\n\nContac
- t équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le
-  terrain se trouve derrière l'église St. Vincent\n\nInfo équipe domicil
- e: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/582/PATJES-FC\nInfo terrain: https://www.abssa.o
- rg/terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J7: GREEN DEVILS vs ASTURIAS SPORTING
-DTSTART:20221015T133000Z
-DTEND:20221015T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:219c6044-38e6-4be3-afcb-aadcb5986616
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terra
- in se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https:/
- /www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo terrain: https://www.abssa
- .org/terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J13: GREEN DEVILS vs FOOT JOSAPHAT
-DTSTART:20221203T133000Z
-DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:06ff66d0-8f7a-4398-b23e-3c57a577e681
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
- omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
-  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
- www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
- abssa.org/team/597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.org/terr
- ain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J18: GREEN DEVILS vs NEW INN FC (Eq. 2)
-DTSTART:20230121T133000Z
-DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b01bf582-86f4-4dd8-a88f-ba01c550ac56
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rose\n\nContact équipe d
- omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
-  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
- www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
- abssa.org/team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain
- /E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J16: GREEN DEVILS vs COPAINS REUNIS
-DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cbd36b96-e3c7-456c-9774-197db30d8431
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain s
- e trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www
- .abssa.org/team/049/COPAINS-REUNIS\nInfo terrain: https://www.abssa.org/te
- rrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J8: GREEN DEVILS vs FORESTOISE E.J.
-DTSTART:20221022T133000Z
-DTEND:20221022T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:261e7c4e-3ec0-459b-ba6c-19c66b0cd179
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
- ipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terra
- in se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https:/
- /www.abssa.org/team/623/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org
- /terrain/E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J24: GREEN DEVILS vs IRLANDE FC (Eq. 3)
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bc21f06a-1852-4243-8cdf-4ae124df943b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terrain se
-  trouve derrière l'église St. Vincent\n\nInfo équipe domicile: https://
- www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https://www.
- abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain
- /E08\n
-GEO:50.8786351;4.3949376
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J9: BLEU-BLANC (ENT)R. vs GREEN DEVILS
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:922f0f39-8dd0-4646-9f4c-3ade38e35ac3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture : Aven
- ue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauc
- he.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLANC-EN
- TR\nInfo équipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\n
- Info terrain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:josexavier.mineur@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: SAINT GEORGES RCS vs GREEN DEVILS
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7896dfd8-6564-4b6b-8ffc-751cbf997323
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervuren
- \, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo éq
- uipe exterieure: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo terrain
- : https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J19: ASTURIAS SPORTING vs GREEN DEVILS
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c4c5c6c4-15b8-4520-88cd-9d097af6e9da
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: STULENS K. (0474.62.61.41)\n\nAccès voiture : Ring\, sortie
-  Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droite
- .\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A.
-  Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'ho
- pital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: http
- s://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.
- org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kevin.stulens@live.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J26: CHARLES-QUINT FC vs GREEN DEVILS
 DTSTART:20230325T153000Z
 DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9b1d355e-8640-4ad9-b3b7-079f85efad8b
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d37fd4e-21e8-4e67-8eb5-749f3c16a76e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Vert\n\nContact é
  quipe domicile: WOUSSEN N. (0479.26.00.34)\n\nAccès voiture : Par la vill
@@ -516,7 +515,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  . Ensuite suivre comme ci-dessus.\n\nInfo équipe domicile: https://www.ab
  ssa.org/team/499/CHARLES-QUINT-FC\nInfo équipe exterieure: https://www.ab
  ssa.org/team/090/GREEN-DEVILS\nInfo terrain: https://www.abssa.org/terrain
- /G03\n
+ /G03
 GEO:50.876279;4.3026291
 LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
 ORGANIZER:MAILTO:slipnic@hotmail.com

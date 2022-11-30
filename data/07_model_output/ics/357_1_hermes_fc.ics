@@ -5,11 +5,50 @@ X-WR-CALDESC:Les matches du club HERMES FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: HERMES FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+SUMMARY:ABSSA D3A J1: AZUR RCS (Eq. 3) vs HERMES FC
+DTSTART:20220903T120000Z
+DTEND:20220903T132500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c506957e-c109-4b16-bba2-63cb9cc05ed3
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rayé bleu jaune\n\n
+ Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
+ e : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souver
+ ain prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu
+  de signalisation suivant prendre la 2ème rue à main droite (Av. J. Duja
+ rdin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile
+ : https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https:
+ //www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/te
+ rrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J2: HERMES FC vs STRING PENELOPE
+DTSTART:20220910T140000Z
+DTEND:20220910T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0e3e2a53-ea3d-43a7-b628-2f6f3f15f7a1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Orange\n\nCon
+ tact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A p
+ artir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'ave
+ nue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/
+ HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-
+ PENELOPE\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3A J3: NEW INN FC vs HERMES FC
 DTSTART:20220917T153000Z
 DTEND:20220917T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:160f75c7-5e00-48a6-8aa0-30b75fa50e10
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:32457734-0996-4c8e-bba5-86cdb81075b2
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge foncé\nCouleur principale équipe exterieure: Rayé bleu jaune\
  n\nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture :
@@ -20,276 +59,101 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   4ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. su
  r la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-
  INN-FC\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\
- nInfo terrain: https://www.abssa.org/terrain/K02\n
+ nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J20: ETTEKIJS vs HERMES FC
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f6f0a43b-a072-4d3a-b28f-16a0f4b03cd4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nConta
- ct équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A partir 
- du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue de
- s Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETTEKI
- JS\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInf
- o terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J7: PHARMA SC vs HERMES FC
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4f807271-3885-48ec-90fe-d79798114b0f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
- act équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : A 
- partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'av
- enue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/268
- /PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES
- -FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J17: HERMES FC vs FOSSIS (LES) CS
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:61edc830-9fd1-40bd-afef-81f6306bfb6d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune fluo\n\
- nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture :
-  A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l
- 'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/
- 357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/217/FOS
- SIS-LES-CS\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J19: HERMES FC vs PHARMA SC
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0b92140f-7d39-4c2b-b539-4d499bf71c01
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Blanc\n\nCont
- act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
- rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
- ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
- ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-S
- C\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J21: HERMES FC vs REQUINS (LES)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1eff8051-b95b-44de-84e4-3c59c945c424
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Noir\n\nConta
- ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
- tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
- e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
- RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/556/REQUINS-L
- ES\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J12: HERMES FC vs UNION SCHAERBEEK
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:55d5bb13-5887-499d-9780-8405286e8883
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge et noir
- \n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voitur
- e : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuit
- e l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/543/
- UNION-SCHAERBEEK\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J14: HERMES FC vs NEW INN FC
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:71fefedf-46dc-4621-a3d5-d103fa7d9d61
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge foncé\
- n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture
-  : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite
-  l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/359/N
- EW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J6: HERMES FC vs NO BOYS
-DTSTART:20221008T140000Z
-DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6fcd7f63-3412-4dde-83a5-8e98721bf06b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
- tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
- e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
- RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/420/NO-BOYS\n
- Info terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J8: HERMES FC vs ETTEKIJS
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ac87736c-360d-4086-b283-988bd33a6581
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Noir\n\nConta
- ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
- tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
- e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
- RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/343/ETTEKIJS\
- nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J10: HERMES FC vs SPARTA SCHEUT
-DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ea585eef-d660-418a-8dc9-fe73d16c7d52
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rayé Bleu et
-  Jaune\n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès 
- voiture : A partir du square des Archiducs\, prendre la rue Berensheide\, 
- ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.
- org/team/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/340/SPARTA-SCHEUT\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J15: HERMES FC vs REAL TRAPPISTE
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:71e13345-ee44-44d9-8028-d216da241d80
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune\n\nCont
- act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
- rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
- ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
- ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/605/REAL-TRA
- PPISTE\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J2: HERMES FC vs STRING PENELOPE
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0cf0a7aa-869a-4786-9075-64daf47b44b7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Orange\n\nCon
- tact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A p
- artir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'ave
- nue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/
- HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-
- PENELOPE\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J24: HERMES FC vs MIDI AS
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4fe1cfa9-d41c-40b4-8d4e-84501ea1c0fa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge\n\nCont
- act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
- rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
- ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
- ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/169/MIDI-AS\
- nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D3A J4: HERMES FC vs BRAINE-TERMINUS FC
 DTSTART:20220924T140000Z
 DTEND:20220924T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c4822658-a228-42e0-8cb6-6629aed9040e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cf1278bb-fccd-4122-b070-be382781cb6c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune et roug
  e\n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voitu
  re : A partir du square des Archiducs\, prendre la rue Berensheide\, ensui
  te l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/t
  eam/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/537
- /BRAINE-TERMINUS-FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
+ /BRAINE-TERMINUS-FC\nInfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER:MAILTO:hermesfc1984@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J25: HERMES FC vs AZUR RCS (Eq. 3)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:08c14bdc-76a9-418a-8277-36c96c8794f6
+SUMMARY:ABSSA D3A J5: FOSSIS (LES) CS vs HERMES FC
+DTSTART:20221001T150000Z
+DTEND:20221001T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:58f36d74-2cf1-40cf-af96-a5d833cb2312
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe exterieure: Bleu ciel\n\n
- Contact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : 
- A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'
- avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/3
- 57/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR
- -RCS\nInfo terrain: https://www.abssa.org/terrain/W05\n
+ le: Jaune fluo\nCouleur principale équipe exterieure: Rayé bleu jaune\n\
+ nContact équipe domicile: DESMEDT O. (0495.27.08.87)\n\nAccès voiture : 
+ En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur. P
+ rendre la sortie 9 Corroy-le-Grand vers Louvain-la-Neuve  Sud / Nivelles /
+  E 19. Rejoindre Chemin de Grez. Au rond-point\, prendre la 2ième sortie 
+ sur Grand'Route / N 4. Après 1\,8 km.et au prochain feu\, tourner à droi
+ te Rue de Corbais. Continuer tout droit pendant 2 km. et prendre à droite
+  Avenue du Cérisier. 70 m. plus loin\, vous trouverez le parking sur la d
+ roite.\n\nInfo équipe domicile: https://www.abssa.org/team/217/FOSSIS-LES
+ -CS\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nIn
+ fo terrain: https://www.abssa.org/terrain/M08
+GEO:50.6415297;4.6219204
+LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
+ Guibert\, Belgique
+ORGANIZER:MAILTO:oli.desmedt@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J6: HERMES FC vs NO BOYS
+DTSTART:20221008T140000Z
+DTEND:20221008T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4010a07e-62d4-45bc-ba3f-6c01fe45b320
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Bleu\n\nConta
+ ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
+ tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
+ e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
+ RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/420/NO-BOYS\n
+ Info terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J7: PHARMA SC vs HERMES FC
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ba7cddee-cb12-4406-a5cc-f98c03502492
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
+ act équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : A 
+ partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'av
+ enue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/268
+ /PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES
+ -FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J8: HERMES FC vs ETTEKIJS
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:243891f9-715a-4660-b3c7-c8aa61890b2d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Noir\n\nConta
+ ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
+ tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
+ e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
+ RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/343/ETTEKIJS\
+ nInfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -299,8 +163,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J9: REQUINS (LES) vs HERMES FC
 DTSTART:20221105T140000Z
 DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cb1e406b-e776-4c92-8cbd-ccf69038b60a
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f6bbd823-974f-4671-aa3c-f6913898a0e3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nConta
  ct équipe domicile: BARBE L. (0476.04.93.45)\n\nAccès voiture : En venan
@@ -322,17 +186,74 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est sit
  uée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www.a
  bssa.org/team/556/REQUINS-LES\nInfo équipe exterieure: https://www.abssa.
- org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terrain/O05\n
+ org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:louis.barbe1@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3A J10: HERMES FC vs SPARTA SCHEUT
+DTSTART:20221112T140000Z
+DTEND:20221112T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:49c56075-1460-4b41-8c8a-4459abb62804
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rayé Bleu et
+  Jaune\n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès 
+ voiture : A partir du square des Archiducs\, prendre la rue Berensheide\, 
+ ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/tea
+ m/340/SPARTA-SCHEUT\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J11: MIDI AS vs HERMES FC
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:eda86647-edd8-41c7-bf27-be536261fc03
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
+ act équipe domicile: CANTINIAU J-C. (0479.84.17.35)\n\nAccès voiture : E
+ n venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo
+  jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la
+  direction Nivelles. Sur cette chaussée\, au deuxième feu de signalisati
+ on\, prendre à droite\, le terrain se trouve à 500 m. et est fléché.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/169/MIDI-AS\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain: ht
+ tps://www.abssa.org/terrain/B03
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER:MAILTO:standardmidi@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J12: HERMES FC vs UNION SCHAERBEEK
+DTSTART:20221126T140000Z
+DTEND:20221126T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:30a33015-8da4-4e08-ad92-bf78ad0e72f9
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge et noir
+ \n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voitur
+ e : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuit
+ e l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/543/
+ UNION-SCHAERBEEK\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3A J13: STRING PENELOPE vs HERMES FC
 DTSTART:20221203T140000Z
 DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e4ee7d88-4236-47a1-8871-d902fea075e3
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:115ccc2f-ccd4-4e2a-8696-021aaffcb13f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCon
  tact équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En
@@ -355,164 +276,53 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  st située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https:/
  /www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://
  www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terr
- ain/O05\n
+ ain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:thom.collignon@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J22: UNION SCHAERBEEK vs HERMES FC
-DTSTART:20230225T143000Z
-DTEND:20230225T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f2f2a7c4-8e07-442f-b667-929f202e3519
+SUMMARY:ABSSA D3A J14: HERMES FC vs NEW INN FC
+DTSTART:20221210T140000Z
+DTEND:20221210T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0873569b-332e-4a0b-95bd-138f43dd6836
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Rayé bleu jaune
- \n\nContact équipe domicile: SARI U. (0489.39.43.46)\n\nAccès voiture : 
- Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signalis
- ation prendre à gauche\, puis la première à droite.\n\nInfo équipe dom
- icile: https://www.abssa.org/team/543/UNION-SCHAERBEEK\nInfo équipe exter
- ieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www
- .abssa.org/terrain/S01\n
-GEO:50.8666244;4.382361899999999
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER:MAILTO:ugursari007@hotmail.com
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge foncé\
+ n\nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture
+  : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite
+  l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/359/N
+ EW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J1: AZUR RCS (Eq. 3) vs HERMES FC
-DTSTART:20220903T120000Z
-DTEND:20220903T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f91aff6a-25d2-4921-9111-346382c1ae0e
+SUMMARY:ABSSA D3A J15: HERMES FC vs REAL TRAPPISTE
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d553e339-7154-4e78-a46f-126c0349bd42
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rayé bleu jaune\n\n
- Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
- e : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souver
- ain prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu
-  de signalisation suivant prendre la 2ème rue à main droite (Av. J. Duja
- rdin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile
- : https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https:
- //www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/te
- rrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J18: NO BOYS vs HERMES FC
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ab502bfc-21f0-4101-956e-b28b11afdd55
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nConta
- ct équipe domicile: DEBY P. (0479.94.64.38)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/420/NO-BOYS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terra
- in/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:pierredeby@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J23: SPARTA SCHEUT vs HERMES FC
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:65f6ef52-22a5-4ce6-ab88-f3c5a05ec929
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Rayé bleu
-  jaune\n\nContact équipe domicile: VANDE VELDE J. (0486.97.70.66)\n\nAcc
- ès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction de
-  Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour A
- v. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bl
- d. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n\n
- Info équipe domicile: https://www.abssa.org/team/340/SPARTA-SCHEUT\nInfo 
- équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain
- : https://www.abssa.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:sparta.scheut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J11: MIDI AS vs HERMES FC
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e9630d9e-5849-45d5-a644-54413fc2e49e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
- act équipe domicile: CANTINIAU J-C. (0479.84.17.35)\n\nAccès voiture : E
- n venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo
-  jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la
-  direction Nivelles. Sur cette chaussée\, au deuxième feu de signalisati
- on\, prendre à droite\, le terrain se trouve à 500 m. et est fléché.\n
- \nInfo équipe domicile: https://www.abssa.org/team/169/MIDI-AS\nInfo équ
- ipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain: ht
- tps://www.abssa.org/terrain/B03\n
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:standardmidi@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J26: REAL TRAPPISTE vs HERMES FC
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f7549f4d-0f91-43b9-9b0f-46d86fb1efdb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
- act équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\
- , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
-  Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
- le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
- in droite\, juste au début de cette avenue.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/605/REAL-TRAPPISTE\nInfo équipe exterieure: https
- ://www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/t
- errain/M06\n
-GEO:50.8511158;4.3192467
-LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J5: FOSSIS (LES) CS vs HERMES FC
-DTSTART:20221001T150000Z
-DTEND:20221001T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aa816351-95d6-4700-8615-14d66733a4d8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune fluo\nCouleur principale équipe exterieure: Rayé bleu jaune\n\
- nContact équipe domicile: DESMEDT O. (0495.27.08.87)\n\nAccès voiture : 
- En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur. P
- rendre la sortie 9 Corroy-le-Grand vers Louvain-la-Neuve  Sud / Nivelles /
-  E 19. Rejoindre Chemin de Grez. Au rond-point\, prendre la 2ième sortie 
- sur Grand'Route / N 4. Après 1\,8 km.et au prochain feu\, tourner à droi
- te Rue de Corbais. Continuer tout droit pendant 2 km. et prendre à droite
-  Avenue du Cérisier. 70 m. plus loin\, vous trouverez le parking sur la d
- roite.\n\nInfo équipe domicile: https://www.abssa.org/team/217/FOSSIS-LES
- -CS\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nIn
- fo terrain: https://www.abssa.org/terrain/M08\n
-GEO:50.6415297;4.6219204
-LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
- Guibert\, Belgique
-ORGANIZER:MAILTO:oli.desmedt@gmail.com
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune\n\nCont
+ act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
+ rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
+ ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
+ ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/605/REAL-TRA
+ PPISTE\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J16: BRAINE-TERMINUS FC vs HERMES FC
 DTSTART:20230107T150000Z
 DTEND:20230107T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b4a549ff-b831-4aed-b9bf-770f4c38a44e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:640a1dfc-04d2-4257-b928-d28fc13e0041
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et rouge\nCouleur principale équipe exterieure: Rayé bleu jaun
  e\n\nContact équipe domicile: DERO G. (0479.81.83.27)\n\nAccès voiture :
@@ -525,9 +335,199 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  elles)\, prendre la 1ère rue à gauche\, le terrain se situe au bout de l
  a rue.\n\nInfo équipe domicile: https://www.abssa.org/team/537/BRAINE-TER
  MINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-F
- C\nInfo terrain: https://www.abssa.org/terrain/B11\n
+ C\nInfo terrain: https://www.abssa.org/terrain/B11
 GEO:50.6193857;4.1352085
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J17: HERMES FC vs FOSSIS (LES) CS
+DTSTART:20230114T140000Z
+DTEND:20230114T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:21073c5c-a20c-4d60-ba24-e0b60a160df5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune fluo\n\
+ nContact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture :
+  A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l
+ 'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/
+ 357/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/217/FOS
+ SIS-LES-CS\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J18: NO BOYS vs HERMES FC
+DTSTART:20230121T123000Z
+DTEND:20230121T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:143b8391-7cf4-4694-a46a-2b8acd349ff9
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nConta
+ ct équipe domicile: DEBY P. (0479.94.64.38)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/420/NO-BOYS\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terra
+ in/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:pierredeby@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J19: HERMES FC vs PHARMA SC
+DTSTART:20230128T140000Z
+DTEND:20230128T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f4ab4a28-c455-498e-828c-0f8e561cca62
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Blanc\n\nCont
+ act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
+ rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
+ ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
+ ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARMA-S
+ C\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J20: ETTEKIJS vs HERMES FC
+DTSTART:20230204T123000Z
+DTEND:20230204T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e2c441ab-8bf4-4f46-a4b0-23c99935e17d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nConta
+ ct équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A partir 
+ du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue de
+ s Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETTEKI
+ JS\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInf
+ o terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J21: HERMES FC vs REQUINS (LES)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e62f3ad5-d54d-4838-9194-d11c08ecc3c8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Noir\n\nConta
+ ct équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A par
+ tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
+ e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/HE
+ RMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/556/REQUINS-L
+ ES\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J22: UNION SCHAERBEEK vs HERMES FC
+DTSTART:20230225T143000Z
+DTEND:20230225T155500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c87fa56e-9386-4029-9530-973756ec02d5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Rayé bleu jaune
+ \n\nContact équipe domicile: SARI U. (0489.39.43.46)\n\nAccès voiture : 
+ Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signalis
+ ation prendre à gauche\, puis la première à droite.\n\nInfo équipe dom
+ icile: https://www.abssa.org/team/543/UNION-SCHAERBEEK\nInfo équipe exter
+ ieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www
+ .abssa.org/terrain/S01
+GEO:50.8666244;4.382361899999999
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER:MAILTO:ugursari007@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J23: SPARTA SCHEUT vs HERMES FC
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2809cf67-5bb7-4482-8cd8-be32e36ca3da
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Rayé bleu
+  jaune\n\nContact équipe domicile: VANDE VELDE J. (0486.97.70.66)\n\nAcc
+ ès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction de
+  Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour A
+ v. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bl
+ d. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n\n
+ Info équipe domicile: https://www.abssa.org/team/340/SPARTA-SCHEUT\nInfo 
+ équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\nInfo terrain
+ : https://www.abssa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:sparta.scheut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J24: HERMES FC vs MIDI AS
+DTSTART:20230311T140000Z
+DTEND:20230311T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7b8b86b8-394a-427e-8112-0ed2a425f1b2
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Rouge\n\nCont
+ act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
+ rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
+ ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
+ ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/169/MIDI-AS\
+ nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J25: HERMES FC vs AZUR RCS (Eq. 3)
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b562322f-8eaa-460f-9912-5b130dfad73c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé bleu jaune\nCouleur principale équipe exterieure: Bleu ciel\n\n
+ Contact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : 
+ A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'
+ avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/3
+ 57/HERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR
+ -RCS\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:hermesfc1984@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J26: REAL TRAPPISTE vs HERMES FC
+DTSTART:20230325T140000Z
+DTEND:20230325T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ad919924-141f-4376-a5a1-5ab0c0e5999e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
+ act équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\
+ , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
+  Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
+ le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
+ in droite\, juste au début de cette avenue.\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/605/REAL-TRAPPISTE\nInfo équipe exterieure: https
+ ://www.abssa.org/team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/t
+ errain/M06
+GEO:50.8511158;4.3192467
+LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
+ k\, Belgique
+ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,51 @@ X-WR-CALDESC:Les matches du club TAURO FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: TAURO FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+SUMMARY:ABSSA D4A J1: TAURO FC vs SAINT GEORGES RCS (Eq. 3)
+DTSTART:20220903T130000Z
+DTEND:20220903T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:eaa001e5-75c4-4f40-9a60-659da056efdb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, de
+ scendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prend
+ re à gauche\, puis encore la première à gauche\nOu :  Place Meiser pren
+ dre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équip
+ e domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieu
+ re: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https:
+ //www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J2: TAURO FC vs STRING PENELOPE (Eq. 2)
+DTSTART:20220910T130000Z
+DTEND:20220910T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ebb86836-d9b8-4d51-8298-9eaba48afd89
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
+  domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, d
+ escendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour pren
+ dre à gauche\, puis encore la première à gauche\nOu :  Place Meiser pre
+ ndre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterie
+ ure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https:/
+ /www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: NIVELLOIS-ACLOT BS vs TAURO FC
 DTSTART:20220917T150000Z
 DTEND:20220917T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:fbcbeee8-5e9e-4852-a5a8-6a7d03a3c69d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0440319c-ba4c-41c6-8f19-2d53dd84598b
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
  équipe domicile: DRAUX N. (0472.40.01.22)\n\nAccès voiture : En venant d
@@ -22,17 +62,182 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le feu de signalisation\, tourner à gauche et prendre la rue du Progrès 
  pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/50
  3/NIVELLOIS-ACLOT-BS\nInfo équipe exterieure: https://www.abssa.org/team/
- 574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/N03\n
+ 574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D4A J5: BEEKINGS F.C. vs TAURO FC
+DTSTART:20221001T150000Z
+DTEND:20221001T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9c6b50d0-849b-4396-a32f-ad290393e9d2
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Jaune et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: THONART W. (0475.96.36.63)\n\nAccès voiture : Par la E4
+ 11 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bie
+ rges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, 
+ prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart
+ . Après 900 mètres\, à la Place de la Perche\, prendre à droite l'aven
+ ue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInfo équ
+ ipe domicile: https://www.abssa.org/team/648/BEEKINGS-FC\nInfo équipe ext
+ erieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://ww
+ w.abssa.org/terrain/R03
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER:MAILTO:williamthonart@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J6: TAURO FC vs NEPTUNE FC
+DTSTART:20221008T130000Z
+DTEND:20221008T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3eb7c0f0-0fdb-4c9b-a3ff-dbfd89f02513
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, des
+ cendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendr
+ e à gauche\, puis encore la première à gauche\nOu :  Place Meiser prend
+ re Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe
+  domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieur
+ e: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo terrain: https://www.ab
+ ssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J7: HELLAS BERCHEM FC. vs TAURO FC
+DTSTART:20221015T130000Z
+DTEND:20221015T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:da313695-3e60-4de3-b6a1-151bcf06b78a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: HADJIANESTIS A. (0475.31.23.80)\n\nAccès voiture : A partir du b
+ oulevard Charles Quint à hauteur de Basilix Shopping Center\, prendre la 
+ rue des Châlets (Lusthuizenstraat)\n\nInfo équipe domicile: https://www.
+ abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo équipe exterieure: https://www
+ .abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/
+ S04
+GEO:50.8696433;4.2873126
+LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
+ Belgique
+ORGANIZER:MAILTO:fchellas@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J8: TAURO FC vs RHINOCEROS
+DTSTART:20221022T130000Z
+DTEND:20221022T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b460131f-836f-4f78-be98-f6e4c70d6548
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
+ équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
+ ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
+ ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
+ ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
+ o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
+ exterieure: https://www.abssa.org/team/654/RHINOCEROS\nInfo terrain: https
+ ://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J9: BRUSSELS LTC (Eq. 2) vs TAURO FC
+DTSTART:20221105T123000Z
+DTEND:20221105T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f3e804b1-f67c-4207-9f4d-51f14a7fbc44
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
+ pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
+ aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
+  3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
+ n 2km et prendre à droite la Rue des Saules toujours tout droit et 	qui d
+ evient ensuite la Route des Marnières. Continuer ensuite tout droit\, pas
+ ser un premier rond-point puis continuer tout droit jusqu'au rond-point du
+  Messager où il faut prendre la 2ème sortie. Vous êtes alors sur la Rou
+ te de Genval et l'entrée du Complexe se trouve à environ 200m sur la gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUSSELS-LTC
+ \nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo t
+ errain: https://www.abssa.org/terrain/O01
+GEO:50.7035641;4.469720199999999
+LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J10: REALISTES MEXICO R vs TAURO FC
+DTSTART:20221112T140000Z
+DTEND:20221112T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6ad8749f-298a-4d4f-9333-d1d9705bb047
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu marine/Orange\nCouleur principale équipe exterieure: Noir\n\nCon
+ tact équipe domicile: Mad. BRUSSELAERS P. (02.478.40.33)\n\nAccès voitur
+ e : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, pr
+ endre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit Chemi
+ n Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300 m.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/057/REALISTES-MEXICO-
+ R\nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo 
+ terrain: https://www.abssa.org/terrain/B08
+GEO:50.8998295;4.3935952
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER:MAILTO:real_mexico_057@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J11: TAURO FC vs BRUSSELS BRITISH R (Eq. 4)
+DTSTART:20221119T130000Z
+DTEND:20221119T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7c4d3e86-900f-40cc-b5b8-2f7eee6f2bbb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, de
+ scendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prend
+ re à gauche\, puis encore la première à gauche\nOu :  Place Meiser pren
+ dre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équip
+ e domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieu
+ re: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https
+ ://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J12: DUDEN SPORT R vs TAURO FC
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8480a975-a73a-4692-b86d-08e6a2a634aa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge et blanc\nCouleur principale équipe exterieure: Noir\n\nContact
+  équipe domicile: ISABEAUX A (0472.34.00.24)\n\nAccès voiture : Ring\, s
+ ortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à d
+ roite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bl
+ d. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après
+  l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile:
+  https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org
+ /terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:arnaud8684@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4A J13: STRING PENELOPE (Eq. 2) vs TAURO FC
 DTSTART:20221203T123000Z
 DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:899ad004-602a-45bb-91bf-d743658bad74
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:51ced27d-bce3-44c2-a316-b204778ea967
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Noir\n\nContact équipe
   domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de B
@@ -54,83 +259,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  s Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est située 5
  0 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.abssa.or
- g/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/O05\n
+ g/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:thom.collignon@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J5: BEEKINGS F.C. vs TAURO FC
-DTSTART:20221001T150000Z
-DTEND:20221001T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:1f00ae89-139f-4b1a-92a9-ebdfabd589e8
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: THONART W. (0475.96.36.63)\n\nAccès voiture : Par la E4
- 11 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bie
- rges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, 
- prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart
- . Après 900 mètres\, à la Place de la Perche\, prendre à droite l'aven
- ue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInfo équ
- ipe domicile: https://www.abssa.org/team/648/BEEKINGS-FC\nInfo équipe ext
- erieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://ww
- w.abssa.org/terrain/R03\n
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER:MAILTO:williamthonart@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J9: BRUSSELS LTC (Eq. 2) vs TAURO FC
-DTSTART:20221105T123000Z
-DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a83e8edf-6486-4832-ae92-ea8b6f56c86a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
- uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
- aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
-  3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
- n 2km et prendre à droite la Rue des Saules toujours tout droit et 	qui d
- evient ensuite la Route des Marnières. Continuer ensuite tout droit\, pas
- ser un premier rond-point puis continuer tout droit jusqu'au rond-point du
-  Messager où il faut prendre la 2ème sortie. Vous êtes alors sur la Rou
- te de Genval et l'entrée du Complexe se trouve à environ 200m sur la gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUSSELS-LTC
- \nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo t
- errain: https://www.abssa.org/terrain/O01\n
-GEO:50.7035641;4.469720199999999
-LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: TAURO FC vs DUDEN SPORT R
-DTSTART:20230225T130000Z
-DTEND:20230225T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:1f5dab8d-95da-4178-812b-c4aae9b34df9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Me
- iser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carref
- our prendre à gauche\, puis encore la première à gauche\nOu :  Place Me
- iser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nIn
- fo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: h
- ttps://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: TAURO FC vs NIVELLOIS-ACLOT BS
 DTSTART:20221210T130000Z
 DTEND:20221210T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:dfb1cb62-a50f-48e7-ba4a-85f2e25ae3d4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3d1ca175-2748-44a6-87ba-9f7918413076
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
  équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
@@ -139,278 +278,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
  o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
  exterieure: https://www.abssa.org/team/503/NIVELLOIS-ACLOT-BS\nInfo terrai
- n: https://www.abssa.org/terrain/S09\n
+ n: https://www.abssa.org/terrain/S09
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
 ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J17: TAURO FC vs BEEKINGS F.C.
-DTSTART:20230114T130000Z
-DTEND:20230114T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:859657ed-edfb-4510-a751-c0da61dcc675
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune et noir\n\nContact 
- équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
- ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
- ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
- ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
- o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
- exterieure: https://www.abssa.org/team/648/BEEKINGS-FC\nInfo terrain: http
- s://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J19: TAURO FC vs HELLAS BERCHEM FC.
-DTSTART:20230128T130000Z
-DTEND:20230128T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:cb375199-6d2f-40ff-8c26-fb23d8d55191
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, des
- cendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendr
- e à gauche\, puis encore la première à gauche\nOu :  Place Meiser prend
- re Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe
-  domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieur
- e: https://www.abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo terrain: https:/
- /www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J26: TAURO FC vs VOGELPIK FC.
-DTSTART:20230325T130000Z
-DTEND:20230325T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:52e07cf1-7527-4d59-8bb8-d93d10a18970
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
- ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
- ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
- ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
- o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
- exterieure: https://www.abssa.org/team/629/VOGELPIK-FC\nInfo terrain: http
- s://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J6: TAURO FC vs NEPTUNE FC
-DTSTART:20221008T130000Z
-DTEND:20221008T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:82109044-40ed-41f1-9f30-8eddbac84837
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, des
- cendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendr
- e à gauche\, puis encore la première à gauche\nOu :  Place Meiser prend
- re Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe
-  domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieur
- e: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo terrain: https://www.ab
- ssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J8: TAURO FC vs RHINOCEROS
-DTSTART:20221022T130000Z
-DTEND:20221022T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:255d6891-3060-4118-a67d-67d932e5e151
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
- équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
- ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
- ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
- ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
- o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
- exterieure: https://www.abssa.org/team/654/RHINOCEROS\nInfo terrain: https
- ://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J23: TAURO FC vs REALISTES MEXICO R
-DTSTART:20230304T130000Z
-DTEND:20230304T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a22ab1b3-0954-4ca3-b564-aaf5eed699e3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu marine/Orange\n\nCon
- tact équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Plac
- e Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième ca
- rrefour prendre à gauche\, puis encore la première à gauche\nOu :  Plac
- e Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n
- \nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo éq
- uipe exterieure: https://www.abssa.org/team/057/REALISTES-MEXICO-R\nInfo t
- errain: https://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J11: TAURO FC vs BRUSSELS BRITISH R (Eq. 4)
-DTSTART:20221119T130000Z
-DTEND:20221119T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:b41dc0e8-05f1-4a28-a1b9-fc905c67ce91
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, de
- scendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prend
- re à gauche\, puis encore la première à gauche\nOu :  Place Meiser pren
- dre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équip
- e domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieu
- re: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https
- ://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J1: TAURO FC vs SAINT GEORGES RCS (Eq. 3)
-DTSTART:20220903T130000Z
-DTEND:20220903T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:0a0d685b-c441-4955-9f29-e4bb28645b5f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, de
- scendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prend
- re à gauche\, puis encore la première à gauche\nOu :  Place Meiser pren
- dre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équip
- e domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieu
- re: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https:
- //www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: TAURO FC vs STRING PENELOPE (Eq. 2)
-DTSTART:20220910T130000Z
-DTEND:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:8956440c-0888-4b07-a6fd-13a403e10f29
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, d
- escendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour pren
- dre à gauche\, puis encore la première à gauche\nOu :  Place Meiser pre
- ndre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équi
- pe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterie
- ure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https:/
- /www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J21: TAURO FC vs BRUSSELS LTC (Eq. 2)
-DTSTART:20230211T130000Z
-DTEND:20230211T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:705f3cd7-3e04-4627-9562-93966927a808
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\,
-  descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour pr
- endre à gauche\, puis encore la première à gauche\nOu :  Place Meiser p
- rendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo éq
- uipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exter
- ieure: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://
- www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J7: HELLAS BERCHEM FC. vs TAURO FC
-DTSTART:20221015T130000Z
-DTEND:20221015T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:93a8c216-09ef-4b82-ba5c-e45ad3d085ae
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: HADJIANESTIS A. (0475.31.23.80)\n\nAccès voiture : A partir du b
- oulevard Charles Quint à hauteur de Basilix Shopping Center\, prendre la 
- rue des Châlets (Lusthuizenstraat)\n\nInfo équipe domicile: https://www.
- abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo équipe exterieure: https://www
- .abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/
- S04\n
-GEO:50.8696433;4.2873126
-LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
- Belgique
-ORGANIZER:MAILTO:fchellas@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J18: NEPTUNE FC vs TAURO FC
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:b28c9167-562b-4e88-9476-d218b1cda49d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: LOUIES S. (0474.55.15.41)\n\nAccès voiture : Via la chaussée de
-  Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le b
- oulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\
- n\nInfo équipe domicile: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain:
-  https://www.abssa.org/terrain/A08\n
-GEO:50.827564;4.2952993
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:louiesstephane@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J20: RHINOCEROS vs TAURO FC
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:68078a67-49c4-41d3-93ee-e8bd98a24607
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: WATTEYNE R. (0498.16.13.01)\n\nAccès voiture : Autorout
- e Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-Neuve\,
-  continuer sur la N4 direction Namur\, au premier rond-point prendre à dr
- oite vers la N250 et suivre "Blocry/Hocaille". Après le second rond-point
- \, prendre à droite\, au carrefour\, la rue de l'Invasion\, puis de nouve
- au à droite. L'entrée du terrain ROS se trouve au bout de l'avenue.\n\nI
- nfo équipe domicile: https://www.abssa.org/team/654/RHINOCEROS\nInfo équ
- ipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: htt
- ps://www.abssa.org/terrain/L08\n
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:robin@watteyne.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J15: VOGELPIK FC. vs TAURO FC
 DTSTART:20221217T153000Z
 DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:6e13f08f-f5b1-470a-b036-b2a308d971cd
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:37497a02-8ef8-4ae7-b16f-74d4a660d84e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
  équipe domicile: NOLET P (0486.56.82.31)\n\nAccès voiture : Autoroute Br
@@ -421,37 +300,177 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  à droite. L'entrée du terrain ROS se trouve au bout de l'avenue.\n\nInfo
   équipe domicile: https://www.abssa.org/team/629/VOGELPIK-FC\nInfo équip
  e exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https
- ://www.abssa.org/terrain/L08\n
+ ://www.abssa.org/terrain/L08
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
 ORGANIZER:MAILTO:pierrenolet91@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J10: REALISTES MEXICO R vs TAURO FC
-DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:2b51f5a5-0b87-4a01-97c0-678ab31b325d
+SUMMARY:ABSSA D4A J17: TAURO FC vs BEEKINGS F.C.
+DTSTART:20230114T130000Z
+DTEND:20230114T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a92f6457-0046-4581-8d18-6dd95e429bd6
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine/Orange\nCouleur principale équipe exterieure: Noir\n\nCon
- tact équipe domicile: Mad. BRUSSELAERS P. (02.478.40.33)\n\nAccès voitur
- e : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, pr
- endre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit Chemi
- n Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300 m.\
- n\nInfo équipe domicile: https://www.abssa.org/team/057/REALISTES-MEXICO-
- R\nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo 
- terrain: https://www.abssa.org/terrain/B08\n
-GEO:50.8998295;4.3935952
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:real_mexico_057@yahoo.fr
+ le: Noir\nCouleur principale équipe exterieure: Jaune et noir\n\nContact 
+ équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
+ ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
+ ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
+ ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
+ o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
+ exterieure: https://www.abssa.org/team/648/BEEKINGS-FC\nInfo terrain: http
+ s://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J18: NEPTUNE FC vs TAURO FC
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bdeb1267-18f1-41bd-9e53-c4938167cd43
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: LOUIES S. (0474.55.15.41)\n\nAccès voiture : Via la chaussée de
+  Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le b
+ oulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain:
+  https://www.abssa.org/terrain/A08
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J19: TAURO FC vs HELLAS BERCHEM FC.
+DTSTART:20230128T130000Z
+DTEND:20230128T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:80e341ef-69fe-4d94-892a-026eebd3d3b8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\, des
+ cendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendr
+ e à gauche\, puis encore la première à gauche\nOu :  Place Meiser prend
+ re Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe
+  domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieur
+ e: https://www.abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo terrain: https:/
+ /www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J20: RHINOCEROS vs TAURO FC
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fcad008c-1662-4a3f-845a-95400ff849d6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: WATTEYNE R. (0498.16.13.01)\n\nAccès voiture : Autorout
+ e Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-Neuve\,
+  continuer sur la N4 direction Namur\, au premier rond-point prendre à dr
+ oite vers la N250 et suivre "Blocry/Hocaille". Après le second rond-point
+ \, prendre à droite\, au carrefour\, la rue de l'Invasion\, puis de nouve
+ au à droite. L'entrée du terrain ROS se trouve au bout de l'avenue.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/654/RHINOCEROS\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: htt
+ ps://www.abssa.org/terrain/L08
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER:MAILTO:robin@watteyne.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J21: TAURO FC vs BRUSSELS LTC (Eq. 2)
+DTSTART:20230211T130000Z
+DTEND:20230211T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7ac9b691-6e01-47af-a552-c2f9936c6d2e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
+ pe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\,
+  descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour pr
+ endre à gauche\, puis encore la première à gauche\nOu :  Place Meiser p
+ rendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo éq
+ uipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exter
+ ieure: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://
+ www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J22: TAURO FC vs DUDEN SPORT R
+DTSTART:20230225T130000Z
+DTEND:20230225T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1703b3af-5da5-4881-ad02-f539c0b80d35
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
+  équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Me
+ iser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carref
+ our prendre à gauche\, puis encore la première à gauche\nOu :  Place Me
+ iser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: h
+ ttps://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J23: TAURO FC vs REALISTES MEXICO R
+DTSTART:20230304T130000Z
+DTEND:20230304T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:76f3a6a0-d7d3-4682-bf7d-31a37401f490
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu marine/Orange\n\nCon
+ tact équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Plac
+ e Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième ca
+ rrefour prendre à gauche\, puis encore la première à gauche\nOu :  Plac
+ e Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n
+ \nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/057/REALISTES-MEXICO-R\nInfo t
+ errain: https://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J24: BRUSSELS BRITISH R (Eq. 4) vs TAURO FC
+DTSTART:20230311T123000Z
+DTEND:20230311T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0d72d4f4-1060-4413-af92-49fd5b434d3f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain:
+  https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J25: SAINT GEORGES RCS (Eq. 3) vs TAURO FC
 DTSTART:20230318T153000Z
 DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:38ee68b5-4890-4d10-807c-2db85465e1ce
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1988d21f-0252-4ed8-902b-bbef487dc045
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la Wo
@@ -460,48 +479,29 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  Le terrain est situé sur la droite de la chaussée.\n\nInfo équipe domic
  ile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo équipe exteri
  eure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.a
- bssa.org/terrain/W13\n
+ bssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J24: BRUSSELS BRITISH R (Eq. 4) vs TAURO FC
-DTSTART:20230311T123000Z
-DTEND:20230311T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:93e0d947-2990-4703-b185-fbcefc55ccb0
+SUMMARY:ABSSA D4A J26: TAURO FC vs VOGELPIK FC.
+DTSTART:20230325T130000Z
+DTEND:20230325T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:60e371ff-9f57-4212-af50-933dec49cf6f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain:
-  https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J12: DUDEN SPORT R vs TAURO FC
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:1a719f7d-23cf-49b8-8e21-00d0efc7c5cc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: ISABEAUX A (0472.34.00.24)\n\nAccès voiture : Ring\, s
- ortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à d
- roite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bl
- d. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après
-  l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org
- /terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:arnaud8684@hotmail.be
+ le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
+ équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
+ ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
+ ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
+ ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
+ o équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe 
+ exterieure: https://www.abssa.org/team/629/VOGELPIK-FC\nInfo terrain: http
+ s://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:ylietaer@gmail.com
 END:VEVENT
 END:VCALENDAR

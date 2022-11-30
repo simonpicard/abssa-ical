@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J1: CENTRAL PARK FC vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20220903T153000Z
 DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3c32bd95-067d-49dc-a4ab-ce7ab2f99eb4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8cefeee6-aad7-49ce-b70d-cf2e69e8348a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard 
@@ -17,18 +17,280 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauch
  e.\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-F
  C\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITIS
- H-R\nInfo terrain: https://www.abssa.org/terrain/W10\n
+ H-R\nInfo terrain: https://www.abssa.org/terrain/W10
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J2: WATERMAEL FC vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20220910T140000Z
+DTEND:20220910T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d7bb1941-0925-4d3c-8477-b5394394e395
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
+ are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
+ hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
+ \nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH
+ -R\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J3: BRUSSELS BRITISH R (Eq. 3) vs WELL TEAM
+DTSTART:20220917T123000Z
+DTEND:20220917T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a54153f5-e850-43d2-872c-acddfc428c24
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
+ équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute 
+ E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
+ oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R
+ \nInfo équipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo 
+ terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J4: BRUSSELS BRITISH R (Eq. 3) vs CHIEFS WSL
+DTSTART:20220924T123000Z
+DTEND:20220924T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:baabce3f-033c-46a8-a2ca-f063764711f8
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
+ prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
+ et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrai
+ n: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: MACAPSULES (LES) vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20221001T153000Z
+DTEND:20221001T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3641ea74-8b4b-42e8-961d-4ff9a97e8e13
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Vert/blanc\nCouleur principale équipe exterieure: Blanc\n\nContact é
+ quipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Autoroute B
+ ruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Pren
+ dre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les de
+ ux premiers ronds-points à l'issue de la RN 25. Au troisième rond-point 
+ prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de la r
+ ue du Stampia.\n\nInfo équipe domicile: https://www.abssa.org/team/627/MA
+ CAPSULES-LES\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUS
+ SELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/G04
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER:MAILTO:jordandaumont@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J6: BRUSSELS BRITISH R (Eq. 3) vs BOUKS  FC
+DTSTART:20221008T123000Z
+DTEND:20221008T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cb5cdbf6-2a7a-4484-a443-8ef8611e3d7e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/579/BOUKS-FC\nInfo terrain:
+  https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: CORNAC UNITED FC vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20221015T143000Z
+DTEND:20221015T155500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a0909549-d68c-4084-9aa8-956efa6e58aa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
+ t\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer t
+ out droit\, remonter vers le Ring et prendre à droite pour sortir vers It
+ terbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le rin
+ g\, reste 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle 
+ et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.org/team/151/CORN
+ AC-UNITED-FC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUS
+ SELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A01
+GEO:50.8344692;4.2821012
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: BRUSSELS BRITISH R (Eq. 3) vs BREU UNITED
+DTSTART:20221022T123000Z
+DTEND:20221022T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:83d30ba2-1e3d-447c-a9af-7027bd9e7a0d
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Orange et Mauve\n\nConta
+ ct équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autorou
+ te E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'
+ autoroute et tourner à droite au cimetière des animaux. Terrain à 200 m
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITIS
+ H-R\nInfo équipe exterieure: https://www.abssa.org/team/603/BREU-UNITED\n
+ Info terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: ETTEKIJS (Eq. 2) vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20221105T123000Z
+DTEND:20221105T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ec1ef4ec-4ec2-46d4-aedb-072fcf135c47
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A par
+ tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
+ e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ET
+ TEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-B
+ RITISH-R\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: BRUSSELS BRITISH R (Eq. 3) vs SYB  RFC
+DTSTART:20221112T123000Z
+DTEND:20221112T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d1359e57-b6de-48fb-81e2-484b55542551
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
+ ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
+ oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
+ r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
+ 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
+ ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\n
+ Info terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: CELTIC ROOSTERS vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:40082ef6-f094-4781-b470-f5fccfe9f04a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
+  équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : Autoroute
+  E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à g
+ auche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'
+ Europe direction Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à
+  gauche N 239. 	Au rond-point prendre la première sortie Rue Haute\, cont
+ inuer sur rue de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur
+  rue Joseph Joppart. Prendre à droite l'avenue du Centre Sportif.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo é
+ quipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ terrain: https://www.abssa.org/terrain/W07
+GEO:50.7216297;4.6192566
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: BRUSSELS BRITISH R (Eq. 3) vs STER'S
+DTSTART:20221126T123000Z
+DTEND:20221126T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:efd1be0f-f17d-4aa1-bf05-aa744c92287f
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
+  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
+  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
+ toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
+ R\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo ter
+ rain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: BRUSSELS BRITISH R (Eq. 3) vs WATERMAEL FC
+DTSTART:20221203T123000Z
+DTEND:20221203T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:07785c14-9689-4341-ad55-dc8bacda3e26
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/611/WATERMAEL-FC\nInfo terr
+ ain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: WELL TEAM vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20221210T153000Z
+DTEND:20221210T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a3cd7edc-bdd3-4ace-b4a6-0b3134190a2e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
+ équipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A partir du
+  square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des 
+ Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/544/WELL-TEA
+ M\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITIS
+ H-R\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:martindayez@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: BRUSSELS BRITISH R (Eq. 3) vs SAINT GEORGES RCS (Eq
+ . 2)
+DTSTART:20221217T123000Z
+DTEND:20221217T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3a500506-0af3-47ba-b8f2-6dcebc98d12f
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
+ prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
+ et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo
+  terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: CHIEFS WSL vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20230107T140000Z
 DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b51bf044-3dd4-4198-83fc-e24643a4335e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6444edb2-af44-4e48-ae3c-9903b9d78991
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
   domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
@@ -36,18 +298,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
  ipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo te
- rrain: https://www.abssa.org/terrain/W10\n
+ rrain: https://www.abssa.org/terrain/W10
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: BRUSSELS BRITISH R (Eq. 3) vs MACAPSULES (LES)
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d5b8daa-c7b6-492e-a522-ecdaa2b033e8
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert/blanc\n\nContact é
+ quipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E4
+ 11\, prendre la sortie Rosières. Passer devant l'église\, longer l'autor
+ oute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\n
+ Info équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\n
+ Info équipe exterieure: https://www.abssa.org/team/627/MACAPSULES-LES\nIn
+ fo terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J18: BOUKS  FC vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20230121T153000Z
 DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c0147df1-d762-4681-9242-19d64ed9837d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ae7c92b-dfe9-47f3-a718-e3e18baae4b7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
  domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxe
@@ -59,17 +339,35 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  re le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: https:
  //www.abssa.org/team/579/BOUKS-FC\nInfo équipe exterieure: https://www.ab
  ssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/t
- errain/L09\n
+ errain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER:MAILTO:francois_schapira5@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: BRUSSELS BRITISH R (Eq. 3) vs CORNAC UNITED FC
+DTSTART:20230128T123000Z
+DTEND:20230128T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:76f2bba6-ee48-46a7-ad50-fe5d2beec15e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
+  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
+ prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
+ et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo 
+ terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: BREU UNITED vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20230204T140000Z
 DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c00609c4-14c6-4e1b-beee-52da4a988a39
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b1ab5a6d-c16d-4b37-b712-4a54d3ee7a12
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Mauve\nCouleur principale équipe exterieure: Blanc\n\nConta
  ct équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture : En ve
@@ -79,113 +377,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  aux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 5
  00 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/
  603/BREU-UNITED\nInfo équipe exterieure: https://www.abssa.org/team/001/B
- RUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09\n
+ RUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
 ORGANIZER:MAILTO:paschold.j@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: SYB  RFC vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:818baa2c-ab7c-4c51-8f3c-cab4e696e01e
+SUMMARY:ABSSA D3C J21: BRUSSELS BRITISH R (Eq. 3) vs ETTEKIJS (Eq. 2)
+DTSTART:20230211T123000Z
+DTEND:20230211T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ffcab2fe-60c3-4f14-b8fe-b99de7814e74
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
- ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
- rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
- sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
- ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
- 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
- 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSE
- LS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: ETTEKIJS (Eq. 2) vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20221105T123000Z
-DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:eaea4cd8-5f02-4d89-8278-b4eeea063d7a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A par
- tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
- e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ET
- TEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-B
- RITISH-R\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: WATERMAEL FC vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d4a42e85-03fc-43c4-a327-0852903dae1d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
- are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
- hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
- \nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH
- -R\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: WELL TEAM vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:63128709-7bdc-45d6-97a0-7c608429dde6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A partir du
-  square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des 
- Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/544/WELL-TEA
- M\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITIS
- H-R\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:martindayez@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: CORNAC UNITED FC vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20221015T143000Z
-DTEND:20221015T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:25c59e31-2aa7-415c-9844-5ea2a87ed9d3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
- t\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer t
- out droit\, remonter vers le Ring et prendre à droite pour sortir vers It
- terbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le rin
- g\, reste 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle 
- et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.org/team/151/CORN
- AC-UNITED-FC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUS
- SELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A01\n
-GEO:50.8344692;4.2821012
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ le: Blanc\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nC
+ ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
+ oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
+ r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
+ 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
+ ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/343/ETTEKIJS\
+ nInfo terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J22: STER'S vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20230225T123000Z
 DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7c67cf9f-21bf-470f-bdd8-d0bc2c055922
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8c7ecbf4-c2b7-4ceb-81a8-0dcfed45ac70
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ve
@@ -208,128 +429,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org
  /team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/
- O05\n
+ O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: MACAPSULES (LES) vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:135a9480-16a7-49b7-b8ea-3d88e8de4f61
+SUMMARY:ABSSA D3C J23: SYB  RFC vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5d41049e-1f95-4b81-9944-dbbfa5c00b31
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert/blanc\nCouleur principale équipe exterieure: Blanc\n\nContact é
- quipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Autoroute B
- ruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Pren
- dre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les de
- ux premiers ronds-points à l'issue de la RN 25. Au troisième rond-point 
- prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de la r
- ue du Stampia.\n\nInfo équipe domicile: https://www.abssa.org/team/627/MA
- CAPSULES-LES\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUS
- SELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/G04\n
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jordandaumont@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: SAINT GEORGES RCS (Eq. 2) vs BRUSSELS BRITISH R (Eq
- . 3)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c4d3f190-c569-47ca-9a87-3d1c549d3227
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervure
- n\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo 
- équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInf
- o terrain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: BRUSSELS BRITISH R (Eq. 3) vs WATERMAEL FC
-DTSTART:20221203T123000Z
-DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5c7f62d4-4b48-4706-b159-37de3dbf9719
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/611/WATERMAEL-FC\nInfo terr
- ain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J6: BRUSSELS BRITISH R (Eq. 3) vs BOUKS  FC
-DTSTART:20221008T123000Z
-DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:655b53ae-8103-4827-8011-be31a0301015
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/579/BOUKS-FC\nInfo terrain:
-  https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: BRUSSELS BRITISH R (Eq. 3) vs BREU UNITED
-DTSTART:20221022T123000Z
-DTEND:20221022T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2ff343b9-46d5-4a81-ad5b-8435e8dba04f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Orange et Mauve\n\nConta
- ct équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autorou
- te E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'
- autoroute et tourner à droite au cimetière des animaux. Terrain à 200 m
- .\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITIS
- H-R\nInfo équipe exterieure: https://www.abssa.org/team/603/BREU-UNITED\n
- Info terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: BRUSSELS BRITISH R (Eq. 3) vs SYB  RFC
-DTSTART:20221112T123000Z
-DTEND:20221112T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:41c5effd-c46e-46d7-aa9a-80094d8cab84
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
- ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
- oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
- r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
- 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
- ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\n
- Info terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
+ ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
+ rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
+ sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
+ ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
+ 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
+ 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSE
+ LS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J24: BRUSSELS BRITISH R (Eq. 3) vs CELTIC ROOSTERS
 DTSTART:20230311T123000Z
 DTEND:20230311T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:946d908b-94a0-45c4-8169-325204a169c4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2aee1075-d71e-4f20-b447-ba2d240e6fa0
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert et blanc\n\nContact
   équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
@@ -337,61 +468,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
  n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
  R\nInfo équipe exterieure: https://www.abssa.org/team/626/CELTIC-ROOSTERS
- \nInfo terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J4: BRUSSELS BRITISH R (Eq. 3) vs CHIEFS WSL
-DTSTART:20220924T123000Z
-DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7eff7c16-d5ea-46d1-ae85-90e0a7b16956
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
- prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
- et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrai
- n: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: BRUSSELS BRITISH R (Eq. 3) vs CORNAC UNITED FC
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ec181b95-3c15-4262-9ab2-e475d74fb112
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
- prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
- et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo 
- terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: BRUSSELS BRITISH R (Eq. 3) vs ETTEKIJS (Eq. 2)
-DTSTART:20230211T123000Z
-DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:03969d27-b090-470e-bda1-9549f7dc2f36
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nC
- ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
- oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
- r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
- 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
- ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/343/ETTEKIJS\
- nInfo terrain: https://www.abssa.org/terrain/R02\n
+ \nInfo terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER:MAILTO:abssa-sec@rbbfc.org
@@ -400,8 +477,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J25: BRUSSELS BRITISH R (Eq. 3) vs CENTRAL PARK FC
 DTSTART:20230318T123000Z
 DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6ef9e6de-812a-450c-b8eb-81e7e043d83d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:94ce7cae-3841-4fd2-bd6b-4066e70186db
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu et Blanc\n\nContact
   équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
@@ -409,105 +486,28 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
  n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
  R\nInfo équipe exterieure: https://www.abssa.org/team/562/CENTRAL-PARK-FC
- \nInfo terrain: https://www.abssa.org/terrain/R02\n
+ \nInfo terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J3: BRUSSELS BRITISH R (Eq. 3) vs WELL TEAM
-DTSTART:20220917T123000Z
-DTEND:20220917T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:024e3bc1-6715-4aee-af85-de7c2ef5ae13
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute 
- E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
- oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
- \nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R
- \nInfo équipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo 
- terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: BRUSSELS BRITISH R (Eq. 3) vs SAINT GEORGES RCS (Eq
- . 2)
-DTSTART:20221217T123000Z
-DTEND:20221217T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6c6c7609-05a5-4000-a48e-d169ecce2c32
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
- prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
- et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo
-  terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: BRUSSELS BRITISH R (Eq. 3) vs MACAPSULES (LES)
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a5838bb2-8604-469e-90f5-70d1d942f22f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert/blanc\n\nContact é
- quipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E4
- 11\, prendre la sortie Rosières. Passer devant l'église\, longer l'autor
- oute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\n
- Info équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\n
- Info équipe exterieure: https://www.abssa.org/team/627/MACAPSULES-LES\nIn
- fo terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: BRUSSELS BRITISH R (Eq. 3) vs STER'S
-DTSTART:20221126T123000Z
-DTEND:20221126T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2169c318-e267-41a7-868d-0670b9f7bb44
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
-  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
-  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
- toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
- n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
- R\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo ter
- rain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: CELTIC ROOSTERS vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:35260280-0092-4594-8bd1-2c428d6dd6d8
+SUMMARY:ABSSA D3C J26: SAINT GEORGES RCS (Eq. 2) vs BRUSSELS BRITISH R (Eq
+ . 3)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4cad7565-b50a-4b56-81e1-7f15bca81e34
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : Autoroute
-  E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à g
- auche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'
- Europe direction Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à
-  gauche N 239. 	Au rond-point prendre la première sortie Rue Haute\, cont
- inuer sur rue de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur
-  rue Joseph Joppart. Prendre à droite l'avenue du Centre Sportif.\n\nInfo
-  équipe domicile: https://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo é
- quipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- terrain: https://www.abssa.org/terrain/W07\n
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER:MAILTO:celticroosters@gmail.com
+ le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervure
+ n\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo 
+ équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInf
+ o terrain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 END:VCALENDAR

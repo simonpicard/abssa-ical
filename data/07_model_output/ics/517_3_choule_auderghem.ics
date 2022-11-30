@@ -5,242 +5,52 @@ X-WR-CALDESC:Les matches du club CHOULE AUDERGHEM (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: CHOULE AUDERGHEM (eq. 3)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: CHOULE AUDERGHEM (Eq. 3) vs FORESTOIS SC (Eq. 4)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1163da02-9b8e-496e-b2fd-52927ed9024e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
- UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/152/FORESTOI
- S-SC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+SUMMARY:ABSSA D6A J1: GAST FC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20220903T153000Z
+DTEND:20220903T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1f61cb28-9a0d-47f3-b685-6cb251179a1d
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Gris\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
+  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
+ genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
+  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
+ out de la rue au Bois).\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/388/GAST-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CH
+ OULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/D01
+GEO:50.7815004;4.3192086
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J8: CHOULE AUDERGHEM (Eq. 3) vs TRINQUANT (Eq. 2)
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:08afb0bf-e3d9-4461-bf11-03a929016500
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ven
- ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
- utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
- et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
-  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
- de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/
- CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/445/
- TRINQUANT\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J10: CHOULE AUDERGHEM (Eq. 3) vs AUDERGHEM RU
-DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5afa9402-64c5-43f1-a41d-178f01d69b39
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-
- AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/376/AUDERGH
- EM-RU\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J12: CHOULE AUDERGHEM (Eq. 3) vs JEFKE COUNTRY (Eq. 2)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d6ca2d49-3ce2-4b2f-a684-37fad469195a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir et blanc\n\nContact
-  équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ve
- nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
- autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
-  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
- à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
- tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/51
- 7/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/42
- 3/JEFKE-COUNTRY\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J13: CHOULE AUDERGHEM (Eq. 3) vs BRITISH UNITED (Eq. 5)
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d0a1f744-231c-4bad-82ef-ff048564fc8a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
- UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-
- UNITED\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J18: CHOULE AUDERGHEM (Eq. 3) vs ITT - GECKO FC (Eq. 3)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d5f80113-3b99-49d8-95db-e1f30f5ff046
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
- UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECK
- O-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J21: CHOULE AUDERGHEM (Eq. 3) vs J.ST-GILLOISE R.
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b226ed43-6d1a-4e97-ba92-3a8df06fcbb5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu foncé\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ven
- ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
- utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
- et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
-  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
- de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/
- CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/038/
- JST-GILLOISE-R\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J25: CHOULE AUDERGHEM (Eq. 3) vs GAST FC (Eq. 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:97a87907-a212-48ad-ba60-76c931ab6248
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Gris\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
- UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/388/GAST-FC\
- nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J24: CHOULE AUDERGHEM (Eq. 3) vs IRLANDE FC (Eq. 5)
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3a894ce9-9ab9-4b00-bd72-1944149954f1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
- UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-
- FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J7: CHOULE AUDERGHEM (Eq. 3) vs MUTUELLE RSB
-DTSTART:20221015T140000Z
-DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4c1a57b5-9c8d-49ab-a85e-01c5477b380c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
- ontact équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/te
- am/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J5: CHOULE AUDERGHEM (Eq. 3) vs METRASPORT R.
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7fcf7be0-6dda-4673-a338-0042547674e9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContact
-  équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ve
- nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
- autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
-  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
- à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
- tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/51
- 7/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/03
- 3/METRASPORT-R\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+SUMMARY:ABSSA D6A J2: BRITISH UNITED (Eq. 5) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3c563cec-0804-4b70-8286-4ad1d0912088
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
+ uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
+ tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
+ e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
+ arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
+ . à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/
+ team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J3: CHOULE AUDERGHEM (Eq. 3) vs AMB. AUDERGHEM (Eq. 2)
 DTSTART:20220917T140000Z
 DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:236145d6-8914-4431-b30d-57f593de7254
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c5ddc41b-8d49-410a-a70c-fd4809e47d07
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Blanc rayé de Gris\n\nC
  ontact équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture :
@@ -250,39 +60,228 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
   Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
  am/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/te
- am/249/AMB-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ am/249/AMB-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J23: AUDERGHEM RU vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8775de4d-762f-44b0-82a2-c80a2d336f21
+SUMMARY:ABSSA D6A J4: FORESTOIS SC (Eq. 4) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20220924T153000Z
+DTEND:20220924T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6c5abd28-8a47-4b65-bb78-3ee2b3bb7391
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de B
+ le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
+  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la 
+ rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roule
+ r env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) p
+ endant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart
+ \, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team
+ /517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J5: CHOULE AUDERGHEM (Eq. 3) vs METRASPORT R.
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1e8874d7-c193-4612-be3d-f97b83471c46
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContact
+  équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ve
+ nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
+ autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
+  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
+ à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
+ tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/51
+ 7/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/03
+ 3/METRASPORT-R\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J6: ITT - GECKO FC (Eq. 3) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20221008T123000Z
+DTEND:20221008T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:221a76d4-a547-4d91-b878-673ef4445832
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092
+ /ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CHO
+ ULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J7: CHOULE AUDERGHEM (Eq. 3) vs MUTUELLE RSB
+DTSTART:20221015T140000Z
+DTEND:20221015T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:92fbcbd4-6c70-444e-ba9b-ef64499dc05b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
+ ontact équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/te
+ am/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J8: CHOULE AUDERGHEM (Eq. 3) vs TRINQUANT (Eq. 2)
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9c14b7c9-ae04-47c5-9f7a-fc5bec862ec6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
+ équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ven
+ ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
+ utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
+ et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
+  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
+ de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/
+ CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/445/
+ TRINQUANT\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J9: J.ST-GILLOISE R. vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20221105T140000Z
+DTEND:20221105T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2e0ef3fa-6b29-4127-8aec-91551bb78768
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu foncé\nCouleur principale équipe exterieure: Blanc\n\nContact 
+ équipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sor
+ tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
+ ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
+  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
+ 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/038/JST-GILLOISE-R\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.ab
+ ssa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:kenny.honore9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J10: CHOULE AUDERGHEM (Eq. 3) vs AUDERGHEM RU
+DTSTART:20221112T140000Z
+DTEND:20221112T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:df23e59e-204d-43c9-b1b2-ba2409ce72d3
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
+  domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-
+ AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/376/AUDERGH
+ EM-RU\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J11: IRLANDE FC (Eq. 5) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3d812772-af79-4b48-83ac-a2ae0e280ee3
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CHO
+ ULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J12: CHOULE AUDERGHEM (Eq. 3) vs JEFKE COUNTRY (Eq. 2)
+DTSTART:20221126T140000Z
+DTEND:20221126T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6f2670e3-88c8-4ebc-b73b-5a2668eca696
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Noir et blanc\n\nContact
+  équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ve
+ nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
+ autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
+  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
+ à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
+ tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/51
+ 7/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/42
+ 3/JEFKE-COUNTRY\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J13: CHOULE AUDERGHEM (Eq. 3) vs BRITISH UNITED (Eq. 5)
+DTSTART:20221203T140000Z
+DTEND:20221203T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ea20f4e0-34e9-4867-bbb7-29c0462c7036
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
  ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
   Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
  ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.\n\nInfo équipe domicile: https://www.abssa.org/team/376/AUDERGHE
- M-RU\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDER
- GHEM\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
+ UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-
+ UNITED\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J14: AMB. AUDERGHEM (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART:20221210T140000Z
 DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e6c00b12-a082-4163-9048-717450e7b93c
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:79ae0f0b-2e97-4875-b773-131d61d1b10c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc rayé de Gris\nCouleur principale équipe exterieure: Blanc\n\nC
  ontact équipe domicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En 
@@ -292,7 +291,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le 
  stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/2
  49/AMB-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/517/
- CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
@@ -302,8 +301,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J15: CHOULE AUDERGHEM (Eq. 3) vs TOURINNOIS FC (Eq. 3)
 DTSTART:20221217T140000Z
 DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0776b9f8-6925-41b9-a365-0cc8ff3b52e4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:12b3340a-cc6e-460c-9722-6b104f446857
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
   domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de 
@@ -313,37 +312,98 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
  fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-
  AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINN
- OIS-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ OIS-FC\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J22: JEFKE COUNTRY (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20230225T143000Z
-DTEND:20230225T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:89c8d97a-8c59-49b3-acee-0a68c395cb37
+SUMMARY:ABSSA D6A J16: CHOULE AUDERGHEM (Eq. 3) vs FORESTOIS SC (Eq. 4)
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f440ca6d-c851-485d-b34e-9cc07bbaa656
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boule
- vard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jus
- qu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à 
- gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COU
- NTRY\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDER
- GHEM\nInfo terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
+ UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/152/FORESTOI
+ S-SC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J17: METRASPORT R. vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20230114T140000Z
+DTEND:20230114T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dc2b022b-a4f7-4954-b8dd-a3a846662963
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
+  équipe domicile: PIRLOT E. (0474.90.52.25)\n\nAccès voiture : Ring de B
+ ruxelles\, Sortie Wemmel\, prendre l'Avenue Houba de Strooper\, puis la ru
+ e à gauche\, avant le bâtiment de l'URBSFA\, direction Atomium.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/033/METRASPORT-R\nInfo équip
+ e exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrai
+ n: https://www.abssa.org/terrain/B07
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J18: CHOULE AUDERGHEM (Eq. 3) vs ITT - GECKO FC (Eq. 3)
+DTSTART:20230121T140000Z
+DTEND:20230121T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:20e6f85f-252f-46d3-80ab-4af1ba5c36a8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
+ UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECK
+ O-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J19: MUTUELLE RSB vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20230128T151500Z
+DTEND:20230128T164000Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9bd764ba-6156-4250-8e49-a2bac55fe296
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : R
+ ing de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gau
+ che à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge 
+ continuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face d
+ e la pompe à essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/005/MUTUELLE-RSB\nInfo équipe exterieure: https://www.abssa.org/team
+ /517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:royalemumu@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J20: TRINQUANT (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART:20230204T140000Z
 DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:832fa433-fdb6-48c7-9431-e475088672ad
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:07cbb28e-ea4c-4c84-abde-7edbeb45e74c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
  équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
@@ -355,142 +415,120 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile
  : https://www.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure: https
  ://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abss
- a.org/terrain/L09\n
+ a.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J4: FORESTOIS SC (Eq. 4) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20220924T153000Z
-DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:91790e24-f452-4d55-a064-1d7550f63d3f
+SUMMARY:ABSSA D6A J21: CHOULE AUDERGHEM (Eq. 3) vs J.ST-GILLOISE R.
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1aa1e543-5df0-4dd7-96c0-7fc40fd9b594
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
-  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la 
- rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roule
- r env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) p
- endant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart
- \, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/
- team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team
- /517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ le: Blanc\nCouleur principale équipe exterieure: Bleu foncé\n\nContact 
+ équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En ven
+ ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
+ utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
+ et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
+  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
+ de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/
+ CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/038/
+ JST-GILLOISE-R\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J11: IRLANDE FC (Eq. 5) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c991260e-c5fc-4b64-9473-5983f64492f5
+SUMMARY:ABSSA D6A J22: JEFKE COUNTRY (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20230225T143000Z
+DTEND:20230225T155500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c6807618-df5f-4ecc-b0f5-e5c329d93a95
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CHO
- ULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ le: Noir et blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
+  équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boule
+ vard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jus
+ qu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à 
+ gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COU
+ NTRY\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDER
+ GHEM\nInfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J6: ITT - GECKO FC (Eq. 3) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20221008T123000Z
-DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2808f104-977f-4d92-8274-3847a5f20ce5
+SUMMARY:ABSSA D6A J23: AUDERGHEM RU vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4713fad7-0f01-4c63-b13c-151af604962b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092
- /ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CHO
- ULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/376/AUDERGHE
+ M-RU\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDER
+ GHEM\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J2: BRITISH UNITED (Eq. 5) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:34e31c8b-89c0-4fa0-a30c-1b5eddd13390
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
- uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
- tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
- e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
- arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
- . à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/
- team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/M02
- \n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+SUMMARY:ABSSA D6A J24: CHOULE AUDERGHEM (Eq. 3) vs IRLANDE FC (Eq. 5)
+DTSTART:20230311T140000Z
+DTEND:20230311T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:30daf103-7a8c-4ab9-899b-e436f59a880c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
+ UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-
+ FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J9: J.ST-GILLOISE R. vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2e9add3a-6d72-4bf3-87a4-46f3e36fce1c
+SUMMARY:ABSSA D6A J25: CHOULE AUDERGHEM (Eq. 3) vs GAST FC (Eq. 2)
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:731268c9-42bc-48c9-866b-477d6fdedb73
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu foncé\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/038/JST-GILLOISE-R\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.ab
- ssa.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kenny.honore9@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J19: MUTUELLE RSB vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20230128T151500Z
-DTEND:20230128T164000Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:94ef1c1f-ae0e-40f1-bd7d-ac287853fdf6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : R
- ing de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gau
- che à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge 
- continuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face d
- e la pompe à essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/
- team/005/MUTUELLE-RSB\nInfo équipe exterieure: https://www.abssa.org/team
- /517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:royalemumu@gmail.com
+ le: Blanc\nCouleur principale équipe exterieure: Gris\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-A
+ UDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/388/GAST-FC\
+ nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: TOURINNOIS FC (Eq. 3) vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART:20230325T133000Z
 DTEND:20230325T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9c8881a1-4335-4755-a75e-45b7c366fbf5
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:913e42bf-fb5e-437e-9b78-f36089845e02
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
   domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
@@ -500,48 +538,9 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
  eure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https
- ://www.abssa.org/terrain/T02\n
+ ://www.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J1: GAST FC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20220903T153000Z
-DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:038ad383-8d4a-4f62-a85b-b73036f6f16c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
-  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
- genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
-  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
- out de la rue au Bois).\n\nInfo équipe domicile: https://www.abssa.org/te
- am/388/GAST-FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CH
- OULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/D01\n
-GEO:50.7815004;4.3192086
-LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J17: METRASPORT R. vs CHOULE AUDERGHEM (Eq. 3)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:48cf4caa-f6f3-4922-88c9-9cac20f8ddbd
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: PIRLOT E. (0474.90.52.25)\n\nAccès voiture : Ring de B
- ruxelles\, Sortie Wemmel\, prendre l'Avenue Houba de Strooper\, puis la ru
- e à gauche\, avant le bâtiment de l'URBSFA\, direction Atomium.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/033/METRASPORT-R\nInfo équip
- e exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrai
- n: https://www.abssa.org/terrain/B07\n
-GEO:50.8933845;4.3399807
-LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
- \, Belgique
-ORGANIZER:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 END:VCALENDAR

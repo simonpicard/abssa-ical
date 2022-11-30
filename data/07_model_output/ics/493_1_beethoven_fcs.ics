@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J1: BEETHOVEN FCS vs TAURO FC (Eq. 2)
 DTSTART:20220903T123000Z
 DTEND:20220903T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:3fb8de9e-5c2e-44e7-9d06-8b2d5b5b1b44
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:ca32e3e0-08e9-48c3-bbd5-ec9391a003df
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
  ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
@@ -19,7 +19,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
  ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO
- -FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
+ -FC\nInfo terrain: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -29,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J3: BEETHOVEN FCS vs TIEKSS WEMMEL
 DTSTART:20220917T123000Z
 DTEND:20220917T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:ae6cc241-2a57-4bb4-a210-14eeb1949566
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:7852bcc3-b91b-4779-a739-29ab5b831ed9
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et noir\n\nCon
  tact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En
@@ -40,308 +40,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  iseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/
  - 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/te
  am/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/
- 644/TIEKSS-WEMMEL\nInfo terrain: https://www.abssa.org/terrain/A09\n
+ 644/TIEKSS-WEMMEL\nInfo terrain: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
 ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J5: BEETHOVEN FCS vs SNEAKY BABOONS
-DTSTART:20221001T123000Z
-DTEND:20221001T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:26de047d-4a2a-4967-b8d7-c4e080fb987a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/641/SNEAK
- Y-BABOONS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J7: BEETHOVEN FCS vs FORESTOIS SC (Eq. 2)
-DTSTART:20221015T123000Z
-DTEND:20221015T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:aa3fb49c-25fd-4a04-91bb-e4ff14c2d04d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/152/FORES
- TOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J9: BEETHOVEN FCS vs ITT - GECKO FC (Eq. 2)
-DTSTART:20221105T123000Z
-DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:158cd8e1-4af0-414d-b36e-e5c4f92970b3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-G
- ECKO-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J15: BEETHOVEN FCS vs UCCLE STENDHAL
-DTSTART:20221217T123000Z
-DTEND:20221217T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:ef31b454-ae04-485f-b642-8da89bf3bd16
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Equipe 1 : Rouge ray
- é de noir\n\nContact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAc
- cès voiture : En venant de la Route de Lennik (Citroën) ou de la Chauss
- ée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emp
- runter le Boulevard Josse Leemans\, au rond-point prendre la sortie pour l
- a rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terra
- ins se situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/214/UCCLE-STENDHAL\nInfo terrain: https://www.abssa.org/
- terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J16: BEETHOVEN FCS vs BLACK STAR GENVAL
-DTSTART:20230107T123000Z
-DTEND:20230107T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:4b70c09c-26c7-4d7b-acd5-5f3391c99609
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/601/BLACK
- -STAR-GENVAL\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J18: BEETHOVEN FCS vs UNION TIGERS
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:dc3a654a-6262-40aa-b27c-97eed7270153
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu ciel et Blanc\n
- \nContact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture
-  : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
- Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
- levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
- t d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/
- team/649/UNION-TIGERS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J20: BEETHOVEN FCS vs STRING PENELOPE (Eq. 3)
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:d235d019-7d0c-4bed-8826-e98d7311c43d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Orange\n\nContact é
- quipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant
-  de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pren
- dre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse
-  Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux 
- (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m
- . sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/
- BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/181/STR
- ING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J22: BEETHOVEN FCS vs EXTRANOS (LOS)
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:d4550d37-04c4-447a-9622-b02f4b755389
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et Bleu\n\nCon
- tact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En
-  venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)
- \, prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevar
- d Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'O
- iseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/
- - 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/
- 569/EXTRANOS-LOS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J23: BEETHOVEN FCS vs BIERGEOIS CS
-DTSTART:20230304T123000Z
-DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:cad5b5c6-cec5-40c1-977a-f2f597bd457c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/070/BIERG
- EOIS-CS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J24: BEETHOVEN FCS vs COMP. CINEMA R
-DTSTART:20230311T123000Z
-DTEND:20230311T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:11f3417a-29dd-4ed4-b45a-7fc904a58286
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
- e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
- e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
- eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
- ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
- sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
- ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/016/COMP-
- CINEMA-R\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J17: SNEAKY BABOONS vs BEETHOVEN FCS
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:ee32c88d-0614-43b8-95d6-d752d0260a50
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: STASSE\, W (0473.95.76.80)\n\nAccès voiture : A partir du s
- quare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Ny
- mphes.\n\nInfo équipe domicile: https://www.abssa.org/team/641/SNEAKY-BAB
- OONS\nInfo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FC
- S\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:willstasse@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J26: UCCLE STENDHAL vs BEETHOVEN FCS
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:f1528899-624b-4a43-8d74-5ad34e81abb3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Equipe 1 : Rouge rayé de noir\nCouleur principale équipe exterieure:
-  Bleu ciel\n\nContact équipe domicile: MATHUREN A. (0499.52.56.54)\n\nAcc
- ès voiture : L'entrée se fait par la rue du Zwartebeek.\nPar le ring\, p
- rendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par la rue de Sta
- lle prolongée.  Après le rond-point prendre la 1ère rue à gauche\, la 
- chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, rue du Zwartebe
- ek\, l'entrée du complexe est située à +/- 200 mètres sur la droite.\n
- \nInfo équipe domicile: https://www.abssa.org/team/214/UCCLE-STENDHAL\nIn
- fo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nInfo 
- terrain: https://www.abssa.org/terrain/U02\n
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER:MAILTO:alainmathuren@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J14: TIEKSS WEMMEL vs BEETHOVEN FCS
-DTSTART:20221210T144500Z
-DTEND:20221210T161000Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:cd49e889-ff97-4dac-9372-ceab6beaff02
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: Mad. DE DECKER N (0477.64.40.18)\n\nAccès voiture 
- : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via d
- e Is. Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag neme
- n\, Diepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij 
- het eerste kruispunt met verkeerslichten\, links van de steenweg\, bevindt
-  zich het stadium (parking)\n\nInfo équipe domicile: https://www.abssa.or
- g/team/644/TIEKSS-WEMMEL\nInfo équipe exterieure: https://www.abssa.org/t
- eam/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/W16\n
-GEO:50.900999;4.4855744
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER:MAILTO:info@tiekss.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J12: EXTRANOS (LOS) vs BEETHOVEN FCS
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:ab7792f9-9554-4fa0-80fa-960dfa91cfb3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: VAZQUEZ RODRIGUEZ K. (0470.86.40.55)\n\nAccès voit
- ure : De la Place Meiser\, remonter tous les boulevards. Au carrefour de l
- a Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue 
- à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhani
- s).\n\nInfo équipe domicile: https://www.abssa.org/team/569/EXTRANOS-LOS\
- nInfo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nIn
- fo terrain: https://www.abssa.org/terrain/E04\n
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:losextranos569@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J4: BLACK STAR GENVAL vs BEETHOVEN FCS
 DTSTART:20220924T153000Z
 DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:19697d89-8ce4-400f-b7b1-5731cf87f2ef
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:8a63e9ff-4a0c-44fc-8e8b-26eae672bc58
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: VAN BAEL J. (0479.36.69.79)\n\nAccès voiture : Prendre l'au
@@ -359,18 +69,39 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  trouve à environ 200 mètres sur la droite.\n\nInfo équipe domicile: htt
  ps://www.abssa.org/team/601/BLACK-STAR-GENVAL\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abss
- a.org/terrain/G01\n
+ a.org/terrain/G01
 GEO:50.724554;4.496792999999999
 LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
  \, Belgique
 ORGANIZER:MAILTO:blackstargenval@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D4D J5: BEETHOVEN FCS vs SNEAKY BABOONS
+DTSTART:20221001T123000Z
+DTEND:20221001T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:27977006-f01e-404b-acab-bedae5777cc4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/641/SNEAK
+ Y-BABOONS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4D J6: UNION TIGERS vs BEETHOVEN FCS
 DTSTART:20221008T123000Z
 DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:516e05c9-a060-4dde-a24e-1350da1413b2
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:2aa45f00-df70-4c5c-9995-20f3f1bc1ebb
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu ciel et Blanc\nCouleur principale équipe exterieure: Bleu ciel\n
  \nContact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : 
@@ -380,96 +111,38 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  \, passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'
  école Van Belle et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.
  org/team/649/UNION-TIGERS\nInfo équipe exterieure: https://www.abssa.org/
- team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/A01\n
+ team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J11: COMP. CINEMA R vs BEETHOVEN FCS
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:1bc08257-6e2d-45b4-8be3-23a823133499
+SUMMARY:ABSSA D4D J7: BEETHOVEN FCS vs FORESTOIS SC (Eq. 2)
+DTSTART:20221015T123000Z
+DTEND:20221015T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:3247dee5-101f-42fb-ab86-81bdbe12ba8b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: SARTORI B. (0479.15.31.09)\n\nAccès voiture : Boulevard Lam
- bermont\, prendre le boulevard Léopold III\, direction aéroport de Bruxe
- lles-National\, au 3ème feu de signalisation prendre à droite. le terrai
- n se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/
- 016/COMP-CINEMA-R\nInfo équipe exterieure: https://www.abssa.org/team/493
- /BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/E07\n
-GEO:50.8691981;4.4067073
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER:MAILTO:compagnonscinema016@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J19: FORESTOIS SC (Eq. 2) vs BEETHOVEN FCS
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:d735680c-8a6f-4b95-8992-7dee7d6038a2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
- e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
-  la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
- ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
- e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
- Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.
- org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/
- team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J21: ITT - GECKO FC (Eq. 2) vs BEETHOVEN FCS
-DTSTART:20230211T123000Z
-DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:fc975a13-2ad7-49f8-92ad-c5ea98754f86
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de
-  Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \n
- Mechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'a
- utoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendr
- e à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et s
- uivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team
- /092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/493
- /BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J10: BIERGEOIS CS vs BEETHOVEN FCS
-DTSTART:20221112T143000Z
-DTEND:20221112T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:af6769a1-875f-4415-8f1e-94a332357501
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: VER ELST J. (0498.11.12.98)\n\nAccès voiture : Autoroute Br
- uxelles-Namur\, sortie Bierges\, prendre à droite\, le terrain se trouve 
- à +/- 500 m. du côté droit.\n\nInfo équipe domicile: https://www.abssa
- .org/team/070/BIERGEOIS-CS\nInfo équipe exterieure: https://www.abssa.org
- /team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/B01\n
-GEO:50.7113792;4.5897825
-LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
- , Belgique
-ORGANIZER:MAILTO:verelstjerome@hotmail.fr
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/152/FORES
+ TOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J8: STRING PENELOPE (Eq. 3) vs BEETHOVEN FCS
 DTSTART:20221022T153000Z
 DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:e7230e09-9af9-4696-a6dd-18e82f50ea8f
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:a203554e-1f65-46ee-8543-728951c60f2e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bleu ciel\n\nContact é
  quipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant
@@ -492,17 +165,323 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www.ab
  ssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.abs
  sa.org/team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain
- /O05\n
+ /O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:thom.collignon@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D4D J9: BEETHOVEN FCS vs ITT - GECKO FC (Eq. 2)
+DTSTART:20221105T123000Z
+DTEND:20221105T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:671090be-c1c4-4987-8a92-7ebc1b10db64
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-G
+ ECKO-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J10: BIERGEOIS CS vs BEETHOVEN FCS
+DTSTART:20221112T143000Z
+DTEND:20221112T155500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b1c0d3e7-fc9d-4043-9f41-7748c13c18d9
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: VER ELST J. (0498.11.12.98)\n\nAccès voiture : Autoroute Br
+ uxelles-Namur\, sortie Bierges\, prendre à droite\, le terrain se trouve 
+ à +/- 500 m. du côté droit.\n\nInfo équipe domicile: https://www.abssa
+ .org/team/070/BIERGEOIS-CS\nInfo équipe exterieure: https://www.abssa.org
+ /team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/B01
+GEO:50.7113792;4.5897825
+LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
+ , Belgique
+ORGANIZER:MAILTO:verelstjerome@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J11: COMP. CINEMA R vs BEETHOVEN FCS
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:eb444578-d825-43db-bb50-7fe7de5ebf15
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: SARTORI B. (0479.15.31.09)\n\nAccès voiture : Boulevard Lam
+ bermont\, prendre le boulevard Léopold III\, direction aéroport de Bruxe
+ lles-National\, au 3ème feu de signalisation prendre à droite. le terrai
+ n se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/
+ 016/COMP-CINEMA-R\nInfo équipe exterieure: https://www.abssa.org/team/493
+ /BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/E07
+GEO:50.8691981;4.4067073
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER:MAILTO:compagnonscinema016@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J12: EXTRANOS (LOS) vs BEETHOVEN FCS
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b569ed87-785a-4dc0-84cb-4ec9c37393fb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge et Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: VAZQUEZ RODRIGUEZ K. (0470.86.40.55)\n\nAccès voit
+ ure : De la Place Meiser\, remonter tous les boulevards. Au carrefour de l
+ a Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue 
+ à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhani
+ s).\n\nInfo équipe domicile: https://www.abssa.org/team/569/EXTRANOS-LOS\
+ nInfo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nIn
+ fo terrain: https://www.abssa.org/terrain/E04
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER:MAILTO:losextranos569@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J14: TIEKSS WEMMEL vs BEETHOVEN FCS
+DTSTART:20221210T144500Z
+DTEND:20221210T161000Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:255f2be3-48ea-477f-83b1-e064e9b40875
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: Mad. DE DECKER N (0477.64.40.18)\n\nAccès voiture 
+ : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via d
+ e Is. Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag neme
+ n\, Diepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij 
+ het eerste kruispunt met verkeerslichten\, links van de steenweg\, bevindt
+  zich het stadium (parking)\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/644/TIEKSS-WEMMEL\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/W16
+GEO:50.900999;4.4855744
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER:MAILTO:info@tiekss.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J15: BEETHOVEN FCS vs UCCLE STENDHAL
+DTSTART:20221217T123000Z
+DTEND:20221217T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:c347b142-63ba-4f01-bd8e-931769a07c84
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Equipe 1 : Rouge ray
+ é de noir\n\nContact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAc
+ cès voiture : En venant de la Route de Lennik (Citroën) ou de la Chauss
+ ée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emp
+ runter le Boulevard Josse Leemans\, au rond-point prendre la sortie pour l
+ a rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terra
+ ins se situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/214/UCCLE-STENDHAL\nInfo terrain: https://www.abssa.org/
+ terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J16: BEETHOVEN FCS vs BLACK STAR GENVAL
+DTSTART:20230107T123000Z
+DTEND:20230107T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:1bd68d96-f522-481b-8da5-b8ec12e74c7e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/601/BLACK
+ -STAR-GENVAL\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J17: SNEAKY BABOONS vs BEETHOVEN FCS
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:09753f7b-19a2-4211-8998-27972f5461dc
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: STASSE\, W (0473.95.76.80)\n\nAccès voiture : A partir du s
+ quare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Ny
+ mphes.\n\nInfo équipe domicile: https://www.abssa.org/team/641/SNEAKY-BAB
+ OONS\nInfo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FC
+ S\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:willstasse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J18: BEETHOVEN FCS vs UNION TIGERS
+DTSTART:20230121T123000Z
+DTEND:20230121T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:c88a90a4-8f59-47a0-a44e-2c00cfe6b891
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu ciel et Blanc\n
+ \nContact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture
+  : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
+ Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
+ levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
+ t d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/
+ team/649/UNION-TIGERS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J19: FORESTOIS SC (Eq. 2) vs BEETHOVEN FCS
+DTSTART:20230128T140000Z
+DTEND:20230128T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:419af10a-f129-4c38-8fdd-db1a30937439
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
+ e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
+  la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
+ ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
+ e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
+ Cart\, à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/
+ team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J20: BEETHOVEN FCS vs STRING PENELOPE (Eq. 3)
+DTSTART:20230204T123000Z
+DTEND:20230204T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:5759cd67-6b3c-4a99-b9db-a9ece1e05817
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Orange\n\nContact é
+ quipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant
+  de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pren
+ dre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse
+  Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux 
+ (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m
+ . sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/
+ BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/181/STR
+ ING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J21: ITT - GECKO FC (Eq. 2) vs BEETHOVEN FCS
+DTSTART:20230211T123000Z
+DTEND:20230211T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:260e9f38-d69a-4643-a895-29e6da1dafbf
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de
+  Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \n
+ Mechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'a
+ utoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendr
+ e à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et s
+ uivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/493
+ /BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J22: BEETHOVEN FCS vs EXTRANOS (LOS)
+DTSTART:20230225T123000Z
+DTEND:20230225T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:8896eb4d-0973-4551-8589-4ae0e9630858
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et Bleu\n\nCon
+ tact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En
+  venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)
+ \, prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevar
+ d Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'O
+ iseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/
+ - 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/
+ 569/EXTRANOS-LOS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J23: BEETHOVEN FCS vs BIERGEOIS CS
+DTSTART:20230304T123000Z
+DTEND:20230304T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:0191d7ae-49fd-4608-91ce-a891fcbad412
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/070/BIERG
+ EOIS-CS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J24: BEETHOVEN FCS vs COMP. CINEMA R
+DTSTART:20230311T123000Z
+DTEND:20230311T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:059631b4-a595-4f4a-81c7-6bf7f02eb924
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
+ e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
+ eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
+ ogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. 
+ sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/493/BE
+ ETHOVEN-FCS\nInfo équipe exterieure: https://www.abssa.org/team/016/COMP-
+ CINEMA-R\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4D J25: TAURO FC (Eq. 2) vs BEETHOVEN FCS
 DTSTART:20230318T130000Z
 DTEND:20230318T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:94bb45b2-2bde-4324-b470-acfa621a8db4
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:d457447b-d001-443c-9f8c-feaabc091d88
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\
@@ -510,10 +489,31 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:
  //www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure: https://www.ab
  ssa.org/team/493/BEETHOVEN-FCS\nInfo terrain: https://www.abssa.org/terrai
- n/S01\n
+ n/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
 ORGANIZER:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J26: UCCLE STENDHAL vs BEETHOVEN FCS
+DTSTART:20230325T140000Z
+DTEND:20230325T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:3209baf3-7c33-4cac-9dff-c763891993fa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Equipe 1 : Rouge rayé de noir\nCouleur principale équipe exterieure:
+  Bleu ciel\n\nContact équipe domicile: MATHUREN A. (0499.52.56.54)\n\nAcc
+ ès voiture : L'entrée se fait par la rue du Zwartebeek.\nPar le ring\, p
+ rendre la sortie Drogenbos-Ruisbroek\, direction Uccle\, par la rue de Sta
+ lle prolongée.  Après le rond-point prendre la 1ère rue à gauche\, la 
+ chaussée de Neerstalle.\nEnsuite la 2ème rue à gauche\, rue du Zwartebe
+ ek\, l'entrée du complexe est située à +/- 200 mètres sur la droite.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/214/UCCLE-STENDHAL\nIn
+ fo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nInfo 
+ terrain: https://www.abssa.org/terrain/U02
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER:MAILTO:alainmathuren@yahoo.fr
 END:VEVENT
 END:VCALENDAR

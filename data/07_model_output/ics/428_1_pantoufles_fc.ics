@@ -5,11 +5,68 @@ X-WR-CALDESC:Les matches du club PANTOUFLES FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: PANTOUFLES FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+SUMMARY:ABSSA D5C J1: PANTOUFLES FC vs CHIEFS WSL (Eq. 3)
+DTSTART:20220903T153000Z
+DTEND:20220903T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1617a74f-0772-4156-b7f8-45adf64a1324
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrain: ht
+ tps://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J2: PANTOUFLES FC vs BLOOD SPIKES
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:41c1adbf-78bd-40e4-99ef-c7a2e314d8d1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/660/BLOOD-SPIKES\nInfo terrain: 
+ https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J3: WOKRASSE F.C. vs PANTOUFLES FC
+DTSTART:20220917T123000Z
+DTEND:20220917T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e866e356-89d5-4105-a4b3-d35717434559
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VERMYLEN J. (0499.26.24.00)\n\nAccès voiture : Au départ de la
+  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kra
+ ainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Com
+ battants. Juste après le carrefour avec des feux de signalisation prendre
+  à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à mai
+ n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/656/WOKRASSE-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrai
+ n: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:jules.vermylen7@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5C J4: JODOIGNOISE FC vs PANTOUFLES FC
 DTSTART:20220924T153000Z
 DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cb3f0a54-0af7-48ce-b789-31f2c670fe46
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:104601fa-ddaa-487a-b060-a737692cc58f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
@@ -20,17 +77,112 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   3ème rue à gauche et le terrain se trouve directement sur la droite.\n\
  nInfo équipe domicile: https://www.abssa.org/team/664/JODOIGNOISE-FC\nInf
  o équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo t
- errain: https://www.abssa.org/terrain/I03\n
+ errain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5C J5: PANTOUFLES FC vs SANSERIF FC
+DTSTART:20221001T153000Z
+DTEND:20221001T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9ffef1a5-60b7-4e48-9321-11fe2fb34469
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
+ quipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E4
+ 11\, prendre la sortie Rosières. Passer devant l'église\, longer l'autor
+ oute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\n
+ Info équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/657/SANSERIF-FC\nInfo terra
+ in: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J6: L'EKIP vs PANTOUFLES FC
+DTSTART:20221008T150000Z
+DTEND:20221008T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dd2af692-02f3-468b-b64d-6cdf004fe45c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
+ ruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  G
+ embloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodo
+ igne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de 
+ la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la pr
+ emière Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sorti
+ e et Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la
+  Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/662/LEKIP\nInfo équipe exterieure: https
+ ://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.o
+ rg/terrain/P02
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J7: PANTOUFLES FC vs FAUBOURG-BRAINOISE
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:121e0a7a-9afa-4bce-8c4d-971b2c7f26ff
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo ter
+ rain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J8: PICARDIE AS vs PANTOUFLES FC
+DTSTART:20221022T133000Z
+DTEND:20221022T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7085fd10-df3d-48d5-8acb-4c263deab963
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
+ Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
+ ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe exterieu
+ re: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain: https://ww
+ w.abssa.org/terrain/O02
+GEO:50.6643844;4.351335199999999
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J9: PANTOUFLES FC vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:deb8d518-b898-4ae6-a5af-69b18e7205b9
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
+ endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
+  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain
+ : https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5C J10: RED STAR BRUSSELS vs PANTOUFLES FC
 DTSTART:20221112T153000Z
 DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f9f6cd9c-239f-4e10-8210-b72a3fe44dd4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ce2e0b9-f332-489b-9cd3-d850d0133f06
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : En venant 
@@ -43,75 +195,35 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   le feu de signalisation\, tourner à gauche et prendre la rue du Progrès
   pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/6
  63/RED-STAR-BRUSSELS\nInfo équipe exterieure: https://www.abssa.org/team/
- 428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/N03\n
+ 428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER:MAILTO:redstarbxl@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: CHIEFS WSL (Eq. 3) vs PANTOUFLES FC
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fcd265d8-3c9c-4460-9469-ab62fea7c5e3
+SUMMARY:ABSSA D5C J11: PANTOUFLES FC vs CHEVERNY SCHAERB
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f3232900-58f8-44fe-99c0-864a39f8e7b1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
- luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
- ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nIn
- fo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équi
- pe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain:
-  https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J3: WOKRASSE F.C. vs PANTOUFLES FC
-DTSTART:20220917T123000Z
-DTEND:20220917T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bddb0f9f-63b7-4802-a44f-2902dc607382
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERMYLEN J. (0499.26.24.00)\n\nAccès voiture : Au départ de la
-  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kra
- ainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Com
- battants. Juste après le carrefour avec des feux de signalisation prendre
-  à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à mai
- n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nI
- nfo équipe domicile: https://www.abssa.org/team/656/WOKRASSE-FC\nInfo éq
- uipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrai
- n: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:jules.vermylen7@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J21: CHOULE AUDERGHEM (Eq. 2) vs PANTOUFLES FC
-DTSTART:20230211T123000Z
-DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4e6d25a9-4e85-4a22-aae4-f5ede46a56ca
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du squ
- are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
- hes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDER
- GHEM\nInfo équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-F
- C\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/128/CHEVERNY-SCHAERB\nInfo terra
+ in: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J13: BLOOD SPIKES vs PANTOUFLES FC
 DTSTART:20221203T153000Z
 DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e244c4ae-ea64-4a25-836f-b9d2b9a30fc9
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:72e92f35-309e-4ffd-a93b-918179683e35
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute Bruxelles-
@@ -121,72 +233,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du St
  ampia.\n\nInfo équipe domicile: https://www.abssa.org/team/660/BLOOD-SPIK
  ES\nInfo équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\
- nInfo terrain: https://www.abssa.org/terrain/G04\n
+ nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
 ORGANIZER:MAILTO:bloodspikes9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: SAINT-JOSSE 95 FC vs PANTOUFLES FC
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:60732663-efa3-440c-98a8-3ad02eddaf7f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/
- team/658/SAINT-JOSSE-95-FC\nInfo équipe exterieure: https://www.abssa.org
- /team/428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/E10\n
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: PANTOUFLES FC vs RED STAR BRUSSELS
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:82d8faff-ca83-4357-ac7f-5c5838f8dafd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
- équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
- E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
- oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
- \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/663/RED-STAR-BRUSSELS\nIn
- fo terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: PANTOUFLES FC vs SAINT-JOSSE 95 FC
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c6940ccf-1f1c-442b-9664-925980cfa7f0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir et bleu\n\nContact 
- équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
- E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
- oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
- \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/658/SAINT-JOSSE-95-FC\nIn
- fo terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5C J14: PANTOUFLES FC vs WOKRASSE F.C.
 DTSTART:20221210T153000Z
 DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1e4c3af4-a4cc-4245-a65d-d65b14ff608a
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:367159cb-fecd-4e04-9d83-183ffa632840
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
  domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
@@ -194,71 +251,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
  pe exterieure: https://www.abssa.org/team/656/WOKRASSE-FC\nInfo terrain: h
- ttps://www.abssa.org/terrain/R02\n
+ ttps://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER:MAILTO:florimond.laurent@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: PANTOUFLES FC vs L'EKIP
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:eb2640f4-2c5c-4a47-9643-50529602edd2
+SUMMARY:ABSSA D5C J15: SAINT-JOSSE 95 FC vs PANTOUFLES FC
+DTSTART:20221217T133000Z
+DTEND:20221217T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:92b54058-338c-4610-bcf7-adcd012eddf6
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/662/LEKIP\nInfo terrain: https:/
- /www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: PANTOUFLES FC vs PICARDIE AS
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b6ad44a8-43ca-44d0-8bc5-424e96c8ef59
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
- endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
-  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/063/PICARDIE-AS\nInfo terrain: htt
- ps://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: PANTOUFLES FC vs BLOOD SPIKES
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aa8cd67a-c4c7-484d-9262-fe9cde06f0b1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/660/BLOOD-SPIKES\nInfo terrain: 
- https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
+ le: Noir et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
+ re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
+ ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
+ rain est situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/658/SAINT-JOSSE-95-FC\nInfo équipe exterieure: https://www.abssa.org
+ /team/428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/E10
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J16: PANTOUFLES FC vs JODOIGNOISE FC
 DTSTART:20230107T153000Z
 DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e8f7a0b8-8d3e-4a74-afd3-447abb531e8e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e66d985e-d16e-4b4e-8b48-d8f1997e9d11
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
  équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
@@ -266,97 +288,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
  \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
  o équipe exterieure: https://www.abssa.org/team/664/JODOIGNOISE-FC\nInfo 
- terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J7: PANTOUFLES FC vs FAUBOURG-BRAINOISE
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f50971cc-48ba-43b9-b88f-b5435ff3468f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo ter
- rain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J1: PANTOUFLES FC vs CHIEFS WSL (Eq. 3)
-DTSTART:20220903T153000Z
-DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8d0fd918-3430-45c0-95ba-c50a844f759a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrain: ht
- tps://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: PANTOUFLES FC vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8fbed09e-93d2-480c-9f5a-67c97e6bdefd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
- endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
-  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain
- : https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J11: PANTOUFLES FC vs CHEVERNY SCHAERB
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bfd51613-521b-42c2-afa0-fdb977c97c9b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/128/CHEVERNY-SCHAERB\nInfo terra
- in: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J5: PANTOUFLES FC vs SANSERIF FC
-DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f8c2641c-f314-4f76-bc51-9fcb75a3e3cf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E4
- 11\, prendre la sortie Rosières. Passer devant l'église\, longer l'autor
- oute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\n
- Info équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/657/SANSERIF-FC\nInfo terra
- in: https://www.abssa.org/terrain/R02\n
+ terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER:MAILTO:florimond.laurent@outlook.com
@@ -365,8 +297,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5C J17: SANSERIF FC vs PANTOUFLES FC
 DTSTART:20230114T113000Z
 DTEND:20230114T125500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:37f803ee-e52d-4b2d-9893-019197074407
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7e1cfa86-6d29-4e35-ae99-dd439ed9c64e
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
  quipe domicile: KARPOWICZ A. (0493.16.46.10)\n\nAccès voiture : En venant
@@ -383,17 +315,35 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à l'arri
  ère de la tribune T3.\n\nInfo équipe domicile: https://www.abssa.org/tea
  m/657/SANSERIF-FC\nInfo équipe exterieure: https://www.abssa.org/team/428
- /PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/T06\n
+ /PANTOUFLES-FC\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
 ORGANIZER:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5C J18: PANTOUFLES FC vs L'EKIP
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8b6113e1-147a-4b47-b29c-0ee3a38e241c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/662/LEKIP\nInfo terrain: https:/
+ /www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5C J19: FAUBOURG-BRAINOISE vs PANTOUFLES FC
 DTSTART:20230128T140000Z
 DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e6a0d5f4-f19b-468d-a9f8-8196eeeab8d5
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c1e9bd97-531c-47a7-ae2c-31d6976ef27d
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Brux
@@ -403,59 +353,72 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  droite\, le terrain se trouve à 500 m. et est fléché.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo équipe e
  xterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain: htt
- ps://www.abssa.org/terrain/B03\n
+ ps://www.abssa.org/terrain/B03
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
 ORGANIZER:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J6: L'EKIP vs PANTOUFLES FC
-DTSTART:20221008T150000Z
-DTEND:20221008T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:96b64119-f8d9-4660-97e5-66d2c7fb6685
+SUMMARY:ABSSA D5C J20: PANTOUFLES FC vs PICARDIE AS
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:86376a8e-72a1-4434-b924-592a545ac548
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
- ruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  G
- embloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodo
- igne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de 
- la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la pr
- emière Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sorti
- e et Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la
-  Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domi
- cile: https://www.abssa.org/team/662/LEKIP\nInfo équipe exterieure: https
- ://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain: https://www.abssa.o
- rg/terrain/P02\n
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
+ endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
+  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/063/PICARDIE-AS\nInfo terrain: htt
+ ps://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J8: PICARDIE AS vs PANTOUFLES FC
-DTSTART:20221022T133000Z
-DTEND:20221022T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f5b2613a-1bd6-4bee-8868-54ef09449d8f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
- Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
- ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe exterieu
- re: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain: https://ww
- w.abssa.org/terrain/O02\n
-GEO:50.6643844;4.351335199999999
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+SUMMARY:ABSSA D5C J21: CHOULE AUDERGHEM (Eq. 2) vs PANTOUFLES FC
+DTSTART:20230211T123000Z
+DTEND:20230211T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bc692789-5b8a-4910-97d3-82cddf24504a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du squ
+ are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
+ hes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDER
+ GHEM\nInfo équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-F
+ C\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J23: PANTOUFLES FC vs RED STAR BRUSSELS
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cbd03a41-7084-436d-b40c-09b7f1078455
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
+ équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
+ E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
+ oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/663/RED-STAR-BRUSSELS\nIn
+ fo terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J24: CHEVERNY SCHAERB vs PANTOUFLES FC
 DTSTART:20230311T140000Z
 DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c0ac2a9a-a8cb-454e-9ae7-cbae6ffb730b
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0e43b39a-9d00-4033-a05c-3dfbfd959d59
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place Meiser\, d
@@ -463,10 +426,47 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  roite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m. à droit
  e.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVERNY-SCHAE
  RB\nInfo équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\
- nInfo terrain: https://www.abssa.org/terrain/S03\n
+ nInfo terrain: https://www.abssa.org/terrain/S03
 GEO:50.86563899999999;4.392299299999999
 LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
  e
 ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J25: CHIEFS WSL (Eq. 3) vs PANTOUFLES FC
+DTSTART:20230318T123000Z
+DTEND:20230318T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7ba7f671-44f4-4c9e-9bb3-9ba104bdd1fc
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
+ luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
+ ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équi
+ pe exterieure: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo terrain:
+  https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J26: PANTOUFLES FC vs SAINT-JOSSE 95 FC
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:57c2baf5-e5af-4f35-8a5f-03e780054165
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir et bleu\n\nContact 
+ équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
+ E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
+ oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/658/SAINT-JOSSE-95-FC\nIn
+ fo terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
 END:VEVENT
 END:VCALENDAR

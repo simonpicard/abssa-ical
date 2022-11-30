@@ -5,74 +5,11 @@ X-WR-CALDESC:Les matches du club NEW INN FC (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: NEW INN FC (eq. 3)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J26: FRIENDS SPIRIT AUD vs NEW INN FC (Eq. 3)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0267b9b3-05fb-4b51-b277-047fb61c3c0a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
- équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
- -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
- NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: MOON SHOOTERS vs NEW INN FC (Eq. 3)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:14fb4ed5-3912-4683-8a65-ee387b44375e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
-  équipe domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venan
- t de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'aut
- oroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et
-  descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à g
- auche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade
-  est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/606/MO
- ON-SHOOTERS\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
- NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:max.morelle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J9: GOALOIS (Eq. 2) vs NEW INN FC (Eq. 3)
-DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:04bdd56d-9669-4f7b-818c-f4cbbb73b8a1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
-  équipe domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En vena
- nt de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sor
- tie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’
- au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à
-  la 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite 
- la 3ème rue à gauche et le terrain se trouve directement sur la droite.\
- n\nInfo équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo éq
- uipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC\nInfo terrain: 
- https://www.abssa.org/terrain/I03\n
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: NIVELLES CS vs NEW INN FC (Eq. 3)
 DTSTART:20220903T140000Z
 DTEND:20220903T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:58adf4b9-b4fa-4998-aad1-136065fca885
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d934d13b-20ce-4c44-9d13-aeef5621b069
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Noir et rouge\n\
  nContact équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : E
@@ -85,292 +22,37 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e\, avant le feu de signalisation\, tourner à gauche et prendre la rue du
   Progrès pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/306/NIVELLES-CS\nInfo équipe exterieure: https://www.abssa.org/te
- am/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/N03\n
+ am/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J22: PATRONS (LES) vs NEW INN FC (Eq. 3)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:30db7e33-428b-4cf3-884d-3dddf24b3385
+SUMMARY:ABSSA D4B J2: CHENOIS (ESPER) vs NEW INN FC (Eq. 3)
+DTSTART:20220910T133000Z
+DTEND:20220910T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ace4b56-e964-40df-8347-74558b0f52c4
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
-  équipe domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Bouleva
- rd de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu
- 'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à ga
- uche.\n\nInfo équipe domicile: https://www.abssa.org/team/628/PATRONS-LES
- \nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC\nInfo
-  terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:lespatrons.fc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J14: OMNISPORT BIERGHES vs NEW INN FC (Eq. 3)
-DTSTART:20221210T130000Z
-DTEND:20221210T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:95bbe097-ea0a-4219-a616-057f0dd667a1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Noir et rouge\n\
- nContact équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Au
- toroute Bruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille 
- (n° 21) pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E42
- 9). Prendre la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prend
- re à droite\, direction Bierghes. Rouler tout droit jusqu'au premier feu 
- rouge. Tourner à droite en direction de Halle\, ensuite la deuxième rue 
- à droite (rue du Sartiau)\, ensuite à gauche. Le terrain se trouve à 30
- 0 m.\n\nInfo équipe domicile: https://www.abssa.org/team/455/OMNISPORT-BI
- ERGHES\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC
- \nInfo terrain: https://www.abssa.org/terrain/B02\n
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J17: WAPPERS FC vs NEW INN FC (Eq. 3)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e658d678-4193-4e72-b4e8-08ec9ee572c1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé noir et blanc\nCouleur principale équipe exterieure: Noir et ro
- uge\n\nContact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voitur
- e : Ring de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-
- Oppem. Ensuite première rue à droite (Louis Marcelisstraat) puis la troi
- sième à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à ga
- uche entre les n° 16 et 24.\nPar la ville : A partir du rond point Montgo
- mery\, prendre l'Avenue de Broqueville\, toujours tout droit. Passez devan
- t le Shopping de Woluwé\, toujours tout droit\, passez devant le magasin 
- "Carrefour"\, puis au 2ème feu de signalisation prendre à droite et ensu
- ite tout droit. Au bout de la rue prendre à droite\, le terrain se trouve
-  à 100 mètres  sur la gauche.\n\nInfo équipe domicile: https://www.abss
- a.org/team/067/WAPPERS-FC\nInfo équipe exterieure: https://www.abssa.org/
- team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W19\n
-GEO:50.8424503;4.4865891
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J18: TRINQUANT vs NEW INN FC (Eq. 3)
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:178cd59c-3b96-43e1-987e-909f2f7a6fd8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Noir et rouge\n\nC
- ontact équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : 
- Venant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au po
- nt de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. 
- Après le chateau de La Hulpe\, toujours tout droit. Au feu de signalisati
- on et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de si
- gnalisation prendre à gauche et ensuite directement à droite\, l'avenue 
- Soyer\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure
- : https://www.abssa.org/team/359/NEW-INN-FC\nInfo terrain: https://www.abs
- sa.org/terrain/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J4: BRUSSELS LTC (Eq. 3) vs NEW INN FC (Eq. 3)
-DTSTART:20220924T133000Z
-DTEND:20220924T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e3fe3046-d937-4e11-831f-08c5cc3b432b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Noir et rouge\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A p
- artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
- rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
-  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
- ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
- e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
- /039/BRUSSELS-LTC\nInfo équipe exterieure: https://www.abssa.org/team/359
- /NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J13: NEW INN FC (Eq. 3) vs CHENOIS (ESPER)
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:693621a2-a676-41ac-ad7d-1d75cb79053d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Blanc et rouge\n
- \nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : 
- Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prend
- re la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue
-  des Anciens Combattants. Juste après le carrefour avec des feux de signa
- lisation prendre à droite vers la Place de la Chapelle\, puis prendre la 
- 4ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur
-  la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-I
- NN-FC\nInfo équipe exterieure: https://www.abssa.org/team/412/CHENOIS-ESP
- ER\nInfo terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J6: NEW INN FC (Eq. 3) vs TRINQUANT
-DTSTART:20221008T140000Z
-DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aa135578-5b57-49a3-876b-0969ce7e1dd3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au 
- départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre 
- la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue de
- s Anciens Combattants. Juste après le carrefour avec des feux de signalis
- ation prendre à droite vers la Place de la Chapelle\, puis prendre la 4è
- me rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la
-  droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-
- FC\nInfo équipe exterieure: https://www.abssa.org/team/445/TRINQUANT\nInf
- o terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J8: NEW INN FC (Eq. 3) vs MOON SHOOTERS
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:272ee5e1-f1da-4c16-a2e5-2be3dc89f0cd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
- t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
- tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
- ens Combattants. Juste après le carrefour avec des feux de signalisation 
- prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
-  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
- fo équipe exterieure: https://www.abssa.org/team/606/MOON-SHOOTERS\nInfo 
- terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J12: NEW INN FC (Eq. 3) vs PATRONS (LES)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:34716ba9-0ef3-45e1-9ef7-73102ce3d956
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
- t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
- tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
- ens Combattants. Juste après le carrefour avec des feux de signalisation 
- prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
-  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
- fo équipe exterieure: https://www.abssa.org/team/628/PATRONS-LES\nInfo te
- rrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J16: NEW INN FC (Eq. 3) vs BRUSSELS LTC (Eq. 3)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:dda20d98-ab2b-42ec-b9d0-077620905ed5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dé
- part de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la 
- sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des A
- nciens Combattants. Juste après le carrefour avec des feux de signalisati
- on prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème 
- rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dr
- oite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\
- nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LTC\nInf
- o terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J19: NEW INN FC (Eq. 3) vs VIRGINAL ASF
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bd48ea88-af92-4e9c-8046-e88e5b427208
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
- t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
- tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
- ens Combattants. Juste après le carrefour avec des feux de signalisation 
- prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
-  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
- fo équipe exterieure: https://www.abssa.org/team/497/VIRGINAL-ASF\nInfo t
- errain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J21: NEW INN FC (Eq. 3) vs GOALOIS (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:81a1f070-3b97-4c47-9c69-7e4a3f3c8329
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
- t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
- tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
- ens Combattants. Juste après le carrefour avec des feux de signalisation 
- prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
-  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
- fo équipe exterieure: https://www.abssa.org/team/345/GOALOIS\nInfo terrai
- n: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J25: NEW INN FC (Eq. 3) vs NIVELLES CS
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f7a8a5f9-e652-4e20-aac9-b2f6ed028b18
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\
- nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : A
- u départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendr
- e la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue 
- des Anciens Combattants. Juste après le carrefour avec des feux de signal
- isation prendre à droite vers la Place de la Chapelle\, puis prendre la 4
- ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur 
- la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-IN
- N-FC\nInfo équipe exterieure: https://www.abssa.org/team/306/NIVELLES-CS\
- nInfo terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ le: Blanc et rouge\nCouleur principale équipe exterieure: Noir et rouge\n
+ \nContact équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture
+  : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussé
+ e de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection d
+ e la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). A
+ u feu de signalisation prendre à droite la chaussée Bara. Le terrain se 
+ trouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa
+ .org/team/412/CHENOIS-ESPER\nInfo équipe exterieure: https://www.abssa.or
+ g/team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W02
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER:MAILTO:412fcec@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J3: NEW INN FC (Eq. 3) vs OMNISPORT BIERGHES
 DTSTART:20220917T140000Z
 DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6499daf5-cbe1-432a-8246-bab42286d880
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e5a57a49-5ba0-41df-8817-5980b591a786
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Jaune et bleu\n\
  nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : A
@@ -381,17 +63,37 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur 
  la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-IN
  N-FC\nInfo équipe exterieure: https://www.abssa.org/team/455/OMNISPORT-BI
- ERGHES\nInfo terrain: https://www.abssa.org/terrain/K02\n
+ ERGHES\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D4B J4: BRUSSELS LTC (Eq. 3) vs NEW INN FC (Eq. 3)
+DTSTART:20220924T133000Z
+DTEND:20220924T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:04ec7cfd-22d1-4a61-992a-d67eaca73282
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Noir et rouge\n\nCont
+ act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A p
+ artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
+ rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
+  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
+ ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
+ e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /039/BRUSSELS-LTC\nInfo équipe exterieure: https://www.abssa.org/team/359
+ /NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: NEW INN FC (Eq. 3) vs WAPPERS FC
 DTSTART:20221001T140000Z
 DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9faf7306-6897-476f-b0ad-3bcf7ecbaad2
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d6be95c5-70c6-4dbc-9cde-77420a6570ab
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Rayé noir et bl
  anc\n\nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voitu
@@ -402,28 +104,28 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e la 4ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m
  . sur la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/
  NEW-INN-FC\nInfo équipe exterieure: https://www.abssa.org/team/067/WAPPER
- S-FC\nInfo terrain: https://www.abssa.org/terrain/K02\n
+ S-FC\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J15: NEW INN FC (Eq. 3) vs FRIENDS SPIRIT AUD
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4004918c-73e1-4582-8485-8d50e95306e5
+SUMMARY:ABSSA D4B J6: NEW INN FC (Eq. 3) vs TRINQUANT
+DTSTART:20221008T140000Z
+DTEND:20221008T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ee50ef58-2e13-4099-9309-609c1470361e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ
-  de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
- ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
- ns Combattants. Juste après le carrefour avec des feux de signalisation p
- rendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue 
- à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite
- .\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nI
- nfo terrain: https://www.abssa.org/terrain/K02\n
+ le: Noir et rouge\nCouleur principale équipe exterieure: Bleu marine\n\nC
+ ontact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au 
+ départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre 
+ la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue de
+ s Anciens Combattants. Juste après le carrefour avec des feux de signalis
+ ation prendre à droite vers la Place de la Chapelle\, puis prendre la 4è
+ me rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la
+  droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-
+ FC\nInfo équipe exterieure: https://www.abssa.org/team/445/TRINQUANT\nInf
+ o terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:bencornil@gmail.com
@@ -432,8 +134,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J7: VIRGINAL ASF vs NEW INN FC (Eq. 3)
 DTSTART:20221015T150000Z
 DTEND:20221015T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fb950518-ba09-4f03-bee7-4598fe89a226
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:017a6b77-b707-4466-b260-8dd23827ee35
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
   équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dé
@@ -447,29 +149,327 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  isquercq. Le terrain se trouve à droite dans la descente (panneau ASF Vir
  ginal).\n\nInfo équipe domicile: https://www.abssa.org/team/497/VIRGINAL-
  ASF\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC\nI
- nfo terrain: https://www.abssa.org/terrain/V02\n
+ nfo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
 ORGANIZER:MAILTO:secretariat@asfvirginal.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J2: CHENOIS (ESPER) vs NEW INN FC (Eq. 3)
-DTSTART:20220910T133000Z
-DTEND:20220910T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ca2956bc-08ea-48b5-b107-3d7a4273141f
+SUMMARY:ABSSA D4B J8: NEW INN FC (Eq. 3) vs MOON SHOOTERS
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:252c0902-fd65-4ff6-95ae-332e1cf84f82
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc et rouge\nCouleur principale équipe exterieure: Noir et rouge\n
- \nContact équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture
-  : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussé
- e de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection d
- e la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). A
- u feu de signalisation prendre à droite la chaussée Bara. Le terrain se 
- trouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa
- .org/team/412/CHENOIS-ESPER\nInfo équipe exterieure: https://www.abssa.or
- g/team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W02\n
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:412fcec@gmail.com
+ le: Noir et rouge\nCouleur principale équipe exterieure: Jaune\n\nContact
+  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+ t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
+ tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
+ ens Combattants. Juste après le carrefour avec des feux de signalisation 
+ prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
+  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/606/MOON-SHOOTERS\nInfo 
+ terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J9: GOALOIS (Eq. 2) vs NEW INN FC (Eq. 3)
+DTSTART:20221105T140000Z
+DTEND:20221105T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:62356749-7a95-4c9c-8bff-751d7c77ab28
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
+  équipe domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En vena
+ nt de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sor
+ tie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’
+ au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à
+  la 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite 
+ la 3ème rue à gauche et le terrain se trouve directement sur la droite.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC\nInfo terrain: 
+ https://www.abssa.org/terrain/I03
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER:MAILTO:martin.laruelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J12: NEW INN FC (Eq. 3) vs PATRONS (LES)
+DTSTART:20221126T140000Z
+DTEND:20221126T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:01f85f1b-1750-4fc2-93ce-aa8a52aa2692
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+ t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
+ tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
+ ens Combattants. Juste après le carrefour avec des feux de signalisation 
+ prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
+  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/628/PATRONS-LES\nInfo te
+ rrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J13: NEW INN FC (Eq. 3) vs CHENOIS (ESPER)
+DTSTART:20221203T140000Z
+DTEND:20221203T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5b80f70a-3650-406b-acad-4109f2011bc6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Blanc et rouge\n
+ \nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : 
+ Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prend
+ re la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue
+  des Anciens Combattants. Juste après le carrefour avec des feux de signa
+ lisation prendre à droite vers la Place de la Chapelle\, puis prendre la 
+ 4ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur
+  la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-I
+ NN-FC\nInfo équipe exterieure: https://www.abssa.org/team/412/CHENOIS-ESP
+ ER\nInfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J14: OMNISPORT BIERGHES vs NEW INN FC (Eq. 3)
+DTSTART:20221210T130000Z
+DTEND:20221210T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3e741d73-53cc-4bf1-ae64-ff715adea843
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Noir et rouge\n\
+ nContact équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Au
+ toroute Bruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille 
+ (n° 21) pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E42
+ 9). Prendre la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prend
+ re à droite\, direction Bierghes. Rouler tout droit jusqu'au premier feu 
+ rouge. Tourner à droite en direction de Halle\, ensuite la deuxième rue 
+ à droite (rue du Sartiau)\, ensuite à gauche. Le terrain se trouve à 30
+ 0 m.\n\nInfo équipe domicile: https://www.abssa.org/team/455/OMNISPORT-BI
+ ERGHES\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC
+ \nInfo terrain: https://www.abssa.org/terrain/B02
+GEO:50.6957846;4.129257
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J15: NEW INN FC (Eq. 3) vs FRIENDS SPIRIT AUD
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f2d44cae-a8df-43e6-ba32-304cca9e71a1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ
+  de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
+ ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
+ ns Combattants. Juste après le carrefour avec des feux de signalisation p
+ rendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue 
+ à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nI
+ nfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J16: NEW INN FC (Eq. 3) vs BRUSSELS LTC (Eq. 3)
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:06c729c2-418d-4e8b-bfc1-f9e764114cb1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Bordeaux\n\nCont
+ act équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dé
+ part de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la 
+ sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des A
+ nciens Combattants. Juste après le carrefour avec des feux de signalisati
+ on prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème 
+ rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dr
+ oite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\
+ nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LTC\nInf
+ o terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J17: WAPPERS FC vs NEW INN FC (Eq. 3)
+DTSTART:20230114T140000Z
+DTEND:20230114T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:58c9d2d9-e2a9-465b-8dcd-4c57a05647c0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé noir et blanc\nCouleur principale équipe exterieure: Noir et ro
+ uge\n\nContact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voitur
+ e : Ring de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-
+ Oppem. Ensuite première rue à droite (Louis Marcelisstraat) puis la troi
+ sième à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à ga
+ uche entre les n° 16 et 24.\nPar la ville : A partir du rond point Montgo
+ mery\, prendre l'Avenue de Broqueville\, toujours tout droit. Passez devan
+ t le Shopping de Woluwé\, toujours tout droit\, passez devant le magasin 
+ "Carrefour"\, puis au 2ème feu de signalisation prendre à droite et ensu
+ ite tout droit. Au bout de la rue prendre à droite\, le terrain se trouve
+  à 100 mètres  sur la gauche.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/067/WAPPERS-FC\nInfo équipe exterieure: https://www.abssa.org/
+ team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/W19
+GEO:50.8424503;4.4865891
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J18: TRINQUANT vs NEW INN FC (Eq. 3)
+DTSTART:20230121T123000Z
+DTEND:20230121T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e6b3c46b-10da-4cfc-8a44-7c73a0a2681b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu marine\nCouleur principale équipe exterieure: Noir et rouge\n\nC
+ ontact équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : 
+ Venant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au po
+ nt de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. 
+ Après le chateau de La Hulpe\, toujours tout droit. Au feu de signalisati
+ on et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de si
+ gnalisation prendre à gauche et ensuite directement à droite\, l'avenue 
+ Soyer\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure
+ : https://www.abssa.org/team/359/NEW-INN-FC\nInfo terrain: https://www.abs
+ sa.org/terrain/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J19: NEW INN FC (Eq. 3) vs VIRGINAL ASF
+DTSTART:20230128T140000Z
+DTEND:20230128T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fcad2a0a-4fc7-41d6-bcd5-688cb9d693cf
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+ t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
+ tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
+ ens Combattants. Juste après le carrefour avec des feux de signalisation 
+ prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
+  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/497/VIRGINAL-ASF\nInfo t
+ errain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: MOON SHOOTERS vs NEW INN FC (Eq. 3)
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:70468566-5730-4137-92ba-56556293b224
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
+  équipe domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venan
+ t de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'aut
+ oroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et
+  descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à g
+ auche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade
+  est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/606/MO
+ ON-SHOOTERS\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
+ NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:max.morelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J21: NEW INN FC (Eq. 3) vs GOALOIS (Eq. 2)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:be0a4253-574b-4d27-8849-48fc904b35f6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+ t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
+ tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
+ ens Combattants. Juste après le carrefour avec des feux de signalisation 
+ prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
+  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/345/GOALOIS\nInfo terrai
+ n: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J22: PATRONS (LES) vs NEW INN FC (Eq. 3)
+DTSTART:20230225T153000Z
+DTEND:20230225T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fca88af9-4912-480d-ab43-dcc65f620991
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
+  équipe domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Bouleva
+ rd de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu
+ 'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à ga
+ uche.\n\nInfo équipe domicile: https://www.abssa.org/team/628/PATRONS-LES
+ \nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-INN-FC\nInfo
+  terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:lespatrons.fc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J25: NEW INN FC (Eq. 3) vs NIVELLES CS
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a80cc2be-df76-475f-b7a3-246d60566bbf
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\
+ nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : A
+ u départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendr
+ e la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue 
+ des Anciens Combattants. Juste après le carrefour avec des feux de signal
+ isation prendre à droite vers la Place de la Chapelle\, puis prendre la 4
+ ème rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur 
+ la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-IN
+ N-FC\nInfo équipe exterieure: https://www.abssa.org/team/306/NIVELLES-CS\
+ nInfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J26: FRIENDS SPIRIT AUD vs NEW INN FC (Eq. 3)
+DTSTART:20230325T123000Z
+DTEND:20230325T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c01e91c4-6d84-415d-8bc5-cceeacf884c5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
+ équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
+ -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
+ NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 END:VCALENDAR

@@ -58,7 +58,7 @@ def get_events(fixtures_df, team_club_df, fields_df):
         " principale équipe domicile: {color_home}\nCouleur principale"
         " équipe exterieure: {color_away}\n\nContact équipe domicile:"
         " {secretary_home} ({phone_number_home})\n\nAccès voiture :"
-        " {car_access}\n\nInfo équipe domicile: {home_team_link}\nInfo équipe exterieure: {away_team_link}\nInfo terrain: {field_link}\n"
+        " {car_access}\n\nInfo équipe domicile: {home_team_link}\nInfo équipe exterieure: {away_team_link}\nInfo terrain: {field_link}"
     )
 
     events_df["ical_summary"] = events_df.apply(
@@ -85,6 +85,8 @@ def get_events(fixtures_df, team_club_df, fields_df):
         ),
         axis=1,
     )
+
+    events_df = events_df.sort_values("day")
 
     return events_df
 

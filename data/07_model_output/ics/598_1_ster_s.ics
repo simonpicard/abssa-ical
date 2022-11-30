@@ -5,167 +5,75 @@ X-WR-CALDESC:Les matches du club STER'S (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: STER'S (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: CENTRAL PARK FC vs STER'S
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:302c5c0c-41f3-4532-b1aa-687df12c5aea
+SUMMARY:ABSSA D3C J1: STER'S vs WATERMAEL FC
+DTSTART:20220903T123000Z
+DTEND:20220903T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:685a22bd-041c-4bc7-a436-291060467451
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\
- nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Bo
- ulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel 
- jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
- à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRA
- L-PARK-FC\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\n
- Info terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+ le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
+ ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
+ e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
+ rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
+ continuer tout droit en passant devant Walibi (qui se trouve sur la gauche
+ ) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenni
+ s Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au ca
+ rrefour principal. Continuer tout droit en traversant l'avenue Albert 1èr
+ . Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'E
+ urope jusqu'à la place de l'Europe. Traverser cette place par la droite. 
+ Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,
+   la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en
+  dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de 
+ suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'
+ étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'
+ avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'a
+ venue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est s
+ ituée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www
+ .abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org/
+ team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/O05
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: CHIEFS WSL vs STER'S
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2a6a2c89-b7a7-4caf-9f5b-5f246cb732c1
+SUMMARY:ABSSA D3C J2: STER'S vs BOUKS  FC
+DTSTART:20220910T123000Z
+DTEND:20220910T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bb3f22a1-4dd8-42d8-b13f-42e92a54c98c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
-  équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard
-  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
- u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
- he.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nI
- nfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terrain
- : https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: BOUKS  FC vs STER'S
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4152b4eb-932e-416d-991f-10e5bcf9bb42
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
- équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant 
- de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
- roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
- le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
- e carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisa
- tion prendre à gauche et ensuite directement à droite\, l'avenue Soyer\,
-  derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile
- : https://www.abssa.org/team/579/BOUKS-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/598/STERS\nInfo terrain: https://www.abssa.org/terrai
- n/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: BREU UNITED vs STER'S
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:621f0e22-959b-4d63-a744-837189196355
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange et Mauve\nCouleur principale équipe exterieure: Vert et Blanc\
- n\nContact équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture
-  : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
- Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
- levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
- t d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/603/BREU-UNITED\nInfo équipe exterieure: https://www.abssa.org/te
- am/598/STERS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:paschold.j@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: SYB  RFC vs STER'S
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:717f8354-67a1-48a7-a05f-8d1059ed3c38
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et Bl
- anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
- : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
- kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
- evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
-  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
- 98/STERS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: ETTEKIJS (Eq. 2) vs STER'S
-DTSTART:20221001T123000Z
-DTEND:20221001T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ab4e2d07-b014-489d-b409-99aba35e11f8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Vert et Bl
- anc\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture
-  : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite
-  l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/598/ST
- ERS\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: WATERMAEL FC vs STER'S
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d8d351d6-67e9-42b7-9fa4-37e83a8010a1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A parti
- r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
- des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATE
- RMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nI
- nfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: WELL TEAM vs STER'S
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7c4014e8-efb2-4bdd-bff7-6cca8df9bdc4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Vert et Blanc\n\nC
- ontact équipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A pa
- rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
- ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/544/W
- ELL-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nI
- nfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:martindayez@hotmail.com
+ le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
+ ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
+ e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
+ rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
+ continuer tout droit en passant devant Walibi (qui se trouve sur la gauche
+ ) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenni
+ s Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au ca
+ rrefour principal. Continuer tout droit en traversant l'avenue Albert 1èr
+ . Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'E
+ urope jusqu'à la place de l'Europe. Traverser cette place par la droite. 
+ Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,
+   la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en
+  dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de 
+ suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'
+ étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'
+ avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'a
+ venue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est s
+ ituée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www
+ .abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org/
+ team/579/BOUKS-FC\nInfo terrain: https://www.abssa.org/terrain/O05
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J3: CORNAC UNITED FC vs STER'S
 DTSTART:20220917T143000Z
 DTEND:20220917T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:401db224-8fb3-48d8-a61f-86aed628dc67
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3fac095e-7426-45f4-9986-98d6775848a4
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
   équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
@@ -175,81 +83,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  r le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école Va
  n Belle et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.org/team/
  151/CORNAC-UNITED-FC\nInfo équipe exterieure: https://www.abssa.org/team/
- 598/STERS\nInfo terrain: https://www.abssa.org/terrain/A01\n
+ 598/STERS\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J1: STER'S vs WATERMAEL FC
-DTSTART:20220903T123000Z
-DTEND:20220903T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:35aefd26-d7ed-4546-8b2c-66872d139d7b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
- ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
- e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
- rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
- continuer tout droit en passant devant Walibi (qui se trouve sur la gauche
- ) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenni
- s Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au ca
- rrefour principal. Continuer tout droit en traversant l'avenue Albert 1èr
- . Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'E
- urope jusqu'à la place de l'Europe. Traverser cette place par la droite. 
- Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,
-   la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en
-  dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de 
- suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'
- étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'
- avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'a
- venue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est s
- ituée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www
- .abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org/
- team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/O05\n
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:Thomas.reginster@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: STER'S vs BOUKS  FC
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6808fe2e-5170-4144-b214-4b000d380cf7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
- ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
- e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
- rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
- continuer tout droit en passant devant Walibi (qui se trouve sur la gauche
- ) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenni
- s Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au ca
- rrefour principal. Continuer tout droit en traversant l'avenue Albert 1èr
- . Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'E
- urope jusqu'à la place de l'Europe. Traverser cette place par la droite. 
- Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,
-   la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en
-  dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de 
- suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'
- étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'
- avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'a
- venue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est s
- ituée 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://www
- .abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org/
- team/579/BOUKS-FC\nInfo terrain: https://www.abssa.org/terrain/O05\n
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:Thomas.reginster@live.be
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D3C J4: STER'S vs BREU UNITED
 DTSTART:20220924T123000Z
 DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:80a0bb93-caca-4a11-9a15-a0ca96fc1078
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9fd194f5-54a3-4087-818c-d0d1f5f2f063
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Orange et Mauve\
  n\nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voitu
@@ -272,17 +116,35 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: 
  https://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www
  .abssa.org/team/603/BREU-UNITED\nInfo terrain: https://www.abssa.org/terra
- in/O05\n
+ in/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: ETTEKIJS (Eq. 2) vs STER'S
+DTSTART:20221001T123000Z
+DTEND:20221001T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:697aecb2-86c3-41c8-ac74-6748f8167bdf
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir rayé de blanc\nCouleur principale équipe exterieure: Vert et Bl
+ anc\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture
+  : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite
+  l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/598/ST
+ ERS\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J6: STER'S vs SYB  RFC
 DTSTART:20221008T123000Z
 DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c735b0cf-3230-4bbf-aa88-85232a39f950
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ffb56966-3116-45df-8c05-7c6db48080ec
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Rayé Vert et bl
  anc\n\nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès v
@@ -305,17 +167,54 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  u terrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domici
  le: https://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https:/
  /www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terra
- in/O05\n
+ in/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: CENTRAL PARK FC vs STER'S
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e39b0626-81f5-40c2-a5b1-8995a3d69397
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\
+ nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Bo
+ ulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel 
+ jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
+ à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRA
+ L-PARK-FC\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\n
+ Info terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: WELL TEAM vs STER'S
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fec111b0-2cb4-4c0c-af5b-e2d3141f4ec8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu marine\nCouleur principale équipe exterieure: Vert et Blanc\n\nC
+ ontact équipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A pa
+ rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
+ ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/544/W
+ ELL-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nI
+ nfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:martindayez@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J9: STER'S vs CELTIC ROOSTERS
 DTSTART:20221105T123000Z
 DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6b6c3765-0237-40ad-95b8-1dd2095d85c1
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ba757265-6ccc-4be3-bee4-12167d703841
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Vert et blanc\n\
  nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture
@@ -338,17 +237,35 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: ht
  tps://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.a
  bssa.org/team/626/CELTIC-ROOSTERS\nInfo terrain: https://www.abssa.org/ter
- rain/O05\n
+ rain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: SAINT GEORGES RCS (Eq. 2) vs STER'S
+DTSTART:20221112T153000Z
+DTEND:20221112T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:16092087-a0e3-4f4a-988e-b0461176486a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
+  équipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de
+  Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n
+ \nInfo équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\
+ nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terra
+ in: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J11: STER'S vs CHIEFS WSL
 DTSTART:20221119T123000Z
 DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ed9234d9-99b7-4b95-b14f-4106c1d32382
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:95c5e9e3-8a9a-4854-b727-01a93a3c0602
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ve
@@ -370,17 +287,57 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est 
  située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org
- /team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/O05\n
+ /team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: BRUSSELS BRITISH R (Eq. 3) vs STER'S
+DTSTART:20221126T123000Z
+DTEND:20221126T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4a740b9e-b696-4826-99d1-4aead71b1c64
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
+  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
+  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
+ toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
+ R\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo ter
+ rain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: BOUKS  FC vs STER'S
+DTSTART:20221203T153000Z
+DTEND:20221203T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a9d4e0b6-a59f-4f53-a3f2-050dd883ab37
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
+ équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant 
+ de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
+ roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
+ le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
+ e carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisa
+ tion prendre à gauche et ensuite directement à droite\, l'avenue Soyer\,
+  derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/579/BOUKS-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/598/STERS\nInfo terrain: https://www.abssa.org/terrai
+ n/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J14: STER'S vs CORNAC UNITED FC
 DTSTART:20221210T123000Z
 DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:96965cbf-6f94-4da7-aa0e-c0a365c7e894
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1105350a-2da0-42d4-b166-dc31e8a74139
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ve
@@ -403,17 +360,58 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org
  /team/151/CORNAC-UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/O0
- 5\n
+ 5
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: MACAPSULES (LES) vs STER'S
+DTSTART:20221217T153000Z
+DTEND:20221217T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9c749efe-5f64-4ab6-ab4c-a494c069d85c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Vert/blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nCo
+ ntact équipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Aut
+ oroute Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 
+ 8). Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droi
+ t les deux premiers ronds-points à l'issue de la RN 25. Au troisième ron
+ d-point prendre à droite. Le terrain se trouve 150 m. plus loin à gauche
+  de la rue du Stampia.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/627/MACAPSULES-LES\nInfo équipe exterieure: https://www.abssa.org/team/
+ 598/STERS\nInfo terrain: https://www.abssa.org/terrain/G04
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER:MAILTO:jordandaumont@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: BREU UNITED vs STER'S
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3cdec7b1-184c-4347-9e2e-ea3d709dd419
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Orange et Mauve\nCouleur principale équipe exterieure: Vert et Blanc\
+ n\nContact équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture
+  : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
+ Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
+ levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
+ t d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/603/BREU-UNITED\nInfo équipe exterieure: https://www.abssa.org/te
+ am/598/STERS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:paschold.j@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J17: STER'S vs ETTEKIJS (Eq. 2)
 DTSTART:20230114T123000Z
 DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:231758df-6df1-4b29-adb0-836d1a6b0e8c
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dfa4d608-902b-4a4a-bab9-4f665195febd
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Noir rayé de bl
  anc\n\nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès v
@@ -436,17 +434,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  u terrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domici
  le: https://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https:/
  /www.abssa.org/team/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terr
- ain/O05\n
+ ain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: SYB  RFC vs STER'S
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8fdb700d-f5c2-48cf-b1d2-659c3dd393c0
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et Bl
+ anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
+ : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
+ kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
+ evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
+  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
+ 98/STERS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J19: STER'S vs CENTRAL PARK FC
 DTSTART:20230128T123000Z
 DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4adabc25-057e-430e-bcb9-d08b254fd088
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e5548f48-b387-482d-88fe-faa745e73edf
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu et Blanc\n\
  nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture
@@ -469,7 +488,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: ht
  tps://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.a
  bssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/ter
- rain/O05\n
+ rain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
@@ -478,8 +497,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: STER'S vs WELL TEAM
 DTSTART:20230204T123000Z
 DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b7e904dd-a77b-476e-bee1-22c103b42736
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:77295b82-e4dc-4ba1-ab49-d25cc20b151d
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nC
  ontact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture :
@@ -502,17 +521,39 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n est située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: http
  s://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abs
  sa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/O05
- \n
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: CELTIC ROOSTERS vs STER'S
+DTSTART:20230211T153000Z
+DTEND:20230211T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e7140335-97aa-48e7-81c5-c9391ae7be5c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert et blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\
+ nContact équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : A
+ utoroute E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavr
+ e\, à gauche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blv
+ d. de l'Europe direction Wavre Centre. Entrer dans Wavre puis à gauche N 
+ 238\, à gauche N 239. 	Au rond-point prendre la première sortie Rue Haut
+ e\, continuer sur rue de Bruxelles\, continuer sur rue Saint-Roch\, contin
+ uer 	sur rue Joseph Joppart. Prendre à droite l'avenue du Centre Sportif.
+ \n\nInfo équipe domicile: https://www.abssa.org/team/626/CELTIC-ROOSTERS\
+ nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terra
+ in: https://www.abssa.org/terrain/W07
+GEO:50.7216297;4.6192566
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J22: STER'S vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART:20230225T123000Z
 DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f98ff088-1f80-4787-a5cb-70ddcae51966
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2954332e-db29-40f1-8f46-3cbb3bc656cd
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ve
@@ -535,7 +576,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org
  /team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/
- O05\n
+ O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
@@ -544,8 +585,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J23: STER'S vs SAINT GEORGES RCS (Eq. 2)
 DTSTART:20230304T123000Z
 DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5dc51a04-1e29-434d-aacf-f1c206495960
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d024388d-32cd-4000-be3c-88bae2415af5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ve
@@ -568,17 +609,54 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abssa.org
  /team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/O
- 05\n
+ 05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: CHIEFS WSL vs STER'S
+DTSTART:20230311T140000Z
+DTEND:20230311T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b5d46135-76d5-469b-9144-93a5dba98ac8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
+  équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard
+  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
+ u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
+ he.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nI
+ nfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terrain
+ : https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: WATERMAEL FC vs STER'S
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:037b2e11-1457-4532-852a-95b443714ae3
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
+ équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A parti
+ r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
+ des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATE
+ RMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nI
+ nfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J26: STER'S vs MACAPSULES (LES)
 DTSTART:20230325T123000Z
 DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a5323e6f-ebd6-41e7-bfa1-f5e3077f7f0f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8c323bb1-9e37-4df5-9097-9a530c48a56c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Vert/blanc\n\nCo
  ntact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : 
@@ -601,88 +679,9 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   est située 50 m. plus bas sur la gauche.\n\nInfo équipe domicile: https
  ://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https://www.abss
  a.org/team/627/MACAPSULES-LES\nInfo terrain: https://www.abssa.org/terrain
- /O05\n
+ /O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: MACAPSULES (LES) vs STER'S
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:56bda7d2-9ba5-4106-bdc4-0b8c0a3446e6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert/blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nCo
- ntact équipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Aut
- oroute Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 
- 8). Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droi
- t les deux premiers ronds-points à l'issue de la RN 25. Au troisième ron
- d-point prendre à droite. Le terrain se trouve 150 m. plus loin à gauche
-  de la rue du Stampia.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/627/MACAPSULES-LES\nInfo équipe exterieure: https://www.abssa.org/team/
- 598/STERS\nInfo terrain: https://www.abssa.org/terrain/G04\n
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jordandaumont@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: SAINT GEORGES RCS (Eq. 2) vs STER'S
-DTSTART:20221112T153000Z
-DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a261d40a-bd2d-4f65-916d-745749989874
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
-  équipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de
-  Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n
- \nInfo équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\
- nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terra
- in: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: BRUSSELS BRITISH R (Eq. 3) vs STER'S
-DTSTART:20221126T123000Z
-DTEND:20221126T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bef5fd0b-d0e4-433f-9646-bf8e1a60fd80
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact
-  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
-  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
- toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
- n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
- R\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo ter
- rain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: CELTIC ROOSTERS vs STER'S
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:73d1ff8c-efc2-4f01-b519-8b37e2e9cabf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et blanc\nCouleur principale équipe exterieure: Vert et Blanc\n\
- nContact équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : A
- utoroute E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavr
- e\, à gauche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blv
- d. de l'Europe direction Wavre Centre. Entrer dans Wavre puis à gauche N 
- 238\, à gauche N 239. 	Au rond-point prendre la première sortie Rue Haut
- e\, continuer sur rue de Bruxelles\, continuer sur rue Saint-Roch\, contin
- uer 	sur rue Joseph Joppart. Prendre à droite l'avenue du Centre Sportif.
- \n\nInfo équipe domicile: https://www.abssa.org/team/626/CELTIC-ROOSTERS\
- nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo terra
- in: https://www.abssa.org/terrain/W07\n
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER:MAILTO:celticroosters@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J1: HIGGINS (Eq. 2) vs COLO-COLO UNITED
 DTSTART:20220903T123000Z
 DTEND:20220903T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:afa350a8-f682-4ce8-b2cc-02767369ab37
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b108f44d-8e5b-43ef-87bc-6f7b0e8ef4ef
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu fonc
  é et blanc\n\nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\
@@ -20,7 +20,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile: https:/
  /www.abssa.org/team/416/HIGGINS\nInfo équipe exterieure: https://www.abss
  a.org/team/625/COLO-COLO-UNITED\nInfo terrain: https://www.abssa.org/terra
- in/A11\n
+ in/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
@@ -30,8 +30,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J2: HIGGINS (Eq. 2) vs WONG A.S. (Eq. 2)
 DTSTART:20220910T123000Z
 DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:eb2b6031-1263-435c-b15f-6430d3ab735f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8393b41f-e9e9-43da-adc1-bfb7e8c2f1be
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Jaune\n\nC
  ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
@@ -41,289 +41,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
  . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
  eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/523/W
- ONG-AS\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ ONG-AS\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J4: HIGGINS (Eq. 2) vs VETUSO FC.
-DTSTART:20220924T123000Z
-DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3396708a-0021-4dcb-a407-24abf274b353
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/624/VE
- TUSO-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J6: HIGGINS (Eq. 2) vs BOUSVAL GENAPPE
-DTSTART:20221008T123000Z
-DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:177cd633-e3e9-4ad2-9e3b-7615cc5da219
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/401/B
- OUSVAL-GENAPPE\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J9: HIGGINS (Eq. 2) vs BXL ALLIANCE JETTE
-DTSTART:20221105T123000Z
-DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3e6b0e7e-9a73-4b63-96f8-27e8352dd3fe
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/566/BX
- L-ALLIANCE-JETTE\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J11: HIGGINS (Eq. 2) vs CHIEFS WSL (Eq. 2)
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:32063f3d-0686-4403-8660-ee90b16264e1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/303/C
- HIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: HIGGINS (Eq. 2) vs CHENOIS SC (Eq. 2)
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b308d6c6-55c4-4f77-a219-6146a8850e8c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/084/C
- HENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: HIGGINS (Eq. 2) vs MACCABI BXL
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5c83886b-489c-4ade-a53a-a66297d6cf1a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/634/MA
- CCABI-BXL\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: HIGGINS (Eq. 2) vs IRLANDE FC (Eq. 4)
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:49b6550f-cb10-4b92-81b0-622e88b19bdf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/402/IR
- LANDE-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: HIGGINS (Eq. 2) vs GERMINAL CSA
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:23fa2c19-f884-49c2-930d-f9f8e1acd30b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
-  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
-  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
- nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
-  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/235/GE
- RMINAL-CSA\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: HIGGINS (Eq. 2) vs MOUSSES TACHENT
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:998c52c1-6de9-4929-bf8a-26902fd1cd45
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bordeaux\n
- \nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voitu
- re : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du d
- ébut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant
-  +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par 
- le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 2
- 00 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/6
- 43/MOUSSES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: HIGGINS (Eq. 2) vs SPARTAK SYNERGY
-DTSTART:20230304T123000Z
-DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:19809c0a-3ba9-47e9-9909-4ae59fae2ddc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge et b
- lanc\n\nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès
-  voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le
-  du début de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pe
- ndant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer
-  par le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve
-  à 200 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/t
- eam/637/SPARTAK-SYNERGY\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: HIGGINS (Eq. 2) vs FRANGINOS (LOS)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:942f1f3b-f827-4d77-ac8f-fefacbd91b6b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/647/F
- RANGINOS-LOS\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: CHIEFS WSL (Eq. 2) vs HIGGINS (Eq. 2)
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a9514a94-e3b4-4e64-9baa-61580c40456c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Bou
- levard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel j
- usqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
- à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS
- -WSL\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInf
- o terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: COLO-COLO UNITED vs HIGGINS (Eq. 2)
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:dee52869-51b2-4e1f-99be-2cbb30e626b4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Rayé Ble
- u et Blanc\n\nContact équipe domicile: DE LE COURT Y. (0472.35.25.20)\n\n
- Accès voiture : Au départ de la Place Meiser\, l'autoroute Bruxelles-Li
- ège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc prendre à
-  droite\, l'avenue des Anciens Combattants. Juste après le carrefour avec
-  des feux de signalisation prendre à droite vers la Place de la Chapelle\
- , puis prendre la 4ème rue à main droite (rue au Bois). Le terrain se tr
- ouve à 300 m. sur la droite.\n\nInfo équipe domicile: https://www.abssa.
- org/team/625/COLO-COLO-UNITED\nInfo équipe exterieure: https://www.abssa.
- org/team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:youdelecourt@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J3: CHENOIS SC (Eq. 2) vs HIGGINS (Eq. 2)
 DTSTART:20220917T133000Z
 DTEND:20220917T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a01941e3-34ed-4a40-be4d-541b665f15a7
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0881ebf7-46aa-4528-b795-3cd15d67e68a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
  ontact équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture :
@@ -333,36 +62,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  feu de signalisation prendre à droite la chaussée Bara. Le terrain se tr
  ouve à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/W02\n
+ m/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER:MAILTO:sc.chenois@waterloo.eu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J8: GERMINAL CSA vs HIGGINS (Eq. 2)
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c8fc3177-3399-4e06-8e92-1f58f203c3c1
+SUMMARY:ABSSA D3D J4: HIGGINS (Eq. 2) vs VETUSO FC.
+DTSTART:20220924T123000Z
+DTEND:20220924T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9f85db7e-7d8b-4de3-941e-d7b2bb8fcf35
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
- ntact équipe domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boul
- evard Lambermont\, prendre le boulevard Léopold III\, direction aéroport
-  de Bruxelles-National\, au 3ème feu de signalisation prendre à droite. 
- le terrain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.
- org/team/235/GERMINAL-CSA\nInfo équipe exterieure: https://www.abssa.org/
- team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/E07\n
-GEO:50.8691981;4.4067073
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER:MAILTO:m.naniot@skynet.be
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
+ ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/624/VE
+ TUSO-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: MACCABI BXL vs HIGGINS (Eq. 2)
 DTSTART:20221001T140000Z
 DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b140a663-a434-478b-8035-bffa98243324
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7909c665-4213-4e0c-8785-f3cfefb88f11
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
  ntact équipe domicile: GODART D. (0491.61.16.92)\n\nAccès voiture : Au d
@@ -372,18 +103,39 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  itannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur 
  de City Cart\, à gauche de la route.\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/634/MACCABI-BXL\nInfo équipe exterieure: https://www.abs
- sa.org/team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/F01\n
+ sa.org/team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER:MAILTO:maccabibxl@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3D J6: HIGGINS (Eq. 2) vs BOUSVAL GENAPPE
+DTSTART:20221008T123000Z
+DTEND:20221008T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2f69dbaf-ec4a-45c7-a1e0-9bff2e3b2fc7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/401/B
+ OUSVAL-GENAPPE\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3D J7: IRLANDE FC (Eq. 4) vs HIGGINS (Eq. 2)
 DTSTART:20221015T140000Z
 DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5f33f242-d208-4abc-b290-e560c2d550cd
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:600543c4-8cb3-4ef6-bb1a-e7575e0d015f
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
  ntact équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : C
@@ -393,98 +145,58 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ek\, prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Lou
  vain\, et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abs
  sa.org/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org
- /team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ /team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: BXL ALLIANCE JETTE vs HIGGINS (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:20dc6e8d-615f-41fd-a9a1-40391c978ff1
+SUMMARY:ABSSA D3D J8: GERMINAL CSA vs HIGGINS (Eq. 2)
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3b1e981a-01fd-47be-ab4c-c5fc2de5a7fb
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
- ntact équipe domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Dir
- ection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusq
- u'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à g
- auche.\n\nInfo équipe domicile: https://www.abssa.org/team/566/BXL-ALLIAN
- CE-JETTE\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\
- nInfo terrain: https://www.abssa.org/terrain/J01\n
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:zal.stan@hotmail.com
+ ntact équipe domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boul
+ evard Lambermont\, prendre le boulevard Léopold III\, direction aéroport
+  de Bruxelles-National\, au 3ème feu de signalisation prendre à droite. 
+ le terrain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/235/GERMINAL-CSA\nInfo équipe exterieure: https://www.abssa.org/
+ team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/E07
+GEO:50.8691981;4.4067073
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER:MAILTO:m.naniot@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: FRANGINOS (LOS) vs HIGGINS (Eq. 2)
-DTSTART:20221217T150000Z
-DTEND:20221217T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7622f710-4576-47d9-ac5d-a9484ab9cde5
+SUMMARY:ABSSA D3D J9: HIGGINS (Eq. 2) vs BXL ALLIANCE JETTE
+DTSTART:20221105T123000Z
+DTEND:20221105T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:50d0b13b-8be9-4df2-a768-18de9d10940c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a P
- artir de Bruxelles\, Prendre la E 411 en Direction de Namur. Prendre la So
- rtie 11  Gembloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlem
- ent / Jodoigne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Dir
- ection de la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque 
- Fois la première Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxi
- ème Sortie et Continuer sur la Chaussée de Wavre / N 243. Prendre à Dro
- ite sur la Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo é
- quipe domicile: https://www.abssa.org/team/647/FRANGINOS-LOS\nInfo équipe
-  exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrain: https:/
- /www.abssa.org/terrain/P02\n
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: VETUSO FC. vs HIGGINS (Eq. 2)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f3ef6e27-ad39-405c-b18a-cd3699d350ec
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
- ntact équipe domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant 
- de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à 
- droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
- min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction ro
- ute du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/624/VET
- USO-FC\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nI
- nfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: BOUSVAL GENAPPE vs HIGGINS (Eq. 2)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c1db136b-0c59-4f9d-a6ab-6bbb7709b0c9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : V
- enant de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prend
- re à droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +
- /- 10 min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direct
- ion route du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 01/BOUSVAL-GENAPPE\nInfo équipe exterieure: https://www.abssa.org/team/41
- 6/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
+ ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/566/BX
+ L-ALLIANCE-JETTE\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J10: SPARTAK SYNERGY vs HIGGINS (Eq. 2)
 DTSTART:20221112T153000Z
 DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:52df1aab-3bce-4f12-a77b-eb52dfe281a1
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:96c52209-4b62-41ca-bf2f-c88fc21bc3be
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Rayé Bleu et B
  lanc\n\nContact équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voit
@@ -494,17 +206,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ès 2 km. prendre la Kouterstraat qui se trouve juste en face de l'église
  .\n\nInfo équipe domicile: https://www.abssa.org/team/637/SPARTAK-SYNERGY
  \nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo te
- rrain: https://www.abssa.org/terrain/M07\n
+ rrain: https://www.abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3D J11: HIGGINS (Eq. 2) vs CHIEFS WSL (Eq. 2)
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ac4a07d8-f4dd-4572-a2c6-b1b782c0403d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/303/C
+ HIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3D J12: MOUSSES TACHENT vs HIGGINS (Eq. 2)
 DTSTART:20221126T153000Z
 DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cfa9d854-c51e-40e4-8afc-7eb10885df69
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:144a4eaa-5939-4572-b6da-af439f288e1d
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n
  \nContact équipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture :
@@ -518,7 +251,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   prendre a droite et le terrain se trouve à 500 m. a main gauche.\n\nInfo
   équipe domicile: https://www.abssa.org/team/643/MOUSSES-TACHENT\nInfo é
  quipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrain: ht
- tps://www.abssa.org/terrain/C02\n
+ tps://www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
 ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
@@ -527,8 +260,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J13: WONG A.S. (Eq. 2) vs HIGGINS (Eq. 2)
 DTSTART:20221203T144500Z
 DTEND:20221203T161000Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4ed89cc2-54e4-422b-a630-4f5b34e1ce6f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:335b008b-a173-4b02-8b26-c07a8b87aed3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
  ontact équipe domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : A
@@ -543,9 +276,276 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  onenboomstraat).\nLe terrain se situe sur la droite de la route!\n\nInfo 
  équipe domicile: https://www.abssa.org/team/523/WONG-AS\nInfo équipe ext
  erieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrain: https://www
- .abssa.org/terrain/T07\n
+ .abssa.org/terrain/T07
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER:MAILTO:vanimpe-julien@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J14: HIGGINS (Eq. 2) vs CHENOIS SC (Eq. 2)
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:62a8baa7-9aca-439b-a511-a878cfbdeb80
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge\n\nC
+ ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/084/C
+ HENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J15: FRANGINOS (LOS) vs HIGGINS (Eq. 2)
+DTSTART:20221217T150000Z
+DTEND:20221217T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e5f38472-f0ba-4252-a991-60edb357a0aa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
+ ontact équipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a P
+ artir de Bruxelles\, Prendre la E 411 en Direction de Namur. Prendre la So
+ rtie 11  Gembloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlem
+ ent / Jodoigne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Dir
+ ection de la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque 
+ Fois la première Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxi
+ ème Sortie et Continuer sur la Chaussée de Wavre / N 243. Prendre à Dro
+ ite sur la Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/647/FRANGINOS-LOS\nInfo équipe
+  exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrain: https:/
+ /www.abssa.org/terrain/P02
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J16: VETUSO FC. vs HIGGINS (Eq. 2)
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e6c99a04-4ce6-436e-88c4-4df2792083e1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
+ ntact équipe domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant 
+ de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à 
+ droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
+ min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction ro
+ ute du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/624/VET
+ USO-FC\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nI
+ nfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J17: HIGGINS (Eq. 2) vs MACCABI BXL
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:950381c1-acd8-46a8-bfd0-e35a5bdcd9cd
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
+ ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/634/MA
+ CCABI-BXL\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J18: BOUSVAL GENAPPE vs HIGGINS (Eq. 2)
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8489d04a-186e-4432-be67-e7b60f0d0988
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
+ ontact équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : V
+ enant de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prend
+ re à droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +
+ /- 10 min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direct
+ ion route du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 01/BOUSVAL-GENAPPE\nInfo équipe exterieure: https://www.abssa.org/team/41
+ 6/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J19: HIGGINS (Eq. 2) vs IRLANDE FC (Eq. 4)
+DTSTART:20230128T123000Z
+DTEND:20230128T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:61b5b6ea-11de-480c-9998-2c1163aee332
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
+ ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/402/IR
+ LANDE-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J20: HIGGINS (Eq. 2) vs GERMINAL CSA
+DTSTART:20230204T123000Z
+DTEND:20230204T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2b1c8c02-62f8-410c-9011-8249050fa85e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
+ ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
+  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
+ 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
+ nnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m.
+  Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/235/GE
+ RMINAL-CSA\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J21: BXL ALLIANCE JETTE vs HIGGINS (Eq. 2)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:534ce804-0a02-40eb-9312-d60240a3565f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
+ ntact équipe domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Dir
+ ection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusq
+ u'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à g
+ auche.\n\nInfo équipe domicile: https://www.abssa.org/team/566/BXL-ALLIAN
+ CE-JETTE\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\
+ nInfo terrain: https://www.abssa.org/terrain/J01
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER:MAILTO:zal.stan@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J22: HIGGINS (Eq. 2) vs MOUSSES TACHENT
+DTSTART:20230225T123000Z
+DTEND:20230225T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1e39c639-128f-4ec0-ba08-12a933e99b3f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bordeaux\n
+ \nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voitu
+ re : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du d
+ ébut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant
+  +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par 
+ le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 2
+ 00 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/6
+ 43/MOUSSES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J23: HIGGINS (Eq. 2) vs SPARTAK SYNERGY
+DTSTART:20230304T123000Z
+DTEND:20230304T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f3dddcdf-497a-4b2d-937d-6afbe49c9e5e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge et b
+ lanc\n\nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès
+  voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le
+  du début de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pe
+ ndant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer
+  par le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve
+  à 200 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/637/SPARTAK-SYNERGY\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J24: CHIEFS WSL (Eq. 2) vs HIGGINS (Eq. 2)
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e4862126-8cf8-423c-b743-2917ed4d4da5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
+ ontact équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Bou
+ levard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel j
+ usqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
+ à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS
+ -WSL\nInfo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInf
+ o terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: COLO-COLO UNITED vs HIGGINS (Eq. 2)
+DTSTART:20230318T123000Z
+DTEND:20230318T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d8d59c2a-7b9e-4b89-9e60-9895260087a7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Rayé Ble
+ u et Blanc\n\nContact équipe domicile: DE LE COURT Y. (0472.35.25.20)\n\n
+ Accès voiture : Au départ de la Place Meiser\, l'autoroute Bruxelles-Li
+ ège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc prendre à
+  droite\, l'avenue des Anciens Combattants. Juste après le carrefour avec
+  des feux de signalisation prendre à droite vers la Place de la Chapelle\
+ , puis prendre la 4ème rue à main droite (rue au Bois). Le terrain se tr
+ ouve à 300 m. sur la droite.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/625/COLO-COLO-UNITED\nInfo équipe exterieure: https://www.abssa.
+ org/team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:youdelecourt@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J26: HIGGINS (Eq. 2) vs FRANGINOS (LOS)
+DTSTART:20230325T123000Z
+DTEND:20230325T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ce515b05-a943-4431-85a5-0e180a56cb62
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
+ t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
+  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
+ unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
+ . Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/416/HIGGINS\nInfo équipe exterieure: https://www.abssa.org/team/647/F
+ RANGINOS-LOS\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:philippe.debiolley@gmail.com
 END:VEVENT
 END:VCALENDAR

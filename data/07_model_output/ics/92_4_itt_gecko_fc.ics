@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J1: NIVELLES CS (Eq. 2) vs ITT - GECKO FC (Eq. 4)
 DTSTART:20220903T153000Z
 DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c568e9f5-b718-4748-becd-fb0c2a6c3f57
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:593776e9-b484-488c-aa9f-2fe113ddca09
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange fluo\nCouleur principale équipe exterieure: Noir\n\nContact é
  quipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant de
@@ -22,115 +22,98 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e feu de signalisation\, tourner à gauche et prendre la rue du Progrès p
  endant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/306
  /NIVELLES-CS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-
- GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/N03\n
+ GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:46f86ee3-b47c-4a49-9b29-85afc4fa2ef6
+SUMMARY:ABSSA D6B J2: ETINCELLE FC (Eq. 2) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20220910T123000Z
+DTEND:20220910T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5442cfa2-aa94-4f1d-aad7-96e8ff7655e0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
+ ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
+ te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
+ A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
+ hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: ht
+ tps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org
+ /terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J3: ITT - GECKO FC (Eq. 4) vs PHARMA SC (Eq. 3)
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2ad64bca-7a6b-4eb5-8374-e6c63dabb5e6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
+ lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
+ ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
+ gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
+  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
+ ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHAR
+ MA-SC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J4: BRUSSELS BRITISH R (Eq. 5) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20220924T153000Z
+DTEND:20220924T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3b88de57-919a-469d-af0b-bd535aa88011
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : Boulevard de la 
- Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
-  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
- Info équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo équip
- e exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: h
- ttps://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
+ domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
+ équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terr
+ ain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J26: BRUSSELS LTC (Eq. 5) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4aec6804-b25f-4f5c-b403-093f590e3dad
+SUMMARY:ABSSA D6B J5: ITT - GECKO FC (Eq. 4) vs COPAINS REUNIS (Eq. 2)
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6e40e27f-b671-49ef-986d-26eec47b3e2c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
- uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
- ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
- ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
- refour de La Hulpe\, tout droit direction Genval. Au feu de signalisation 
- prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, derr
- ière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure: https:/
- /www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/
- terrain/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J17: COPAINS REUNIS (Eq. 2) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:54d85abc-2f9e-4c40-8d4f-c6e5f859ab13
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de 
- la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre 
- la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Lee
- mans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vog
- elenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. su
- r la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/COPA
- INS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GE
- CKO-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J23: ETTEKIJS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1bde5f11-4eb8-4b05-bc41-72add43141c2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Noir\n\nCo
- ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
- ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
-  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETT
- EKIJS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-F
- C\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J9: COIN DU BALAI FC (Eq. 2) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2252d550-137d-4d2f-883e-6e76dc64c9a9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
- re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
- es.\n\nInfo équipe domicile: https://www.abssa.org/team/229/COIN-DU-BALAI
- -FC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\
- nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:rosenfeldjean@hotmail.com
+ le: Noir\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
+ omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
+ lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
+ ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
+ gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
+  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
+ ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/049/COPA
+ INS-REUNIS\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J6: ITT - GECKO FC (Eq. 4) vs AZUR RCS (Eq. 5)
 DTSTART:20221008T140000Z
 DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a0753d02-5047-4f7d-a2b8-7b3fafc7156e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8111cce3-b482-493e-9bf6-a587ea43d609
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de
@@ -140,49 +123,129 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et s
  uivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team
  /092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/109
- /AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ /AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J25: ITT - GECKO FC (Eq. 4) vs NIVELLES CS (Eq. 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:412c534b-c7a5-4d7c-974e-a6a8cac3133a
+SUMMARY:ABSSA D6B J7: NEW ARQUOIS FC (Eq. 3) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d6059e3d-52e2-46fd-b41a-613ddcfc7852
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
+ xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
+  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
+ rond point\, prendre à droite en direction du château de La Rocq\, passe
+ z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
+ etière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-ARQ
+ UOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO
+ -FC\nInfo terrain: https://www.abssa.org/terrain/A12
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J8: ITT - GECKO FC (Eq. 4) vs IDEAL RANGERS R
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ec886986-6dad-4153-a63d-c3e89c7888ae
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
- quipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée 
- de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la 
- \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l
- 'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pren
- dre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et
-  suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/3
- 06/NIVELLES-CS\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ le: Noir\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
+  équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chauss
+ ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
+  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
+ ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
+ prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
+ , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/te
+ am/047/IDEAL-RANGERS-R\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: ITT - GECKO FC (Eq. 4) vs TOURINNOIS FC (Eq. 4)
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b574dd4b-b8ed-4479-a67f-3704216ab9fd
+SUMMARY:ABSSA D6B J9: COIN DU BALAI FC (Eq. 2) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b9793f97-eec3-421f-b0bb-1d2c55ff4cac
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
- équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussé
- e de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche l
- a \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar
-  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pr
- endre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, 
- et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/
- team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
+ re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
+ es.\n\nInfo équipe domicile: https://www.abssa.org/team/229/COIN-DU-BALAI
+ -FC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\
+ nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:rosenfeldjean@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J10: ITT - GECKO FC (Eq. 4) vs ETTEKIJS (Eq. 3)
+DTSTART:20221112T140000Z
+DTEND:20221112T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f21e14ac-b576-4e72-b3c4-39c2f7cc0d84
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
+ ntact équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Ch
+ aussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à ga
+ uche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche
+ .\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebee
+ k\, prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louv
+ ain\, et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.or
+ g/team/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J11: TOURINNOIS FC (Eq. 4) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20221119T150000Z
+DTEND:20221119T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d4813ed9-1c97-458a-877f-2197c70b1e2f
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
+  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
+  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
+  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
+ au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: ht
+ tps://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: ITT - GECKO FC (Eq. 4) vs GOALOIS (Eq. 3)
+DTSTART:20221126T140000Z
+DTEND:20221126T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d58c9dd7-ee20-41be-8b6e-f3dde1b027da
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092
+ /ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/345/GOA
+ LOIS\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -192,8 +255,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J13: ITT - GECKO FC (Eq. 4) vs ETINCELLE FC (Eq. 2)
 DTSTART:20221203T140000Z
 DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:533a02e9-7f38-4f45-8ba1-8b6180d6d279
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7ace7f98-9d46-41db-be75-44cf8ebbf908
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
  équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussé
@@ -203,7 +266,47 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  endre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, 
  et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/
  team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ /035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J14: PHARMA SC (Eq. 3) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20221210T133000Z
+DTEND:20221210T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9b76ff91-1d5e-457a-ab98-db28d1f18f02
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
+ es\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sort
+ ie\, en venant de Charleroi prendre à droite. Au feu rouge continuer sur 
+ +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à 
+ essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/268/PHARM
+ A-SC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC
+ \nInfo terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J15: ITT - GECKO FC (Eq. 4) vs BRUSSELS LTC (Eq. 5)
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:147dcc9f-e626-42f6-afc5-5d1649c0db2c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
+ pe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de 
+ Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nM
+ echelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'au
+ toroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre
+  à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et su
+ ivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/
+ 092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/039/
+ BRUSSELS-LTC\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -214,8 +317,8 @@ SUMMARY:ABSSA D6B J16: ITT - GECKO FC (Eq. 4) vs BRUSSELS BRITISH R (Eq. 5
  )
 DTSTART:20230107T140000Z
 DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c1ac346c-7a27-4f73-adc8-b8367176224b
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4504c1c4-54e0-42c9-85a8-408bd4f9562c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
  domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
@@ -225,207 +328,39 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
  e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092
  /ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRU
- SSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ SSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J8: ITT - GECKO FC (Eq. 4) vs IDEAL RANGERS R
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3a01b9fa-8136-4f58-a762-ad4ee5727ce5
+SUMMARY:ABSSA D6B J17: COPAINS REUNIS (Eq. 2) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20230114T153000Z
+DTEND:20230114T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cbd5b1f0-88d5-4342-947e-17096b2119ae
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
-  équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/te
- am/047/IDEAL-RANGERS-R\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J5: ITT - GECKO FC (Eq. 4) vs COPAINS REUNIS (Eq. 2)
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ad2943a0-abe9-46dc-bcb7-df5f70f403c6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
- ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
- lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
- ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
- gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
-  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/049/COPA
- INS-REUNIS\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J12: ITT - GECKO FC (Eq. 4) vs GOALOIS (Eq. 3)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c1902e91-898f-46b7-a3a5-86ee5c5b7325
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092
- /ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/345/GOA
- LOIS\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J15: ITT - GECKO FC (Eq. 4) vs BRUSSELS LTC (Eq. 5)
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:25d8c784-2dd9-4533-b26b-441c58ff36af
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de 
- Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nM
- echelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'au
- toroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre
-  à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et su
- ivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/
- 092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/039/
- BRUSSELS-LTC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J3: ITT - GECKO FC (Eq. 4) vs PHARMA SC (Eq. 3)
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0f9d9fc9-034f-49e9-9665-35364dc468c8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
- ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
- lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
- ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
- gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
-  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHAR
- MA-SC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J19: ITT - GECKO FC (Eq. 4) vs NEW ARQUOIS FC (Eq. 3)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c16367f2-a3c8-4e26-a953-fcd9f81baada
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
- ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
- lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
- ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
- gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
-  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-
- ARQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J21: ITT - GECKO FC (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d4fe5a95-a895-4930-98fc-7884bf17bc97
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
- ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
- lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
- ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
- gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
-  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/229/COIN
- -DU-BALAI-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J10: ITT - GECKO FC (Eq. 4) vs ETTEKIJS (Eq. 3)
-DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:24441b23-58ab-4ce2-8305-cd46d41fb04a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
- ntact équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Ch
- aussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à ga
- uche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche
- .\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebee
- k\, prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louv
- ain\, et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abss
- a.org/team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.or
- g/team/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J7: NEW ARQUOIS FC (Eq. 3) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:efeb19cc-19e9-4d16-9690-955bc536df61
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-ARQ
- UOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO
- -FC\nInfo terrain: https://www.abssa.org/terrain/A12\n
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ le: Gris\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de 
+ la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre 
+ la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Lee
+ mans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vog
+ elenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. su
+ r la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/049/COPA
+ INS-REUNIS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GE
+ CKO-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J18: AZUR RCS (Eq. 5) vs ITT - GECKO FC (Eq. 4)
 DTSTART:20230121T133000Z
 DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:367fa815-4c0a-4b02-8650-e0cea3143e2f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:03af8236-97fc-4b85-a33c-12c0754b6bf9
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -435,96 +370,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
  org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/W12
- \n
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J4: BRUSSELS BRITISH R (Eq. 5) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20220924T153000Z
-DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:dfbd2e1d-bd44-4a9d-accd-a1f04f60367e
+SUMMARY:ABSSA D6B J19: ITT - GECKO FC (Eq. 4) vs NEW ARQUOIS FC (Eq. 3)
+DTSTART:20230128T140000Z
+DTEND:20230128T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c04ab976-c392-46e8-925f-08df77877a9a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
- équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terr
- ain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J2: ETINCELLE FC (Eq. 2) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:7e301866-edd0-40fd-8452-27f62752b712
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
- ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
- te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
- A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
- hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org
- /terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J14: PHARMA SC (Eq. 3) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20221210T133000Z
-DTEND:20221210T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1778c952-8184-4ccb-b2c1-e250f61693f8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de Bruxell
- es\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sort
- ie\, en venant de Charleroi prendre à droite. Au feu rouge continuer sur 
- +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à 
- essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/268/PHARM
- A-SC\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC
- \nInfo terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J11: TOURINNOIS FC (Eq. 4) vs ITT - GECKO FC (Eq. 4)
-DTSTART:20221119T150000Z
-DTEND:20221119T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4e002dd1-161b-4260-892f-08ba6248bb69
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
-  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
-  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
-  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
- au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: ht
- tps://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
+ lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
+ ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
+ gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
+  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
+ ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-
+ ARQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J20: IDEAL RANGERS R vs ITT - GECKO FC (Eq. 4)
 DTSTART:20230204T153000Z
 DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:6b39b3bb-738f-4deb-81a8-bed92e54cffb
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f5c6ce80-005c-4b88-8758-cbac25db71e7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Noir\nCouleur principale équipe exterieure: Noir\n\nContact
   équipe domicile: SIMON A. (0477.87.83.33)\n\nAccès voiture : Par le Cen
@@ -540,10 +417,132 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  édiatement à droite\, la rue du Bourdon\, pour continuer comme renseign
  é ci-dessus.\n\nInfo équipe domicile: https://www.abssa.org/team/047/IDE
  AL-RANGERS-R\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-
- GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/U04\n
+ GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/U04
 GEO:50.7833427;4.3345203
 LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
  ique
 ORGANIZER:MAILTO:alain.si@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J21: ITT - GECKO FC (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f62c8ba5-2d6d-4fbe-ab1a-73c394fc0ea0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
+ lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
+ ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
+ gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
+  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
+ ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/229/COIN
+ -DU-BALAI-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20230225T140000Z
+DTEND:20230225T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b2d5dd22-0c41-489c-8541-ca2af4d0a7fa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : Boulevard de la 
+ Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
+  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
+ Info équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo équip
+ e exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: h
+ ttps://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:martin.laruelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: ETTEKIJS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20230304T140000Z
+DTEND:20230304T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:deb22c3c-5f46-499a-90a7-cc877d36c932
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir rayé de blanc\nCouleur principale équipe exterieure: Noir\n\nCo
+ ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
+ ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
+  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETT
+ EKIJS\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-F
+ C\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J24: ITT - GECKO FC (Eq. 4) vs TOURINNOIS FC (Eq. 4)
+DTSTART:20230311T140000Z
+DTEND:20230311T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dea0334f-15fb-4328-b511-ca78dfec0347
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
+ équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussé
+ e de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche l
+ a \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar
+  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pr
+ endre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, 
+ et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team
+ /292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J25: ITT - GECKO FC (Eq. 4) vs NIVELLES CS (Eq. 2)
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:afb51c18-05f7-4171-8390-a68cc60abb2a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
+ quipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée 
+ de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la 
+ \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l
+ 'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pren
+ dre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et
+  suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/3
+ 06/NIVELLES-CS\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J26: BRUSSELS LTC (Eq. 5) vs ITT - GECKO FC (Eq. 4)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f2944968-f44d-403d-9ed6-a029ac3e9e14
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
+ pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
+ ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
+ ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
+ refour de La Hulpe\, tout droit direction Genval. Au feu de signalisation 
+ prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, derr
+ ière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/
+ terrain/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
 END:VEVENT
 END:VCALENDAR

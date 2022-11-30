@@ -5,32 +5,156 @@ X-WR-CALDESC:Les matches du club AZUR RCS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: AZUR RCS (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: COBRA TEAM vs AZUR RCS
-DTSTART:20221203T123000Z
-DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:079d57ea-5b98-4b71-ae8c-773264950083
+SUMMARY:ABSSA D2A J1: AZUR RCS vs ENGHIEN AMICAL
+DTSTART:20220903T150000Z
+DTEND:20220903T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:5c92ed69-d14d-4c36-a670-247546b17001
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\n
- Contact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : E
- n venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début d
- e l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 20
- 0 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunn
- el à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. L
- e stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team
- /541/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/109/A
- ZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ le: Bleu ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
+ uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
+  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
+ sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
+ ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
+ .org/team/031/ENGHIEN-AMICAL\nInfo terrain: https://www.abssa.org/terrain/
+ W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J2: AZUR RCS vs COBRA TEAM
+DTSTART:20220910T150000Z
+DTEND:20220910T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:aeef5a3b-d2a6-4f25-bba0-84bca1cbe429
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Noir et bordeaux\n\n
+ Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
+ e : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souver
+ ain prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu
+  de signalisation suivant prendre la 2ème rue à main droite (Av. J. Duja
+ rdin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile
+ : https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https:
+ //www.abssa.org/team/541/COBRA-TEAM\nInfo terrain: https://www.abssa.org/t
+ errain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: NEW ARQUOIS FC vs AZUR RCS
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:bde3bf25-8062-4f0c-ab50-e0108ce6a6a5
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19
+  (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière.
+  A la station d'essence Total\, prendre à droite pendant +/- 700 mètres.
+ \nAu rond point\, prendre à droite en direction du château de La Rocq\, 
+ passez sous le pont\, le terrain se trouve à 100 mètres (à proximité d
+ u cimetière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NE
+ W-ARQUOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR
+ -RCS\nInfo terrain: https://www.abssa.org/terrain/A12
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J4: AZUR RCS vs SCHEUT FC
+DTSTART:20220924T150000Z
+DTEND:20220924T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:77539b17-1415-4baf-be9b-122cbb77421b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Gris et Noir\n\nCont
+ act équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : 
+ Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain 
+ prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de 
+ signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin
+ ). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: ht
+ tps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://ww
+ w.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrai
+ n/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: BESACE RFC vs AZUR RCS
+DTSTART:20221001T133000Z
+DTEND:20221001T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:ab4b2f9e-bfdc-4728-bc0f-e206ceca7a0f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxel
+ les\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sor
+ tie\, en venant de Charleroi prendre à droite. Au feu rouge continuer sur
+  +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à
+  essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESA
+ CE-RFC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\n
+ Info terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: AZUR RCS vs LORRAINE (LA) RFC
+DTSTART:20221008T150000Z
+DTEND:20221008T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:60c9bcd8-d439-4466-a557-e22e5ce253fb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/044/LORRAINE-LA-RFC\nInfo terrain: https://www.abssa.org/terrain/
+ W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J7: IRLANDE FC (Eq. 2) vs AZUR RCS
+DTSTART:20221015T123000Z
+DTEND:20221015T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:9e9403c4-d706-475b-a898-5f2b775c838c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée d
+ e Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \
+ nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'
+ autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prend
+ re à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et 
+ suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/
+ AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J8: CURTIS L'AUSELE vs AZUR RCS
 DTSTART:20221022T140000Z
 DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:c50f525f-7427-4d72-8b0a-0b2ebc56fb66
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:d8b46716-dce3-458f-94a6-1ed265fa0d36
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu ciel\n\nConta
  ct équipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : En v
@@ -41,163 +165,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te la 3ème rue à gauche et le terrain se trouve directement sur la droit
  e.\n\nInfo équipe domicile: https://www.abssa.org/team/599/CURTIS-LAUSELE
  \nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo t
- errain: https://www.abssa.org/terrain/I03\n
+ errain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER:MAILTO:thomas.lambricht@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: SCHEUT FC vs AZUR RCS
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:14cab6ef-1fe6-4ccb-a5c5-e5887a00a0c6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCont
- act équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venan
- t de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pre
- ndre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Joss
- e Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux
-  (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 
- m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274
- /SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-R
- CS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: IRLANDE FC (Eq. 2) vs AZUR RCS
-DTSTART:20221015T123000Z
-DTEND:20221015T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:7ac31f23-7d78-4c47-aedf-55f0dee70010
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée d
- e Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \
- nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'
- autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prend
- re à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et 
- suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/
- AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: NEW ARQUOIS FC vs AZUR RCS
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:37b78247-9af8-4f7d-8ab9-3e50e8ee74a3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19
-  (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière.
-  A la station d'essence Total\, prendre à droite pendant +/- 700 mètres.
- \nAu rond point\, prendre à droite en direction du château de La Rocq\, 
- passez sous le pont\, le terrain se trouve à 100 mètres (à proximité d
- u cimetière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NE
- W-ARQUOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR
- -RCS\nInfo terrain: https://www.abssa.org/terrain/A12\n
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: BRITISH UNITED vs AZUR RCS
-DTSTART:20230211T130000Z
-DTEND:20230211T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:531a5b7f-d228-4141-9c5c-8b5633eb3bd8
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autorout
- e Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le
-  centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et pass
- er le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker
- ". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10
-  min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abss
- a.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.
- org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: AZUR RCS vs UNION JP
-DTSTART:20221119T150000Z
-DTEND:20221119T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:8a3ac301-d810-41b6-9802-6b583736f167
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu et jaune\n\nCon
- tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
-  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
-  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
-  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
- n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/504/UNION-JP\nInfo terrain: https://www.abssa.org/terrai
- n/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: AZUR RCS vs SCHEUT FC
-DTSTART:20220924T150000Z
-DTEND:20220924T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:96a79d2a-eb29-4957-956e-d8c925ab92a7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Gris et Noir\n\nCont
- act équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : 
- Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain 
- prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de 
- signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin
- ). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://ww
- w.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrai
- n/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J19: AZUR RCS vs IRLANDE FC (Eq. 2)
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:bcd83eb4-cb64-441e-8079-2fdf893a12f7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D2A J9: AZUR RCS vs BRITISH UNITED
 DTSTART:20221105T150000Z
 DTEND:20221105T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:0d2b1a37-8428-4edc-99e8-6a5dbd795658
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:b1c75de2-67c1-4b1f-84e7-f17e08c22d11
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -207,224 +185,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
  org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
+ 12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: AZUR RCS vs ENGHIEN AMICAL
-DTSTART:20220903T150000Z
-DTEND:20220903T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:abf4a86b-c724-4485-a224-42ba66c42997
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
- de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
-  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
- sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
- ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
- ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
- .org/team/031/ENGHIEN-AMICAL\nInfo terrain: https://www.abssa.org/terrain/
- W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: AZUR RCS vs COBRA TEAM
-DTSTART:20220910T150000Z
-DTEND:20220910T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:b428b171-970f-4567-a274-9b7e3ac04bc1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Noir et bordeaux\n\n
- Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
- e : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souver
- ain prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu
-  de signalisation suivant prendre la 2ème rue à main droite (Av. J. Duja
- rdin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile
- : https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https:
- //www.abssa.org/team/541/COBRA-TEAM\nInfo terrain: https://www.abssa.org/t
- errain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: AZUR RCS vs BESACE RFC
-DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:67d76bbe-3245-4677-9076-ddc68c7134a0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/024/BESACE-RFC\nInfo terrain: https://www.abssa.org/terrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: AZUR RCS vs CURTIS L'AUSELE
-DTSTART:20230204T150000Z
-DTEND:20230204T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:3113972a-f2d0-40d4-bafa-54b00f8a1f9b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu marine\n\nConta
- ct équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : A
- venue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain p
- rendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de s
- ignalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin)
- . Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www
- .abssa.org/team/599/CURTIS-LAUSELE\nInfo terrain: https://www.abssa.org/te
- rrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: AZUR RCS vs ETINCELLE FC
-DTSTART:20230304T150000Z
-DTEND:20230304T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:5e824d31-fbf1-4975-b4dd-04eeefb5cf07
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et bleu\n\nCon
- tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
-  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
-  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
-  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
- n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
- ww.abssa.org/team/035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/te
- rrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: AZUR RCS vs TOURINNOIS FC
-DTSTART:20230325T150000Z
-DTEND:20230325T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:866c1ae1-c237-4419-bd3a-46915f783679
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rouge\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
- de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
-  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
- sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
- ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
- ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
- .org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: AZUR RCS vs BRAINE STORMING
-DTSTART:20230225T150000Z
-DTEND:20230225T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:68182cf3-cd48-496f-bd32-d8e27d08403c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/630/BRAINE-STORMING\nInfo terrain: https://www.abssa.org/terrain/
- W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: AZUR RCS vs NEW ARQUOIS FC
-DTSTART:20221210T150000Z
-DTEND:20221210T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:3c0e842f-8284-4464-81f2-c18db1d4aabf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/263/NEW-ARQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: AZUR RCS vs LORRAINE (LA) RFC
-DTSTART:20221008T150000Z
-DTEND:20221008T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:d6cc9bc4-feab-4447-bc87-2b18aedee105
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/044/LORRAINE-LA-RFC\nInfo terrain: https://www.abssa.org/terrain/
- W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: LORRAINE (LA) RFC vs AZUR RCS
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:f0d6f023-9e5d-4323-ae52-1761162d220c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E41
- 1\, prendre la sortie Rosières. Passer devant l'église\, longer l'autoro
- ute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nI
- nfo équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo
-  équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain
- : https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J10: ETINCELLE FC vs AZUR RCS
 DTSTART:20221112T140000Z
 DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:20fa8258-882c-414f-a9eb-68806e0ddad5
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:fd3b5516-6766-4028-9c73-eeb49d213b6f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
  tact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\,
@@ -434,79 +206,100 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domici
  le: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: 
  https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.o
- rg/terrain/A03\n
+ rg/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
 ORGANIZER:MAILTO:nicolas.kremer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: UNION JP vs AZUR RCS
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:8057aa42-5641-4488-a29e-acf037287e3b
+SUMMARY:ABSSA D2A J11: AZUR RCS vs UNION JP
+DTSTART:20221119T150000Z
+DTEND:20221119T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:60e36f95-e8bd-4c9e-9de6-ab19c006fcc2
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : R
- ing\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prend
- re à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalk
- en\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\,
-  après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe do
- micile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: 
- https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.o
- rg/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu et jaune\n\nCon
+ tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
+  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
+  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
+  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
+ n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/504/UNION-JP\nInfo terrain: https://www.abssa.org/terrai
+ n/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: BESACE RFC vs AZUR RCS
-DTSTART:20221001T133000Z
-DTEND:20221001T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:6257233a-7a91-446c-b303-45a9f3392b6e
+SUMMARY:ABSSA D2A J12: BRAINE STORMING vs AZUR RCS
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:170e7ff2-65c0-4188-94c6-14aebb5f3c03
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxel
- les\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sor
- tie\, en venant de Charleroi prendre à droite. Au feu rouge continuer sur
-  +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à
-  essence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESA
- CE-RFC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\n
- Info terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+ ipe domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Br
+ uxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droit
+ e sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\
+ , sortie Loupoigne\, traverser le carrefour\, tout droit direction route d
+ u sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAINE-S
+ TORMING\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\
+ nInfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: ENGHIEN AMICAL vs AZUR RCS
-DTSTART:20230318T150000Z
-DTEND:20230318T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:7372db06-12c8-4f7a-9512-ec501b558467
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Pren
- dre la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sortie Pet
- it-Enghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghien. Au b
- out de la route prendre à gauche\, direction Enghien. Arrivé à Enghien\
- , prendre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux Cè
- dre".\n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-AMI
- CAL\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInf
- o terrain: https://www.abssa.org/terrain/E02\n
-GEO:50.6970878;4.0470023
-LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
- ique
-ORGANIZER:MAILTO:e.vdps.ev@gmail.com
+SUMMARY:ABSSA D2A J13: COBRA TEAM vs AZUR RCS
+DTSTART:20221203T123000Z
+DTEND:20221203T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:92a7e01b-4b36-42fe-8fdb-4e5cb4311b8d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\n
+ Contact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : E
+ n venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début d
+ e l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 20
+ 0 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunn
+ el à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. L
+ e stade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /541/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/109/A
+ ZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:maximelechien@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: AZUR RCS vs NEW ARQUOIS FC
+DTSTART:20221210T150000Z
+DTEND:20221210T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:a5317e88-60c7-451b-b81c-cd299ae5651c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/263/NEW-ARQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
+ 12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J15: TOURINNOIS FC vs AZUR RCS
 DTSTART:20221217T133000Z
 DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:d06d192b-f010-4603-a92b-b1b02884d95f
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:dd49677c-d4ba-4d9e-8357-3ae946ac2d92
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
  uipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'
@@ -516,28 +309,235 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équi
  pe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe ex
  terieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://w
- ww.abssa.org/terrain/T02\n
+ ww.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: BRAINE STORMING vs AZUR RCS
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014720Z
-UID:77ac04a5-58ca-46c8-8936-0175886ac0a4
+SUMMARY:ABSSA D2A J16: SCHEUT FC vs AZUR RCS
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:86e432ed-4316-4a2e-963b-eb2f183dac53
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCont
+ act équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venan
+ t de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pre
+ ndre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Joss
+ e Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux
+  (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500 
+ m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274
+ /SCHEUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-R
+ CS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J17: AZUR RCS vs BESACE RFC
+DTSTART:20230114T150000Z
+DTEND:20230114T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:515e5fb4-1942-41d6-aac0-1c112d37ed22
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/024/BESACE-RFC\nInfo terrain: https://www.abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: LORRAINE (LA) RFC vs AZUR RCS
+DTSTART:20230121T123000Z
+DTEND:20230121T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:c6f01a18-9c7e-477b-8506-f47fa5f10628
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Br
- uxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droit
- e sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\
- , sortie Loupoigne\, traverser le carrefour\, tout droit direction route d
- u sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAINE-S
- TORMING\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\
- nInfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:manu.goethals@gmail.com
+ ipe domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E41
+ 1\, prendre la sortie Rosières. Passer devant l'église\, longer l'autoro
+ ute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo
+  équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain
+ : https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J19: AZUR RCS vs IRLANDE FC (Eq. 2)
+DTSTART:20230128T150000Z
+DTEND:20230128T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:6b8b3d2c-b30c-4e00-8b52-e7eb704e1226
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J20: AZUR RCS vs CURTIS L'AUSELE
+DTSTART:20230204T150000Z
+DTEND:20230204T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:904d6da6-896f-4034-83e4-73a2844e4598
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu marine\n\nConta
+ ct équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : A
+ venue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain p
+ rendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de s
+ ignalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin)
+ . Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www
+ .abssa.org/team/599/CURTIS-LAUSELE\nInfo terrain: https://www.abssa.org/te
+ rrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J21: BRITISH UNITED vs AZUR RCS
+DTSTART:20230211T130000Z
+DTEND:20230211T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:1a272fbf-5be6-41c0-b561-c479f2892c0e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
+ ipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autorout
+ e Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le
+  centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et pass
+ er le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker
+ ". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10
+  min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.
+ org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J22: AZUR RCS vs BRAINE STORMING
+DTSTART:20230225T150000Z
+DTEND:20230225T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:7ebfd35c-c05a-4cd4-bf39-133955a791ac
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/630/BRAINE-STORMING\nInfo terrain: https://www.abssa.org/terrain/
+ W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J23: AZUR RCS vs ETINCELLE FC
+DTSTART:20230304T150000Z
+DTEND:20230304T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:3dcb3bb3-11fe-4a2a-b59a-f6d008842a8f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et bleu\n\nCon
+ tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
+  Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
+  prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
+  signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
+ n). Ensuite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/te
+ rrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J24: UNION JP vs AZUR RCS
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:6b56c66f-b227-462f-8665-499794772958
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
+ tact équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : R
+ ing\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prend
+ re à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalk
+ en\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\,
+  après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: 
+ https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.o
+ rg/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J25: ENGHIEN AMICAL vs AZUR RCS
+DTSTART:20230318T150000Z
+DTEND:20230318T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:ed6d00d7-db32-4a97-aff5-bbec799729fd
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
+ uipe domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Pren
+ dre la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sortie Pet
+ it-Enghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghien. Au b
+ out de la route prendre à gauche\, direction Enghien. Arrivé à Enghien\
+ , prendre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux Cè
+ dre".\n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-AMI
+ CAL\nInfo équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInf
+ o terrain: https://www.abssa.org/terrain/E02
+GEO:50.6970878;4.0470023
+LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
+ ique
+ORGANIZER:MAILTO:e.vdps.ev@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J26: AZUR RCS vs TOURINNOIS FC
+DTSTART:20230325T150000Z
+DTEND:20230325T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021805Z
+UID:28af4da9-463d-4664-9b8b-16e6ff4951fb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rouge\n\nContact éq
+ uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
+  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
+ sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
+ ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
+ .org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
+ 12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 END:VCALENDAR

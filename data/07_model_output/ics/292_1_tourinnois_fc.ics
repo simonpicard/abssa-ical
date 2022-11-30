@@ -5,32 +5,375 @@ X-WR-CALDESC:Les matches du club TOURINNOIS FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: TOURINNOIS FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: COBRA TEAM vs TOURINNOIS FC
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:2f643335-3ab8-410a-890a-68e0992e6dec
+SUMMARY:ABSSA D2A J1: BESACE RFC vs TOURINNOIS FC
+DTSTART:20220903T133000Z
+DTEND:20220903T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:39e735a5-9893-4daa-aaed-3165d765aefc
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bordeaux\nCouleur principale équipe exterieure: Rouge\n\nCont
- act équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ve
- nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
- autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
-  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
- à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
- tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/54
- 1/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/292/TOUR
- INNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxelles\
+ , sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\
+ , en venant de Charleroi prendre à droite. Au feu rouge continuer sur +/-
+  1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à ess
+ ence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESACE-R
+ FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\
+ nInfo terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J2: BRITISH UNITED vs TOURINNOIS FC
+DTSTART:20220910T130000Z
+DTEND:20220910T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6ac81e27-a6ad-45d8-9cdc-c277fb64fa06
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
+ uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
+ tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
+ e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
+ arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
+ . à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/
+ team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: TOURINNOIS FC vs ETINCELLE FC
+DTSTART:20220917T133000Z
+DTEND:20220917T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4ee2fca7-d862-4ba7-b5d3-9b153ce84d67
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact
+  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir d
+ e l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10)
+ . Au pied de la rampe d'accès\, suivre la direction Walhain vers la droit
+ e et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouv
+ eau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo terrain: 
+ https://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J4: ENGHIEN AMICAL vs TOURINNOIS FC
+DTSTART:20220924T150000Z
+DTEND:20220924T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:63ca379e-ff1f-4307-8207-b29b33401105
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
+  domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Prendre 
+ la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sortie Petit-E
+ nghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghien. Au bout 
+ de la route prendre à gauche\, direction Enghien. Arrivé à Enghien\, pr
+ endre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux Cèdre"
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-AMICAL\
+ nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nIn
+ fo terrain: https://www.abssa.org/terrain/E02
+GEO:50.6970878;4.0470023
+LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
+ ique
+ORGANIZER:MAILTO:e.vdps.ev@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: TOURINNOIS FC vs BRAINE STORMING
+DTSTART:20221001T133000Z
+DTEND:20221001T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:fbc8a675-3240-44a8-aeb3-55f0979ceb66
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
+  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
+ ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
+ roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/630/BRAINE-STORMING\nInfo terrain: https:
+ //www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: UNION JP vs TOURINNOIS FC
+DTSTART:20221008T153000Z
+DTEND:20221008T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:374756bb-c6cc-40c5-aa37-1744b8cac9c4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : Ring\
+ , sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre 
+ à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\
+ , Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, ap
+ rès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa
+ .org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J7: TOURINNOIS FC vs CURTIS L'AUSELE
+DTSTART:20221015T133000Z
+DTEND:20221015T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:51722522-206b-4270-8935-82e053a739e0
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
+ équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
+  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
+  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
+  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
+ au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/599/CURTIS-LAUSELE\nInfo terrain: 
+ https://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J8: TOURINNOIS FC vs COBRA TEAM
+DTSTART:20221022T133000Z
+DTEND:20221022T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ab29dcf-7152-4bbc-bce9-7c887114669c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Noir et bordeaux\n\nCont
+ act équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A parti
+ r de l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 
+ 10). Au pied de la rampe d'accès\, suivre la direction Walhain vers la dr
+ oite et après 200 m. prendre à droite et 400 m. plus loin\, prendre à n
+ ouveau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/541/COBRA-TEAM\nInfo terrain: 
+ https://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J9: NEW ARQUOIS FC vs TOURINNOIS FC
+DTSTART:20221105T140000Z
+DTEND:20221105T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:86264139-43e3-4d14-b1f5-b09c90f64970
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Br
+ uxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A l
+ a station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu
+  rond point\, prendre à droite en direction du château de La Rocq\, pass
+ ez sous le pont\, le terrain se trouve à 100 mètres (à proximité du ci
+ metière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-AR
+ QUOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNO
+ IS-FC\nInfo terrain: https://www.abssa.org/terrain/A12
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J10: TOURINNOIS FC vs SCHEUT FC
+DTSTART:20221112T133000Z
+DTEND:20221112T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3756dfd1-4b5e-47f0-a260-b081f7f8b062
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
+  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
+  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
+  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
+ au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https
+ ://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J11: IRLANDE FC (Eq. 2) vs TOURINNOIS FC
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ea67c993-7712-4128-ba35-660514d0afaa
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOU
+ RINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J12: TOURINNOIS FC vs LORRAINE (LA) RFC
+DTSTART:20221126T133000Z
+DTEND:20221126T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:91b450b3-269a-4c03-9104-4df5e54dddc6
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
+  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
+ ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
+ roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo terrain: https:
+ //www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J13: TOURINNOIS FC vs BRITISH UNITED
+DTSTART:20221203T133000Z
+DTEND:20221203T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7f547bcb-37bb-44bd-a2a6-ce5d65811783
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
+  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
+ ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
+ roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https:/
+ /www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: ETINCELLE FC vs TOURINNOIS FC
+DTSTART:20221210T140000Z
+DTEND:20221210T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e2ddcc01-b9d7-4b84-8b9a-36be70c6dc07
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sor
+ tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
+ ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
+  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
+ 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https
+ ://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.o
+ rg/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: TOURINNOIS FC vs AZUR RCS
+DTSTART:20221217T133000Z
+DTEND:20221217T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:241a0214-f9e7-4a67-a314-b5a48230768a
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
+ uipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'
+ autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au
+  pied de la rampe d'accès\, suivre la direction Walhain vers la droite et
+  après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau 
+ à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe ex
+ terieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://w
+ ww.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J16: TOURINNOIS FC vs ENGHIEN AMICAL
+DTSTART:20230107T133000Z
+DTEND:20230107T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9f2b92e3-d3ff-4e81-acda-ba402f766cba
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
+  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
+ route Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pie
+ d de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
+ ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
+ roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/031/ENGHIEN-AMICAL\nInfo terrain: https:/
+ /www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J17: BRAINE STORMING vs TOURINNOIS FC
+DTSTART:20230114T153000Z
+DTEND:20230114T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0a325865-d161-4b0e-b528-7cfe3bf67241
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxel
+ les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
+ r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
+ rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
+ cre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAINE-STORM
+ ING\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC
+ \nInfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: TOURINNOIS FC vs UNION JP
+DTSTART:20230121T133000Z
+DTEND:20230121T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e82fe380-a322-4e52-a61b-9ab4e49516a3
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact
+  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir d
+ e l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10)
+ . Au pied de la rampe d'accès\, suivre la direction Walhain vers la droit
+ e et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouv
+ eau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équi
+ pe exterieure: https://www.abssa.org/team/504/UNION-JP\nInfo terrain: http
+ s://www.abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J19: CURTIS L'AUSELE vs TOURINNOIS FC
 DTSTART:20230128T140000Z
 DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:d92359cf-dca0-4376-a6b2-59e01ca902d4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ca4eb543-3811-44da-953b-4ac99f33490a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Rouge\n\nContact 
  équipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : En vena
@@ -41,442 +384,38 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  la 3ème rue à gauche et le terrain se trouve directement sur la droite.\
  n\nInfo équipe domicile: https://www.abssa.org/team/599/CURTIS-LAUSELE\nI
  nfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo
-  terrain: https://www.abssa.org/terrain/I03\n
+  terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER:MAILTO:thomas.lambricht@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: SCHEUT FC vs TOURINNOIS FC
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:bd89bfb6-9c28-4a84-b187-0b9c74b1060d
+SUMMARY:ABSSA D2A J20: COBRA TEAM vs TOURINNOIS FC
+DTSTART:20230204T123000Z
+DTEND:20230204T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:14244b8b-587c-454c-9833-157bdc2a2369
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS
- -FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: IRLANDE FC (Eq. 2) vs TOURINNOIS FC
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a6e09385-93d2-48a1-a37f-25d4f8bdab69
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOU
- RINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: NEW ARQUOIS FC vs TOURINNOIS FC
-DTSTART:20221105T140000Z
-DTEND:20221105T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:e096dc3b-0198-492b-a925-c4b1e3118d46
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Br
- uxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A l
- a station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu
-  rond point\, prendre à droite en direction du château de La Rocq\, pass
- ez sous le pont\, le terrain se trouve à 100 mètres (à proximité du ci
- metière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-AR
- QUOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNO
- IS-FC\nInfo terrain: https://www.abssa.org/terrain/A12\n
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: BRITISH UNITED vs TOURINNOIS FC
-DTSTART:20220910T130000Z
-DTEND:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:7e9d3405-612c-4958-b79f-72af6d44c6ee
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
- uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
- tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
- e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
- arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
- . à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/
- team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: AZUR RCS vs TOURINNOIS FC
-DTSTART:20230325T150000Z
-DTEND:20230325T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:b1e050c1-cb9a-4c2f-91e9-2f754951074e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Rouge\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
- de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
-  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
- sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
- ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
- ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
- .org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: LORRAINE (LA) RFC vs TOURINNOIS FC
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:6be3066d-514d-4884-9ee4-de82cfd2cf7a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, 
- prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
- et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
- uipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrai
- n: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: ETINCELLE FC vs TOURINNOIS FC
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a2c70b98-b653-4885-9fcb-7653674416f6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https
- ://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.o
- rg/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: UNION JP vs TOURINNOIS FC
-DTSTART:20221008T153000Z
-DTEND:20221008T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:2074cfe7-f70e-47ea-9220-ad8f152cd639
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : Ring\
- , sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre 
- à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\
- , Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, ap
- rès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa
- .org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: BESACE RFC vs TOURINNOIS FC
-DTSTART:20220903T133000Z
-DTEND:20220903T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:164bd4ee-be90-49e0-adde-fb431102af73
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxelles\
- , sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\
- , en venant de Charleroi prendre à droite. Au feu rouge continuer sur +/-
-  1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à ess
- ence Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESACE-R
- FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\
- nInfo terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: ENGHIEN AMICAL vs TOURINNOIS FC
-DTSTART:20220924T150000Z
-DTEND:20220924T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:b17703de-f78c-4d0e-8352-df52396670da
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Prendre 
- la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sortie Petit-E
- nghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghien. Au bout 
- de la route prendre à gauche\, direction Enghien. Arrivé à Enghien\, pr
- endre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux Cèdre"
- .\n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-AMICAL\
- nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nIn
- fo terrain: https://www.abssa.org/terrain/E02\n
-GEO:50.6970878;4.0470023
-LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
- ique
-ORGANIZER:MAILTO:e.vdps.ev@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: TOURINNOIS FC vs UNION JP
-DTSTART:20230121T133000Z
-DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:2937cf05-f7cc-4eda-b4dc-b3ddf576e866
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact
-  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir d
- e l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10)
- . Au pied de la rampe d'accès\, suivre la direction Walhain vers la droit
- e et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouv
- eau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/504/UNION-JP\nInfo terrain: http
- s://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J10: TOURINNOIS FC vs SCHEUT FC
-DTSTART:20221112T133000Z
-DTEND:20221112T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:0fd75598-09ae-4742-a792-fd077d163448
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
-  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
-  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
-  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
- au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/274/SCHEUT-FC\nInfo terrain: https
- ://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: TOURINNOIS FC vs IRLANDE FC (Eq. 2)
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:d88715f1-86b1-4759-b788-fdf1f654dbdd
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www
- .abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: TOURINNOIS FC vs BRITISH UNITED
-DTSTART:20221203T133000Z
-DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:99fe00b2-dd10-475f-bb67-6f0ca31a6f3b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https:/
- /www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: TOURINNOIS FC vs ENGHIEN AMICAL
-DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:aa8ed5f7-0fcd-4927-a279-fddb59066f22
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
- route Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pie
- d de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/031/ENGHIEN-AMICAL\nInfo terrain: https:/
- /www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J8: TOURINNOIS FC vs COBRA TEAM
-DTSTART:20221022T133000Z
-DTEND:20221022T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:5db6f8af-0464-443d-b0f7-2ee3e6f5293f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Noir et bordeaux\n\nCont
- act équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A parti
- r de l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 
- 10). Au pied de la rampe d'accès\, suivre la direction Walhain vers la dr
- oite et après 200 m. prendre à droite et 400 m. plus loin\, prendre à n
- ouveau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInf
- o équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo éq
- uipe exterieure: https://www.abssa.org/team/541/COBRA-TEAM\nInfo terrain: 
- https://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: TOURINNOIS FC vs BESACE RFC
-DTSTART:20230318T133000Z
-DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:9a8a0fe4-3b79-4f43-92ec-49547fa547cb
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/024/BESACE-RFC\nInfo terrain: https://www
- .abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: TOURINNOIS FC vs CURTIS L'AUSELE
-DTSTART:20221015T133000Z
-DTEND:20221015T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:d60d0913-d107-4c75-8178-365d0fb6f792
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
-  l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10).
-  Au pied de la rampe d'accès\, suivre la direction Walhain vers la droite
-  et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouve
- au à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/599/CURTIS-LAUSELE\nInfo terrain: 
- https://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: TOURINNOIS FC vs AZUR RCS
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:fa9d6e18-00f7-4a71-8f7d-3b9d2fa2ad6d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'
- autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au
-  pied de la rampe d'accès\, suivre la direction Walhain vers la droite et
-  après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau 
- à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équi
- pe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe ex
- terieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://w
- ww.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: TOURINNOIS FC vs ETINCELLE FC
-DTSTART:20220917T133000Z
-DTEND:20220917T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:5e0fa9ee-5ae9-426c-a91c-05c4486fa605
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact
-  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir d
- e l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10)
- . Au pied de la rampe d'accès\, suivre la direction Walhain vers la droit
- e et après 200 m. prendre à droite et 400 m. plus loin\, prendre à nouv
- eau à droite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équi
- pe exterieure: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo terrain: 
- https://www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: TOURINNOIS FC vs BRAINE STORMING
-DTSTART:20221001T133000Z
-DTEND:20221001T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:7cb6fb53-daea-452b-8037-93eaa232c8a3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/630/BRAINE-STORMING\nInfo terrain: https:
- //www.abssa.org/terrain/T02\n
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ le: Noir et bordeaux\nCouleur principale équipe exterieure: Rouge\n\nCont
+ act équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ve
+ nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
+ autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
+  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
+ à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
+ tade est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/54
+ 1/COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/292/TOUR
+ INNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J21: TOURINNOIS FC vs NEW ARQUOIS FC
 DTSTART:20230211T133000Z
 DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:acb0e588-1cf4-435f-91b7-79322db4fc01
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:337e4ea1-bed7-44b5-a53e-69776fd18284
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
@@ -486,17 +425,76 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
  eure: https://www.abssa.org/team/263/NEW-ARQUOIS-FC\nInfo terrain: https:/
- /www.abssa.org/terrain/T02\n
+ /www.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: TOURINNOIS FC vs LORRAINE (LA) RFC
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:85e46c95-eccc-48b5-986e-4bc3b9957dc5
+SUMMARY:ABSSA D2A J22: LORRAINE (LA) RFC vs TOURINNOIS FC
+DTSTART:20230225T123000Z
+DTEND:20230225T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4cb1c8ea-2838-4f29-92ef-c21048e7daea
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, 
+ prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
+ et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrai
+ n: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J23: SCHEUT FC vs TOURINNOIS FC
+DTSTART:20230304T140000Z
+DTEND:20230304T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:dd194b39-97be-4b8b-a76d-a45e4e5bdcc8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Rouge\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS
+ -FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J24: TOURINNOIS FC vs IRLANDE FC (Eq. 2)
+DTSTART:20230311T133000Z
+DTEND:20230311T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:05eec14b-b63e-4d42-a347-767cf79094f2
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
+ domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
+  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
+ ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
+ roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www
+ .abssa.org/terrain/T02
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J25: TOURINNOIS FC vs BESACE RFC
+DTSTART:20230318T133000Z
+DTEND:20230318T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:be7d461a-14e4-4420-9fb2-7f271724ce87
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
@@ -505,29 +503,31 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
  roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo terrain: https:
- //www.abssa.org/terrain/T02\n
+ eure: https://www.abssa.org/team/024/BESACE-RFC\nInfo terrain: https://www
+ .abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: BRAINE STORMING vs TOURINNOIS FC
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:f3540835-f1a3-40c9-8ba9-8570a87b2ba5
+SUMMARY:ABSSA D2A J26: AZUR RCS vs TOURINNOIS FC
+DTSTART:20230325T150000Z
+DTEND:20230325T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:66e61b3e-d39b-4cf9-b111-a591b7d78216
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxel
- les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
- r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
- rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
- cre.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAINE-STORM
- ING\nInfo équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC
- \nInfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:manu.goethals@gmail.com
+ le: Bleu ciel\nCouleur principale équipe exterieure: Rouge\n\nContact éq
+ uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
+  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
+ sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
+ ite 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa
+ .org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
+ 12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 END:VCALENDAR

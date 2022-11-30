@@ -5,33 +5,71 @@ X-WR-CALDESC:Les matches du club ECUSSON FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: ECUSSON FC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J19: BRUSSELS LTC (Eq. 7) vs ECUSSON FC
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:669f7f36-b936-4e53-95d3-48a61eca24a3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Jaune et Bleu\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
- ant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont 
- de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Apr
- ès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation 
- et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de signa
- lisation prendre à gauche et ensuite directement à droite\, l'avenue Soy
- er\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domi
- cile: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure
- : https://www.abssa.org/team/404/ECUSSON-FC\nInfo terrain: https://www.abs
- sa.org/terrain/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+SUMMARY:ABSSA D6E J1: ECUSSON FC vs AEMA VETERANS
+DTSTART:20220903T153000Z
+DTEND:20220903T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3d75b5f9-c764-4781-9775-933ba8d07588
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune et bleu\n\
+ nContact équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : R
+ ing\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prend
+ re à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalk
+ en\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\,
+  après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure
+ : https://www.abssa.org/team/427/AEMA-VETERANS\nInfo terrain: https://www.
+ abssa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J2: WATERMAEL CS vs ECUSSON FC
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a863c44e-f543-4524-9eca-9211a4af2249
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
+  équipe domicile: DE GREVE M. (0495.22.83.19)\n\nAccès voiture : A parti
+ r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
+ des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/375/WATE
+ RMAEL-CS\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-
+ FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:micheldegreve08@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: ECUSSON FC vs BRUSSELS BRITISH R (Eq. 7)
+DTSTART:20220917T153000Z
+DTEND:20220917T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:8fc03854-3e67-42dd-8b9d-c92ec9e4704e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
+  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abs
+ sa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J4: PANGLOSS FC (Eq. 2) vs ECUSSON FC
 DTSTART:20220924T153000Z
 DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fc62530e-67a3-41f3-a1e1-b073f1e541dc
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ace74294-8c77-4688-b02f-40ec0c65db1a
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
  équipe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au dép
@@ -42,56 +80,38 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dro
  ite.\n\nInfo équipe domicile: https://www.abssa.org/team/123/PANGLOSS-FC\
  nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\nInfo 
- terrain: https://www.abssa.org/terrain/K02\n
+ terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J10: TIGRE (LE) FC vs ECUSSON FC
-DTSTART:20221112T123000Z
-DTEND:20221112T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:78eaca75-775c-49f9-b4a1-8984f50383c8
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContac
- t équipe domicile: GOETGHEBUER G. (0494.46.63.32)\n\nAccès voiture : Au 
- départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre 
- la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue de
- s Anciens Combattants. Juste après le carrefour avec des feux de signalis
- ation prendre à droite vers la Place de la Chapelle\, puis prendre la 4è
- me rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la
-  droite.\n\nInfo équipe domicile: https://www.abssa.org/team/237/TIGRE-LE
- -FC\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\nI
- nfo terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J2: WATERMAEL CS vs ECUSSON FC
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8712b4d2-518c-4730-9a31-f74084fd8200
+SUMMARY:ABSSA D6E J5: ECUSSON FC vs BRAINE-TERMINUS FC (Eq. 2)
+DTSTART:20221001T153000Z
+DTEND:20221001T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7156b111-2edb-4909-91c2-da8a20ccd325
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
-  équipe domicile: DE GREVE M. (0495.22.83.19)\n\nAccès voiture : A parti
- r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
- des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/375/WATE
- RMAEL-CS\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-
- FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:micheldegreve08@gmail.com
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune et rouge\n
+ \nContact équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : 
+ Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pren
+ dre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kal
+ ken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\
+ , après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieur
+ e: https://www.abssa.org/team/537/BRAINE-TERMINUS-FC\nInfo terrain: https:
+ //www.abssa.org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J6: BRITISH UNITED (Eq. 7) vs ECUSSON FC
 DTSTART:20221008T153000Z
 DTEND:20221008T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:539e63ac-11eb-452e-88cc-34738f4ac1ac
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:177bc6a7-3f92-4014-9b8b-980c394cf144
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
  équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
@@ -102,263 +122,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
  abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
  ssa.org/team/404/ECUSSON-FC\nInfo terrain: https://www.abssa.org/terrain/M
- 02\n
+ 02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J25: AEMA VETERANS vs ECUSSON FC
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:35c6e28c-fb5f-4b06-887d-5fd24f2220da
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\
- nContact équipe domicile: VAN INGELGOM J. (0475.36.44.88)\n\nAccès voitu
- re : Via la chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken)
- . Prendre à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis
-  le Bld. Théo Lambert.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/427/AEMA-VETERANS\nInfo équipe exterieure: https://www.abssa.org/team/
- 404/ECUSSON-FC\nInfo terrain: https://www.abssa.org/terrain/A08\n
-GEO:50.827564;4.2952993
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:vaningelgom_w_j@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J24: KARIA FC (Eq. 2) vs ECUSSON FC
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:80ea156a-a42a-41c9-8a5e-0270f4f4398e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
-  équipe domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de L
- aeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Aven
- ue des Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis
-  première à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équi
- pe domicile: https://www.abssa.org/team/498/KARIA-FC\nInfo équipe exterie
- ure: https://www.abssa.org/team/404/ECUSSON-FC\nInfo terrain: https://www.
- abssa.org/terrain/B08\n
-GEO:50.8998295;4.3935952
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J14: BRUSSELS BRITISH R (Eq. 7) vs ECUSSON FC
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c886be1a-9beb-48a7-9843-d35f0df80f5d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
-  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
-  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
- toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
- n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
- R\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\nInf
- o terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J20: ECUSSON FC vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:60a3b8bf-3bf9-4af3-a496-c88f0c2be53c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
- /www.abssa.org/team/401/BOUSVAL-GENAPPE\nInfo terrain: https://www.abssa.o
- rg/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J22: ECUSSON FC vs CHEVERNY SCHAERB (Eq. 2)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aebc26c2-9664-4902-8411-7fd29a2bbf21
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/128/CHEVERNY-SCHAERB\nInfo terrain: https://www.abssa
- .org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J26: ECUSSON FC vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:41dcf055-d072-490b-9a9c-84f3e072ef84
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa
- .org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J3: ECUSSON FC vs BRUSSELS BRITISH R (Eq. 7)
-DTSTART:20220917T153000Z
-DTEND:20220917T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:94dcbb71-1f1e-4f21-a04c-4d90e5fff863
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abs
- sa.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J18: ECUSSON FC vs BRITISH UNITED (Eq. 7)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:69534cf6-f5d4-4e3c-944d-73dbb29edf52
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
- /www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.or
- g/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J23: ECUSSON FC vs TIGRE (LE) FC
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e55ce6f8-4cf3-40c9-937b-af26c5334de2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Orange\n\nContac
- t équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, s
- ortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à d
- roite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bl
- d. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après
-  l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https
- ://www.abssa.org/team/237/TIGRE-LE-FC\nInfo terrain: https://www.abssa.org
- /terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J11: ECUSSON FC vs KARIA FC (Eq. 2)
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:420e8bc4-03cc-403d-8827-5afe7930e29a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/498/KARIA-FC\nInfo terrain: https://www.abssa.org/ter
- rain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J16: ECUSSON FC vs PANGLOSS FC (Eq. 2)
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:95d6bdbb-f16e-425e-876f-0dfaea212006
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
- /www.abssa.org/team/123/PANGLOSS-FC\nInfo terrain: https://www.abssa.org/t
- errain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J13: ECUSSON FC vs WATERMAEL CS
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4f7135cf-4d73-4d0b-83ac-0ef362c7163d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
- rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
- oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
- . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
- l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/375/WATERMAEL-CS\nInfo terrain: https://www.abssa.org
- /terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D6E J7: ECUSSON FC vs BRUSSELS LTC (Eq. 7)
 DTSTART:20221015T153000Z
 DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e77bf7d4-d612-4699-b70c-4fb7abd57246
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f77909a3-d3c8-4f90-bbc3-532c13b46950
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
  act équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\,
@@ -368,49 +143,68 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domici
  le: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://www.abssa
- .org/terrain/A03\n
+ .org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
 ORGANIZER:MAILTO:domisie@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J1: ECUSSON FC vs AEMA VETERANS
-DTSTART:20220903T153000Z
-DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0d80b780-755d-4d71-8930-b1d55fa00dec
+SUMMARY:ABSSA D6E J8: BOUSVAL GENAPPE (Eq. 3) vs ECUSSON FC
+DTSTART:20221022T140000Z
+DTEND:20221022T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:206156e7-8751-4db2-a4cc-4e9871905968
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune et bleu\n\
- nContact équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : R
- ing\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prend
- re à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalk
- en\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\,
-  après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe do
- micile: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/427/AEMA-VETERANS\nInfo terrain: https://www.
- abssa.org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
+ le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
+ équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant d
+ e Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à d
+ roite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 m
+ in.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction rou
+ te du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/401/BOUS
+ VAL-GENAPPE\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSS
+ ON-FC\nInfo terrain: https://www.abssa.org/terrain/L01
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: ECUSSON FC vs BRAINE-TERMINUS FC (Eq. 2)
-DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a6c2d5e3-062c-45e0-9d09-792de21e0e41
+SUMMARY:ABSSA D6E J10: TIGRE (LE) FC vs ECUSSON FC
+DTSTART:20221112T123000Z
+DTEND:20221112T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b2cd7e91-0080-44d2-82ad-d99818e4a3af
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Orange\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContac
+ t équipe domicile: GOETGHEBUER G. (0494.46.63.32)\n\nAccès voiture : Au 
+ départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre 
+ la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue de
+ s Anciens Combattants. Juste après le carrefour avec des feux de signalis
+ ation prendre à droite vers la Place de la Chapelle\, puis prendre la 4è
+ me rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la
+  droite.\n\nInfo équipe domicile: https://www.abssa.org/team/237/TIGRE-LE
+ -FC\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\nI
+ nfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J11: ECUSSON FC vs KARIA FC (Eq. 2)
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4c426e68-8fd0-4c8c-941d-2ab8d853a25c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune et rouge\n
- \nContact équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : 
- Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pren
- dre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kal
- ken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\
- , après l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieur
- e: https://www.abssa.org/team/537/BRAINE-TERMINUS-FC\nInfo terrain: https:
- //www.abssa.org/terrain/A03\n
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact
+  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/498/KARIA-FC\nInfo terrain: https://www.abssa.org/ter
+ rain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -420,8 +214,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J12: CHEVERNY SCHAERB (Eq. 2) vs ECUSSON FC
 DTSTART:20221126T153000Z
 DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0dcc15b3-7339-4622-8ed7-331a1eef5e4b
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:22e74b25-0bf5-4282-9d32-b84279e70438
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
   équipe domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place M
@@ -429,18 +223,78 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ndre à droite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m.
   à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVE
  RNY-SCHAERB\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSS
- ON-FC\nInfo terrain: https://www.abssa.org/terrain/S03\n
+ ON-FC\nInfo terrain: https://www.abssa.org/terrain/S03
 GEO:50.86563899999999;4.392299299999999
 LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
  e
 ORGANIZER:MAILTO:c.lefebvre@linklaw.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D6E J13: ECUSSON FC vs WATERMAEL CS
+DTSTART:20221203T153000Z
+DTEND:20221203T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:729d8481-5f3f-4a7c-a3af-2d77a74e006d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
+  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/375/WATERMAEL-CS\nInfo terrain: https://www.abssa.org
+ /terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J14: BRUSSELS BRITISH R (Eq. 7) vs ECUSSON FC
+DTSTART:20221210T153000Z
+DTEND:20221210T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:65c884ce-7a51-4f56-aafd-da1ecb660f38
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
+  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
+  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
+ toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
+ R\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\nInf
+ o terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J16: ECUSSON FC vs PANGLOSS FC (Eq. 2)
+DTSTART:20230107T153000Z
+DTEND:20230107T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0e9db339-6dee-415d-94e2-1e0ea8e161c4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
+ tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
+ ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
+  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
+ 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/123/PANGLOSS-FC\nInfo terrain: https://www.abssa.org/t
+ errain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D6E J17: BRAINE-TERMINUS FC (Eq. 2) vs ECUSSON FC
 DTSTART:20230114T150000Z
 DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b5bbe186-8ceb-491b-b6bf-ffdc3aace4b5
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:01fca983-9a3b-4d33-b93c-eeb8e1fc9bb0
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et rouge\nCouleur principale équipe exterieure: Jaune et Bleu\n
  \nContact équipe domicile: DERO G. (0479.81.83.27)\n\nAccès voiture : En
@@ -453,28 +307,174 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  es)\, prendre la 1ère rue à gauche\, le terrain se situe au bout de la r
  ue.\n\nInfo équipe domicile: https://www.abssa.org/team/537/BRAINE-TERMIN
  US-FC\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSSON-FC\
- nInfo terrain: https://www.abssa.org/terrain/B11\n
+ nInfo terrain: https://www.abssa.org/terrain/B11
 GEO:50.6193857;4.1352085
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J8: BOUSVAL GENAPPE (Eq. 3) vs ECUSSON FC
-DTSTART:20221022T140000Z
-DTEND:20221022T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c6234954-4e43-467b-b2fd-ea822e73b2b6
+SUMMARY:ABSSA D6E J18: ECUSSON FC vs BRITISH UNITED (Eq. 7)
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:64607ab9-cef1-42c0-a593-f1609b654190
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
- équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant d
- e Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à d
- roite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 m
- in.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction rou
- te du sucre.\n\nInfo équipe domicile: https://www.abssa.org/team/401/BOUS
- VAL-GENAPPE\nInfo équipe exterieure: https://www.abssa.org/team/404/ECUSS
- ON-FC\nInfo terrain: https://www.abssa.org/terrain/L01\n
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
+ tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
+ ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
+  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
+ 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.or
+ g/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J19: BRUSSELS LTC (Eq. 7) vs ECUSSON FC
+DTSTART:20230128T153000Z
+DTEND:20230128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:37ad5e7b-a1c3-469c-83e0-9f7c48bfd325
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Jaune et Bleu\n\nCont
+ act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ ant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont 
+ de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Apr
+ ès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation 
+ et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de signa
+ lisation prendre à gauche et ensuite directement à droite\, l'avenue Soy
+ er\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure
+ : https://www.abssa.org/team/404/ECUSSON-FC\nInfo terrain: https://www.abs
+ sa.org/terrain/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J20: ECUSSON FC vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d37627df-7d2d-4b41-bced-752648731cd5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
+ tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
+ ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
+  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
+ 'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/401/BOUSVAL-GENAPPE\nInfo terrain: https://www.abssa.o
+ rg/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J22: ECUSSON FC vs CHEVERNY SCHAERB (Eq. 2)
+DTSTART:20230225T153000Z
+DTEND:20230225T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1c28347a-3b8b-440f-bc3d-05849f04feb1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact
+  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/128/CHEVERNY-SCHAERB\nInfo terrain: https://www.abssa
+ .org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J23: ECUSSON FC vs TIGRE (LE) FC
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6a4c6b05-91a2-4e11-811e-f5d23eab9d95
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Orange\n\nContac
+ t équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, s
+ ortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à d
+ roite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bl
+ d. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après
+  l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile:
+  https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https
+ ://www.abssa.org/team/237/TIGRE-LE-FC\nInfo terrain: https://www.abssa.org
+ /terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J24: KARIA FC (Eq. 2) vs ECUSSON FC
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f3d9ff70-1da9-4f86-af9f-b323401c0ecc
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact
+  équipe domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de L
+ aeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Aven
+ ue des Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis
+  première à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/498/KARIA-FC\nInfo équipe exterie
+ ure: https://www.abssa.org/team/404/ECUSSON-FC\nInfo terrain: https://www.
+ abssa.org/terrain/B08
+GEO:50.8998295;4.3935952
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J25: AEMA VETERANS vs ECUSSON FC
+DTSTART:20230318T123000Z
+DTEND:20230318T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2c0be090-9abb-4822-8cfc-dac46ecca8c5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\
+ nContact équipe domicile: VAN INGELGOM J. (0475.36.44.88)\n\nAccès voitu
+ re : Via la chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken)
+ . Prendre à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis
+  le Bld. Théo Lambert.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/427/AEMA-VETERANS\nInfo équipe exterieure: https://www.abssa.org/team/
+ 404/ECUSSON-FC\nInfo terrain: https://www.abssa.org/terrain/A08
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:vaningelgom_w_j@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J26: ECUSSON FC vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:301ac6d9-481f-4c35-af10-bccb4e878780
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
+  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+ rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
+ oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
+ . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
+ l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/404/ECUSSON-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa
+ .org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:domisie@hotmail.be
 END:VEVENT
 END:VCALENDAR

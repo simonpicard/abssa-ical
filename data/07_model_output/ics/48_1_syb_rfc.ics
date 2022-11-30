@@ -5,176 +5,11 @@ X-WR-CALDESC:Les matches du club SYB  RFC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: SYB  RFC (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: CENTRAL PARK FC vs SYB  RFC
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:47be5a70-fc5e-4c90-8009-3c6dab80e28e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Blanc\nCouleur principale équipe exterieure: Rayé Vert et bl
- anc\n\nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voitur
- e : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de St
- ockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se t
- rouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/562/
- CENTRAL-PARK-FC\nInfo équipe exterieure: https://www.abssa.org/team/048/S
- YB-RFC\nInfo terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: CHIEFS WSL vs SYB  RFC
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:5bf6ca80-07a1-476e-9252-e5801b47cd27
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
- ontact équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Bou
- levard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel j
- usqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
- à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS
- -WSL\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nInf
- o terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: BOUKS  FC vs SYB  RFC
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:6e59410a-2935-432f-a24f-a1faa8b0054a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nCo
- ntact équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : V
- enant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pon
- t de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. A
- près le chateau de La Hulpe\, toujours tout droit. Au feu de signalisatio
- n et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de sig
- nalisation prendre à gauche et ensuite directement à droite\, l'avenue S
- oyer\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe do
- micile: https://www.abssa.org/team/579/BOUKS-FC\nInfo équipe exterieure: 
- https://www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.or
- g/terrain/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: SYB  RFC vs WATERMAEL FC
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:fd958edb-545f-44da-909c-c9afde98a7f4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En vena
- nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
- endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
- se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
- x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
-  m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/04
- 8/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/611/WATERMA
- EL-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: SYB  RFC vs BOUKS  FC
-DTSTART:20221119T153000Z
-DTEND:20221119T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:3d05693d-7946-4cf2-868a-53508a286478
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En vena
- nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
- endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
- se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
- x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
-  m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/04
- 8/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/579/BOUKS-F
- C\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: SYB  RFC vs BREU UNITED
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:63331c10-b072-449b-b3aa-3d0eda143139
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Orange et 
- Mauve\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voitur
- e : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons 
- (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bo
- ulevard Josse Leemans\, au rond-point prendre la sortie pour la rue du Cha
- nt d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe
-  à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.
- org/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/
- 603/BREU-UNITED\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: BREU UNITED vs SYB  RFC
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:4bd615fa-490d-429a-9a9d-0374161679d4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange et Mauve\nCouleur principale équipe exterieure: Rayé Vert et 
- blanc\n\nContact équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès v
- oiture : En venant de la Route de Lennik (Citroën) ou de la Chaussée de 
- Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter 
- le Boulevard Josse Leemans\, au rond-point prendre la sortie pour la rue d
- u Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se 
- situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/603/BREU-UNITED\nInfo équipe exterieure: https://www.abssa.
- org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:paschold.j@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: SYB  RFC vs CELTIC ROOSTERS
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:c7f290db-3d34-4fb1-902a-3ca3a6ce4445
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et bl
- anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
- : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
- kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
- evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
-  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/6
- 26/CELTIC-ROOSTERS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D3C J1: SYB  RFC vs CHIEFS WSL
 DTSTART:20220903T153000Z
 DTEND:20220903T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:1fdc1ebe-2888-4888-9f07-55399cdf7077
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e44e4285-8cc9-4e55-8332-74a5810ad1a1
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
  ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
@@ -184,175 +19,28 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
  0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
  48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS
- -WSL\nInfo terrain: https://www.abssa.org/terrain/A09\n
+ -WSL\nInfo terrain: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
 ORGANIZER:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: SYB  RFC vs CORNAC UNITED FC
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a15a1ac1-639e-4a67-a2f1-eb3f4fb5a12f
+SUMMARY:ABSSA D3C J2: SYB  RFC vs BREU UNITED
+DTSTART:20220910T153000Z
+DTEND:20220910T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a159d956-5bd0-4f89-bc3b-60c11269a39b
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
- ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
- rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
- sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
- ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
- 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
- 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/151/CORNAC
- -UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: SYB  RFC vs ETTEKIJS (Eq. 2)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:0871d266-0837-4adc-97e1-04deb1971c7f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Noir rayé
-  de blanc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès vo
- iture : En venant de la Route de Lennik (Citroën) ou de la Chaussée de M
- ons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter l
- e Boulevard Josse Leemans\, au rond-point prendre la sortie pour la rue du
-  Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se s
- itue à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/t
- eam/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: SYB  RFC vs CENTRAL PARK FC
-DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:2d91ceea-e186-4a0f-a5cd-86e808cf61ee
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu et Bl
- anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
- : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
- kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
- evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
-  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
- 62/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: SYB  RFC vs WELL TEAM
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:44451c03-d5a0-4308-b628-488b47aef88e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : 
- En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ike
- a)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boulev
- ard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d
- 'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à 
- +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/
- team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/544/
- WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: SYB  RFC vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:4a6c05c3-48bc-4def-8fcc-685728ca7ac6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
- ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
- rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
- sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
- ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
- 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
- 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSE
- LS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: SYB  RFC vs SAINT GEORGES RCS (Eq. 2)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:00419322-089b-4e06-8f7b-d5daefe5fb43
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
- ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
- rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
- sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
- ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
- 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
- 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/221/SAINT-
- GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: SYB  RFC vs MACAPSULES (LES)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:809fe4c0-ea7b-40fc-adef-248dc42e6f13
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert/blanc
- \n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : E
- n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
- )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
- rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
- Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +
- /- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/627/M
- ACAPSULES-LES\nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: SYB  RFC vs STER'S
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:afe793c5-4210-4f0a-8de2-9ddf1a14e5e0
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et Bl
- anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
- : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
- kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
- evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
-  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
- 98/STERS\nInfo terrain: https://www.abssa.org/terrain/A09\n
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Orange et 
+ Mauve\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voitur
+ e : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons 
+ (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bo
+ ulevard Josse Leemans\, au rond-point prendre la sortie pour la rue du Cha
+ nt d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe
+  à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 603/BREU-UNITED\nInfo terrain: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -362,82 +50,65 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J3: ETTEKIJS (Eq. 2) vs SYB  RFC
 DTSTART:20220917T123000Z
 DTEND:20220917T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:1309d560-ac84-4ec1-8743-15bc1745a20a
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:56bbb825-f164-45cc-a64e-7c591c339ee9
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Rayé Vert
   et blanc\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès v
  oiture : A partir du square des Archiducs\, prendre la rue Berensheide\, e
  nsuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/
- 048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/W05\n
+ 048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: WATERMAEL FC vs SYB  RFC
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:ef5fc095-492a-4bdd-999b-ec70c7824eae
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nCo
- ntact équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A
-  partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'a
- venue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/61
- 1/WATERMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/048/SY
- B-RFC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D3C J4: WELL TEAM vs SYB  RFC
 DTSTART:20220924T153000Z
 DTEND:20220924T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:72cc0065-e39d-4a79-a79d-aa42ef1e6f94
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f8d65c61-f3e3-4c52-9e68-65bb88f41847
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Rayé Vert et blan
  c\n\nContact équipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture 
  : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite 
  l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team
  /544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/048/SY
- B-RFC\nInfo terrain: https://www.abssa.org/terrain/W05\n
+ B-RFC\nInfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER:MAILTO:martindayez@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: CORNAC UNITED FC vs SYB  RFC
-DTSTART:20221217T143000Z
-DTEND:20221217T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:12b86022-185e-4e17-b34f-2cec98056c69
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
- ontact équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Pa
- r le Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 1
- 4) continuer tout droit\, remonter vers le Ring et prendre à droite pour 
- sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\,
-  passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'éc
- ole Van Belle et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.org
- /team/151/CORNAC-UNITED-FC\nInfo équipe exterieure: https://www.abssa.org
- /team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/A01\n
-GEO:50.8344692;4.2821012
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+SUMMARY:ABSSA D3C J5: SYB  RFC vs CENTRAL PARK FC
+DTSTART:20221001T153000Z
+DTEND:20221001T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e4fbe4b0-7835-4150-8f16-6f2daeaace04
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu et Bl
+ anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
+ : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
+ kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
+ evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
+  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
+ 62/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J6: STER'S vs SYB  RFC
 DTSTART:20221008T123000Z
 DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a7d7bf1e-2e9a-4fbd-b29d-cc002689ffe2
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4bd5d6f5-b640-4077-af98-610e38726f5c
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Rayé Vert et bl
  anc\n\nContact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès v
@@ -460,17 +131,116 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  u terrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe domici
  le: https://www.abssa.org/team/598/STERS\nInfo équipe exterieure: https:/
  /www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terra
- in/O05\n
+ in/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER:MAILTO:Thomas.reginster@live.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: SYB  RFC vs CELTIC ROOSTERS
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:00bc4d29-2be6-40db-9b92-b676f54571c6
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et bl
+ anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
+ : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
+ kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
+ evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
+  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/6
+ 26/CELTIC-ROOSTERS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: SAINT GEORGES RCS (Eq. 2) vs SYB  RFC
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:587de478-c9f1-41f2-ac50-1418a4b78246
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
+ ontact équipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Ave
+ nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGE
+ S-RCS\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nIn
+ fo terrain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: SYB  RFC vs WATERMAEL FC
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a8b9dba7-9dff-45ea-8876-2cfb78b0fc3c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
+ ntact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En vena
+ nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
+ endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
+ se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
+ x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
+  m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/04
+ 8/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/611/WATERMA
+ EL-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: BRUSSELS BRITISH R (Eq. 3) vs SYB  RFC
+DTSTART:20221112T123000Z
+DTEND:20221112T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:250b954d-d308-4279-a8df-ee9c8d12b2e1
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
+ ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
+ oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
+ r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
+ 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
+ ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\n
+ Info terrain: https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: SYB  RFC vs BOUKS  FC
+DTSTART:20221119T153000Z
+DTEND:20221119T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c5c86685-b9f5-42f1-aaf8-7ea6db84a3ee
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
+ ntact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En vena
+ nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
+ endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
+ se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
+ x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
+  m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/04
+ 8/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/579/BOUKS-F
+ C\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D3C J12: MACAPSULES (LES) vs SYB  RFC
 DTSTART:20221126T153000Z
 DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:78217e30-2ff7-4144-b80d-8991579282b0
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4b8f8cd2-8676-4e27-9ced-808ed6211d8a
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert/blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc
  \n\nContact équipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture
@@ -480,53 +250,140 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  me rond-point prendre à droite. Le terrain se trouve 150 m. plus loin à 
  gauche de la rue du Stampia.\n\nInfo équipe domicile: https://www.abssa.o
  rg/team/627/MACAPSULES-LES\nInfo équipe exterieure: https://www.abssa.org
- /team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/G04\n
+ /team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
 ORGANIZER:MAILTO:jordandaumont@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: SAINT GEORGES RCS (Eq. 2) vs SYB  RFC
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:a5f4b6bc-753f-4192-b052-4c3f29ff0dd6
+SUMMARY:ABSSA D3C J13: BREU UNITED vs SYB  RFC
+DTSTART:20221203T140000Z
+DTEND:20221203T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:54e20a30-ba7e-4ed5-83bb-24660d44595e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
- ontact équipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Ave
- nue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGE
- S-RCS\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nIn
- fo terrain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ le: Orange et Mauve\nCouleur principale équipe exterieure: Rayé Vert et 
+ blanc\n\nContact équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès v
+ oiture : En venant de la Route de Lennik (Citroën) ou de la Chaussée de 
+ Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter 
+ le Boulevard Josse Leemans\, au rond-point prendre la sortie pour la rue d
+ u Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se 
+ situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.a
+ bssa.org/team/603/BREU-UNITED\nInfo équipe exterieure: https://www.abssa.
+ org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:paschold.j@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: BRUSSELS BRITISH R (Eq. 3) vs SYB  RFC
-DTSTART:20221112T123000Z
-DTEND:20221112T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:5028a984-8831-4f46-a2df-3fb5b06d5798
+SUMMARY:ABSSA D3C J14: SYB  RFC vs ETTEKIJS (Eq. 2)
+DTSTART:20221210T153000Z
+DTEND:20221210T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:969d4ccb-1958-4233-9c57-a8c7e2d9dc16
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
- ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut
- oroute E411\, prendre la sortie Rosières. Passer devant l'église\, longe
- r l'autoroute et tourner à droite au cimetière des animaux. Terrain à 2
- 00 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BR
- ITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\n
- Info terrain: https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Noir rayé
+  de blanc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès vo
+ iture : En venant de la Route de Lennik (Citroën) ou de la Chaussée de M
+ ons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter l
+ e Boulevard Josse Leemans\, au rond-point prendre la sortie pour la rue du
+  Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se s
+ itue à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: CORNAC UNITED FC vs SYB  RFC
+DTSTART:20221217T143000Z
+DTEND:20221217T155500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:45aca0ab-98bb-43cc-a965-aad09a68bfef
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
+ ontact équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Pa
+ r le Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 1
+ 4) continuer tout droit\, remonter vers le Ring et prendre à droite pour 
+ sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\,
+  passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'éc
+ ole Van Belle et Veeweyde.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/151/CORNAC-UNITED-FC\nInfo équipe exterieure: https://www.abssa.org
+ /team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terrain/A01
+GEO:50.8344692;4.2821012
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: SYB  RFC vs WELL TEAM
+DTSTART:20230107T153000Z
+DTEND:20230107T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:04ac654b-98fa-4e89-b38b-a3f3a7508d2d
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu marin
+ e\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : 
+ En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ike
+ a)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boulev
+ ard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d
+ 'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à 
+ +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/544/
+ WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: CENTRAL PARK FC vs SYB  RFC
+DTSTART:20230114T153000Z
+DTEND:20230114T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4542487e-c0cf-424d-af7f-4a2c39a9ecb7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et Blanc\nCouleur principale équipe exterieure: Rayé Vert et bl
+ anc\n\nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voitur
+ e : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de St
+ ockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se t
+ rouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/562/
+ CENTRAL-PARK-FC\nInfo équipe exterieure: https://www.abssa.org/team/048/S
+ YB-RFC\nInfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: SYB  RFC vs STER'S
+DTSTART:20230121T153000Z
+DTEND:20230121T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f67c00bb-a157-4c1f-8d18-3d848fe27cf6
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert et Bl
+ anc\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture 
+ : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (I
+ kea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boul
+ evard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant
+  d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
+ à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/5
+ 98/STERS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J19: CELTIC ROOSTERS vs SYB  RFC
 DTSTART:20230128T153000Z
 DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014722Z
-UID:ccb0e5b9-76ae-4cdf-97f8-cf5a8d8bcee7
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e61ca3bb-da05-4ca1-8d80-c62af09f7638
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et blanc\nCouleur principale équipe exterieure: Rayé Vert et bl
  anc\n\nContact équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voitu
@@ -538,10 +395,153 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  continuer 	sur rue Joseph Joppart. Prendre à droite l'avenue du Centre Sp
  ortif.\n\nInfo équipe domicile: https://www.abssa.org/team/626/CELTIC-ROO
  STERS\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nIn
- fo terrain: https://www.abssa.org/terrain/W07\n
+ fo terrain: https://www.abssa.org/terrain/W07
 GEO:50.7216297;4.6192566
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: SYB  RFC vs SAINT GEORGES RCS (Eq. 2)
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0f0c48ac-f756-49ed-9091-3bc98c6dd41b
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
+ ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
+ rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
+ sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
+ ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
+ 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
+ 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/221/SAINT-
+ GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: WATERMAEL FC vs SYB  RFC
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2bb28999-51fd-4321-8736-de63db021ba2
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nCo
+ ntact équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A
+  partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'a
+ venue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/61
+ 1/WATERMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/048/SY
+ B-RFC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: SYB  RFC vs MACAPSULES (LES)
+DTSTART:20230225T153000Z
+DTEND:20230225T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:77741434-e219-4f3c-b17a-bf6833de38a8
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Vert/blanc
+ \n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : E
+ n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
+ )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
+ rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
+ Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +
+ /- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/048/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/627/M
+ ACAPSULES-LES\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J23: SYB  RFC vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART:20230304T153000Z
+DTEND:20230304T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d02ffbb-9276-43a6-86a4-265ab272901c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
+ ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
+ ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
+ rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
+ sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
+ ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
+ 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
+ 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSE
+ LS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: BOUKS  FC vs SYB  RFC
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ced2c4b3-37a9-4ba7-8545-4dc8771006a9
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nCo
+ ntact équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : V
+ enant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pon
+ t de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. A
+ près le chateau de La Hulpe\, toujours tout droit. Au feu de signalisatio
+ n et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de sig
+ nalisation prendre à gauche et ensuite directement à droite\, l'avenue S
+ oyer\, derrière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/579/BOUKS-FC\nInfo équipe exterieure: 
+ https://www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.or
+ g/terrain/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: CHIEFS WSL vs SYB  RFC
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9d87bc00-9c99-49bf-846b-22f9c25c0271
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nC
+ ontact équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Bou
+ levard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel j
+ usqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
+ à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS
+ -WSL\nInfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nInf
+ o terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: SYB  RFC vs CORNAC UNITED FC
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:af7b1f04-2f74-4137-bc02-bb28361a231e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Rouge\n\nC
+ ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
+ ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
+ rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
+ sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
+ ux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 50
+ 0 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/0
+ 48/SYB-RFC\nInfo équipe exterieure: https://www.abssa.org/team/151/CORNAC
+ -UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 END:VCALENDAR

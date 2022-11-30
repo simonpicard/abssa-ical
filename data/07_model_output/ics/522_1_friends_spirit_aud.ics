@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: FRIENDS SPIRIT AUD vs CHENOIS (ESPER)
 DTSTART:20220903T123000Z
 DTEND:20220903T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4e9c947f-b40e-4ecd-a815-aacde105ae36
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:55c004bb-a8e4-4d61-b1cf-d30694fe400b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc et rouge\n\nContact
   équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de
@@ -19,7 +19,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  e (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est
   fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIEND
  S-SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/412/CHEN
- OIS-ESPER\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ OIS-ESPER\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
@@ -29,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J2: FRIENDS SPIRIT AUD vs TRINQUANT
 DTSTART:20220910T123000Z
 DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:32b99f32-708d-4c90-9450-e1f01f063ed5
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:233ed56d-13a1-46b0-8054-73c780f7f8b4
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
  quipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Br
@@ -40,400 +40,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fl
  éché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-S
  PIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/445/TRINQUA
- NT\nInfo terrain: https://www.abssa.org/terrain/A11\n
+ NT\nInfo terrain: https://www.abssa.org/terrain/A11
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J4: FRIENDS SPIRIT AUD vs MOON SHOOTERS
-DTSTART:20220924T123000Z
-DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e53e5c4c-a256-446d-8521-a374ea6d0fa8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
- s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
- les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
- vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
- sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
- .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
- AUD\nInfo équipe exterieure: https://www.abssa.org/team/606/MOON-SHOOTERS
- \nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J8: FRIENDS SPIRIT AUD vs PATRONS (LES)
-DTSTART:20221022T123000Z
-DTEND:20221022T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:39974b61-de83-4fe0-aba5-4adc11d81123
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
- s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
- les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
- vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
- sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
- .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
- AUD\nInfo équipe exterieure: https://www.abssa.org/team/628/PATRONS-LES\n
- Info terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J11: FRIENDS SPIRIT AUD vs BRUSSELS LTC (Eq. 3)
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b84638b7-bb49-4c9e-9585-da8a3110e262
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxe
- lles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bru
- xelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre
-  devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en 
- dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléc
- hé.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIR
- IT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-L
- TC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J14: FRIENDS SPIRIT AUD vs VIRGINAL ASF
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ed7b699a-63a6-4dc1-8a60-393b05651bab
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
- s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
- les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
- vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
- sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
- .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
- AUD\nInfo équipe exterieure: https://www.abssa.org/team/497/VIRGINAL-ASF\
- nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J17: FRIENDS SPIRIT AUD vs GOALOIS (Eq. 2)
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8138f356-2948-44eb-8303-6532c3c6dc58
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
- s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
- les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
- vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
- sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
- .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
- AUD\nInfo équipe exterieure: https://www.abssa.org/team/345/GOALOIS\nInfo
-  terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J19: FRIENDS SPIRIT AUD vs NIVELLES CS
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e7ebcfd1-e4e9-4bb8-8b2c-854f928f927f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
- équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
- -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/306/NIVEL
- LES-CS\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J22: FRIENDS SPIRIT AUD vs OMNISPORT BIERGHES
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e27c074c-7a7d-4c54-bf50-443bc5e2c42f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
- équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
- -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/455/OMNIS
- PORT-BIERGHES\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J23: FRIENDS SPIRIT AUD vs WAPPERS FC
-DTSTART:20230304T123000Z
-DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f8e8f455-6c2b-4654-9b62-467e4b6198ac
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé noir et blanc\n\nCo
- ntact équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En vena
- nt de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'au
- toroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. e
- t descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à 
- gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stad
- e est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/F
- RIENDS-SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/067
- /WAPPERS-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J26: FRIENDS SPIRIT AUD vs NEW INN FC (Eq. 3)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a7f1fcc1-0c97-48bb-8cf6-ecc3bd72c13b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
- équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
- -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
- NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J16: MOON SHOOTERS vs FRIENDS SPIRIT AUD
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2c41bf1b-4cff-44da-9a13-1c662ece3820
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venant de Brux
- elles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Br
- uxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendr
- e devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en
-  dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est flé
- ché.\n\nInfo équipe domicile: https://www.abssa.org/team/606/MOON-SHOOTE
- RS\nInfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT
- -AUD\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:max.morelle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J5: GOALOIS (Eq. 2) vs FRIENDS SPIRIT AUD
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ec894934-b003-499b-bd7e-18574e926b81
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En venant de Bru
- xelles\, prendre l’E411 en direction de Namur et prendre la sortie 11 Pe
- rwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-p
- oint de Glimes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème
-  sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème 
- rue à gauche et le terrain se trouve directement sur la droite.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo équipe ext
- erieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo terrain: 
- https://www.abssa.org/terrain/I03\n
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: NIVELLES CS vs FRIENDS SPIRIT AUD
-DTSTART:20221015T140000Z
-DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ab0b438f-d92e-4e48-afe1-c367fc26aedc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant 
- de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelle
- s-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directio
- n de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dro
- ite en direction de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (
- en tenant compte du rond-point du Shopping Center)\, tourner à gauche \, 
- rue de l'Industrie et pénétrer dans le zoning. Au bout de la rue\, avant
-  le feu de signalisation\, tourner à gauche et prendre la rue du Progrès
-  pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/3
- 06/NIVELLES-CS\nInfo équipe exterieure: https://www.abssa.org/team/522/FR
- IENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/N03\n
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: PATRONS (LES) vs FRIENDS SPIRIT AUD
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:73bbc44d-c2ba-4696-bc89-5e2e642c7840
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Boulevard de la 
- Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
-  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
- Info équipe domicile: https://www.abssa.org/team/628/PATRONS-LES\nInfo é
- quipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo 
- terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:lespatrons.fc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J12: OMNISPORT BIERGHES vs FRIENDS SPIRIT AUD
-DTSTART:20221126T130000Z
-DTEND:20221126T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e11a4735-d972-42cd-85c4-6334e79cd4d7
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute B
- ruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) 
- pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Prend
- re la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dro
- ite\, direction Bierghes. Rouler tout droit jusqu'au premier feu rouge. To
- urner à droite en direction de Halle\, ensuite la deuxième rue à droite
-  (rue du Sartiau)\, ensuite à gauche. Le terrain se trouve à 300 m.\n\nI
- nfo équipe domicile: https://www.abssa.org/team/455/OMNISPORT-BIERGHES\nI
- nfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\
- nInfo terrain: https://www.abssa.org/terrain/B02\n
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J10: WAPPERS FC vs FRIENDS SPIRIT AUD
-DTSTART:20221112T140000Z
-DTEND:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c0c06569-fc53-4b04-8abf-453c0e6a64a5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture : Ring 
- de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. En
- suite première rue à droite (Louis Marcelisstraat) puis la troisième à
-  droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entr
- e les n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, pr
- endre l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shop
- ping de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefou
- r"\, puis au 2ème feu de signalisation prendre à droite et ensuite tout 
- droit. Au bout de la rue prendre à droite\, le terrain se trouve à 100 m
- ètres  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/067/WAPPERS-FC\nInfo équipe exterieure: https://www.abssa.org/team/522/
- FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/W19\n
-GEO:50.8424503;4.4865891
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J13: TRINQUANT vs FRIENDS SPIRIT AUD
-DTSTART:20221203T123000Z
-DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5b5d349e-e3c7-4f10-bd03-18decdd9caab
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
-  Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Gro
- enendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le
-  chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le 
- carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisati
- on prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, d
- errière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure: https:/
- /www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abss
- a.org/terrain/L09\n
-GEO:50.7309582;4.4952087
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J24: BRUSSELS LTC (Eq. 3) vs FRIENDS SPIRIT AUD
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:72ebaa43-1340-4b14-afa1-b0b0a5de29eb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A partir de 
- Bruxelles\, prendre la E 411 en direction de Namur. Prendre la sortie N° 
- 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doi
- ceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 v
- ers la N 420 Chée. de la Libération\, puis à gauche dans la rue de la G
- rande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUS
- SELS-LTC\nInfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-
- SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J15: NEW INN FC (Eq. 3) vs FRIENDS SPIRIT AUD
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0a91668e-3b78-413b-86ce-87687a31a11c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ
-  de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
- ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
- ns Combattants. Juste après le carrefour avec des feux de signalisation p
- rendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue 
- à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite
- .\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nI
- nfo terrain: https://www.abssa.org/terrain/K02\n
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J3: VIRGINAL ASF vs FRIENDS SPIRIT AUD
 DTSTART:20220917T150000Z
 DTEND:20220917T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ecd2d78f-961c-4fad-9fd4-fd439ee2c951
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:33c8efeb-1ae8-4dac-9c4a-bda7644ff061
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de B
@@ -447,17 +65,378 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   Le terrain se trouve à droite dans la descente (panneau ASF Virginal).\n
  \nInfo équipe domicile: https://www.abssa.org/team/497/VIRGINAL-ASF\nInfo
   équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nIn
- fo terrain: https://www.abssa.org/terrain/V02\n
+ fo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
 ORGANIZER:MAILTO:secretariat@asfvirginal.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D4B J4: FRIENDS SPIRIT AUD vs MOON SHOOTERS
+DTSTART:20220924T123000Z
+DTEND:20220924T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ec1a17bc-70c7-4d52-a8e7-5771b1f2ff28
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
+ AUD\nInfo équipe exterieure: https://www.abssa.org/team/606/MOON-SHOOTERS
+ \nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J5: GOALOIS (Eq. 2) vs FRIENDS SPIRIT AUD
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b187443d-bf53-465b-a6b5-c494e0fc8d27
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En venant de Bru
+ xelles\, prendre l’E411 en direction de Namur et prendre la sortie 11 Pe
+ rwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-p
+ oint de Glimes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème
+  sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème 
+ rue à gauche et le terrain se trouve directement sur la droite.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo équipe ext
+ erieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo terrain: 
+ https://www.abssa.org/terrain/I03
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER:MAILTO:martin.laruelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J7: NIVELLES CS vs FRIENDS SPIRIT AUD
+DTSTART:20221015T140000Z
+DTEND:20221015T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3918602f-27b0-43fd-b3df-a4171dc75679
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant 
+ de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelle
+ s-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directio
+ n de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dro
+ ite en direction de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (
+ en tenant compte du rond-point du Shopping Center)\, tourner à gauche \, 
+ rue de l'Industrie et pénétrer dans le zoning. Au bout de la rue\, avant
+  le feu de signalisation\, tourner à gauche et prendre la rue du Progrès
+  pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/3
+ 06/NIVELLES-CS\nInfo équipe exterieure: https://www.abssa.org/team/522/FR
+ IENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/N03
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J8: FRIENDS SPIRIT AUD vs PATRONS (LES)
+DTSTART:20221022T123000Z
+DTEND:20221022T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bfae6ac5-24cd-4893-96e4-1c82a507fcac
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
+ AUD\nInfo équipe exterieure: https://www.abssa.org/team/628/PATRONS-LES\n
+ Info terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J10: WAPPERS FC vs FRIENDS SPIRIT AUD
+DTSTART:20221112T140000Z
+DTEND:20221112T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c72567b7-1a44-44ee-aefa-82cbfd95ba56
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
+ ntact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture : Ring 
+ de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. En
+ suite première rue à droite (Louis Marcelisstraat) puis la troisième à
+  droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entr
+ e les n° 16 et 24.\nPar la ville : A partir du rond point Montgomery\, pr
+ endre l'Avenue de Broqueville\, toujours tout droit. Passez devant le Shop
+ ping de Woluwé\, toujours tout droit\, passez devant le magasin "Carrefou
+ r"\, puis au 2ème feu de signalisation prendre à droite et ensuite tout 
+ droit. Au bout de la rue prendre à droite\, le terrain se trouve à 100 m
+ ètres  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/067/WAPPERS-FC\nInfo équipe exterieure: https://www.abssa.org/team/522/
+ FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/W19
+GEO:50.8424503;4.4865891
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J11: FRIENDS SPIRIT AUD vs BRUSSELS LTC (Eq. 3)
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a18ad5f0-3dd4-4ef0-be3e-057c287923a8
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
+ pe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxe
+ lles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bru
+ xelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre
+  devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en 
+ dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléc
+ hé.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIR
+ IT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-L
+ TC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J12: OMNISPORT BIERGHES vs FRIENDS SPIRIT AUD
+DTSTART:20221126T130000Z
+DTEND:20221126T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:74e075eb-56c4-4a40-be15-e1e7572190f6
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute B
+ ruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) 
+ pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Prend
+ re la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dro
+ ite\, direction Bierghes. Rouler tout droit jusqu'au premier feu rouge. To
+ urner à droite en direction de Halle\, ensuite la deuxième rue à droite
+  (rue du Sartiau)\, ensuite à gauche. Le terrain se trouve à 300 m.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/455/OMNISPORT-BIERGHES\nI
+ nfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\
+ nInfo terrain: https://www.abssa.org/terrain/B02
+GEO:50.6957846;4.129257
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J13: TRINQUANT vs FRIENDS SPIRIT AUD
+DTSTART:20221203T123000Z
+DTEND:20221203T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2349e74e-bfdf-4034-b7b0-d330979034af
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
+ quipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
+  Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Gro
+ enendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le
+  chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le 
+ carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisati
+ on prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, d
+ errière le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abss
+ a.org/terrain/L09
+GEO:50.7309582;4.4952087
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J14: FRIENDS SPIRIT AUD vs VIRGINAL ASF
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:12ee948b-5531-4c78-83cd-46a7a780e2ce
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
+ AUD\nInfo équipe exterieure: https://www.abssa.org/team/497/VIRGINAL-ASF\
+ nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J15: NEW INN FC (Eq. 3) vs FRIENDS SPIRIT AUD
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:928a9bdd-f6d8-47bb-a57a-f9c883d27338
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ
+  de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
+ ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
+ ns Combattants. Juste après le carrefour avec des feux de signalisation p
+ rendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue 
+ à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/359/NEW-INN-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nI
+ nfo terrain: https://www.abssa.org/terrain/K02
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J16: MOON SHOOTERS vs FRIENDS SPIRIT AUD
+DTSTART:20230107T153000Z
+DTEND:20230107T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1ad96d14-ebf2-4583-967d-182f6189feaf
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venant de Brux
+ elles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Br
+ uxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendr
+ e devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en
+  dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est flé
+ ché.\n\nInfo équipe domicile: https://www.abssa.org/team/606/MOON-SHOOTE
+ RS\nInfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT
+ -AUD\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:max.morelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J17: FRIENDS SPIRIT AUD vs GOALOIS (Eq. 2)
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:cb2b7ad9-977f-4b07-9b1c-162b59ef2417
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS-SPIRIT-
+ AUD\nInfo équipe exterieure: https://www.abssa.org/team/345/GOALOIS\nInfo
+  terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J19: FRIENDS SPIRIT AUD vs NIVELLES CS
+DTSTART:20230128T123000Z
+DTEND:20230128T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b1bc8e01-57de-40ba-a6dd-2cf2c7daf35f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
+ équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
+ -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/306/NIVEL
+ LES-CS\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: PATRONS (LES) vs FRIENDS SPIRIT AUD
+DTSTART:20230204T153000Z
+DTEND:20230204T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9de1a1e0-10ff-4563-a80f-975f2aefd795
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Boulevard de la 
+ Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
+  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
+ Info équipe domicile: https://www.abssa.org/team/628/PATRONS-LES\nInfo é
+ quipe exterieure: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo 
+ terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:lespatrons.fc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J22: FRIENDS SPIRIT AUD vs OMNISPORT BIERGHES
+DTSTART:20230225T123000Z
+DTEND:20230225T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b83711d1-f4b2-4d48-bbb0-7e82de1652b9
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
+ équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
+ -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/455/OMNIS
+ PORT-BIERGHES\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J23: FRIENDS SPIRIT AUD vs WAPPERS FC
+DTSTART:20230304T123000Z
+DTEND:20230304T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:77dd8acb-cd85-4d8b-976a-4f5d0d4d1a63
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé noir et blanc\n\nCo
+ ntact équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En vena
+ nt de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'au
+ toroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. e
+ t descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à 
+ gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stad
+ e est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/F
+ RIENDS-SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/067
+ /WAPPERS-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J24: BRUSSELS LTC (Eq. 3) vs FRIENDS SPIRIT AUD
+DTSTART:20230311T133000Z
+DTEND:20230311T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:486fe8f4-f96a-414c-a2f5-4a8f8d95b332
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
+ pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A partir de 
+ Bruxelles\, prendre la E 411 en direction de Namur. Prendre la sortie N° 
+ 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doi
+ ceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 v
+ ers la N 420 Chée. de la Libération\, puis à gauche dans la rue de la G
+ rande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUS
+ SELS-LTC\nInfo équipe exterieure: https://www.abssa.org/team/522/FRIENDS-
+ SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4B J25: CHENOIS (ESPER) vs FRIENDS SPIRIT AUD
 DTSTART:20230318T133000Z
 DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:869cc0bb-4a07-4d07-a9fc-84f12a06697d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:30e62aba-f843-4359-a6c7-a139df0a7d82
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Bleu\n\nContact
   équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture : Venant
@@ -467,9 +446,30 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  signalisation prendre à droite la chaussée Bara. Le terrain se trouve à
   droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/team
  /412/CHENOIS-ESPER\nInfo équipe exterieure: https://www.abssa.org/team/52
- 2/FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/W02\n
+ 2/FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J26: FRIENDS SPIRIT AUD vs NEW INN FC (Eq. 3)
+DTSTART:20230325T123000Z
+DTEND:20230325T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4f1fe920-3ca5-4525-8c32-1c67d6ae0423
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
+ équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/522/FRIENDS
+ -SPIRIT-AUD\nInfo équipe exterieure: https://www.abssa.org/team/359/NEW-I
+ NN-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 END:VCALENDAR

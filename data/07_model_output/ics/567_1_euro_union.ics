@@ -5,92 +5,45 @@ X-WR-CALDESC:Les matches du club EURO UNION (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: EURO UNION (eq. 1)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J10: AMB. AUDERGHEM vs EURO UNION
-DTSTART:20221112T153000Z
-DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:32f86e5d-6590-4d3d-86c6-95656e90f704
+SUMMARY:ABSSA D1 J1: EURO UNION vs BRUSSELS LTC
+DTSTART:20220903T133000Z
+DTEND:20220903T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ea085990-5fb9-4bc5-ab2e-8e255cb44b05
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En venant de Bruxel
- les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
- elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
- devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
- essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
- é.\n\nInfo équipe domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM
- \nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo
-  terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+ le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
+ pe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue d
+ e la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A.
+  Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-
+ UNION\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LT
+ C\nInfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J15: CHOULE AUDERGHEM vs EURO UNION
-DTSTART:20221217T123000Z
-DTEND:20221217T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ba96c9c4-55b0-46f0-b37d-228416f3870a
+SUMMARY:ABSSA D1 J2: EURO UNION vs WONG A.S.
+DTSTART:20220910T133000Z
+DTEND:20220910T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3e3b072f-cb17-4360-b467-c92d47442bf6
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de Br
- uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
- Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
- dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
- en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fl
- éché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AU
- DERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNIO
- N\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J18: JEFKE COUNTRY vs EURO UNION
-DTSTART:20230121T130000Z
-DTEND:20230121T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c975bf19-568e-450e-9f60-a6916edfa8a3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
- ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
- u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
- auche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COUN
- TRY\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nI
- nfo terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J8: GREZ AJ vs EURO UNION
-DTSTART:20221022T153000Z
-DTEND:20221022T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a014497e-67b5-41f3-9fab-cb108764b7dc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : A partir de Bruxe
- lles\, prendre la E 411 en direction de Namur. Prendre la sortie N° 8 pui
- s à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau 
- / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers l
- a N 420 Chée. de la Libération\, puis à gauche dans la rue de la Grande
-  lecke.\n\nInfo équipe domicile: https://www.abssa.org/team/514/GREZ-AJ\n
- Info équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo t
- errain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
+ a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
+ muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
+ ON\nInfo équipe exterieure: https://www.abssa.org/team/523/WONG-AS\nInfo 
+ terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J3: CHENOIS SC vs EURO UNION
 DTSTART:20220917T150000Z
 DTEND:20220917T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:12a339db-607f-4a8d-ad90-6c4f7be34aed
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c7f1b7e4-a0aa-4153-88f4-00d567e6d483
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
   équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venan
@@ -100,35 +53,69 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   signalisation prendre à droite la chaussée Bara. Le terrain se trouve 
  à droite à +/- 500 m.\n\nInfo équipe domicile: https://www.abssa.org/te
  am/084/CHENOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/567
- /EURO-UNION\nInfo terrain: https://www.abssa.org/terrain/W02\n
+ /EURO-UNION\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER:MAILTO:sc.chenois@waterloo.eu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D1 J4: EURO UNION vs PORTUGAL FC
+DTSTART:20220924T133000Z
+DTEND:20220924T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3e221569-ef3b-4c16-962a-44bfd33d046e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
+ a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
+ muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
+ ON\nInfo équipe exterieure: https://www.abssa.org/team/403/PORTUGAL-FC\nI
+ nfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D1 J5: COIN DU BALAI FC vs EURO UNION
 DTSTART:20221001T140000Z
 DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d22512a0-d0ae-4323-9baa-ea13bc06cec3
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e9cac57c-a074-4c11-a897-8e6dde1640c3
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
  re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
  es.\n\nInfo équipe domicile: https://www.abssa.org/team/229/COIN-DU-BALAI
  -FC\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nI
- nfo terrain: https://www.abssa.org/terrain/W05\n
+ nfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER:MAILTO:rosenfeldjean@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D1 J6: EURO UNION vs JEFKE COUNTRY
+DTSTART:20221008T133000Z
+DTEND:20221008T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:42866198-eed8-400f-b435-ba42da4ca71e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir et blanc\n\nContact 
+ équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Ave
+ nue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Sta
+ de A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/
+ EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/423/JEFKE-
+ COUNTRY\nInfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D1 J7: IRLANDE FC vs EURO UNION
 DTSTART:20221015T140000Z
 DTEND:20221015T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:65d03827-a5a7-43b4-b47a-668bc56fafd4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d23b5945-9e57-4571-85b0-3f25b6b7fd22
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
@@ -138,83 +125,93 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
  e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
  /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-
- UNION\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ UNION\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J24: ITT - GECKO FC vs EURO UNION
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4287c38b-cea4-4d8c-b550-52ae06e6daf0
+SUMMARY:ABSSA D1 J8: GREZ AJ vs EURO UNION
+DTSTART:20221022T153000Z
+DTEND:20221022T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4ca97d5d-2052-44a4-a0d8-616e7aa90124
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
- ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
- lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
- ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
- gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
-  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO
- -UNION\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : A partir de Bruxe
+ lles\, prendre la E 411 en direction de Namur. Prendre la sortie N° 8 pui
+ s à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau 
+ / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers l
+ a N 420 Chée. de la Libération\, puis à gauche dans la rue de la Grande
+  lecke.\n\nInfo équipe domicile: https://www.abssa.org/team/514/GREZ-AJ\n
+ Info équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo t
+ errain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J25: BRUSSELS LTC vs EURO UNION
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d33ae1aa-d21a-48b5-a51e-e0da5b06da2e
+SUMMARY:ABSSA D1 J9: EURO UNION vs LXG CINQUANTENAIRE
+DTSTART:20221105T133000Z
+DTEND:20221105T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:32d52e68-24ef-4964-968b-7ba0198bc039
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
- uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
- aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
-  3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
- n 2km et prendre à droite la Rue des Saules toujours tout droit et 	qui d
- evient ensuite la Route des Marnières. Continuer ensuite tout droit\, pas
- ser un premier rond-point puis continuer tout droit jusqu'au rond-point du
-  Messager où il faut prendre la 2ème sortie. Vous êtes alors sur la Rou
- te de Genval et l'entrée du Complexe se trouve à environ 200m sur la gau
- che.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUSSELS-LTC
+ le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu.\n\nContact
+  équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Av
+ enue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "St
+ ade A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567
+ /EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/542/LXG-C
+ INQUANTENAIRE\nInfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J10: AMB. AUDERGHEM vs EURO UNION
+DTSTART:20221112T153000Z
+DTEND:20221112T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:0fcecd48-c400-461f-ab67-8ac76b7caf67
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En venant de Bruxel
+ les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
+ elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
+ devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
+ essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
+ é.\n\nInfo équipe domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM
  \nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo
-  terrain: https://www.abssa.org/terrain/O01\n
-GEO:50.7035641;4.469720199999999
-LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+  terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J21: LXG CINQUANTENAIRE vs EURO UNION
-DTSTART:20230211T133000Z
-DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5017a316-7d91-4965-a75d-1edca12a2f52
+SUMMARY:ABSSA D1 J11: EURO UNION vs ITT - GECKO FC
+DTSTART:20221119T133000Z
+DTEND:20221119T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7ac67096-7aa3-4ea7-b58f-c477acc54b81
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu.\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: GIMENEZ VILLAHOZ M (0487.79.91.95)\n\nAccès voiture : 
- Place Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxièm
- e carrefour prendre à gauche\, puis encore la première à gauche\nOu :  
- Place Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chaz
- al\n\nInfo équipe domicile: https://www.abssa.org/team/542/LXG-CINQUANTEN
- AIRE\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\n
- Info terrain: https://www.abssa.org/terrain/S09\n
-GEO:50.8581505;4.3949329
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER:MAILTO:lxgfc50@gmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
+  Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
+ uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
+ N\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nI
+ nfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J12: BRUSSELS BRITISH R vs EURO UNION
 DTSTART:20221126T140000Z
 DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a1080a01-fc56-403f-87e8-ffe36182cb1e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a7205ef5-2ae0-4d1e-b6aa-2b303db691ea
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
@@ -222,38 +219,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
  équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo terrai
- n: https://www.abssa.org/terrain/R02\n
+ n: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J16: PORTUGAL FC vs EURO UNION
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a6595afb-6a81-40de-b9ab-d1e615375681
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: FIGUEIRA DE CARVALHO M. (0476.40.68.33)\n\nAccès voiture : Ring
- \, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre 
- à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\
- , Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, ap
- rès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/403/PORTUGAL-FC\nInfo équipe exterieure: 
- https://www.abssa.org/team/567/EURO-UNION\nInfo terrain: https://www.abssa
- .org/terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:manuel.figueira@mne.pt
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D1 J13: WONG A.S. vs EURO UNION
 DTSTART:20221203T130000Z
 DTEND:20221203T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3326fb37-4109-4ba3-bcf1-2c281f892247
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:f5701fea-7907-4bec-8844-d4af917c8126
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : Aux quatre-Bras\
@@ -268,126 +244,119 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nLe terrain se situe sur la droite de la route!\n\nInfo équipe domicile: 
  https://www.abssa.org/team/523/WONG-AS\nInfo équipe exterieure: https://w
  ww.abssa.org/team/567/EURO-UNION\nInfo terrain: https://www.abssa.org/terr
- ain/T07\n
+ ain/T07
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER:MAILTO:vanimpe-julien@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: EURO UNION vs ITT - GECKO FC
-DTSTART:20221119T133000Z
-DTEND:20221119T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b155a746-8f51-4aab-aa1e-3903b94f43b5
+SUMMARY:ABSSA D1 J14: EURO UNION vs CHENOIS SC
+DTSTART:20221210T133000Z
+DTEND:20221210T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:16e85ff2-f944-4f61-a4b1-d39dcc2ef0f2
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
-  Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
- uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
- N\nInfo équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nI
- nfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J4: EURO UNION vs PORTUGAL FC
-DTSTART:20220924T133000Z
-DTEND:20220924T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3dfa8c74-f440-458e-9a2e-b742c8f445cd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
- a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
- muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
- ON\nInfo équipe exterieure: https://www.abssa.org/team/403/PORTUGAL-FC\nI
- nfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J19: EURO UNION vs IRLANDE FC
-DTSTART:20230128T133000Z
-DTEND:20230128T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8ab12230-d53d-406c-a80e-4210d6fd68e4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
-  Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
- uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
- N\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInf
- o terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J9: EURO UNION vs LXG CINQUANTENAIRE
-DTSTART:20221105T133000Z
-DTEND:20221105T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:20b5deba-9c27-45c1-aee1-4590ae0d10aa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu.\n\nContact
+ le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
   équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Av
  enue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "St
  ade A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567
- /EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/542/LXG-C
- INQUANTENAIRE\nInfo terrain: https://www.abssa.org/terrain/I02\n
+ /EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENO
+ IS-SC\nInfo terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER:MAILTO:euro.union567@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J1: EURO UNION vs BRUSSELS LTC
-DTSTART:20220903T133000Z
-DTEND:20220903T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:57b45ef9-87b4-4b64-9f2d-56fe2893ff01
+SUMMARY:ABSSA D1 J15: CHOULE AUDERGHEM vs EURO UNION
+DTSTART:20221217T123000Z
+DTEND:20221217T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:49900e6d-d4bb-4308-8b0f-4d986b8961ec
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue d
- e la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A.
-  Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-
- UNION\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LT
- C\nInfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
+ le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de Br
+ uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
+ Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
+ dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
+ en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fl
+ éché.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AU
+ DERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNIO
+ N\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J2: EURO UNION vs WONG A.S.
-DTSTART:20220910T133000Z
-DTEND:20220910T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e8d6d593-a5f2-40db-a60e-a97f558f30b5
+SUMMARY:ABSSA D1 J16: PORTUGAL FC vs EURO UNION
+DTSTART:20230107T153000Z
+DTEND:20230107T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d00fa2f5-74f3-470f-9234-020716f66309
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
- a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
- muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
- ON\nInfo équipe exterieure: https://www.abssa.org/team/523/WONG-AS\nInfo 
- terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
+ le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
+ domicile: FIGUEIRA DE CARVALHO M. (0476.40.68.33)\n\nAccès voiture : Ring
+ \, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre 
+ à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\
+ , Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, ap
+ rès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/403/PORTUGAL-FC\nInfo équipe exterieure: 
+ https://www.abssa.org/team/567/EURO-UNION\nInfo terrain: https://www.abssa
+ .org/terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:manuel.figueira@mne.pt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J17: EURO UNION vs COIN DU BALAI FC
 DTSTART:20230114T133000Z
 DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:76c40893-34d2-4c23-a466-d039e955a162
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2be3cef9-81d3-4791-9825-c80c8b74699b
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
   Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
  uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
  N\nInfo équipe exterieure: https://www.abssa.org/team/229/COIN-DU-BALAI-F
- C\nInfo terrain: https://www.abssa.org/terrain/I02\n
+ C\nInfo terrain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J18: JEFKE COUNTRY vs EURO UNION
+DTSTART:20230121T130000Z
+DTEND:20230121T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ec5424f-fefd-48b0-a886-b068db2bb188
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
+ ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
+ u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
+ auche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COUN
+ TRY\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nI
+ nfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:alainjefke@outlook.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J19: EURO UNION vs IRLANDE FC
+DTSTART:20230128T133000Z
+DTEND:20230128T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a3cd0690-86a0-421a-8183-f2807f2253e4
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
+  Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
+ uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
+ N\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInf
+ o terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER:MAILTO:euro.union567@gmail.com
@@ -396,15 +365,52 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J20: EURO UNION vs GREZ AJ
 DTSTART:20230204T133000Z
 DTEND:20230204T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cfe679d9-c5f0-4f9b-9484-206649e02a00
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a8468c79-34d6-4ab2-8ca6-2cee0302ba71
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
  omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
   Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
  uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
  N\nInfo équipe exterieure: https://www.abssa.org/team/514/GREZ-AJ\nInfo t
- errain: https://www.abssa.org/terrain/I02\n
+ errain: https://www.abssa.org/terrain/I02
+GEO:50.8134117;4.3956336
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER:MAILTO:euro.union567@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J21: LXG CINQUANTENAIRE vs EURO UNION
+DTSTART:20230211T133000Z
+DTEND:20230211T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d9ca5f25-bbe4-436d-b083-ecb6d8b3e904
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et Bleu.\nCouleur principale équipe exterieure: Bleu\n\nContact
+  équipe domicile: GIMENEZ VILLAHOZ M (0487.79.91.95)\n\nAccès voiture : 
+ Place Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxièm
+ e carrefour prendre à gauche\, puis encore la première à gauche\nOu :  
+ Place Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chaz
+ al\n\nInfo équipe domicile: https://www.abssa.org/team/542/LXG-CINQUANTEN
+ AIRE\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\n
+ Info terrain: https://www.abssa.org/terrain/S09
+GEO:50.8581505;4.3949329
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER:MAILTO:lxgfc50@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J22: EURO UNION vs BRUSSELS BRITISH R
+DTSTART:20230225T133000Z
+DTEND:20230225T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:130b243f-f828-407d-9d78-765c535d2dd1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
+ a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
+ muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
+ ON\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITI
+ SH-R\nInfo terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER:MAILTO:euro.union567@gmail.com
@@ -413,83 +419,77 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J23: EURO UNION vs AMB. AUDERGHEM
 DTSTART:20230304T133000Z
 DTEND:20230304T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2533bcb2-db33-47f4-bf1d-4c3772629c0f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:def48682-86aa-4fcc-8033-ebd211a7b9ac
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
  omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
   Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
  uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
  N\nInfo équipe exterieure: https://www.abssa.org/team/249/AMB-AUDERGHEM\n
- Info terrain: https://www.abssa.org/terrain/I02\n
+ Info terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER:MAILTO:euro.union567@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D1 J24: ITT - GECKO FC vs EURO UNION
+DTSTART:20230311T153000Z
+DTEND:20230311T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e3f6bc8c-108f-4f10-aeb8-73a0c4c0914e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
+ lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
+ ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
+ gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre
+  comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/092/
+ ITT-GECKO-FC\nInfo équipe exterieure: https://www.abssa.org/team/567/EURO
+ -UNION\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:christian@schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J25: BRUSSELS LTC vs EURO UNION
+DTSTART:20230318T140000Z
+DTEND:20230318T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:60da33ec-c026-4903-94b4-7b380d84c25f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
+ pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
+ aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
+  3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
+ n 2km et prendre à droite la Rue des Saules toujours tout droit et 	qui d
+ evient ensuite la Route des Marnières. Continuer ensuite tout droit\, pas
+ ser un premier rond-point puis continuer tout droit jusqu'au rond-point du
+  Messager où il faut prendre la 2ème sortie. Vous êtes alors sur la Rou
+ te de Genval et l'entrée du Complexe se trouve à environ 200m sur la gau
+ che.\n\nInfo équipe domicile: https://www.abssa.org/team/039/BRUSSELS-LTC
+ \nInfo équipe exterieure: https://www.abssa.org/team/567/EURO-UNION\nInfo
+  terrain: https://www.abssa.org/terrain/O01
+GEO:50.7035641;4.469720199999999
+LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
+ORGANIZER:MAILTO:brusselsltc@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: EURO UNION vs CHOULE AUDERGHEM
 DTSTART:20230325T133000Z
 DTEND:20230325T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d703c901-66d2-4d33-a780-0564defe6d2e
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4dba9bcf-40ae-42ac-b718-e1b658bf1adc
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de la
   Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. Dem
  uyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNIO
  N\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHE
- M\nInfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J22: EURO UNION vs BRUSSELS BRITISH R
-DTSTART:20230225T133000Z
-DTEND:20230225T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9c7b85ec-72e2-4e79-9a0e-83f46f0fdee1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue de l
- a Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A. De
- muyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-UNI
- ON\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITI
- SH-R\nInfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J14: EURO UNION vs CHENOIS SC
-DTSTART:20221210T133000Z
-DTEND:20221210T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d8f3864f-665b-4abe-8956-475f4c1b58fa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Av
- enue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "St
- ade A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567
- /EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENO
- IS-SC\nInfo terrain: https://www.abssa.org/terrain/I02\n
-GEO:50.8134117;4.3956336
-LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J6: EURO UNION vs JEFKE COUNTRY
-DTSTART:20221008T133000Z
-DTEND:20221008T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3015d5e5-125a-4afa-8e65-fa4384c0e9a6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir et blanc\n\nContact 
- équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Ave
- nue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Sta
- de A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/
- EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/423/JEFKE-
- COUNTRY\nInfo terrain: https://www.abssa.org/terrain/I02\n
+ M\nInfo terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER:MAILTO:euro.union567@gmail.com

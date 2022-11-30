@@ -5,32 +5,113 @@ X-WR-CALDESC:Les matches du club IRLANDE FC (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: IRLANDE FC (eq. 2)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: COBRA TEAM vs IRLANDE FC (Eq. 2)
-DTSTART:20221217T123000Z
-DTEND:20221217T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:34bd7b66-012c-45ac-a42c-1d2870738929
+SUMMARY:ABSSA D2A J1: IRLANDE FC (Eq. 2) vs BRAINE STORMING
+DTSTART:20220903T123000Z
+DTEND:20220903T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1fc4755c-305d-4b8e-ab1d-ce16a109e2d1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bordeaux\nCouleur principale équipe exterieure: Vert\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
- ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
- utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
- et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
-  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
- de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/541/
- COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLAND
- E-FC\nInfo terrain: https://www.abssa.org/terrain/A11\n
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
+ /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/630/BRAIN
+ E-STORMING\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J2: IRLANDE FC (Eq. 2) vs NEW ARQUOIS FC
+DTSTART:20220910T123000Z
+DTEND:20220910T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3f53ef57-2690-46c7-91e9-ed94b9a365a2
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
+ /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-A
+ RQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: SCHEUT FC vs IRLANDE FC (Eq. 2)
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:caf0befa-d1ec-4bcb-af3a-f7e0792980c5
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Gris et Noir\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
+  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
+ emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
+ gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
+ ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
+ EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC
+ \nInfo terrain: https://www.abssa.org/terrain/A09
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J4: IRLANDE FC (Eq. 2) vs BESACE RFC
+DTSTART:20220924T123000Z
+DTEND:20220924T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b582f06b-0c8a-4df2-bc7a-cfae771b565c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
+ /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/024/BESAC
+ E-RFC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: LORRAINE (LA) RFC vs IRLANDE FC (Eq. 2)
+DTSTART:20221001T123000Z
+DTEND:20221001T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:04ac521c-7efe-4ab9-ac65-7a692688e638
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
+ rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
+ t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: 
+ https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J6: CURTIS L'AUSELE vs IRLANDE FC (Eq. 2)
 DTSTART:20221008T140000Z
 DTEND:20221008T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8012a71f-ee61-4f6b-81a8-6ed0b483f526
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:3e70b190-11eb-459a-ad0f-c06c5370399e
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Vert\n\nContact é
  quipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : En venant
@@ -41,185 +122,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   3ème rue à gauche et le terrain se trouve directement sur la droite.\n\
  nInfo équipe domicile: https://www.abssa.org/team/599/CURTIS-LAUSELE\nInf
  o équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terr
- ain: https://www.abssa.org/terrain/I03\n
+ ain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER:MAILTO:thomas.lambricht@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: SCHEUT FC vs IRLANDE FC (Eq. 2)
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a54d4bdf-d4ff-459f-84ac-c53e1688f1b8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/274/SCH
- EUT-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC
- \nInfo terrain: https://www.abssa.org/terrain/A09\n
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: IRLANDE FC (Eq. 2) vs UNION JP
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f28cf08b-071c-4c40-b221-29a2723f55d3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /504/UNION-JP\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: IRLANDE FC (Eq. 2) vs SCHEUT FC
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:294f47d8-ef6c-4e6d-a590-2d6529c0746d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: IRLANDE FC (Eq. 2) vs BRITISH UNITED
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:cf5a70dc-e991-4624-8f39-af103ff2b22b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
- /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITI
- SH-UNITED\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: IRLANDE FC (Eq. 2) vs ENGHIEN AMICAL
-DTSTART:20230304T123000Z
-DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1bdb453d-e27a-4967-8bd3-0c5eefe8ffc0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/031/ENG
- HIEN-AMICAL\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: IRLANDE FC (Eq. 2) vs COBRA TEAM
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4c677828-feb0-4264-8f3b-9b9fe1c09d09
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chau
- ssée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauc
- he la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\
- nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\
- , prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvai
- n\, et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.
- org/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/te
- am/541/COBRA-TEAM\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: IRLANDE FC (Eq. 2) vs BESACE RFC
-DTSTART:20220924T123000Z
-DTEND:20220924T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:770d5e7c-c386-4fc9-9e07-011df1b4d34d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
- /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/024/BESAC
- E-RFC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: IRLANDE FC (Eq. 2) vs CURTIS L'AUSELE
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:1ab1c7b6-60ad-4954-bacc-f228ec953d02
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
-  de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la
-  \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar 
- l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pre
- ndre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, e
- t suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/59
- 9/CURTIS-LAUSELE\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D2A J7: IRLANDE FC (Eq. 2) vs AZUR RCS
 DTSTART:20221015T123000Z
 DTEND:20221015T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3804ddb8-b6c4-4cc5-abed-bb8062c4f7d6
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7a2c47ed-1d32-4afb-9bf0-6a759ff6370a
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée d
@@ -229,144 +142,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  re à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et 
  suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/tea
  m/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/109/
- AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04\n
+ AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
 ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: IRLANDE FC (Eq. 2) vs ETINCELLE FC
-DTSTART:20221105T123000Z
-DTEND:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8de03826-71f1-467f-abf7-db5d9f8666f3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
- /035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: IRLANDE FC (Eq. 2) vs TOURINNOIS FC
-DTSTART:20221119T123000Z
-DTEND:20221119T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0ae32aff-e9fa-4b98-b1b5-181f2fadd5ca
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
- uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
- helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
- route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
- à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
- vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOU
- RINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: IRLANDE FC (Eq. 2) vs BRAINE STORMING
-DTSTART:20220903T123000Z
-DTEND:20220903T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8c072835-75d9-49ec-97ee-ee9f5277a3eb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
- /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/630/BRAIN
- E-STORMING\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: IRLANDE FC (Eq. 2) vs NEW ARQUOIS FC
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:edcffd2b-3e74-41e9-9b8b-c782c29e6d0c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
- /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/263/NEW-A
- RQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: IRLANDE FC (Eq. 2) vs LORRAINE (LA) RFC
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:efc81562-8e00-4262-9c4d-4d38fa3ffaf4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
- /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/044/LORRA
- INE-LA-RFC\nInfo terrain: https://www.abssa.org/terrain/N04\n
-GEO:50.8877772;4.5090761
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: NEW ARQUOIS FC vs IRLANDE FC (Eq. 2)
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:92e5ddb0-7f38-4d65-89f5-1a685f03ad7d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-ARQ
- UOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-F
- C\nInfo terrain: https://www.abssa.org/terrain/A12\n
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J8: BRITISH UNITED vs IRLANDE FC (Eq. 2)
 DTSTART:20221022T130000Z
 DTEND:20221022T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:aef5027a-667f-4e57-85ec-b544c91c0835
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:869b5675-5a15-4b3c-90d2-70f682d17e4c
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
@@ -376,117 +163,39 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
   à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
  /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/M02\n
+ eam/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/M02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J19: AZUR RCS vs IRLANDE FC (Eq. 2)
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:fd29c441-380b-4ab1-b9dd-a9628770faef
+SUMMARY:ABSSA D2A J9: IRLANDE FC (Eq. 2) vs ETINCELLE FC
+DTSTART:20221105T123000Z
+DTEND:20221105T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5c7e0310-1a04-42c6-97f3-16e458b7f870
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
- org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/W12\n
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: LORRAINE (LA) RFC vs IRLANDE FC (Eq. 2)
-DTSTART:20221001T123000Z
-DTEND:20221001T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c81f84c9-55a6-41cb-a398-eb03e0b642f5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
- uipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: 
- https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: ETINCELLE FC vs IRLANDE FC (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ad1f25a6-c45f-4169-83f0-a50c63d6e144
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
- ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
- te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
- A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
- hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/t
- errain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: UNION JP vs IRLANDE FC (Eq. 2)
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f8779ab6-baf0-49f6-987f-9ac584e53a74
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et jaune\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : Ring\,
-  sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à
-  droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, 
- Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, apr
- ès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domici
- le: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: http
- s://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org
- /terrain/A03\n
-GEO:50.8177195;4.2558158
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: BESACE RFC vs IRLANDE FC (Eq. 2)
-DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a84dce19-2938-438a-9725-b86537d50ec4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxelles\,
-  sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\,
-  en venant de Charleroi prendre à droite. Au feu rouge continuer sur +/- 
- 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à esse
- nce Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESACE-RF
- C\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInf
- o terrain: https://www.abssa.org/terrain/J02\n
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+ le: Vert\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
+ équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
+  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
+ ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
+ prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
+ , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
+ /035/ETINCELLE-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J10: ENGHIEN AMICAL vs IRLANDE FC (Eq. 2)
 DTSTART:20221112T150000Z
 DTEND:20221112T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5976e3da-af18-4e1d-9369-2b8dda8a791f
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d8a4bfef-6939-4b1a-873f-a0a057a0ed56
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Prendre l
@@ -496,18 +205,288 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ndre la 2ème rue à gauche\, suivre le panneau "Auberge du Vieux Cèdre".
  \n\nInfo équipe domicile: https://www.abssa.org/team/031/ENGHIEN-AMICAL\n
  Info équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo t
- errain: https://www.abssa.org/terrain/E02\n
+ errain: https://www.abssa.org/terrain/E02
 GEO:50.6970878;4.0470023
 LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
  ique
 ORGANIZER:MAILTO:e.vdps.ev@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D2A J11: IRLANDE FC (Eq. 2) vs TOURINNOIS FC
+DTSTART:20221119T123000Z
+DTEND:20221119T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:198e303d-d293-48a1-8944-2bfb0ffa37d7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/292/TOU
+ RINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J12: UNION JP vs IRLANDE FC (Eq. 2)
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:48b3e56b-d311-4083-b0be-cea10618a565
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et jaune\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : Ring\,
+  sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à
+  droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, 
+ Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, apr
+ ès l'hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domici
+ le: https://www.abssa.org/team/504/UNION-JP\nInfo équipe exterieure: http
+ s://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org
+ /terrain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J13: NEW ARQUOIS FC vs IRLANDE FC (Eq. 2)
+DTSTART:20221203T140000Z
+DTEND:20221203T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:80686ac7-8a30-4698-b28b-910846a14331
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
+ xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
+  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
+ rond point\, prendre à droite en direction du château de La Rocq\, passe
+ z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
+ etière).\n\nInfo équipe domicile: https://www.abssa.org/team/263/NEW-ARQ
+ UOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-F
+ C\nInfo terrain: https://www.abssa.org/terrain/A12
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: IRLANDE FC (Eq. 2) vs SCHEUT FC
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:9e904e77-dd24-47e6-b7a7-5318d8eb111e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Gris et Noir\n\nContact 
+ équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
+  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
+ ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
+ prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
+ , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
+ /274/SCHEUT-FC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: COBRA TEAM vs IRLANDE FC (Eq. 2)
+DTSTART:20221217T123000Z
+DTEND:20221217T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:7278bd05-9060-4809-b752-a9801ff5dfbb
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et bordeaux\nCouleur principale équipe exterieure: Vert\n\nConta
+ ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
+ utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
+ et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
+  gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le sta
+ de est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/541/
+ COBRA-TEAM\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLAND
+ E-FC\nInfo terrain: https://www.abssa.org/terrain/A11
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER:MAILTO:maximelechien@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J16: BESACE RFC vs IRLANDE FC (Eq. 2)
+DTSTART:20230107T133000Z
+DTEND:20230107T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:72449e9a-20c7-4a73-9071-b45451838e2e
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Bruxelles\,
+  sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\,
+  en venant de Charleroi prendre à droite. Au feu rouge continuer sur +/- 
+ 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à esse
+ nce Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/024/BESACE-RF
+ C\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInf
+ o terrain: https://www.abssa.org/terrain/J02
+GEO:50.8832985;4.3163697
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J17: IRLANDE FC (Eq. 2) vs LORRAINE (LA) RFC
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:423f1e2a-a3f3-4bfd-b8d2-2e877dcf36b7
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
+ /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/044/LORRA
+ INE-LA-RFC\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: IRLANDE FC (Eq. 2) vs CURTIS L'AUSELE
+DTSTART:20230121T123000Z
+DTEND:20230121T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:083fdcd4-aab8-4fba-8402-02e4bab15a5a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
+ quipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
+  de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la
+  \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar 
+ l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pre
+ ndre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, e
+ t suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/59
+ 9/CURTIS-LAUSELE\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J19: AZUR RCS vs IRLANDE FC (Eq. 2)
+DTSTART:20230128T150000Z
+DTEND:20230128T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1622f8bd-b2e0-4aeb-9fa6-9144a781df8c
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
+ ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
+ à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
+ ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
+ te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
+ org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/W12
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J20: IRLANDE FC (Eq. 2) vs BRITISH UNITED
+DTSTART:20230204T123000Z
+DTEND:20230204T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:94fbe3f6-7833-4585-8e47-cc90a3626b91
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
+ elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
+ oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
+  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
+ e comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402
+ /IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITI
+ SH-UNITED\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J21: ETINCELLE FC vs IRLANDE FC (Eq. 2)
+DTSTART:20230211T140000Z
+DTEND:20230211T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5d56e5a5-7751-49b3-b20c-f3247a48142d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Jaune et bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
+ équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
+ ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
+ te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
+ A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
+ hopital Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: ht
+ tps://www.abssa.org/team/035/ETINCELLE-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/t
+ errain/A03
+GEO:50.8177195;4.2558158
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J22: IRLANDE FC (Eq. 2) vs UNION JP
+DTSTART:20230225T123000Z
+DTEND:20230225T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4a05e8b5-cefa-4ff8-843d-a45adbf252e1
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
+ équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
+  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
+ ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
+ prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
+ , et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team
+ /504/UNION-JP\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J23: IRLANDE FC (Eq. 2) vs ENGHIEN AMICAL
+DTSTART:20230304T123000Z
+DTEND:20230304T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:79bba876-9ae6-4092-bdd3-43097eef9831
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
+ helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
+ route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
+ à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et sui
+ vre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/4
+ 02/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/team/031/ENG
+ HIEN-AMICAL\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D2A J24: TOURINNOIS FC vs IRLANDE FC (Eq. 2)
 DTSTART:20230311T133000Z
 DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:de47b7a6-0e86-4c97-864e-4f36c3962791
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6cb84eeb-5bc9-4ca1-b7be-6a3f21f8ac14
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
@@ -517,7 +496,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  roite. Le terrain se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exteri
  eure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www
- .abssa.org/terrain/T02\n
+ .abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER:MAILTO:stradepaul@hotmail.com
@@ -526,8 +505,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: BRAINE STORMING vs IRLANDE FC (Eq. 2)
 DTSTART:20230318T153000Z
 DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3ef35e2c-2267-4e74-a068-9d2ea7bc57d9
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d33cd466-319c-4724-97d5-a839773c18ea
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxell
@@ -536,9 +515,30 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  tie Loupoigne\, traverser le carrefour\, tout droit direction route du suc
  re.\n\nInfo équipe domicile: https://www.abssa.org/team/630/BRAINE-STORMI
  NG\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nIn
- fo terrain: https://www.abssa.org/terrain/L01\n
+ fo terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J26: IRLANDE FC (Eq. 2) vs COBRA TEAM
+DTSTART:20230325T123000Z
+DTEND:20230325T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:099c4c3c-1f84-4dd1-a33e-f7ef9ec7cd3a
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
+ ct équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chau
+ ssée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauc
+ he la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\
+ nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\
+ , prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvai
+ n\, et suivre comme ci-avant.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/402/IRLANDE-FC\nInfo équipe exterieure: https://www.abssa.org/te
+ am/541/COBRA-TEAM\nInfo terrain: https://www.abssa.org/terrain/N04
+GEO:50.8877772;4.5090761
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
 END:VEVENT
 END:VCALENDAR

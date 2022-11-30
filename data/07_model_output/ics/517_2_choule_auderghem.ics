@@ -5,32 +5,218 @@ X-WR-CALDESC:Les matches du club CHOULE AUDERGHEM (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: CHOULE AUDERGHEM (eq. 2)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: JODOIGNOISE FC vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ee8c44d8-8b38-4d28-ab76-7e7f9dfe8951
+SUMMARY:ABSSA D5C J1: L'EKIP vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20220903T150000Z
+DTEND:20220903T162500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5ac13ed0-6bfc-4ae6-853b-1dc040f1e3d6
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et jaune\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
-  de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
- e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
-  rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
- a 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la
-  3ème rue à gauche et le terrain se trouve directement sur la droite.\n\
- nInfo équipe domicile: https://www.abssa.org/team/664/JODOIGNOISE-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInf
- o terrain: https://www.abssa.org/terrain/I03\n
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
+ ruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  G
+ embloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodo
+ igne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de 
+ la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la pr
+ emière Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sorti
+ e et Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la
+  Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/662/LEKIP\nInfo équipe exterieure: https
+ ://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abss
+ a.org/terrain/P02
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J2: CHOULE AUDERGHEM (Eq. 2) vs RED STAR BRUSSELS
+DTSTART:20220910T123000Z
+DTEND:20220910T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:53946975-9da0-4c24-a6b4-98a0da89d515
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
+ équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
+ ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
+  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
+ ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/663/RED
+ -STAR-BRUSSELS\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J3: CHIEFS WSL (Eq. 3) vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20220917T123000Z
+DTEND:20220917T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a0049bb6-d6a8-4e03-9ee0-c8bb8d113d77
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
+ luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
+ ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équi
+ pe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terra
+ in: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J5: CHEVERNY SCHAERB vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20221001T140000Z
+DTEND:20221001T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:802a3738-5a57-4ea9-89b9-75ca36635b66
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Jaune\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place Meiser\, d
+ escendre le boulevard Wahis et le boulevard Lambermont\, puis prendre à d
+ roite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m. à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVERNY-SCHAE
+ RB\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGH
+ EM\nInfo terrain: https://www.abssa.org/terrain/S03
+GEO:50.86563899999999;4.392299299999999
+LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
+ e
+ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J6: CHOULE AUDERGHEM (Eq. 2) vs SAINT-JOSSE 95 FC
+DTSTART:20221008T123000Z
+DTEND:20221008T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1e1c015c-910e-4377-9afa-fcd5a8a6fc88
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Noir et bleu\n\nContact 
+ équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
+ ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
+  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
+ ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/658/SAI
+ NT-JOSSE-95-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J7: BLOOD SPIKES vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20221015T153000Z
+DTEND:20221015T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:100cda8c-49bc-4f53-975e-a8ddee8f0a29
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
+ domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute Bruxelles-
+ Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN
+ 25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux premie
+ rs ronds-points à l'issue de la RN 25. Au troisième rond-point prendre 
+ à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du St
+ ampia.\n\nInfo équipe domicile: https://www.abssa.org/team/660/BLOOD-SPIK
+ ES\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGH
+ EM\nInfo terrain: https://www.abssa.org/terrain/G04
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER:MAILTO:bloodspikes9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J8: CHOULE AUDERGHEM (Eq. 2) vs WOKRASSE F.C.
+DTSTART:20221022T123000Z
+DTEND:20221022T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a32eb5ae-2de3-4930-9ba1-8b359b98270f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/656/WOKRASSE-FC
+ \nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J9: PANTOUFLES FC vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20221105T153000Z
+DTEND:20221105T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d669da1b-368b-47b7-b1ca-e7b54c7103a0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
+ endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
+  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain
+ : https://www.abssa.org/terrain/R02
+GEO:50.728425;4.5537381
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER:MAILTO:florimond.laurent@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J10: CHOULE AUDERGHEM (Eq. 2) vs SANSERIF FC
+DTSTART:20221112T123000Z
+DTEND:20221112T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:52e6bd14-3056-404e-8072-db7eb4594110
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
+ quipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir
+  du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue d
+ es Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOUL
+ E-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/657/SANSE
+ RIF-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J11: PICARDIE AS vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20221119T133000Z
+DTEND:20221119T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:5d061fac-d607-4fa9-ac3d-b2d1ef3abd01
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
+ omicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
+ Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
+ ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe exterieu
+ re: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https:/
+ /www.abssa.org/terrain/O02
+GEO:50.6643844;4.351335199999999
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J12: CHOULE AUDERGHEM (Eq. 2) vs FAUBOURG-BRAINOISE
+DTSTART:20221126T123000Z
+DTEND:20221126T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2c0ec722-7aed-4ba4-b05e-d64ef2bacb6b
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/100/FAUBOURG-BR
+ AINOISE\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J13: RED STAR BRUSSELS vs CHOULE AUDERGHEM (Eq. 2)
 DTSTART:20221203T153000Z
 DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:4c00762c-9baa-415f-8d82-8c8a226e19b9
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1efc4c3e-6997-47f6-be9d-b79cda69e07f
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Noir\n\nContact 
  équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : En venant 
@@ -43,36 +229,109 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   le feu de signalisation\, tourner à gauche et prendre la rue du Progrès
   pendant +/- 400 m.\n\nInfo équipe domicile: https://www.abssa.org/team/6
  63/RED-STAR-BRUSSELS\nInfo équipe exterieure: https://www.abssa.org/team/
- 517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N03\n
+ 517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER:MAILTO:redstarbxl@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J3: CHIEFS WSL (Eq. 3) vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20220917T123000Z
-DTEND:20220917T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:13179db9-5f1d-4b92-a018-01a48fcfc25e
+SUMMARY:ABSSA D5C J14: CHOULE AUDERGHEM (Eq. 2) vs CHIEFS WSL (Eq. 3)
+DTSTART:20221210T123000Z
+DTEND:20221210T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d612a28a-6221-40b1-bbb4-af3a25703859
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
- luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
- ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nIn
- fo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équi
- pe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terra
- in: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\
+ nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J15: CHOULE AUDERGHEM (Eq. 2) vs JODOIGNOISE FC
+DTSTART:20221217T123000Z
+DTEND:20221217T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d57d8a5a-bcb3-46bc-a7db-f7fa296ed8b6
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
+ équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
+ ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
+  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
+ ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/664/JOD
+ OIGNOISE-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J17: CHOULE AUDERGHEM (Eq. 2) vs CHEVERNY SCHAERB
+DTSTART:20230114T123000Z
+DTEND:20230114T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:bda05edc-5ac2-4af0-b927-ff1dc495d416
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/128/CHEVERNY-SC
+ HAERB\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J18: SAINT-JOSSE 95 FC vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20230121T133000Z
+DTEND:20230121T145500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:498a44fe-9e31-4eb5-9fea-5b1cdf511408
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
+ re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
+ ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
+ rain est situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/658/SAINT-JOSSE-95-FC\nInfo équipe exterieure: https://www.abssa.org
+ /team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/E1
+ 0
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J19: CHOULE AUDERGHEM (Eq. 2) vs BLOOD SPIKES
+DTSTART:20230128T123000Z
+DTEND:20230128T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c6b8f923-97f2-496c-bf3d-4aebb5f32779
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/660/BLOOD-SPIKE
+ S\nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J20: WOKRASSE F.C. vs CHOULE AUDERGHEM (Eq. 2)
 DTSTART:20230204T123000Z
 DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b4f99729-7a3d-47c9-9d29-0beb744a5ba5
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e9aef8f6-08ac-43b7-a8e7-12b0c6045861
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
  domicile: VERMYLEN J. (0499.26.24.00)\n\nAccès voiture : Au départ de la
@@ -83,291 +342,56 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/656/WOKRASSE-FC\nInfo éq
  uipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo ter
- rain: https://www.abssa.org/terrain/K02\n
+ rain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER:MAILTO:jules.vermylen7@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: CHOULE AUDERGHEM (Eq. 2) vs RED STAR BRUSSELS
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:05ea1519-8642-4dc8-b90e-1f781ea0958d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
- ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
-  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
- ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/663/RED
- -STAR-BRUSSELS\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J6: CHOULE AUDERGHEM (Eq. 2) vs SAINT-JOSSE 95 FC
-DTSTART:20221008T123000Z
-DTEND:20221008T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:86ed10f5-cd0a-4bb4-a436-c211b4718828
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir et bleu\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
- ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
-  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
- ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/658/SAI
- NT-JOSSE-95-FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J8: CHOULE AUDERGHEM (Eq. 2) vs WOKRASSE F.C.
-DTSTART:20221022T123000Z
-DTEND:20221022T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f547f177-1abf-4cce-9c8f-848d1d8cb42f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/656/WOKRASSE-FC
- \nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: CHOULE AUDERGHEM (Eq. 2) vs L'EKIP
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c7b7da68-45b9-4844-92fb-7a2f2d5d0786
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/662/LEKIP\nInfo
-  terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: CHOULE AUDERGHEM (Eq. 2) vs PICARDIE AS
-DTSTART:20230311T123000Z
-DTEND:20230311T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0d769422-be99-4abd-9b0f-008eeefae039
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du squ
- are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
- hes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDER
- GHEM\nInfo équipe exterieure: https://www.abssa.org/team/063/PICARDIE-AS\
- nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: CHOULE AUDERGHEM (Eq. 2) vs BLOOD SPIKES
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:051dd9f5-1bd0-4419-bf6e-3518f23cb32f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/660/BLOOD-SPIKE
- S\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5C J21: CHOULE AUDERGHEM (Eq. 2) vs PANTOUFLES FC
 DTSTART:20230211T123000Z
 DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bae0cfbc-9d54-4cee-81a8-4659fdb7d8b0
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:4d027208-7355-4f1c-937b-441351ede3c0
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du squ
  are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
  hes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDER
  GHEM\nInfo équipe exterieure: https://www.abssa.org/team/428/PANTOUFLES-F
- C\nInfo terrain: https://www.abssa.org/terrain/W05\n
+ C\nInfo terrain: https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: CHOULE AUDERGHEM (Eq. 2) vs JODOIGNOISE FC
-DTSTART:20221217T123000Z
-DTEND:20221217T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:92d993b5-4dc4-4435-b007-4520e41c72ae
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
- ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
-  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
- ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/664/JOD
- OIGNOISE-FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: CHOULE AUDERGHEM (Eq. 2) vs FAUBOURG-BRAINOISE
-DTSTART:20221126T123000Z
-DTEND:20221126T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:5da6feab-0380-4092-83bf-425a92790973
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/100/FAUBOURG-BR
- AINOISE\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J14: CHOULE AUDERGHEM (Eq. 2) vs CHIEFS WSL (Eq. 3)
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f036f86a-f5e9-44a3-950b-79d9e5275a92
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\
- nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: CHOULE AUDERGHEM (Eq. 2) vs CHEVERNY SCHAERB
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3e0c4f8d-b334-4661-95fd-6725399e50ba
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
- RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/128/CHEVERNY-SC
- HAERB\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J10: CHOULE AUDERGHEM (Eq. 2) vs SANSERIF FC
-DTSTART:20221112T123000Z
-DTEND:20221112T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:80101154-0dd5-4885-8083-b7a0d71424d7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir
-  du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue d
- es Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOUL
- E-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/657/SANSE
- RIF-FC\nInfo terrain: https://www.abssa.org/terrain/W05\n
-GEO:50.8059064;4.4137412
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J7: BLOOD SPIKES vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20221015T153000Z
-DTEND:20221015T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:9e99640f-3b73-4ed3-ab69-e64c73ab097b
+SUMMARY:ABSSA D5C J22: FAUBOURG-BRAINOISE vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20230225T140000Z
+DTEND:20230225T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:aba79efb-11dc-48fd-b31a-3efe10cc5d4f
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute Bruxelles-
- Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN
- 25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux premie
- rs ronds-points à l'issue de la RN 25. Au troisième rond-point prendre 
- à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du St
- ampia.\n\nInfo équipe domicile: https://www.abssa.org/team/660/BLOOD-SPIK
- ES\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGH
- EM\nInfo terrain: https://www.abssa.org/terrain/G04\n
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:bloodspikes9@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: SAINT-JOSSE 95 FC vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20230121T133000Z
-DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:c65d8696-c3ef-49d1-bd78-e2b69292dbdb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/
- team/658/SAINT-JOSSE-95-FC\nInfo équipe exterieure: https://www.abssa.org
- /team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/E1
- 0\n
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: PANTOUFLES FC vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20221105T153000Z
-DTEND:20221105T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0b819cf6-4b85-4d72-97b8-88851c125d61
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, pr
- endre la sortie Rosières. Passer devant l'église\, longer l'autoroute et
-  tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInfo équipe
-  exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain
- : https://www.abssa.org/terrain/R02\n
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
+ domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Brux
+ elles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasi
+ n "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivel
+ les. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à 
+ droite\, le terrain se trouve à 500 m. et est fléché.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo équipe e
+ xterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: 
+ https://www.abssa.org/terrain/B03
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: SANSERIF FC vs CHOULE AUDERGHEM (Eq. 2)
 DTSTART:20230304T113000Z
 DTEND:20230304T125500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:84f0a433-0b54-4f90-8ded-5594b53bb880
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:468b54fb-0d03-4281-9c8d-c897aba5aae0
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Noir\n\nContact é
  quipe domicile: KARPOWICZ A. (0493.16.46.10)\n\nAccès voiture : En venant
@@ -384,90 +408,66 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à l'arri
  ère de la tribune T3.\n\nInfo équipe domicile: https://www.abssa.org/tea
  m/657/SANSERIF-FC\nInfo équipe exterieure: https://www.abssa.org/team/517
- /CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/T06\n
+ /CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
 ORGANIZER:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: FAUBOURG-BRAINOISE vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:30164c3d-e2e4-41e5-996b-8e0a005db3f4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Brux
- elles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasi
- n "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivel
- les. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à 
- droite\, le terrain se trouve à 500 m. et est fléché.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo équipe e
- xterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: 
- https://www.abssa.org/terrain/B03\n
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J1: L'EKIP vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20220903T150000Z
-DTEND:20220903T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:f2b2dcef-75b4-4a6a-86bb-8f57fc528c0d
+SUMMARY:ABSSA D5C J24: CHOULE AUDERGHEM (Eq. 2) vs PICARDIE AS
+DTSTART:20230311T123000Z
+DTEND:20230311T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a80ab7f2-1d56-4535-a745-39431d6a3433
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
- ruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  G
- embloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodo
- igne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de 
- la Rue des Marronniers. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la pr
- emière Sortie.\nAu Rond-Point suivant (4Ième) Prendre la deuxième Sorti
- e et Continuer sur la Chaussée de Wavre / N 243. Prendre à Droite sur la
-  Rue des Marronniers\, le Terrain se Trouve à Droite\n\nInfo équipe domi
- cile: https://www.abssa.org/team/662/LEKIP\nInfo équipe exterieure: https
- ://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abss
- a.org/terrain/P02\n
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+ le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du squ
+ are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
+ hes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDER
+ GHEM\nInfo équipe exterieure: https://www.abssa.org/team/063/PICARDIE-AS\
+ nInfo terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J11: PICARDIE AS vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20221119T133000Z
-DTEND:20221119T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:847a46c1-ab85-4647-a1a4-77772fb4a3a5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
- Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
- ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe exterieu
- re: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https:/
- /www.abssa.org/terrain/O02\n
-GEO:50.6643844;4.351335199999999
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+SUMMARY:ABSSA D5C J25: CHOULE AUDERGHEM (Eq. 2) vs L'EKIP
+DTSTART:20230318T123000Z
+DTEND:20230318T135500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e4bb0da0-932d-43c5-9b11-f2db0c4ab08d
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
+ domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
+ phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
+ RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/662/LEKIP\nInfo
+  terrain: https://www.abssa.org/terrain/W05
+GEO:50.8059064;4.4137412
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J5: CHEVERNY SCHAERB vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20221001T140000Z
-DTEND:20221001T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:37cdb2e5-ef7a-43ad-8b4c-f3fb188ff2d5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place Meiser\, d
- escendre le boulevard Wahis et le boulevard Lambermont\, puis prendre à d
- roite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m. à droit
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVERNY-SCHAE
- RB\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGH
- EM\nInfo terrain: https://www.abssa.org/terrain/S03\n
-GEO:50.86563899999999;4.392299299999999
-LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
- e
-ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+SUMMARY:ABSSA D5C J26: JODOIGNOISE FC vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART:20230325T153000Z
+DTEND:20230325T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:13141cca-38f3-4f59-9bd7-df7b70c7bdff
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Noir et jaune\nCouleur principale équipe exterieure: Noir\n\nContact 
+ équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
+  de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
+ e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
+  rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
+ a 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la
+  3ème rue à gauche et le terrain se trouve directement sur la droite.\n\
+ nInfo équipe domicile: https://www.abssa.org/team/664/JODOIGNOISE-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInf
+ o terrain: https://www.abssa.org/terrain/I03
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 END:VCALENDAR

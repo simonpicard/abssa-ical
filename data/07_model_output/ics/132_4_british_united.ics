@@ -5,90 +5,11 @@ X-WR-CALDESC:Les matches du club BRITISH UNITED (equipe 4) en ABSSA.
 X-WR-CALNAME:ABSSA: BRITISH UNITED (eq. 4)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J20: CENTRAL PARK FC (Eq. 2) vs BRITISH UNITED (Eq. 4)
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:623677cb-6e5d-419e-bc12-0a85fe457827
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard de la 
- Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
-  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
- Info équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInf
- o équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo 
- terrain: https://www.abssa.org/terrain/W10\n
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J5: WINCHESTER F.C. vs BRITISH UNITED (Eq. 4)
-DTSTART:20221001T153000Z
-DTEND:20221001T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:848e4da4-ed64-4812-83d7-86ea015aa6d2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture : A p
- artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
- rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
-  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
- ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
- e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
- /653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/team/13
- 2/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/B14\n
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J3: RANGERS F.C. vs BRITISH UNITED (Eq. 4)
-DTSTART:20220917T140000Z
-DTEND:20220917T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:378bf042-5a26-4e86-94c6-d759653c730b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
-  : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
- haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
- roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
- n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo te
- rrain: https://www.abssa.org/terrain/E04\n
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J12: FORESTOIS SC (Eq. 3) vs BRITISH UNITED (Eq. 4)
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:52d3435a-3a64-45f5-8807-1c6ef969695f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
- Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
- ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
-  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
- ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
- , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
- 132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/F01\n
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5A J1: BRITISH UNITED (Eq. 4) vs EFFETA FC
 DTSTART:20220903T130000Z
 DTEND:20220903T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:06a7b1a6-ec0a-4ce7-b15c-38d48a873b05
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6eb45928-7569-4381-b876-f5b96b546c6c
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
  équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
@@ -99,7 +20,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
  abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
  ssa.org/team/516/EFFETA-FC\nInfo terrain: https://www.abssa.org/terrain/M0
- 2\n
+ 2
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
@@ -109,8 +30,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J2: BRITISH UNITED (Eq. 4) vs AZUR RCS (Eq. 4)
 DTSTART:20220910T130000Z
 DTEND:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:8297e696-d184-4932-a13e-207e320f7716
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:551a7d17-5afb-4857-9b04-501eb0caaefb
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
  ipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autorout
@@ -120,18 +41,37 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10
   min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abss
  a.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.
- org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02\n
+ org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/M02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J3: RANGERS F.C. vs BRITISH UNITED (Eq. 4)
+DTSTART:20220917T140000Z
+DTEND:20220917T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:801eccca-8b49-4a90-a4de-f64282e6a48f
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
+ leu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+  : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
+ haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
+ roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
+ n\nInfo équipe domicile: https://www.abssa.org/team/620/RANGERS-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo te
+ rrain: https://www.abssa.org/terrain/E04
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER:MAILTO:samuel.thuns@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J4: BRITISH UNITED (Eq. 4) vs BEA WOLUWE
 DTSTART:20220924T130000Z
 DTEND:20220924T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:ddecc5ec-7112-4f33-b8de-30f379549576
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:79b28f74-fbbc-4aad-adf8-e042881736ea
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu clair\n\nContact éq
  uipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autorou
@@ -141,19 +81,38 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  r". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 1
  0 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abs
  sa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa
- .org/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain/M02\
- n
+ .org/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain/M02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J5: WINCHESTER F.C. vs BRITISH UNITED (Eq. 4)
+DTSTART:20221001T153000Z
+DTEND:20221001T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:b790f90b-21aa-4ac4-9454-c203f383fe24
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture : A p
+ artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
+ rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
+  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
+ ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
+ e de la Grande lecke.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /653/WINCHESTER-FC\nInfo équipe exterieure: https://www.abssa.org/team/13
+ 2/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/B14
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER:MAILTO:winchesterfc@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J6: BRITISH UNITED (Eq. 4) vs GAMBRINUS F.C.
 DTSTART:20221008T130000Z
 DTEND:20221008T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:027eaa6f-01af-4973-ae3c-9f935ca2e888
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c327b5d4-903c-4cfd-83ac-c48d2cb84f0e
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rose\n\nContact équipe d
  omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
@@ -163,7 +122,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
   à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
  /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/M02\n
+ eam/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/M02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
@@ -173,8 +132,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: BRITISH UNITED (Eq. 4) vs CENTRAL PARK FC (Eq. 2)
 DTSTART:20221022T130000Z
 DTEND:20221022T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bd3b357c-2f2f-406c-ad1a-dbf4d973cabf
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:e0f17e28-0625-4fc1-8bef-7a2732347efb
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
  pe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute
@@ -185,158 +144,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa
  .org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.o
  rg/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/terrain/M
- 02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J11: BRITISH UNITED (Eq. 4) vs WATERMAEL FC (Eq. 2)
-DTSTART:20221119T130000Z
-DTEND:20221119T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:b7e31e36-51a1-420f-8494-f5a0f53d8fd6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
- /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J14: BRITISH UNITED (Eq. 4) vs RANGERS F.C.
-DTSTART:20221210T130000Z
-DTEND:20221210T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:923d4afe-c3d4-4fa5-a41c-cd6a128dee5f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès
-  voiture : Autoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) 
- En arrivant dans le centre\, suivre la direction "Heist-op-den-Berg" Aller
-  tout droit et passer le viaduc du chemin de fer. Après 1 km. suivre les 
- flèches "De Nekker". Garer les voitures à l'extérieur du complexe. IL F
- AUT COMPTER ENV. 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicil
- e: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure:
-  https://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www.abss
- a.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J17: BRITISH UNITED (Eq. 4) vs WINCHESTER F.C.
-DTSTART:20230114T130000Z
-DTEND:20230114T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:a88f3d77-47f6-48e3-b747-077b90dc0911
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
- abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
- ssa.org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/terrai
- n/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J21: BRITISH UNITED (Eq. 4) vs ELAN EVERE RAC
-DTSTART:20230211T130000Z
-DTEND:20230211T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:2dde2880-a735-4f36-8254-f7a71fc701de
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
- /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J22: BRITISH UNITED (Eq. 4) vs FORESTOIS SC (Eq. 3)
-DTSTART:20230225T130000Z
-DTEND:20230225T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:d129eec7-e643-4998-ab1f-9f54660fccc9
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
- /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
- eam/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/M02\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J23: BRITISH UNITED (Eq. 4) vs WOLUWE FC
-DTSTART:20230304T130000Z
-DTEND:20230304T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:0706d2fe-4021-4c81-b685-785d8ca0cb24
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
- abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
- ssa.org/team/153/WOLUWE-FC\nInfo terrain: https://www.abssa.org/terrain/M0
- 2\n
-GEO:51.0216563;4.5020273
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J26: BRITISH UNITED (Eq. 4) vs POSTBOYS FC
-DTSTART:20230325T130000Z
-DTEND:20230325T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:254d55a0-a84e-4b2e-bd92-d5d7af83c323
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
- abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
- ssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/
- M02\n
+ 02
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
@@ -346,63 +154,26 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: ELAN EVERE RAC vs BRITISH UNITED (Eq. 4)
 DTSTART:20221105T133000Z
 DTEND:20221105T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3313b8ac-a35a-4455-87b6-9c831e8653e4
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:67b00788-e13e-42eb-94ed-1ccf05009cbd
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain se tro
  uve derrière l'église St. Vincent\n\nInfo équipe domicile: https://www.
  abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieure: https://www.ab
  ssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terra
- in/E08\n
+ in/E08
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
 ORGANIZER:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: BEA WOLUWE vs BRITISH UNITED (Eq. 4)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:142aa282-1463-444b-b6d9-d8e8e4e5b380
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe exterieure: Bleu\n\nContact éq
- uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
- e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\
- n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\nInfo 
- équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo te
- rrain: https://www.abssa.org/terrain/W15\n
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J18: GAMBRINUS F.C. vs BRITISH UNITED (Eq. 4)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:44a4f903-cdaa-4651-93ee-374eba4c21a2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la chaussé
- e de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème r
- ue à droite\, l' Avenue des Communautés\, l'entrée au terrain est situ
- é à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645/GAMB
- RINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-
- UNITED\nInfo terrain: https://www.abssa.org/terrain/E10\n
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: WOLUWE FC vs BRITISH UNITED (Eq. 4)
 DTSTART:20221112T153000Z
 DTEND:20221112T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:98127bba-a9ae-4bed-92c9-a4d81958c243
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:ac474ac8-107b-4199-b62e-003899dc4449
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
@@ -413,18 +184,60 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  nue de la Paix et encore à droite l'avenue Clermont Tonnerre.\n\nInfo éq
  uipe domicile: https://www.abssa.org/team/153/WOLUWE-FC\nInfo équipe exte
  rieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https
- ://www.abssa.org/terrain/R03\n
+ ://www.abssa.org/terrain/R03
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
 ORGANIZER:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J11: BRITISH UNITED (Eq. 4) vs WATERMAEL FC (Eq. 2)
+DTSTART:20221119T130000Z
+DTEND:20221119T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c9a62af4-56ae-44e4-8737-8a86724076ce
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
+ re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
+  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
+ rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
+  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J12: FORESTOIS SC (Eq. 3) vs BRITISH UNITED (Eq. 4)
+DTSTART:20221126T153000Z
+DTEND:20221126T165500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:19f38a3c-b527-4de2-9222-4fcfd3e9a454
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
+ Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
+ ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
+  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
+ ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
+ , à gauche de la route.\n\nInfo équipe domicile: https://www.abssa.org/t
+ eam/152/FORESTOIS-SC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/F01
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J13: AZUR RCS (Eq. 4) vs BRITISH UNITED (Eq. 4)
 DTSTART:20221203T120000Z
 DTEND:20221203T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:348b0e93-4d08-4c78-b82c-96cfca6f40ef
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:a1755298-21bb-4f78-8c8e-3c383c09be71
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -434,18 +247,201 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  te 1ère rue à gauche (Av. Salomé).\n\nInfo équipe domicile: https://ww
  w.abssa.org/team/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.
  org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/W
- 12\n
+ 12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABSSA D5A J14: BRITISH UNITED (Eq. 4) vs RANGERS F.C.
+DTSTART:20221210T130000Z
+DTEND:20221210T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c4756228-d447-424e-a85f-551af5115936
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
+ leu\n\nContact équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès
+  voiture : Autoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) 
+ En arrivant dans le centre\, suivre la direction "Heist-op-den-Berg" Aller
+  tout droit et passer le viaduc du chemin de fer. Après 1 km. suivre les 
+ flèches "De Nekker". Garer les voitures à l'extérieur du complexe. IL F
+ AUT COMPTER ENV. 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicil
+ e: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure:
+  https://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https://www.abss
+ a.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J15: POSTBOYS FC vs BRITISH UNITED (Eq. 4)
+DTSTART:20221217T140000Z
+DTEND:20221217T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:2b7d0ebb-b8e7-45ec-9858-2f1872bbb839
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Rouge et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
+ équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
+ on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
+  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-FC\nI
+ nfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInf
+ o terrain: https://www.abssa.org/terrain/J01
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER:MAILTO:secretariat@postboys.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: BEA WOLUWE vs BRITISH UNITED (Eq. 4)
+DTSTART:20230107T140000Z
+DTEND:20230107T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:6faa0c6d-ac38-4855-b66b-166d47e6bbd2
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bleu clair\nCouleur principale équipe exterieure: Bleu\n\nContact éq
+ uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
+ e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/459/BEA-WOLUWE\nInfo 
+ équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo te
+ rrain: https://www.abssa.org/terrain/W15
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J17: BRITISH UNITED (Eq. 4) vs WINCHESTER F.C.
+DTSTART:20230114T130000Z
+DTEND:20230114T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:24959732-3d62-45c7-a944-6dae847fa66a
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact 
+ équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
+ route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
+ s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
+ passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
+ kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
+ . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
+ abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/653/WINCHESTER-FC\nInfo terrain: https://www.abssa.org/terrai
+ n/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J18: GAMBRINUS F.C. vs BRITISH UNITED (Eq. 4)
+DTSTART:20230121T140000Z
+DTEND:20230121T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:1f16e8d6-883e-47aa-b87d-4ba757599bd0
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Rose\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
+ omicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la chaussé
+ e de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème r
+ ue à droite\, l' Avenue des Communautés\, l'entrée au terrain est situ
+ é à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/team/645/GAMB
+ RINUS-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-
+ UNITED\nInfo terrain: https://www.abssa.org/terrain/E10
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J20: CENTRAL PARK FC (Eq. 2) vs BRITISH UNITED (Eq. 4)
+DTSTART:20230204T140000Z
+DTEND:20230204T152500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:50a6c739-719a-46c4-883e-39834b64ed14
+DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
+ le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
+ pe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard de la 
+ Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
+  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
+ Info équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInf
+ o équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo 
+ terrain: https://www.abssa.org/terrain/W10
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J21: BRITISH UNITED (Eq. 4) vs ELAN EVERE RAC
+DTSTART:20230211T130000Z
+DTEND:20230211T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:d3ac0c03-fd86-4771-8f7e-70e079c86b65
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
+ re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
+  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
+ rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
+  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J22: BRITISH UNITED (Eq. 4) vs FORESTOIS SC (Eq. 3)
+DTSTART:20230225T130000Z
+DTEND:20230225T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:16e31400-59aa-4339-8afd-d03c906d0e1e
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
+ omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
+ re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
+  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
+ rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
+  à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J23: BRITISH UNITED (Eq. 4) vs WOLUWE FC
+DTSTART:20230304T130000Z
+DTEND:20230304T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c91fff58-fad5-4dcf-a6ef-2ade1a6ae9b1
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
+ équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
+ route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
+ s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
+ passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
+ kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
+ . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
+ abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/153/WOLUWE-FC\nInfo terrain: https://www.abssa.org/terrain/M0
+ 2
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D5A J24: WATERMAEL FC (Eq. 2) vs BRITISH UNITED (Eq. 4)
 DTSTART:20230311T133000Z
 DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:bc73859c-0e92-4c34-8da3-c3e3990a9f7d
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:c9fc8dc1-d5c1-408b-a8cb-229d02e2fd08
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
@@ -456,37 +452,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   piste d'athlétisme et le terrain de hockey.\n\nInfo équipe domicile: ht
  tps://www.abssa.org/team/611/WATERMAEL-FC\nInfo équipe exterieure: https:
  //www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.o
- rg/terrain/A10\n
+ rg/terrain/A10
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
 ORGANIZER:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J15: POSTBOYS FC vs BRITISH UNITED (Eq. 4)
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:e852b98d-b045-40be-9400-ebd5c3b5fbc3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-FC\nI
- nfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInf
- o terrain: https://www.abssa.org/terrain/J01\n
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D5A J25: EFFETA FC vs BRITISH UNITED (Eq. 4)
 DTSTART:20230318T123000Z
 DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221130T014721Z
-UID:3f601617-e22d-4023-81af-6b60bc27fd17
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:da8d77dd-39b1-446a-8fdb-4ac9e3b66b08
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Autoroute
@@ -495,9 +472,31 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  e (après env. 1200 m.) prendre à gauche au " Monument aux Morts". Le ter
  rain se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/te
  am/516/EFFETA-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/
- BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/L05\n
+ BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/L05
 GEO:51.0192214;4.2904455
 LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
 ORGANIZER:MAILTO:effetafc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J26: BRITISH UNITED (Eq. 4) vs POSTBOYS FC
+DTSTART:20230325T130000Z
+DTEND:20230325T142500Z
+DTSTAMP;VALUE=DATE-TIME:20221130T021806Z
+UID:169d1764-aa59-4614-959a-e61efe6cd48c
+DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
+ le: Bleu\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
+ équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
+ route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
+ s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
+ passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
+ kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
+ . 10 min. à pied jusqu'au terrain.\n\nInfo équipe domicile: https://www.
+ abssa.org/team/132/BRITISH-UNITED\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/
+ M02
+GEO:51.0216563;4.5020273
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
 END:VEVENT
 END:VCALENDAR
