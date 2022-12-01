@@ -5,6 +5,7 @@ generated using Kedro 0.18.3
 import datetime
 import uuid
 
+import pytz
 from icalendar import Calendar, Event, vCalAddress, vGeo, vText
 
 
@@ -22,8 +23,12 @@ def generate_ics(events_df, name, desc, calendar_id):
         ev = Event()
         ev.add("DTSTAMP", datetime.datetime.now())
         ev["uid"] = str(uuid.uuid4())
-        ev["dtstart"] = event["datetime_start"].strftime("%Y%m%dT%H%M%SZ")
-        ev["dtend"] = event["datetime_end"].strftime("%Y%m%dT%H%M%SZ")
+        ev["dtstart"] = (
+            event["datetime_start"].astimezone(pytz.UTC).strftime("%Y%m%dT%H%M%SZ")
+        )
+        ev["dtend"] = (
+            event["datetime_end"].astimezone(pytz.UTC).strftime("%Y%m%dT%H%M%SZ")
+        )
         ev["location"] = vText(event["address"])
         ev["geo"] = vGeo((event["latitude"], event["longitude"]))
         ev["summary"] = vText(event["ical_summary"])
