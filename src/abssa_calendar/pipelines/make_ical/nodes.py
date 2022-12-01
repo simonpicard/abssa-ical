@@ -3,7 +3,6 @@ This is a boilerplate pipeline 'make_ical'
 generated using Kedro 0.18.3
 """
 import datetime
-import uuid
 
 import pytz
 from icalendar import Calendar, Event, vCalAddress, vGeo, vText
@@ -17,7 +16,6 @@ def generate_ics(events_df, name, desc, calendar_id):
     cal["PRODID"] = calendar_id
     cal["X-WR-CALNAME"] = name
     cal["X-WR-CALDESC"] = desc
-    # cal["X-WR-TIMEZONE"] = "Europe/Brussels"
 
     for _, event in events_df.iterrows():
         ev = Event()
@@ -33,12 +31,6 @@ def generate_ics(events_df, name, desc, calendar_id):
             "DTEND",
             event["datetime_end"].astimezone(pytz.UTC),
         )
-        # ev["dtstart"] = (
-        #     event["datetime_start"].astimezone(pytz.UTC).strftime("%Y%m%dT%H%M%SZ")
-        # )
-        # ev["dtend"] = (
-        #     event["datetime_end"].astimezone(pytz.UTC).strftime("%Y%m%dT%H%M%SZ")
-        # )
         ev["location"] = vText(event["address"])
         ev["geo"] = vGeo((event["latitude"], event["longitude"]))
         ev["summary"] = vText(event["ical_summary"])
