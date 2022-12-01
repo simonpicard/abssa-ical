@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_9_d_5a
 X-WR-CALDESC:Les matches de la journée 9 en divion 5A d'ABSSA.
 X-WR-CALNAME:D5A Journée 9
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: ELAN EVERE RAC vs BRITISH UNITED (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221105T123000Z
 DTEND;VALUE=DATE-TIME:20221105T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:37b03a8b-daae-404e-8e4b-a7d3a86fd254
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_7_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain se tro
@@ -26,8 +25,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: RANGERS F.C. vs WOLUWE FC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:ee57a037-2633-4e4f-bdea-c6ee303501c4
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_620_153
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: J
  aune et Bleu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccè
@@ -45,8 +44,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: BEA WOLUWE vs AZUR RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:33b5ba25-e618-44de-bc35-0c8e29c53327
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_459_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu clair\nCouleur principale équipe exterieure: Bleu ciel\n\nContac
  t équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Ave
@@ -63,8 +62,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: GAMBRINUS F.C. vs WATERMAEL FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:1650e4ba-0922-45bc-a67c-b1bd677696d1
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_645_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rose\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: BRISMEE M (0474.68.53.85)\n\nAccès voiture : Prendre la chaussé
@@ -82,8 +81,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: CENTRAL PARK FC (Eq. 2) vs EFFETA FC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:4f202e6a-9fb5-48b5-b1bf-8bce2d5ebcd9
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_562_516
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et noir\n\nCont
  act équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Bouleva
@@ -101,8 +100,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: WINCHESTER F.C. vs POSTBOYS FC
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:5abfefcf-7152-4db9-adca-83ac5a73d6f9
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_9_653_75
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et blanc\nCouleur principale équipe exterieure: Rouge et noir\n\
  nContact équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voit

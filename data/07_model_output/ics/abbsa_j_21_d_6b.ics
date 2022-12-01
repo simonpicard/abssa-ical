@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_21_d_6b
 X-WR-CALDESC:Les matches de la journée 21 en divion 6B d'ABSSA.
 X-WR-CALNAME:D6B Journée 21
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: ETINCELLE FC (Eq. 2) vs GOALOIS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230211T113000Z
 DTEND;VALUE=DATE-TIME:20230211T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:7df0dda9-cf18-4f2f-bb31-f6faa0c3d123
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_35_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
   équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sor
@@ -29,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: AZUR RCS (Eq. 5) vs IDEAL RANGERS R
 DTSTART;VALUE=DATE-TIME:20230211T123000Z
 DTEND;VALUE=DATE-TIME:20230211T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:c6786c67-f62c-4acd-aa60-1e759fa6ab78
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_109_47
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Orange et Noir\n\nCo
  ntact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture 
@@ -50,8 +49,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: PHARMA SC (Eq. 3) vs NIVELLES CS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T123000Z
 DTEND;VALUE=DATE-TIME:20230211T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:bbe693d7-1eb0-406e-afb2-4ef486370fd6
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_268_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
  quipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring de 
@@ -69,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: ITT - GECKO FC (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:6b675a9b-f893-44db-90dc-93eebb428c76
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_92_229
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
@@ -90,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: COPAINS REUNIS (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:81f53c6b-b1de-458d-b956-910c3343e4dd
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_49_263
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de 
@@ -111,8 +110,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: BRUSSELS LTC (Eq. 5) vs TOURINNOIS FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:649996f2-132d-43a7-a70f-bbb2aba60d26
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_39_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et bleu\n\nCont
  act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
@@ -133,8 +132,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J21: BRUSSELS BRITISH R (Eq. 5) vs ETTEKIJS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:602e78be-86ea-40b3-9377-f11e85c4b0a2
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_6B_21_1_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nC
  ontact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Aut

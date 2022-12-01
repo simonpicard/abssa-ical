@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_5_d_3d
 X-WR-CALDESC:Les matches de la journée 5 en divion 3D d'ABSSA.
 X-WR-CALNAME:D3D Journée 5
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: CHENOIS SC (Eq. 2) vs SPARTAK SYNERGY
 DTSTART;VALUE=DATE-TIME:20221001T113000Z
 DTEND;VALUE=DATE-TIME:20221001T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:dfa8ebe3-b1c7-4674-9644-7a97e9b33dfa
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_84_637
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge et blanc\n\nContac
  t équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Vena
@@ -28,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: MACCABI BXL vs HIGGINS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:8097c1d5-c882-4d58-b087-e85378c8f079
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_634_416
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
  ntact équipe domicile: GODART D. (0491.61.16.92)\n\nAccès voiture : Au d
@@ -49,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: VETUSO FC. vs BXL ALLIANCE JETTE
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:dd7bd867-d90b-4fdf-b284-3e777db4566f
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_624_566
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
  omicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelles pr
@@ -68,8 +67,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: WONG A.S. (Eq. 2) vs COLO-COLO UNITED
 DTSTART;VALUE=DATE-TIME:20221001T124500Z
 DTEND;VALUE=DATE-TIME:20221001T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:76a1a72d-f6ee-4df5-b415-e6f4ef85bcb6
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_523_625
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu foncé et blanc\n\n
  Contact équipe domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : 
@@ -93,8 +92,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: FRANGINOS (LOS) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:a4e61e38-aee9-43f5-a57f-d28706a9dee3
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_647_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
  ipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a Partir de Br
@@ -116,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: BOUSVAL GENAPPE vs IRLANDE FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:9a6f2eeb-bb82-42cd-b549-79f7749ea9a8
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_401_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxel
@@ -135,8 +134,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: CHIEFS WSL (Eq. 2) vs GERMINAL CSA
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:a80aad7c-762e-4f80-900e-bbb1d2078923
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3D_5_303_235
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo

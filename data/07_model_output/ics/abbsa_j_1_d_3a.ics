@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_1_d_3a
 X-WR-CALDESC:Les matches de la journée 1 en divion 3A d'ABSSA.
 X-WR-CALNAME:D3A Journée 1
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: AZUR RCS (Eq. 3) vs HERMES FC
 DTSTART;VALUE=DATE-TIME:20220903T100000Z
 DTEND;VALUE=DATE-TIME:20220903T111000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:412b73e1-1c15-4edf-9235-8ecb5deff075
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_109_357
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rayé bleu jaune\n\n
  Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
@@ -29,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: ETTEKIJS vs BRAINE-TERMINUS FC
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:6fbdf169-2cc5-4a2a-813a-e80e9801afb8
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_343_537
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Jaune et rouge\n\nContact
   équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A partir du
@@ -47,8 +46,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: NO BOYS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:be31b518-bf00-4ed3-8142-08c578dbabaa
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_420_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
  domicile: DEBY P. (0479.94.64.38)\n\nAccès voiture : Ring\, sortie Hopita
@@ -67,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: REQUINS (LES) vs NEW INN FC
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:e9c388ec-1aaa-4f02-8631-a72e26d6b8f2
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_556_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge foncé\n\nContact 
  équipe domicile: BARBE L. (0476.04.93.45)\n\nAccès voiture : En venant d
@@ -99,8 +98,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: UNION SCHAERBEEK vs MIDI AS
 DTSTART;VALUE=DATE-TIME:20220903T123000Z
 DTEND;VALUE=DATE-TIME:20220903T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:0eb2c5d1-3e03-4e0e-99d5-f795316c9bbe
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_543_169
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: SARI U. (0489.39.43.46)\n\nAccès voiture : Place Meise
@@ -118,8 +117,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: SPARTA SCHEUT vs STRING PENELOPE
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:c008e492-a6e7-44dd-937e-4c9ff1a867ec
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_340_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Orange\n\n
  Contact équipe domicile: VANDE VELDE J. (0486.97.70.66)\n\nAccès voiture
@@ -139,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: PHARMA SC vs FOSSIS (LES) CS
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:d0399d14-e63c-4c7d-ae99-bc6997ae1db0
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_3A_1_268_217
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Jaune fluo\n\nContact é
  quipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : A partir

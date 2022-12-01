@@ -17,12 +17,14 @@ def generate_ics(events_df, name, desc, calendar_id):
     cal["PRODID"] = calendar_id
     cal["X-WR-CALNAME"] = name
     cal["X-WR-CALDESC"] = desc
-    cal["X-WR-TIMEZONE"] = "Europe/Brussels"
+    # cal["X-WR-TIMEZONE"] = "Europe/Brussels"
 
     for _, event in events_df.iterrows():
         ev = Event()
         ev.add("DTSTAMP", datetime.datetime.now())
-        ev["uid"] = str(uuid.uuid4())
+        ev[
+            "uid"
+        ] = f'{event["datetime_start"].year}_{event["division"]}_{event["day"]}_{event["home_club_id"]}_{event["away_club_id"]}'
         ev.add(
             "DTSTART",
             event["datetime_start"].astimezone(pytz.UTC),

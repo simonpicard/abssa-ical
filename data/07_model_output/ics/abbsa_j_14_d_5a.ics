@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_14_d_5a
 X-WR-CALDESC:Les matches de la journée 14 en divion 5A d'ABSSA.
 X-WR-CALNAME:D5A Journée 14
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: EFFETA FC vs AZUR RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221210T113000Z
 DTEND;VALUE=DATE-TIME:20221210T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:ead5587d-f7c8-437d-b005-12c62d0c358b
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_516_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
  tact équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Auto
@@ -27,8 +26,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: BRITISH UNITED (Eq. 4) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:3c19d51f-6414-40b1-989c-bb87fda7cee2
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_132_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
  leu\n\nContact équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès
@@ -49,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: ELAN EVERE RAC vs BEA WOLUWE
 DTSTART;VALUE=DATE-TIME:20221210T123000Z
 DTEND;VALUE=DATE-TIME:20221210T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:3eef1aa8-1b32-4cff-9a58-2c127b8c5cca
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_7_459
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu clair\n\nContact éq
  uipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain 
@@ -67,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: CENTRAL PARK FC (Eq. 2) vs WINCHESTER F.C.
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:8af54c30-dc76-435e-b5f8-5f011d0c6882
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_562_653
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu et blanc\n\nCont
  act équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Bouleva
@@ -86,8 +85,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: WOLUWE FC vs WATERMAEL FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:000122ea-eaba-4fd6-b8d6-fb28a90a9a6a
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_153_611
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
@@ -108,8 +107,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: FORESTOIS SC (Eq. 3) vs POSTBOYS FC
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:e2fedb1b-2712-49c5-bf4d-fdbe47d98b50
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_5A_14_152_75
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
  équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au dépa

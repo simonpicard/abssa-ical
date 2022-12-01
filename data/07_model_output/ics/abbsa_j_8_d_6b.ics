@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_8_d_6b
 X-WR-CALDESC:Les matches de la journée 8 en divion 6B d'ABSSA.
 X-WR-CALNAME:D6B Journée 8
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: ETINCELLE FC (Eq. 2) vs NIVELLES CS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:5ee36a6c-a065-47f6-8799-2badf1030691
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_35_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Orange fluo\n\nC
  ontact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring
@@ -29,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: AZUR RCS (Eq. 5) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:3784660e-f85d-4767-af74-cbe18438a28b
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_109_263
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
  ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
@@ -50,8 +49,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: PHARMA SC (Eq. 3) vs ETTEKIJS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:dfcafdf4-e3ed-4284-a7bc-0da9b5668565
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_268_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
  ntact équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : 
@@ -69,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: ITT - GECKO FC (Eq. 4) vs IDEAL RANGERS R
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:14fdabf5-8afb-46fc-bf12-4cc1d6e222d0
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_92_47
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
   équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chauss
@@ -91,8 +90,8 @@ SUMMARY:ABSSA D6B J8: BRUSSELS BRITISH R (Eq. 5) vs COIN DU BALAI FC (Eq.
  2)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:8c064c56-8f1b-41e5-b72c-e57fdc440c9c
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_1_229
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
@@ -109,8 +108,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: COPAINS REUNIS (Eq. 2) vs TOURINNOIS FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:2fe125da-a912-413e-a732-64c5c1b5a5d1
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_49_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
  équipe domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En v
@@ -130,8 +129,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J8: BRUSSELS LTC (Eq. 5) vs GOALOIS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:829026ed-99ae-4f56-ba9e-03e34996e7d5
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_8_39_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
  ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B

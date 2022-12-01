@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_11_d_6b
 X-WR-CALDESC:Les matches de la journée 11 en divion 6B d'ABSSA.
 X-WR-CALNAME:D6B Journée 11
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: ETINCELLE FC (Eq. 2) vs PHARMA SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T113000Z
 DTEND;VALUE=DATE-TIME:20221119T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:5d10aa6b-9481-430c-a748-e4e3f45882cb
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_35_268
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
  équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
@@ -29,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: ETTEKIJS (Eq. 3) vs IDEAL RANGERS R
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:a763b690-dcee-4afb-817b-1a425128c750
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_343_47
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Orange et 
  Noir\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voitur
@@ -47,8 +46,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: GOALOIS (Eq. 3) vs AZUR RCS (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:955be17b-1aa2-4347-b4e3-f02a3790d9b7
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_345_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
  uipe domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : Boulevard d
@@ -66,8 +65,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: TOURINNOIS FC (Eq. 4) vs ITT - GECKO FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221119T140000Z
 DTEND;VALUE=DATE-TIME:20221119T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:4d48ce4c-3338-4d5c-a72d-74e5f7c8160b
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_292_92
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
  équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de
@@ -86,8 +85,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: BRUSSELS LTC (Eq. 5) vs BRUSSELS BRITISH R (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:4434c8ea-bacc-42fb-8721-e4f454134e79
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_39_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
  ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
@@ -108,8 +107,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: NIVELLES CS (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:8929b8f6-589b-4524-b893-0458647fe31d
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_306_263
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange fluo\nCouleur principale équipe exterieure: Bleu\n\nContact é
  quipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant de
@@ -131,8 +130,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J11: COPAINS REUNIS (Eq. 2) vs COIN DU BALAI FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:ad0476be-befd-476d-8e6c-ec15897634d0
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6B_11_49_229
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En venant de 

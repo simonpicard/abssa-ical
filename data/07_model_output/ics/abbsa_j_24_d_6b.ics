@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_24_d_6b
 X-WR-CALDESC:Les matches de la journée 24 en divion 6B d'ABSSA.
 X-WR-CALNAME:D6B Journée 24
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: PHARMA SC (Eq. 3) vs ETINCELLE FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T123000Z
 DTEND;VALUE=DATE-TIME:20230311T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:94d3a2cb-c4cf-4b55-9940-cf5c4196cc96
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_268_35
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact 
  équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring d
@@ -27,8 +26,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: AZUR RCS (Eq. 5) vs GOALOIS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230311T123000Z
 DTEND;VALUE=DATE-TIME:20230311T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:18e869d3-8883-4fc0-916d-16bbcd16a302
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_109_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
  uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
@@ -47,8 +46,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: ITT - GECKO FC (Eq. 4) vs TOURINNOIS FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:e96bde8e-acf3-42ba-b681-0e0dc3ac6343
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_92_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
  équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussé
@@ -68,8 +67,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: NEW ARQUOIS FC (Eq. 3) vs NIVELLES CS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:e6a9273a-caf7-4d0e-ac0a-8b42578bfe2e
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_263_306
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
  quipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 
@@ -89,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: IDEAL RANGERS R vs ETTEKIJS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:4bf113af-5248-4cbb-866f-184fbaed91bc
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_47_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Noir\nCouleur principale équipe exterieure: Noir rayé de b
  lanc\n\nContact équipe domicile: SIMON A. (0477.87.83.33)\n\nAccès voitu
@@ -116,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: BRUSSELS BRITISH R (Eq. 5) vs BRUSSELS LTC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:8fe47e8c-9bdd-45b6-9aa7-56acc6ed3b3c
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_1_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
  ipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411
@@ -134,8 +133,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J24: COIN DU BALAI FC (Eq. 2) vs COPAINS REUNIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:d863b86d-5981-45f7-999a-dfdadb85bcf8
+DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+UID:2023_6B_24_229_49
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
  omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa

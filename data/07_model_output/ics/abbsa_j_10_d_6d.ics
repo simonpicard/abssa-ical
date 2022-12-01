@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_10_d_6d
 X-WR-CALDESC:Les matches de la journée 10 en divion 6D d'ABSSA.
 X-WR-CALNAME:D6D Journée 10
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: CHIEFS WSL (Eq. 4) vs MIREILLE WEMMEL (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T100000Z
 DTEND;VALUE=DATE-TIME:20221112T111000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:f5f52ece-0c9e-45dc-85c9-98b64b0e6eff
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_303_93
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
@@ -27,8 +26,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: CHENOIS (ESPER) (Eq. 2) vs HIGGINS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:b6cc042e-af05-451b-a78a-5f3b0995907a
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_412_416
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Rayé Bleu et B
  lanc\n\nContact équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès v
@@ -47,8 +46,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: STRING PENELOPE (Eq. 4) vs IRLANDE FC (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:3c077fcd-a018-4225-8f91-efba7e4b836c
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_181_402
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Vert\n\nContact équipe
   domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : Au départ de 
@@ -73,8 +72,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: CHENOIS SC (Eq. 3) vs ENTENTE  RACB (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:a4449f63-20c1-44a4-ba4f-5dec2ffbc0dc
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_84_2
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venan
@@ -93,8 +92,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: POSTBOYS FC (Eq. 2) vs LORRAINE (LA) RFC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:20112d2e-9d85-4ccd-85f0-dc6bbeeb0ad1
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_75_44
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
  équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
@@ -112,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: JETTOISE (AMICALE) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:e7487b2f-ad9e-44e5-a1ea-99a2b466d1f3
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_347_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et blanc\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Direct
@@ -132,8 +131,8 @@ SUMMARY:ABSSA D6D J10: OMNISPORT BIERGHES (Eq. 2) vs BRITISH UNITED (Eq. 6
  )
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:22665ac6-b498-4c32-82fe-b422f2de239a
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_6D_10_455_132
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
  omicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute Bruxelles-

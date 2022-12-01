@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_17_d_4b
 X-WR-CALDESC:Les matches de la journée 17 en divion 4B d'ABSSA.
 X-WR-CALNAME:D4B Journée 17
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: FRIENDS SPIRIT AUD vs GOALOIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T113000Z
 DTEND;VALUE=DATE-TIME:20230114T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:d49a59df-db0f-4cff-a0fd-176c20bc8a58
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_522_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
  domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
@@ -29,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: OMNISPORT BIERGHES vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230114T120000Z
 DTEND;VALUE=DATE-TIME:20230114T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:1ca7e799-38e7-46e9-b588-b73a1d6ef5b4
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_455_497
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
@@ -51,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: BRUSSELS LTC (Eq. 3) vs TRINQUANT
 DTSTART;VALUE=DATE-TIME:20230114T123000Z
 DTEND;VALUE=DATE-TIME:20230114T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:6eac693c-48f7-4be0-bfc9-38e435f9a7ca
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_39_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu marine\n\nContac
  t équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A par
@@ -71,8 +70,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: CHENOIS (ESPER) vs MOON SHOOTERS
 DTSTART;VALUE=DATE-TIME:20230114T123000Z
 DTEND;VALUE=DATE-TIME:20230114T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:aaac1881-2fae-4f40-8ba8-4b0fa2e3b018
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_412_606
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Jaune\n\nContac
  t équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture : Venan
@@ -91,8 +90,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: WAPPERS FC vs NEW INN FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:7099ed74-babc-4c20-92f3-b6513987ede5
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_67_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé noir et blanc\nCouleur principale équipe exterieure: Noir et ro
  uge\n\nContact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voitur
@@ -115,8 +114,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: PATRONS (LES) vs NIVELLES CS
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:0bcbe9df-8ea6-450f-ada6-c6a2df426b44
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2023_4B_17_628_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact
   équipe domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Bouleva

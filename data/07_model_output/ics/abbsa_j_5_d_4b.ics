@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:abbsa_j_5_d_4b
 X-WR-CALDESC:Les matches de la journée 5 en divion 4B d'ABSSA.
 X-WR-CALNAME:D4B Journée 5
-X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: TRINQUANT vs BRUSSELS LTC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221001T103000Z
 DTEND;VALUE=DATE-TIME:20221001T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:d1ba38be-01db-4f02-ab9d-9f72473ab32e
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_445_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bordeaux\n\nContac
  t équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venan
@@ -30,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: NEW INN FC (Eq. 3) vs WAPPERS FC
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:70312ebc-92ec-4587-8398-3c0fd69653cd
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_359_67
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Rayé noir et bl
  anc\n\nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voitu
@@ -51,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: GOALOIS (Eq. 2) vs FRIENDS SPIRIT AUD
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:35acdcf5-1f84-42f0-baa8-b113a2bd3dad
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_345_522
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
  domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En venant de Bru
@@ -72,8 +71,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: NIVELLES CS vs PATRONS (LES)
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:55960a2b-98fd-4ca0-b9bb-2cb78c6a8c27
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_306_628
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
   équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant
@@ -95,8 +94,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: VIRGINAL ASF vs OMNISPORT BIERGHES
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:08d3099a-f3a6-41c4-88ca-8732876429e8
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_497_455
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact
   équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dé
@@ -119,8 +118,8 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: MOON SHOOTERS vs CHENOIS (ESPER)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T132650Z
-UID:1c5d82d8-c3f7-4fce-b3d8-4fd2384fb89f
+DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+UID:2022_4B_5_606_412
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc et rouge\n\nContac
  t équipe domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En vena
