@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J1: BRUSSELS LTC (Eq. 2) vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_1_39_22
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et blanc\n\nCon
- tact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ve
+ tact équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ve
  nant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sort
  ie n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richell
  e jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain 
@@ -25,17 +25,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  SPORT-R\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J2: BRUSSELS LTC (Eq. 2) vs NIVELLOIS-ACLOT BS
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_2_39_503
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et noir\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sorti
  e n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle
   jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain s
@@ -49,17 +50,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  IS-ACLOT-BS\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: BRUSSELS LTC (Eq. 2) vs BEEKINGS F.C.
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_4_39_648
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et noir\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sorti
  e n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle
   jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain s
@@ -73,17 +75,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  S-FC\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J5: NEPTUNE FC vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_5_56_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: LOUIES S. (0474.55.15.41)\n\nAccès voiture : Via la chaussé
+ pe domicile: Louies S. (0474.55.15.41)\n\nAccès voiture : Via la chaussé
  e de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite 
  le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambe
  rt.\n\nInfo équipe domicile: https://www.abssa.org/team/056/NEPTUNE-FC\nI
@@ -92,17 +95,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:louiesstephane@gmail.com
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J6: BRUSSELS LTC (Eq. 2) vs HELLAS BERCHEM FC.
 DTSTART;VALUE=DATE-TIME:20221008T103000Z
 DTEND;VALUE=DATE-TIME:20221008T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_6_39_488
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
  aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
   3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
@@ -116,17 +119,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  C\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J7: RHINOCEROS vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_7_654_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: WATTEYNE R. (0498.16.13.01)\n\nAccès voiture : Auto
+ act équipe domicile: Watteyne R. (0498.16.13.01)\n\nAccès voiture : Auto
  route Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-Neu
  ve\, continuer sur la N4 direction Namur\, au premier rond-point prendre 
  à droite vers la N250 et suivre "Blocry/Hocaille". Après le second rond-
@@ -138,17 +142,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:robin@watteyne.com
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J8: REALISTES MEXICO R vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_8_57_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine/Orange\nCouleur principale équipe exterieure: Bordeaux\n\
- nContact équipe domicile: Mad. BRUSSELAERS P. (02.478.40.33)\n\nAccès vo
+ nContact équipe domicile: Mad. Brusselaers P. (02.478.40.33)\n\nAccès vo
  iture : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\
  , prendre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit C
  hemin Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300
@@ -157,17 +161,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  C\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:real_mexico_057@yahoo.fr
+ORGANIZER;CN="Mad. Brusselaers P.";ROLE=Secrétaire:MAILTO:real_mexico_057
+ @yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J9: BRUSSELS LTC (Eq. 2) vs TAURO FC
 DTSTART;VALUE=DATE-TIME:20221105T113000Z
 DTEND;VALUE=DATE-TIME:20221105T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_9_39_574
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
  aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
   3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
@@ -181,17 +186,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J10: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_10_221_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de l
+ ipe domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Boulevard de l
  a Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer en d
  essous du petit pont et continuer la chaussée de Stockel pendant env. 500
   m. Le terrain est situé sur la droite de la chaussée.\n\nInfo équipe d
@@ -200,17 +206,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ://www.abssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J11: BRUSSELS LTC (Eq. 2) vs VOGELPIK FC.
 DTSTART;VALUE=DATE-TIME:20221119T113000Z
 DTEND;VALUE=DATE-TIME:20221119T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_11_39_629
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et noir\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sorti
  e n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle
   jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain s
@@ -224,17 +230,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  K-FC\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J12: BRUSSELS BRITISH R (Eq. 4) vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T113000Z
 DTEND;VALUE=DATE-TIME:20221126T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_12_1_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411
+ ipe domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411
  \, prendre la sortie Rosières. Passer devant l'église\, longer l'autorou
  te et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nIn
  fo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nIn
@@ -242,17 +249,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J13: NIVELLOIS-ACLOT BS vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221203T140000Z
 DTEND;VALUE=DATE-TIME:20221203T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_13_503_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: DRAUX N. (0472.40.01.22)\n\nAccès voiture : En vena
+ act équipe domicile: Draux N. (0472.40.01.22)\n\nAccès voiture : En vena
  nt de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nive
  lles-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la direc
  tion de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à 
@@ -265,17 +272,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  eam/039/BRUSSELS-LTC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:ni.draux@gmail.com
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J15: STRING PENELOPE (Eq. 2) vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221217T113000Z
 DTEND;VALUE=DATE-TIME:20221217T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_4A_15_181_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bordeaux\n\nContact éq
- uipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant 
+ uipe domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : En venant 
  de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la
   sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prend
  re la direction d'Ottignies par la N238. Au 1èr feu de signalisation cont
@@ -298,17 +305,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J16: BEEKINGS F.C. vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230107T140000Z
 DTEND;VALUE=DATE-TIME:20230107T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_16_648_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et noir\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: THONART W. (0475.96.36.63)\n\nAccès voiture : Par l
+ act équipe domicile: Thonart W. (0475.96.36.63)\n\nAccès voiture : Par l
  a E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\,
   Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-poin
  t\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixen
@@ -320,17 +328,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:williamthonart@gmail.com
+ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J17: BRUSSELS LTC (Eq. 2) vs NEPTUNE FC
 DTSTART;VALUE=DATE-TIME:20230114T113000Z
 DTEND;VALUE=DATE-TIME:20230114T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_17_39_56
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
  aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
   3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
@@ -344,17 +352,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J18: HELLAS BERCHEM FC. vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230121T120000Z
 DTEND;VALUE=DATE-TIME:20230121T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_18_488_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: HADJIANESTIS A. (0475.31.23.80)\n\nAccès voiture : A partir 
+ pe domicile: Hadjianestis A. (0475.31.23.80)\n\nAccès voiture : A partir 
  du boulevard Charles Quint à hauteur de Basilix Shopping Center\, prendre
   la rue des Châlets (Lusthuizenstraat)\n\nInfo équipe domicile: https://
  www.abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo équipe exterieure: https:/
@@ -363,17 +372,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8696433;4.2873126
 LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
  Belgique
-ORGANIZER:MAILTO:fchellas@gmail.com
+ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J19: BRUSSELS LTC (Eq. 2) vs RHINOCEROS
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_19_39_654
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et bleu\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sorti
  e n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle
   jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain s
@@ -387,17 +396,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ROS\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J20: BRUSSELS LTC (Eq. 2) vs REALISTES MEXICO R
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_20_39_57
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu marine/Orange\n\
- nContact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture 
+ nContact équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture 
  : Venant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la 
  sortie n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Ric
  helle jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louv
@@ -411,17 +421,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ALISTES-MEXICO-R\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J21: TAURO FC vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T120000Z
 DTEND;VALUE=DATE-TIME:20230211T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_21_574_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\,
+ pe domicile: Lietaer Y. (0484.16.30.31)\n\nAccès voiture : Place Meiser\,
   descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour pr
  endre à gauche\, puis encore la première à gauche\nOu :  Place Meiser p
  rendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo éq
@@ -431,17 +442,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J22: BRUSSELS LTC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230225T113000Z
 DTEND;VALUE=DATE-TIME:20230225T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_22_39_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 
  Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'a
  u 3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur envir
@@ -455,17 +466,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  H-R\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J23: BRUSSELS LTC (Eq. 2) vs SAINT GEORGES RCS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_23_39_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 
  Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'a
  u 3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur envir
@@ -479,17 +491,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  CS\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J24: VOGELPIK FC. vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_24_629_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: NOLET P (0486.56.82.31)\n\nAccès voiture : Autorout
+ act équipe domicile: Nolet P (0486.56.82.31)\n\nAccès voiture : Autorout
  e Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-Neuve\,
   continuer sur la N4 direction Namur\, au premier rond-point prendre à dr
  oite vers la N250 et suivre "Blocry/Hocaille". Après le second rond-point
@@ -501,17 +514,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:pierrenolet91@gmail.com
+ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J25: DUDEN SPORT R vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_25_22_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Bordeaux\n\nCon
- tact équipe domicile: ISABEAUX A (0472.34.00.24)\n\nAccès voiture : Ring
+ tact équipe domicile: Isabeaux A (0472.34.00.24)\n\nAccès voiture : Ring
  \, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre 
  à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\
  , Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, ap
@@ -522,17 +535,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:arnaud8684@hotmail.be
+ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J26: BRUSSELS LTC (Eq. 2) vs STRING PENELOPE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230325T113000Z
 DTEND;VALUE=DATE-TIME:20230325T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_4A_26_39_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Orange\n\nContact éq
- uipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de 
+ uipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de 
  Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27
   Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'
  au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur envi
@@ -546,6 +559,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  E\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 END:VCALENDAR

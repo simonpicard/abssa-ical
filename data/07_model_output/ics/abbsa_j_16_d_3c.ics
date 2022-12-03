@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: ETTEKIJS (Eq. 2) vs CENTRAL PARK FC
 DTSTART;VALUE=DATE-TIME:20230107T113000Z
 DTEND;VALUE=DATE-TIME:20230107T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_343_562
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu et Bl
- anc\n\nContact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture
+ anc\n\nContact équipe domicile: Raes F. (0479.73.82.49)\n\nAccès voiture
   : A partir du square des Archiducs\, prendre la rue Berensheide\, ensuite
   l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/tea
  m/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/562/CE
@@ -19,17 +19,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: BREU UNITED vs STER'S
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_603_598
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Mauve\nCouleur principale équipe exterieure: Vert et Blanc\
- n\nContact équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture
+ n\nContact équipe domicile: Paschold J. (0478.27.10.78)\n\nAccès voiture
   : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
  Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
  levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
@@ -40,17 +40,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:paschold.j@gmail.com
+ORGANIZER;CN="Paschold J.";ROLE=Secrétaire:MAILTO:paschold.j@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: CHIEFS WSL vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_303_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
+  domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
  oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
@@ -59,17 +59,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: CORNAC UNITED FC vs CELTIC ROOSTERS
 DTSTART;VALUE=DATE-TIME:20230107T133000Z
 DTEND;VALUE=DATE-TIME:20230107T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_151_626
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Vert et blanc\n\nContact
-  équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
+  équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le R
  ing Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) con
  tinuer tout droit\, remonter vers le Ring et prendre à droite pour sortir
   vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passe
@@ -79,17 +79,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  626/CELTIC-ROOSTERS\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: BOUKS  FC vs SAINT GEORGES RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_579_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxe
+ domicile: Schapira  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxe
  lles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenenda
  el\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chate
  au de La Hulpe\, toujours tout droit. Au feu de signalisation et le carref
@@ -101,17 +101,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: SYB  RFC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_48_544
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : 
+ e\n\nContact équipe domicile: Joie C (0496.87.21.50)\n\nAccès voiture : 
  En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ike
  a)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Boulev
  ard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d
@@ -122,17 +123,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
+ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: MACAPSULES (LES) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_627_611
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert/blanc\nCouleur principale équipe exterieure: Bleu\n\nContact éq
- uipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Autoroute Br
+ uipe domicile: Daumont J. (0475.42.26.61)\n\nAccès voiture : Autoroute Br
  uxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prend
  re la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deu
  x premiers ronds-points à l'issue de la RN 25. Au troisième rond-point p
@@ -142,6 +143,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  MAEL-FC\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jordandaumont@gmail.com
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:jordandaumont@gmail.com
 END:VEVENT
 END:VCALENDAR

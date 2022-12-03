@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: NEW ARQUOIS FC (Eq. 2) vs LORGNETTE (LA)  FC
 DTSTART;VALUE=DATE-TIME:20221126T113000Z
 DTEND;VALUE=DATE-TIME:20221126T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_263_392
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 
+ pe domicile: Beka J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 
  (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. 
  A la station d'essence Total\, prendre à droite pendant +/- 700 mètres.\
  nAu rond point\, prendre à droite en direction du château de La Rocq\, p
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: NEW INN FC (Eq. 4) vs PANGLOSS FC
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_359_123
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\, Blanc\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dép
+ ct équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -43,17 +43,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: LUNETTE (LA) FC vs GREZ AJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_130_514
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture : En vena
+ équipe domicile: Bonifazio R. (0488.31.38.10)\n\nAccès voiture : En vena
  nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
  endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
  se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
@@ -64,17 +64,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
+ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: TRICOTEUSES FC. vs ZIJP FC
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_617_646
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: CASTIN\, L (0484.80.59.60)\n\nAccès voiture : Ring de Bruxel
+ pe domicile: Castin\, L (0484.80.59.60)\n\nAccès voiture : Ring de Bruxel
  les (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite pre
  mière rue à droite (Louis Marcelisstraat) puis la troisième à droite (
  Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre les n°
@@ -88,17 +89,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  FC\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:leopold.castin@hotmail.com
+ORGANIZER;CN="Castin, L";ROLE=Secrétaire:MAILTO:leopold.castin@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: BRUSSELS LTC (Eq. 4) vs BRITISH UNITED (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_39_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
  ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
  ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
@@ -110,17 +112,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  g/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J12: BOUSVAL GENAPPE (Eq. 2) vs MIREILLE WEMMEL
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_12_401_93
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange et bleu\nCouleur principale équipe exterieure: Rouge et  Noir\
- n\nContact équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52)\n\nAccès voiture
   : Venant de Bruxelles prendre le Ring Ouest\, sortie Genappe (n°25)\, pr
  endre à droite sur la N 5 (Bruxelles-Charleroi) direction Charleroi penda
  nt +/- 10 min. Prendre à gauche au carrefour entre la N 5 et la N 93 dire
@@ -136,6 +139,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  04
 GEO:50.57463749999999;4.4089379
 LOCATION:Rue de Ninove 1\, 1476 Houtain-Le-Val\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: SNEAKY BABOONS vs BIERGEOIS CS
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_641_70
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: STASSE\, W (0473.95.76.80)\n\nAccès voiture : A partir du square
+ omicile: Stasse\, W (0473.95.76.80)\n\nAccès voiture : A partir du square
   des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes
  .\n\nInfo équipe domicile: https://www.abssa.org/team/641/SNEAKY-BABOONS\
  nInfo équipe exterieure: https://www.abssa.org/team/070/BIERGEOIS-CS\nInf
@@ -19,17 +19,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:willstasse@gmail.com
+ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: COMP. CINEMA R vs UCCLE STENDHAL
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_16_214
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Equipe 1 : Rouge rayé de
-  noir\n\nContact équipe domicile: SARTORI B. (0479.15.31.09)\n\nAccès vo
+  noir\n\nContact équipe domicile: Sartori B. (0479.15.31.09)\n\nAccès vo
  iture : Boulevard Lambermont\, prendre le boulevard Léopold III\, directi
  on aéroport de Bruxelles-National\, au 3ème feu de signalisation prendre
   à droite. le terrain se trouve à 50 m.\n\nInfo équipe domicile: https:
@@ -39,17 +39,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
-ORGANIZER:MAILTO:compagnonscinema016@gmail.com
+ORGANIZER;CN="Sartori B.";ROLE=Secrétaire:MAILTO:compagnonscinema016@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: UNION TIGERS vs ITT - GECKO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_649_92
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu ciel et Blanc\nCouleur principale équipe exterieure: Noir\n\nCon
- tact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par l
+ tact équipe domicile: Thibaut L (0472.52.93.45)\n\nAccès voiture : Par l
  e Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) 
  continuer tout droit\, remonter vers le Ring et prendre à droite pour sor
  tir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pa
@@ -59,17 +60,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  92/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: FORESTOIS SC (Eq. 2) vs STRING PENELOPE (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220910T120000Z
 DTEND;VALUE=DATE-TIME:20220910T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_152_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de l
+  domicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ de l
  a Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la
   rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roul
  er env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) 
@@ -80,17 +81,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: TIEKSS WEMMEL vs EXTRANOS (LOS)
 DTSTART;VALUE=DATE-TIME:20220910T124500Z
 DTEND;VALUE=DATE-TIME:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_644_569
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge et Bleu\n\
- nContact équipe domicile: Mad. DE DECKER N (0477.64.40.18)\n\nAccès voit
+ nContact équipe domicile: Mad. De Decker N (0477.64.40.18)\n\nAccès voit
  ure : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen v
  ia de Is. Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag 
  nemen\, Diepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voor
@@ -101,17 +102,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.900999;4.4855744
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
-ORGANIZER:MAILTO:info@tiekss.org
+ORGANIZER;CN="Mad. De Decker N";ROLE=Secrétaire:MAILTO:info@tiekss.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: BLACK STAR GENVAL vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4D_2_601_574
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: VAN BAEL J. (0479.36.69.79)\n\nAccès voiture : Prendre l'autorou
+ omicile: Van Bael J. (0479.36.69.79)\n\nAccès voiture : Prendre l'autorou
  te de Namur (E411)\, sortie n° 4 - (Genval-Rosières). En bas de la sorti
  e prendre la deuxième rue à droite (rue de La Hulpe) direction "Genval -
   Maubroux". Au premier rond point continuez à suivre la direction "Genval
@@ -130,6 +131,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.724554;4.496792999999999
 LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
  \, Belgique
-ORGANIZER:MAILTO:blackstargenval@gmail.com
+ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: TRINQUANT vs GOALOIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T113000Z
 DTEND;VALUE=DATE-TIME:20221112T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_445_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
+ équipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
  de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
  roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
  le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
@@ -23,17 +23,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: OMNISPORT BIERGHES vs PATRONS (LES)
 DTSTART;VALUE=DATE-TIME:20221112T120000Z
 DTEND;VALUE=DATE-TIME:20221112T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_455_628
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
+  équipe domicile: Barbe L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
  Bruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21)
   pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Pren
  dre la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dr
@@ -45,17 +46,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/B02
 GEO:50.6957846;4.129257
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: BRUSSELS LTC (Eq. 3) vs NIVELLES CS
 DTSTART;VALUE=DATE-TIME:20221112T123000Z
 DTEND;VALUE=DATE-TIME:20221112T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_39_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu et jaune\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A p
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : A p
  artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
  rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
   Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
@@ -65,17 +67,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /NIVELLES-CS\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: WAPPERS FC vs FRIENDS SPIRIT AUD
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_67_522
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture : Ring 
+ ntact équipe domicile: Vinck B. (0475.92.57.30)\n\nAccès voiture : Ring 
  de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. En
  suite première rue à droite (Louis Marcelisstraat) puis la troisième à
   droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entr
@@ -89,17 +92,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  FRIENDS-SPIRIT-AUD\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: VIRGINAL ASF vs MOON SHOOTERS
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_497_606
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
+  domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
  Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre la
   direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la dire
  ction Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-Char
@@ -113,6 +116,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 END:VCALENDAR

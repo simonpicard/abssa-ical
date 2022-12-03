@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: ETTEKIJS (Eq. 2) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_343_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
+ ntact équipe domicile: Raes F. (0479.73.82.49)\n\nAccès voiture : A part
  ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
   des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETT
  EKIJS\nInfo équipe exterieure: https://www.abssa.org/team/611/WATERMAEL-F
@@ -19,17 +19,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: STER'S vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_598_544
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture :
+ ontact équipe domicile: Reginster Th. (0475.52.11.27)\n\nAccès voiture :
   En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\,
   prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la brete
  lle\, prendre la direction d'Ottignies par la N238. Au 1èr feu de signali
@@ -51,17 +51,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  sa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:Thomas.reginster@live.be
+ORGANIZER;CN="Reginster Th.";ROLE=Secrétaire:MAILTO:Thomas.reginster@live
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: BREU UNITED vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_603_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Mauve\nCouleur principale équipe exterieure: Blanc\n\nConta
- ct équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture : En ve
+ ct équipe domicile: Paschold J. (0478.27.10.78)\n\nAccès voiture : En ve
  nant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, 
  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard J
  osse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oise
@@ -72,17 +73,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:paschold.j@gmail.com
+ORGANIZER;CN="Paschold J.";ROLE=Secrétaire:MAILTO:paschold.j@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: CORNAC UNITED FC vs CHIEFS WSL
 DTSTART;VALUE=DATE-TIME:20230204T133000Z
 DTEND;VALUE=DATE-TIME:20230204T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_151_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
+  domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
  t\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer t
  out droit\, remonter vers le Ring et prendre à droite pour sortir vers It
  terbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le rin
@@ -92,17 +93,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  FS-WSL\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: BOUKS  FC vs MACAPSULES (LES)
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_579_627
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert/blanc\n\nContact éq
- uipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de 
+ uipe domicile: Schapira  F. (0485.60.96.01)\n\nAccès voiture : Venant de 
  Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groe
  nendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le 
  chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le c
@@ -114,17 +115,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: SYB  RFC vs SAINT GEORGES RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_48_221
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En ven
+ ontact équipe domicile: Joie C (0496.87.21.50)\n\nAccès voiture : En ven
  ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
  rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
  sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
@@ -135,17 +137,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
+ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: CENTRAL PARK FC vs CELTIC ROOSTERS
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_562_626
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et Blanc\nCouleur principale équipe exterieure: Vert et blanc\n\
- nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Bo
+ nContact équipe domicile: Genot F. (0473.57.28.61)\n\nAccès voiture : Bo
  ulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel 
  jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
  à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRA
@@ -154,6 +156,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 END:VCALENDAR

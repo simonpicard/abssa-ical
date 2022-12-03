@@ -35,7 +35,12 @@ def generate_ics(events_df, name, desc, calendar_id):
         ev["geo"] = vGeo((event["latitude"], event["longitude"]))
         ev["summary"] = vText(event["ical_summary"])
         ev["description"] = vText(event["ical_desc"])
-        ev["organizer"] = vCalAddress(f'MAILTO:{event["email_home"]}')
+
+        organizer = vCalAddress(f'MAILTO:{event["email_home"]}')
+        organizer.params["cn"] = vText(event["secretary_home"])
+        organizer.params["role"] = vText("Secrétaire")
+        ev["organizer"] = organizer
+
         cal.add_component(ev)
     return cal
 

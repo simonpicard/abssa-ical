@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: GOALOIS vs BIG J - ASPS
 DTSTART;VALUE=DATE-TIME:20221105T113000Z
 DTEND;VALUE=DATE-TIME:20221105T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_345_137
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : Boulevard de la 
+ domicile: Laruelle M. (0494.52.09.71)\n\nAccès voiture : Boulevard de la 
  Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit
   Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\n
  Info équipe domicile: https://www.abssa.org/team/345/GOALOIS\nInfo équip
@@ -20,17 +20,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: AZUR RCS (Eq. 2) vs BRITISH UNITED (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221105T123000Z
 DTEND;VALUE=DATE-TIME:20221105T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_109_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ ipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue d
  e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
  ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
@@ -41,17 +42,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: GAST FC vs BRUSSELS BRITISH R (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221105T124500Z
 DTEND;VALUE=DATE-TIME:20221105T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_388_1
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autorout
+  domicile: Clais D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autorout
  e ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dr
  ogenbos-Centre\, passer devant la Maison Communale et le terminus du tram\
  , ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au 
@@ -61,17 +63,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: ENTENTE  RACB vs VOLLENBACK FC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_2_589
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rose et noir\n\nContact 
- équipe domicile: DATH D. (0473.47.15.41)\n\nAccès voiture : Pont de Laek
+ équipe domicile: Dath D. (0473.47.15.41)\n\nAccès voiture : Pont de Laek
  en\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue 
  des Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis pr
  emière à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe 
@@ -80,17 +82,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:daniel.dath@hotmail.com
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: LORRAINE (LA) RFC (Eq. 2) vs FORESTOIS SC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_44_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
+ omicile: Degimbe M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
  rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
  t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
@@ -98,17 +100,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  : https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: MTM FC vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_578_416
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et bordeaux\nCouleur principale équipe exterieure: Rayé Bleu et
-  Blanc\n\nContact équipe domicile: DE SMEDT C. (0485.54.18.75)\n\nAccès 
+  Blanc\n\nContact équipe domicile: De Smedt C. (0485.54.18.75)\n\nAccès 
  voiture : Autoroute E 411 direction Namur / Luxembourg\, prendre la sortie
   n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	point 2ième sort
  ie N238/Blvd. de l'Europe direction Wavre Centre. Entrer dans Wavre puis 
@@ -121,17 +123,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.7216297;4.6192566
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
-ORGANIZER:MAILTO:leced10@hotmail.com
+ORGANIZER;CN="De Smedt C.";ROLE=Secrétaire:MAILTO:leced10@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: PRESS (AMICALE) vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_2B_9_30_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: TIMPERMAN E. (0468.41.16.68)\n\nAccès voiture : Ring de Bruxell
+ domicile: Timperman E. (0468.41.16.68)\n\nAccès voiture : Ring de Bruxell
  es (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au
   carrefour Asse-Wolvertem\, prendre direction Asse. Après l'église\, pre
  ndre la 1ère à main droite (direction Mollem). Après 2 km. prendre la K
@@ -141,6 +143,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  .abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER:MAILTO:eric.timperman@skynet.be
+ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.
+ be
 END:VEVENT
 END:VCALENDAR

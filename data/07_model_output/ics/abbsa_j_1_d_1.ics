@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: JEFKE COUNTRY vs ITT - GECKO FC
 DTSTART;VALUE=DATE-TIME:20220903T110000Z
 DTEND;VALUE=DATE-TIME:20220903T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_423_92
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
+ équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture : Boulev
  ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
  u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
  auche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COUN
@@ -20,17 +20,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: LXG CINQUANTENAIRE vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20220903T113000Z
 DTEND;VALUE=DATE-TIME:20220903T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_542_249
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et Bleu.\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: GIMENEZ VILLAHOZ M (0487.79.91.95)\n\nAccès voiture : 
+  équipe domicile: Gimenez Villahoz M (0487.79.91.95)\n\nAccès voiture : 
  Place Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxièm
  e carrefour prendre à gauche\, puis encore la première à gauche\nOu :  
  Place Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chaz
@@ -40,34 +40,36 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
-ORGANIZER:MAILTO:lxgfc50@gmail.com
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: EURO UNION vs BRUSSELS LTC
 DTSTART;VALUE=DATE-TIME:20220903T113000Z
 DTEND;VALUE=DATE-TIME:20220903T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_567_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Avenue d
+ pe domicile: Mad. De Becker S (0473.54.89.74)\n\nAccès voiture : Avenue d
  e la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "Stade A.
   Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567/EURO-
  UNION\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LT
  C\nInfo terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
+ORGANIZER;CN="Mad. De Becker S";ROLE=Secrétaire:MAILTO:euro.union567@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: IRLANDE FC vs BRUSSELS BRITISH R
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_402_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -78,17 +80,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: COIN DU BALAI FC vs CHOULE AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_229_517
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: ROSENFELD J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
+ omicile: Rosenfeld J. (0485.05.40.06)\n\nAccès voiture : A partir du squa
  re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
  es.\n\nInfo équipe domicile: https://www.abssa.org/team/229/COIN-DU-BALAI
  -FC\nInfo équipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERG
@@ -96,17 +99,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:rosenfeldjean@hotmail.com
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: CHENOIS SC vs GREZ AJ
 DTSTART;VALUE=DATE-TIME:20220903T130000Z
 DTEND;VALUE=DATE-TIME:20220903T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_84_514
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venan
+  équipe domicile: Versmissen P. (0495.59.61.77)\n\nAccès voiture : Venan
  t d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bru
  xelles\, continuer jusqu'à la place E. Vandevelde (intersection de la cha
  ussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de
@@ -116,17 +120,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /GREZ-AJ\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: PORTUGAL FC vs WONG A.S.
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_1_403_523
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: FIGUEIRA DE CARVALHO M. (0476.40.68.33)\n\nAccès voiture : Rin
+  domicile: Figueira De Carvalho M. (0476.40.68.33)\n\nAccès voiture : Rin
  g\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre
   à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken
  \, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, a
@@ -137,6 +142,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:manuel.figueira@mne.pt
+ORGANIZER;CN="Figueira De Carvalho M.";ROLE=Secrétaire:MAILTO:manuel.figu
+ eira@mne.pt
 END:VEVENT
 END:VCALENDAR

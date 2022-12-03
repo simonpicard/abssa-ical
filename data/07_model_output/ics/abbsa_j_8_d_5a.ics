@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: AZUR RCS (Eq. 4) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20221022T100000Z
 DTEND;VALUE=DATE-TIME:20221022T111000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_109_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc
-  et Bleu\n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nA
+  et Bleu\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nA
  ccès voiture : Avenue de Tervuren\, direction Tervuren. Passé le bouleva
  rd du Souverain prendre à gauche au premier feu de signalisation (Av. Mad
  oux). Au feu de signalisation suivant prendre la 2ème rue à main droite 
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: BRITISH UNITED (Eq. 4) vs CENTRAL PARK FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T110000Z
 DTEND;VALUE=DATE-TIME:20221022T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_132_562
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute
+ pe domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute
   Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le 
  centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passe
  r le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker"
@@ -44,17 +45,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: WATERMAEL FC (Eq. 2) vs WINCHESTER F.C.
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_611_653
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accè
+ équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : L'accè
  s au terrain se fait à partir du n° 2057 de la chaussée de Wavre (en fa
  ce du stade communal d'Auderghem). L'accès au terrain se fait par l'arri
  ère du bâtiment principal (où sont situés les vestiaires) il faut parc
@@ -66,17 +68,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: POSTBOYS FC vs BEA WOLUWE
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_75_459
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bleu clair\n\nCo
- ntact équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : D
+ ntact équipe domicile: Burquel J-M. (0498.05.90.57)\n\nAccès voiture : D
  irection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" ju
  squ'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à
   gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS
@@ -85,17 +87,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+ORGANIZER;CN="Burquel J-M.";ROLE=Secrétaire:MAILTO:secretariat@postboys.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: FORESTOIS SC (Eq. 3) vs GAMBRINUS F.C.
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_152_645
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rose\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
+ omicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
  ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
   env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
@@ -106,17 +109,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: WOLUWE FC vs ELAN EVERE RAC
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5A_8_153_7
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
+ équipe domicile: Purnelle K. (0491.08.24.67)\n\nAccès voiture : Par la E
  411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bi
  erges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\,
   prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensar
@@ -128,6 +131,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
+ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 END:VCALENDAR

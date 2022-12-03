@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: HIGGINS (Eq. 2) vs IRLANDE FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_416_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture :
+ ntact équipe domicile: De Biolley Ph. (0477.23.31.25)\n\nAccès voiture :
   En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
   de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: COLO-COLO UNITED vs VETUSO FC.
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_625_624
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Bleu\n\nC
- ontact équipe domicile: DE LE COURT Y. (0472.35.25.20)\n\nAccès voiture 
+ ontact équipe domicile: De Le Court Y. (0472.35.25.20)\n\nAccès voiture 
  : Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, pre
  ndre la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'aven
  ue des Anciens Combattants. Juste après le carrefour avec des feux de sig
@@ -43,17 +44,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  USO-FC\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:youdelecourt@gmail.com
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: BXL ALLIANCE JETTE vs BOUSVAL GENAPPE
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_566_401
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Direction cimeti
+ domicile: Zaleski S. (0473.34.57.81)\n\nAccès voiture : Direction cimeti
  ère de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, p
  uis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nInf
  o équipe domicile: https://www.abssa.org/team/566/BXL-ALLIANCE-JETTE\nInf
@@ -62,17 +64,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:zal.stan@hotmail.com
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: GERMINAL CSA vs FRANGINOS (LOS)
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_235_647
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambermo
+ domicile: Naniot M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambermo
  nt\, prendre le boulevard Léopold III\, direction aéroport de Bruxelles-
  National\, au 3ème feu de signalisation prendre à droite. le terrain se 
  trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/235/G
@@ -81,17 +83,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
-ORGANIZER:MAILTO:m.naniot@skynet.be
+ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: CHIEFS WSL (Eq. 2) vs WONG A.S. (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_303_523
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
+  domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
  oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
@@ -100,17 +102,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: SPARTAK SYNERGY vs MACCABI BXL
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_637_634
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voiture : Ring de B
+  équipe domicile: Bailly N. (0491.16.78.27)\n\nAccès voiture : Ring de B
  ruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Brusse
  gem au carrefour Asse-Wolvertem\, prendre direction Asse. Après l'église
  \, prendre la 1ère à main droite (direction Mollem). Après 2 km. prendr
@@ -120,17 +122,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ://www.abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER:MAILTO:nm.bailly@gmail.com
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: MOUSSES TACHENT vs CHENOIS SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3D_19_643_84
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -144,6 +146,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 END:VCALENDAR

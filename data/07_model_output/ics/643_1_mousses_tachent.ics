@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J1: IRLANDE FC (Eq. 4) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_1_402_643
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de
+ pe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de
   Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \n
  Mechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'a
  utoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendr
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J2: COLO-COLO UNITED vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_2_625_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Bordeaux\
- n\nContact équipe domicile: DE LE COURT Y. (0472.35.25.20)\n\nAccès voit
+ n\nContact équipe domicile: De Le Court Y. (0472.35.25.20)\n\nAccès voit
  ure : Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\,
   prendre la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'
  avenue des Anciens Combattants. Juste après le carrefour avec des feux de
@@ -43,17 +44,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /MOUSSES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:youdelecourt@gmail.com
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J3: MOUSSES TACHENT vs GERMINAL CSA
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_3_643_235
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
- pe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
+ pe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
  rection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite\
  , puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre l
  a RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Eti
@@ -67,17 +69,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J4: MOUSSES TACHENT vs CHIEFS WSL (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_4_643_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -91,17 +94,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J5: FRANGINOS (LOS) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_5_647_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : a Partir de Br
+ ipe domicile: Gerard S. (0487.22.81.20)\n\nAccès voiture : a Partir de Br
  uxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  Ge
  mbloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodoi
  gne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de l
@@ -114,17 +118,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  w.abssa.org/terrain/P02
 GEO:50.6251834;4.8051205
 LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J6: MOUSSES TACHENT vs WONG A.S. (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_6_643_523
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -138,17 +142,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  a.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J7: CHENOIS SC (Eq. 2) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221015T113000Z
 DTEND;VALUE=DATE-TIME:20221015T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_7_84_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant d'U
+ ipe domicile: Versmissen P. (0495.59.61.77)\n\nAccès voiture : Venant d'U
  ccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bruxelle
  s\, continuer jusqu'à la place E. Vandevelde (intersection de la chaussé
  e de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de sign
@@ -158,17 +163,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ES-TACHENT\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J8: MOUSSES TACHENT vs VETUSO FC.
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_8_643_624
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
+ pe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
  rection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite\
  , puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre l
  a RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Eti
@@ -182,17 +188,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  sa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J9: MACCABI BXL vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_9_634_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: GODART D. (0491.61.16.92)\n\nAccès voiture : Au départ de l
+ pe domicile: Godart D. (0491.61.16.92)\n\nAccès voiture : Au départ de l
  a Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la
   rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roul
  er env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) 
@@ -203,17 +210,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:maccabibxl@gmail.com
+ORGANIZER;CN="Godart D.";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J10: MOUSSES TACHENT vs BOUSVAL GENAPPE
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_10_643_401
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -227,17 +234,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J11: BXL ALLIANCE JETTE vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_11_566_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Direction cime
+ pe domicile: Zaleski S. (0473.34.57.81)\n\nAccès voiture : Direction cime
  tière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\,
   puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/566/BXL-ALLIANCE-JETTE\nI
@@ -246,17 +254,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:zal.stan@hotmail.com
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J12: MOUSSES TACHENT vs HIGGINS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_12_643_416
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n
- \nContact équipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture :
+ \nContact équipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture :
   Ring ouest: Direction Waterloo\, prendre la sortie "butte du lion" \, pre
  ndre à droite\, puis au feu rouge prendre à droite\, rouler jusque Genap
  pe et prendre la RN 25 en direction de Wavre\, prendre la deuxième sortie
@@ -270,17 +278,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  tps://www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J13: MOUSSES TACHENT vs COLO-COLO UNITED
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_13_643_625
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu foncé et blanc\
- n\nContact équipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture 
+ n\nContact équipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture 
  : Ring ouest: Direction Waterloo\, prendre la sortie "butte du lion" \, pr
  endre à droite\, puis au feu rouge prendre à droite\, rouler jusque Gena
  ppe et prendre la RN 25 en direction de Wavre\, prendre la deuxième sorti
@@ -294,17 +303,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J14: GERMINAL CSA vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_14_235_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambe
+ pe domicile: Naniot M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambe
  rmont\, prendre le boulevard Léopold III\, direction aéroport de Bruxell
  es-National\, au 3ème feu de signalisation prendre à droite. le terrain 
  se trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/23
@@ -313,17 +323,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
-ORGANIZER:MAILTO:m.naniot@skynet.be
+ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J15: MOUSSES TACHENT vs SPARTAK SYNERGY
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3D_15_643_637
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et blanc\n\nCon
- tact équipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring
+ tact équipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring
   ouest: Direction Waterloo\, prendre la sortie "butte du lion" \, prendre 
  à droite\, puis au feu rouge prendre à droite\, rouler jusque Genappe et
   prendre la RN 25 en direction de Wavre\, prendre la deuxième sortie (Cou
@@ -337,17 +347,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   https://www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J16: CHIEFS WSL (Eq. 2) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_16_303_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de l
+ ipe domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard de l
  a Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Pet
  it Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n
  \nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo 
@@ -356,17 +367,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: MOUSSES TACHENT vs FRANGINOS (LOS)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_17_643_647
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -380,17 +391,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  w.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J18: WONG A.S. (Eq. 2) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230121T134500Z
 DTEND;VALUE=DATE-TIME:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_18_523_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : Aux quatre-B
+ ipe domicile: Van Impe J. (0476.78.52.59)\n\nAccès voiture : Aux quatre-B
  ras\, prendre direction Tervuren via l’avenue de Tervuren(N3) pendant 75
  0M\nAu rond-point\, prendre la 1ère sortie et continuer sur l’avenue de
   Tervuren pendant 1\,2km puis prendre à droite sur la chaussée de Bruxel
@@ -405,17 +417,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  .org/terrain/T07
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
-ORGANIZER:MAILTO:vanimpe-julien@hotmail.be
+ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J19: MOUSSES TACHENT vs CHENOIS SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_19_643_84
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
+ ipe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
  irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
  \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
  la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
@@ -429,17 +442,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J20: VETUSO FC. vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_20_624_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelle
+ pe domicile: Day N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelle
  s prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur 
  la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sort
  ie Loupoigne\, traverser le carrefour\, tout droit direction route du sucr
@@ -448,17 +462,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:nicolas.day@ucb.com
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J21: MOUSSES TACHENT vs MACCABI BXL
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_21_643_634
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
+ pe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
  rection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite\
  , puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre l
  a RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Eti
@@ -472,17 +486,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J22: HIGGINS (Eq. 2) vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230225T113000Z
 DTEND;VALUE=DATE-TIME:20230225T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_22_416_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bordeaux\n
- \nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voitu
+ \nContact équipe domicile: De Biolley Ph. (0477.23.31.25)\n\nAccès voitu
  re : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du d
  ébut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant
   +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par 
@@ -493,17 +508,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J23: BOUSVAL GENAPPE vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_23_401_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Br
+ ipe domicile: Gossiaux S. (0473.44.25.52)\n\nAccès voiture : Venant de Br
  uxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droit
  e sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\
  , sortie Loupoigne\, traverser le carrefour\, tout droit direction route d
@@ -512,17 +528,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ACHENT\nInfo terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J24: MOUSSES TACHENT vs BXL ALLIANCE JETTE
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_24_643_566
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
- pe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
+ pe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
  rection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite\
  , puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre l
  a RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Eti
@@ -536,17 +553,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  //www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J25: MOUSSES TACHENT vs IRLANDE FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_25_643_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
- pe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
+ pe domicile: Stevens F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: Di
  rection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite\
  , puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre l
  a RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Eti
@@ -560,17 +578,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3D J26: SPARTAK SYNERGY vs MOUSSES TACHENT
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3D_26_637_643
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Bordeaux\n\nCon
- tact équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voiture : Ring 
+ tact équipe domicile: Bailly N. (0491.16.78.27)\n\nAccès voiture : Ring 
  de Bruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Br
  ussegem au carrefour Asse-Wolvertem\, prendre direction Asse. Après l'ég
  lise\, prendre la 1ère à main droite (direction Mollem). Après 2 km. pr
@@ -580,6 +599,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n: https://www.abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER:MAILTO:nm.bailly@gmail.com
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 END:VCALENDAR

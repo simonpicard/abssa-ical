@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J1: BRITISH UNITED (Eq. 7) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_1_132_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute
+ pe domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute
   Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le 
  centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passe
  r le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker"
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J2: BRUSSELS LTC (Eq. 7) vs TIGRE (LE) FC
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_2_39_237
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Orange\n\nContact éq
- uipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de 
+ uipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de 
  Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groe
  nendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le 
  chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le c
@@ -44,17 +45,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J3: AEMA VETERANS vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_3_427_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: VAN INGELGOM J. (0475.36.44.88)\n\nAccès voiture : 
+ act équipe domicile: Van Ingelgom J. (0475.36.44.88)\n\nAccès voiture : 
  Via la chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Pre
  ndre à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis le B
  ld. Théo Lambert.\n\nInfo équipe domicile: https://www.abssa.org/team/42
@@ -63,17 +65,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:vaningelgom_w_j@hotmail.com
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J4: BRUSSELS LTC (Eq. 7) vs CHEVERNY SCHAERB (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_4_39_128
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
  endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
  hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
@@ -85,17 +88,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  .org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J5: KARIA FC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_5_498_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken
+ ipe domicile: Bercha  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken
  \, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue de
  s Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis prem
  ière à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe do
@@ -104,17 +108,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  sa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J6: BRUSSELS LTC (Eq. 7) vs CHOULE AUDERGHEM (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_6_39_517
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
  endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
  hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
@@ -126,17 +130,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  .org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J7: ECUSSON FC vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_7_404_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\,
+ act équipe domicile: Santoro M (0471.68.67.25)\n\nAccès voiture : Ring\,
   sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à
   droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, 
  Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, apr
@@ -147,17 +152,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
+ORGANIZER;CN="Santoro M";ROLE=Secrétaire:MAILTO:domisie@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J8: BRUSSELS LTC (Eq. 7) vs BRUSSELS BRITISH R (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_8_39_1
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
  endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
  hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
@@ -169,17 +174,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  sa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J9: PANGLOSS FC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_9_123_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ d
+ pe domicile: De Paduwa P. (0475.67.06.50)\n\nAccès voiture : Au départ d
  e la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie
   Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens
   Combattants. Juste après le carrefour avec des feux de signalisation pre
@@ -190,17 +196,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J10: BRUSSELS LTC (Eq. 7) vs BRAINE-TERMINUS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_10_39_537
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et rouge\n\nCon
- tact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ve
+ tact équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ve
  nant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont
   de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Ap
  rès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation
@@ -212,17 +218,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  //www.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J11: BRUSSELS LTC (Eq. 7) vs BOUSVAL GENAPPE (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_11_39_401
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
  ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
  ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
@@ -234,17 +241,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rg/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J12: WATERMAEL CS vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_12_375_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: DE GREVE M. (0495.22.83.19)\n\nAccès voiture : A partir du 
+ ipe domicile: De Greve M. (0495.22.83.19)\n\nAccès voiture : A partir du 
  square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des N
  ymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/375/WATERMAEL
  -CS\nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LTC\
@@ -252,17 +260,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:micheldegreve08@gmail.com
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: TIGRE (LE) FC vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_13_237_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bordeaux\n\nContact éq
- uipe domicile: GOETGHEBUER G. (0494.46.63.32)\n\nAccès voiture : Au dépa
+ uipe domicile: Goetghebuer G. (0494.46.63.32)\n\nAccès voiture : Au dépa
  rt de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la so
  rtie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anc
  iens Combattants. Juste après le carrefour avec des feux de signalisation
@@ -273,17 +282,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:sportetvie@skynet.be
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J14: BRUSSELS LTC (Eq. 7) vs AEMA VETERANS
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6E_14_39_427
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et bleu\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont 
  de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Apr
  ès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation 
@@ -295,17 +304,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J16: CHEVERNY SCHAERB (Eq. 2) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_16_128_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place Meiser
+ ipe domicile: Lefebvre C. (0478 71.95.87)\n\nAccès voiture : Place Meiser
  \, descendre le boulevard Wahis et le boulevard Lambermont\, puis prendre 
  à droite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m. à d
  roite.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVERNY-S
@@ -314,17 +324,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.86563899999999;4.392299299999999
 LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
  e
-ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+ORGANIZER;CN="Lefebvre C.";ROLE=Secrétaire:MAILTO:c.lefebvre@linklaw.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J17: BRUSSELS LTC (Eq. 7) vs KARIA FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_17_39_498
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
  endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
  hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
@@ -336,17 +346,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J19: BRUSSELS LTC (Eq. 7) vs ECUSSON FC
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_19_39_404
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et Bleu\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont 
  de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Apr
  ès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation 
@@ -358,17 +369,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  sa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J20: BRUSSELS BRITISH R (Eq. 7) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_20_1_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411
+ ipe domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411
  \, prendre la sortie Rosières. Passer devant l'église\, longer l'autorou
  te et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nIn
  fo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nIn
@@ -376,17 +388,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J21: BRUSSELS LTC (Eq. 7) vs PANGLOSS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_21_39_123
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
  ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
  ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
@@ -398,17 +410,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  errain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J22: BRUSSELS LTC (Eq. 7) vs WATERMAEL CS
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_22_39_375
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de B
  ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
  endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
  hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
@@ -420,17 +433,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J23: BRAINE-TERMINUS FC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230304T140000Z
 DTEND;VALUE=DATE-TIME:20230304T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_23_537_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et rouge\nCouleur principale équipe exterieure: Bordeaux\n\nCon
- tact équipe domicile: DERO G. (0479.81.83.27)\n\nAccès voiture : En vena
+ tact équipe domicile: Dero G. (0479.81.83.27)\n\nAccès voiture : En vena
  nt de Bruxelles : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 2
  4\, direction Rebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. En
  trer dans l'agglomération de Braine-Le-Comte et prendre la 1ère rue à d
@@ -443,17 +457,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/B11
 GEO:50.6193857;4.1352085
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER:MAILTO:fcbraineterminus@gmail.com
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J24: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_24_401_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bru
+ pe domicile: Gossiaux S. (0473.44.25.52)\n\nAccès voiture : Venant de Bru
  xelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite
   sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\,
   sortie Loupoigne\, traverser le carrefour\, tout droit direction route du
@@ -462,17 +476,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  TC\nInfo terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J25: BRUSSELS LTC (Eq. 7) vs BRITISH UNITED (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6E_25_39_132
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
  ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
  ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
@@ -484,6 +499,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  g/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 END:VCALENDAR

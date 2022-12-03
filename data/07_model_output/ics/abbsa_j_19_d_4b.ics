@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: FRIENDS SPIRIT AUD vs NIVELLES CS
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_522_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
- équipe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de 
+ équipe domicile: Rau L. (0471.06.77.33)\n\nAccès voiture : En venant de 
  Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
  e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
  endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
+ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: OMNISPORT BIERGHES vs GOALOIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T120000Z
 DTEND;VALUE=DATE-TIME:20230128T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_455_345
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
+  équipe domicile: Barbe L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
  Bruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21)
   pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Pren
  dre la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dr
@@ -44,17 +44,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/B02
 GEO:50.6957846;4.129257
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: BRUSSELS LTC (Eq. 3) vs MOON SHOOTERS
 DTSTART;VALUE=DATE-TIME:20230128T123000Z
 DTEND;VALUE=DATE-TIME:20230128T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_39_606
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A partir de
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : A partir de
   Bruxelles\, prendre la E 411 en direction de Namur. Prendre la sortie N°
   8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Do
  iceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 
@@ -64,17 +65,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  OOTERS\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: WAPPERS FC vs TRINQUANT
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_67_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé noir et blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture 
+ e\n\nContact équipe domicile: Vinck B. (0475.92.57.30)\n\nAccès voiture 
  : Ring de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Op
  pem. Ensuite première rue à droite (Louis Marcelisstraat) puis la troisi
  ème à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauc
@@ -88,17 +90,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  eam/445/TRINQUANT\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: NEW INN FC (Eq. 3) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_359_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+  équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au dépar
  t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
  tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
  ens Combattants. Juste après le carrefour avec des feux de signalisation 
@@ -109,6 +111,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 END:VCALENDAR

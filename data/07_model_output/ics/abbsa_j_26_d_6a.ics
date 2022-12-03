@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: TOURINNOIS FC (Eq. 3) vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230325T123000Z
 DTEND;VALUE=DATE-TIME:20230325T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_292_517
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
+  domicile: Strade P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
  route Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pie
  d de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
  ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
@@ -21,17 +21,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ://www.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: AMB. AUDERGHEM (Eq. 2) vs METRASPORT R.
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_249_33
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc rayé de Gris\nCouleur principale équipe exterieure: Rouge et B
- leu\n\nContact équipe domicile: LECLEF R. (0473.13.76.27)\n\nAccès voitu
+ leu\n\nContact équipe domicile: Leclef R. (0473.13.76.27)\n\nAccès voitu
  re : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du d
  ébut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant
   +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par 
@@ -42,17 +42,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: JEFKE COUNTRY (Eq. 2) vs J.ST-GILLOISE R.
 DTSTART;VALUE=DATE-TIME:20230325T133000Z
 DTEND;VALUE=DATE-TIME:20230325T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_423_38
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Bleu foncé\n\nC
- ontact équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture :
+ ontact équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture :
   Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stock
  el jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trou
  ve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEF
@@ -61,17 +61,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: MUTUELLE RSB vs FORESTOIS SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230325T141500Z
 DTEND;VALUE=DATE-TIME:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_5_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : Ri
+ ntact équipe domicile: Palanga  M. (0479.61.03.59)\n\nAccès voiture : Ri
  ng de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauc
  he à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge c
  ontinuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de
@@ -80,17 +80,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:royalemumu@gmail.com
+ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: GAST FC (Eq. 2) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_388_376
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
+ domicile: Clais D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
   ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
  genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
   ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
@@ -100,17 +100,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: IRLANDE FC (Eq. 5) vs TRINQUANT (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_402_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
+ quipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
   de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la
   \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar 
  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pre
@@ -121,17 +121,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: BRITISH UNITED (Eq. 5) vs ITT - GECKO FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6A_26_132_92
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ omicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
  xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
  re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
   viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
@@ -142,6 +143,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 END:VCALENDAR

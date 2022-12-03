@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J13: TRINQUANT vs FRIENDS SPIRIT AUD
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_13_445_522
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
+ quipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
   Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Gro
  enendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le
   chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le 
@@ -23,17 +23,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  a.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J13: BRUSSELS LTC (Eq. 3) vs OMNISPORT BIERGHES
 DTSTART;VALUE=DATE-TIME:20221203T123000Z
 DTEND;VALUE=DATE-TIME:20221203T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_13_39_455
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et bleu\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A p
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : A p
  artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
  rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
   Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
@@ -43,17 +44,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /OMNISPORT-BIERGHES\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J13: GOALOIS (Eq. 2) vs NIVELLES CS
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_13_345_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact
-  équipe domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En vena
+  équipe domicile: Laruelle M. (0494.52.09.71)\n\nAccès voiture : En vena
  nt de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sor
  tie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’
  au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à
@@ -64,17 +66,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J13: NEW INN FC (Eq. 3) vs CHENOIS (ESPER)
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_13_359_412
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Blanc et rouge\n
- \nContact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : 
+ \nContact équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : 
  Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prend
  re la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue
   des Anciens Combattants. Juste après le carrefour avec des feux de signa
@@ -85,17 +88,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ER\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J13: MOON SHOOTERS vs PATRONS (LES)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_13_606_628
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venant de Bru
+  domicile: Morelle M. (0478.68.42.14)\n\nAccès voiture : En venant de Bru
  xelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute B
  ruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descend
  re devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (e
@@ -106,6 +109,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:max.morelle@gmail.com
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 END:VCALENDAR

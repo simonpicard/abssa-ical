@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: NEW ARQUOIS FC (Eq. 2) vs PANGLOSS FC
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_263_123
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
+ omicile: Beka J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
  xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
   station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
  rond point\, prendre à droite en direction du château de La Rocq\, passe
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: PETER PAN FC vs BRITISH UNITED (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_279_132
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: DRINE N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
+ omicile: Drine N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
  (n° 19)\, prendre direction Beersel\, ensuite direction Linkebeek En face
   du Delhaize prendre la rue de la Brasserie et ensuite suivre les indicati
  ons LHC-KHVCL.\nR.E. Sortie Groenendael - Direction Uccle\, dans la forêt
@@ -49,17 +49,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  tps://www.abssa.org/terrain/L07
 GEO:50.7627439;4.345177
 LOCATION:Wouterbos\, Rue Schavei 31\, 1630 Linkebeek\, Belgique
-ORGANIZER:MAILTO:neildrine@gmail.com
+ORGANIZER;CN="Drine N.";ROLE=Secrétaire:MAILTO:neildrine@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: LUNETTE (LA) FC vs BRUSSELS LTC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_130_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture : En 
+ act équipe domicile: Bonifazio R. (0488.31.38.10)\n\nAccès voiture : En 
  venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\
  , prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard
   Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oi
@@ -70,17 +70,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
+ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: NEW INN FC (Eq. 4) vs ZIJP FC
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_359_646
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\, Blanc\nCouleur principale équipe exterieure: Noir\n\nConta
- ct équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dép
+ ct équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -91,17 +92,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: BOUSVAL GENAPPE (Eq. 2) vs GREZ AJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_401_514
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange et bleu\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant 
+  équipe domicile: Gossiaux S. (0473.44.25.52)\n\nAccès voiture : Venant 
  de Bruxelles prendre le Ring Ouest\, sortie Genappe (n°25)\, prendre à d
  roite sur la N 5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
  min. Prendre à gauche au carrefour entre la N 5 et la N 93 direction Nive
@@ -116,17 +117,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /GREZ-AJ\nInfo terrain: https://www.abssa.org/terrain/H04
 GEO:50.57463749999999;4.4089379
 LOCATION:Rue de Ninove 1\, 1476 Houtain-Le-Val\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J13: MIREILLE WEMMEL vs TRICOTEUSES FC.
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_13_93_617
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et  Noir\nCouleur principale équipe exterieure: Bordeaux\n\nCon
- tact équipe domicile: VERMEERBERGEN D. (0497.31.76.07)\n\nAccès voiture 
+ tact équipe domicile: Vermeerbergen D. (0497.31.76.07)\n\nAccès voiture 
  : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via d
  e Is. Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag neme
  n\, Diepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij 
@@ -137,6 +139,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.900999;4.4855744
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
-ORGANIZER:MAILTO:daanvermeerbergen@hotmail.com
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
 END:VEVENT
 END:VCALENDAR

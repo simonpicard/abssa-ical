@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: CHIEFS WSL (Eq. 3) vs SAINT-JOSSE 95 FC
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_303_658
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir et bleu\n\nContact 
- équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard 
+ équipe domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard 
  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au
   Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauch
  e.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nIn
@@ -20,17 +20,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: CHOULE AUDERGHEM (Eq. 2) vs WOKRASSE F.C.
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_517_656
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
+ domicile: Vandenplas D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
  uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
  phes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHOULE-AUDE
  RGHEM\nInfo équipe exterieure: https://www.abssa.org/team/656/WOKRASSE-FC
@@ -38,17 +38,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: PICARDIE AS vs PANTOUFLES FC
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_63_428
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
+ omicile: Coopmans R. (0474.42.47.29)\n\nAccès voiture : Ring RO\, sortie 
  Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
  ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo équipe d
  omicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe exterieu
@@ -56,17 +56,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  w.abssa.org/terrain/O02
 GEO:50.6643844;4.351335199999999
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
+ r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: FAUBOURG-BRAINOISE vs SANSERIF FC
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_100_657
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant
+ équipe domicile: Herpain D. (0474.79.02.18)\n\nAccès voiture : En venant
   de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'a
  u magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la directi
  on Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pre
@@ -77,17 +78,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: JODOIGNOISE FC vs L'EKIP
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_664_662
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -98,17 +99,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: RED STAR BRUSSELS vs BLOOD SPIKES
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5C_8_663_660
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : En venant
+  équipe domicile: Amrani B. (0489.66.36.24)\n\nAccès voiture : En venant
   de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivell
  es-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directi
  on de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dr
@@ -121,6 +122,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /660/BLOOD-SPIKES\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:redstarbxl@outlook.com
+ORGANIZER;CN="Amrani B.";ROLE=Secrétaire:MAILTO:redstarbxl@outlook.com
 END:VEVENT
 END:VCALENDAR

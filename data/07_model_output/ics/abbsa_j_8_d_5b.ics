@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: GALACTIC JUMPERTZ vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_659_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bleu\n\nContact équipe
-  domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la E411 Bru
+  domicile: Eyletten J. (0470.31.54.56)\n\nAccès voiture : Par la E411 Bru
  xelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).
  \nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendr
  e la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Apr
@@ -23,17 +23,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: RAYO LATINO vs COSMOS BRUWOLF MJ
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_572_338
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Orange/Noir\n\nC
- ontact équipe domicile: LEPORCQ N (0485.64.31.86)\n\nAccès voiture : Cha
+ ontact équipe domicile: Leporcq N (0485.64.31.86)\n\nAccès voiture : Cha
  ussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gau
  che la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.
  \nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek
@@ -45,17 +46,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:rayolatino@gmail.com
+ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: PIRATERIE (LA) vs KARIA FC
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_652_498
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: COOK Z (0497.25.56.22)\n\nAccès voiture : En venant de Bruxell
+  domicile: Cook Z (0497.25.56.22)\n\nAccès voiture : En venant de Bruxell
  es\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n°
   19)\, passer sous le pont de l'autoroute et prendre la direction de Nivel
  les. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en dir
@@ -68,17 +69,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: BLUE THRILLS vs MASIA CITY
 DTSTART;VALUE=DATE-TIME:20221022T130000Z
 DTEND;VALUE=DATE-TIME:20221022T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_619_661
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu Marine\nCouleur principale équipe exterieure: Beige et bordeaux\
- n\nContact équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture 
+ n\nContact équipe domicile: De Briey A. (0479.858.374)\n\nAccès voiture 
  : L'accès au terrain se fait à partir du n° 2057 de la chaussée de Wav
  re (en face du stade communal d'Auderghem). L'accès au terrain se fait pa
  r l'arrière du bâtiment principal (où sont situés les vestiaires) il f
@@ -90,17 +91,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: GREZ AJ (Eq. 3) vs PINK PANTHERS
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_514_635
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir/ rose\n\nContact éq
- uipe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute B
+ uipe domicile: Vanhamme J. (0474.56.81.54)\n\nAccès voiture : Autoroute B
  ruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Pren
  dre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les de
  ux premiers ronds-points à l'issue de la RN 25. Au troisième rond-point 
@@ -110,17 +111,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  RS\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: DEAF BRUSSELS FC vs CELTIC FORESTOIS
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_593_330
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et noir\nCouleur principale équipe exterieure: Vert et  blanc\n\
- nContact équipe domicile: VAN BRANDT S. (0494.24.34.05 (SMS))\n\nAccès v
+ nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS))\n\nAccès v
  oiture : Chaussée de Haecht\, vers Diegem. Prendre la rue Harenheyde à g
  auche\, juste au feu de signalisation\, après la station "JET"\, situé 
  à gauche. Entrée du stade par la rue Harenheyde\, 100 m. au-delà du pon
@@ -129,6 +131,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  30/CELTIC-FORESTOIS\nInfo terrain: https://www.abssa.org/terrain/B05
 GEO:50.8929668;4.4236193
 LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER:MAILTO:fc_deaf_brussels@live.be
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:fc_deaf_brussels@live
+ .be
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J1: AUDERGHEM RU vs TRINQUANT (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_1_376_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En vena
+ équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En vena
  nt de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'au
  toroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. e
  t descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à 
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J2: JEFKE COUNTRY (Eq. 2) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20220910T123000Z
 DTEND;VALUE=DATE-TIME:20220910T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_2_423_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boule
+  équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture : Boule
  vard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jus
  qu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à 
  gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COU
@@ -41,17 +42,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J3: AUDERGHEM RU vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_3_376_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -62,17 +63,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J4: TOURINNOIS FC (Eq. 3) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20220924T113000Z
 DTEND;VALUE=DATE-TIME:20220924T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_4_292_376
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
+  domicile: Strade P. (010.65.83.02)\n\nAccès voiture : A partir de l'auto
  route Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pie
  d de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
  ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
@@ -82,17 +84,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ww.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J5: AUDERGHEM RU vs BRITISH UNITED (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_5_376_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -103,17 +105,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J6: AMB. AUDERGHEM (Eq. 2) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_6_249_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc rayé de Gris\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En 
+ ontact équipe domicile: Leclef R. (0473.13.76.27)\n\nAccès voiture : En 
  venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de 
  l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 
  m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel
@@ -124,17 +127,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J7: AUDERGHEM RU vs FORESTOIS SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_7_376_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -145,17 +148,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J8: METRASPORT R. vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_8_33_376
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: PIRLOT E. (0474.90.52.25)\n\nAccès voiture : Ring de B
+  équipe domicile: Pirlot E. (0474.90.52.25)\n\nAccès voiture : Ring de B
  ruxelles\, Sortie Wemmel\, prendre l'Avenue Houba de Strooper\, puis la ru
  e à gauche\, avant le bâtiment de l'URBSFA\, direction Atomium.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/033/METRASPORT-R\nInfo équip
@@ -164,17 +168,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8933845;4.3399807
 LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
  \, Belgique
-ORGANIZER:MAILTO:emilepirlot@outlook.be
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J9: AUDERGHEM RU vs ITT - GECKO FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_9_376_92
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -185,17 +189,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J10: CHOULE AUDERGHEM (Eq. 3) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_10_517_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de 
+  domicile: Vandenplas D. (0476.54.48.01)\n\nAccès voiture : En venant de 
  Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
  e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
  endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
@@ -206,17 +211,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J11: MUTUELLE RSB vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221119T141500Z
 DTEND;VALUE=DATE-TIME:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_11_5_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert rayé de blanc\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : R
+ ontact équipe domicile: Palanga  M. (0479.61.03.59)\n\nAccès voiture : R
  ing de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gau
  che à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge 
  continuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face d
@@ -225,17 +230,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /376/AUDERGHEM-RU\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:royalemumu@gmail.com
+ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J12: J.ST-GILLOISE R. vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_12_38_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé\nCouleur principale équipe exterieure: Jaune\n\nContact 
- équipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sor
+ équipe domicile: Honore K. (0475.53.32.84)\n\nAccès voiture : Ring\, sor
  tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
  ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
   A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
@@ -246,17 +251,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kenny.honore9@gmail.com
+ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J13: AUDERGHEM RU vs JEFKE COUNTRY (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_13_376_423
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Noir et blanc\n\nContact
-  équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En ven
+  équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -267,17 +272,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J14: IRLANDE FC (Eq. 5) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_14_402_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -288,17 +294,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J15: AUDERGHEM RU vs GAST FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6A_15_376_388
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Gris\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -309,17 +316,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J16: AUDERGHEM RU vs TOURINNOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_16_376_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de B
+  domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de B
  ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
   Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
  ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
@@ -330,17 +338,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J17: BRITISH UNITED (Eq. 5) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_17_132_376
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
+ domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
  uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
  tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
  e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
@@ -351,17 +360,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: AUDERGHEM RU vs AMB. AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_18_376_249
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc rayé de Gris\n\nC
- ontact équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : 
+ ontact équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : 
  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début 
  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 2
  00 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tun
@@ -372,17 +382,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J19: FORESTOIS SC (Eq. 4) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_19_152_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
+ domicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
   Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la 
  rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roule
  r env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) p
@@ -393,17 +404,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J20: AUDERGHEM RU vs METRASPORT R.
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_20_376_33
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContact
-  équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En ven
+  équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -414,17 +425,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: ITT - GECKO FC (Eq. 3) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230211T113000Z
 DTEND;VALUE=DATE-TIME:20230211T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_21_92_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
+ domicile: Schmidt Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Lou
  vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
  elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
  oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
@@ -435,17 +447,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ORGANIZER;CN="Schmidt Ch.";ROLE=Secrétaire:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J22: AUDERGHEM RU vs J.ST-GILLOISE R.
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_22_376_38
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu foncé\n\nContact 
- équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En vena
+ équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En vena
  nt de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'au
  toroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. e
  t descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à 
@@ -456,17 +468,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J23: AUDERGHEM RU vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_23_376_517
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de B
+  domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de B
  ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
   Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
  ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
@@ -477,17 +490,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J24: AUDERGHEM RU vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_24_376_5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
- ontact équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : 
+ ontact équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : 
  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début 
  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 2
  00 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tun
@@ -498,17 +512,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J25: TRINQUANT (Eq. 2) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_25_445_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Jaune\n\nContact 
- équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
+ équipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
  de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
  roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
  le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
@@ -520,17 +535,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  g/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: GAST FC (Eq. 2) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6A_26_388_376
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
+ domicile: Clais D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
   ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
  genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
   ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
@@ -540,6 +556,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 END:VCALENDAR

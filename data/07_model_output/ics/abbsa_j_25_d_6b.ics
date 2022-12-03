@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: ETINCELLE FC (Eq. 2) vs BRUSSELS LTC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230318T113000Z
 DTEND;VALUE=DATE-TIME:20230318T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_35_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, 
+ act équipe domicile: Kremer N (0471.37.59.81)\n\nAccès voiture : Ring\, 
  sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à 
  droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, B
  ld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, aprè
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: PHARMA SC (Eq. 3) vs TOURINNOIS FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230318T123000Z
 DTEND;VALUE=DATE-TIME:20230318T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_268_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge et bleu\n\nContact 
- équipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Ring d
+ équipe domicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : Ring d
  e Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche 
  à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge cont
  inuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la
@@ -41,17 +41,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  URINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: AZUR RCS (Eq. 5) vs ETTEKIJS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230318T123000Z
 DTEND;VALUE=DATE-TIME:20230318T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_109_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Noir rayé de blanc\
- n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voi
+ n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voi
  ture : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Sou
  verain prendre à gauche au premier feu de signalisation (Av. Madoux). Au 
  feu de signalisation suivant prendre la 2ème rue à main droite (Av. J. D
@@ -62,17 +63,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: ITT - GECKO FC (Eq. 4) vs NIVELLES CS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_92_306
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Orange fluo\n\nContact é
- quipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée 
+ quipe domicile: Schmidt Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée 
  de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la 
  \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l
  'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pren
@@ -83,17 +85,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ORGANIZER;CN="Schmidt Ch.";ROLE=Secrétaire:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: COPAINS REUNIS (Eq. 2) vs IDEAL RANGERS R
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_49_47
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
-  équipe domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En 
+  équipe domicile: Vandermeulen J. (0477.50.45.95)\n\nAccès voiture : En 
  venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\
  , prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard
   Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oi
@@ -104,17 +106,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: BRUSSELS BRITISH R (Eq. 5) vs GOALOIS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_1_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
+  domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
  prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
  et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
@@ -122,17 +124,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6B J25: NEW ARQUOIS FC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_6B_25_263_229
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
+ omicile: Beka J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
  xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
   station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
  rond point\, prendre à droite en direction du château de La Rocq\, passe
@@ -143,6 +145,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 END:VCALENDAR

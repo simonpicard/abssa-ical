@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: BEETHOVEN FCS vs COMP. CINEMA R
 DTSTART;VALUE=DATE-TIME:20230311T113000Z
 DTEND;VALUE=DATE-TIME:20230311T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_24_493_16
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture : En venant d
+ ipe domicile: Steenhaut F. (0477.37.74.47)\n\nAccès voiture : En venant d
  e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
  e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
  eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+ORGANIZER;CN="Steenhaut F.";ROLE=Secrétaire:MAILTO:fsteenhaut@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: ITT - GECKO FC (Eq. 2) vs BLACK STAR GENVAL
 DTSTART;VALUE=DATE-TIME:20230311T113000Z
 DTEND;VALUE=DATE-TIME:20230311T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_24_92_601
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ omicile: Schmidt Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
  ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
  lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
  ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
@@ -43,17 +43,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ORGANIZER;CN="Schmidt Ch.";ROLE=Secrétaire:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: FORESTOIS SC (Eq. 2) vs UNION TIGERS
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_24_152_649
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au 
+ tact équipe domicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au 
  départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
   jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
  Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
@@ -65,17 +65,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: BIERGEOIS CS vs TIEKSS WEMMEL
 DTSTART;VALUE=DATE-TIME:20230311T133000Z
 DTEND;VALUE=DATE-TIME:20230311T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_4D_24_70_644
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: VER ELST J. (0498.11.12.98)\n\nAccès voiture : Autorout
+ équipe domicile: Ver Elst J. (0498.11.12.98)\n\nAccès voiture : Autorout
  e Bruxelles-Namur\, sortie Bierges\, prendre à droite\, le terrain se tro
  uve à +/- 500 m. du côté droit.\n\nInfo équipe domicile: https://www.a
  bssa.org/team/070/BIERGEOIS-CS\nInfo équipe exterieure: https://www.abssa
@@ -84,17 +84,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7113792;4.5897825
 LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
  , Belgique
-ORGANIZER:MAILTO:verelstjerome@hotmail.fr
+ORGANIZER;CN="Ver Elst J.";ROLE=Secrétaire:MAILTO:verelstjerome@hotmail.f
+ r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: STRING PENELOPE (Eq. 3) vs SNEAKY BABOONS
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_4D_24_181_641
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Noir\n\nContact équipe
-  domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de B
+  domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : En venant de B
  ruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la sor
  tie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre l
  a direction d'Ottignies par la N238. Au 1èr feu de signalisation continue
@@ -116,17 +117,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  g/team/641/SNEAKY-BABOONS\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: EXTRANOS (LOS) vs UCCLE STENDHAL
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_4D_24_569_214
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et Bleu\nCouleur principale équipe exterieure: Equipe 1 : Rouge
-  rayé de noir\n\nContact équipe domicile: VAZQUEZ RODRIGUEZ K. (0470.86.
+  rayé de noir\n\nContact équipe domicile: Vazquez Rodriguez K. (0470.86.
  40.55)\n\nAccès voiture : De la Place Meiser\, remonter tous les boulevar
  ds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, e
  nsuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dro
@@ -135,6 +137,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  14/UCCLE-STENDHAL\nInfo terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Vazquez Rodriguez K.";ROLE=Secrétaire:MAILTO:losextranos569
+ @gmail.com
 END:VEVENT
 END:VCALENDAR

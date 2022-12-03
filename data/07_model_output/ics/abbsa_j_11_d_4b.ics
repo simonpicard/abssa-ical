@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: FRIENDS SPIRIT AUD vs BRUSSELS LTC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T113000Z
 DTEND;VALUE=DATE-TIME:20221119T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_522_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxe
+ pe domicile: Rau L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxe
  lles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bru
  xelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre
   devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en 
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
+ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: CHENOIS (ESPER) vs OMNISPORT BIERGHES
 DTSTART;VALUE=DATE-TIME:20221119T123000Z
 DTEND;VALUE=DATE-TIME:20221119T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_412_455
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Jaune et bleu\n
- \nContact équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture
+ \nContact équipe domicile: Gioffredi G. (0474.24.92.27)\n\nAccès voiture
   : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussé
  e de Bruxelles\, continuer jusqu'à la place E. Vandevelde (intersection d
  e la chaussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). A
@@ -43,17 +43,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:412fcec@gmail.com
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: NIVELLES CS vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_306_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant
+  équipe domicile: Couteau A (0497.63.11.19)\n\nAccès voiture : En venant
   de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivell
  es-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directi
  on de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dr
@@ -66,17 +66,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  IRGINAL-ASF\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: WAPPERS FC vs GOALOIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_67_345
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé noir et blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture : Ring
+ ontact équipe domicile: Vinck B. (0475.92.57.30)\n\nAccès voiture : Ring
   de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. E
  nsuite première rue à droite (Louis Marcelisstraat) puis la troisième 
  à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche en
@@ -90,17 +91,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  5/GOALOIS\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: PATRONS (LES) vs TRINQUANT
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_628_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Boulevar
+ équipe domicile: Van Roey G. (0478.24.03.05)\n\nAccès voiture : Boulevar
  d de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'
  au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gau
  che.\n\nInfo équipe domicile: https://www.abssa.org/team/628/PATRONS-LES\
@@ -109,6 +110,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:lespatrons.fc@gmail.com
+ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
 END:VEVENT
 END:VCALENDAR

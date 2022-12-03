@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: UNION TIGERS vs UCCLE STENDHAL
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_649_214
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu ciel et Blanc\nCouleur principale équipe exterieure: Equipe 1 : 
- Rouge rayé de noir\n\nContact équipe domicile: THIBAUT L (0472.52.93.45)
+ Rouge rayé de noir\n\nContact équipe domicile: Thibaut L (0472.52.93.45)
  \n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie Westland
   Shopping Center (n° 14) continuer tout droit\, remonter vers le Ring et 
  prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  sa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: COMP. CINEMA R vs BIERGEOIS CS
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_16_70
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SARTORI B. (0479.15.31.09)\n\nAccès voiture : Boulevard Lambermo
+ omicile: Sartori B. (0479.15.31.09)\n\nAccès voiture : Boulevard Lambermo
  nt\, prendre le boulevard Léopold III\, direction aéroport de Bruxelles-
  National\, au 3ème feu de signalisation prendre à droite. le terrain se 
  trouve à 50 m.\n\nInfo équipe domicile: https://www.abssa.org/team/016/C
@@ -41,17 +41,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
-ORGANIZER:MAILTO:compagnonscinema016@gmail.com
+ORGANIZER;CN="Sartori B.";ROLE=Secrétaire:MAILTO:compagnonscinema016@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: ITT - GECKO FC (Eq. 2) vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_92_574
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ omicile: Schmidt Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
  ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
  lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
  ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
@@ -62,17 +63,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ORGANIZER;CN="Schmidt Ch.";ROLE=Secrétaire:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: FORESTOIS SC (Eq. 2) vs BEETHOVEN FCS
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_152_493
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
+ ipe domicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ d
  e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
   la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
  ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
@@ -83,17 +84,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: BLACK STAR GENVAL vs TIEKSS WEMMEL
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_601_644
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: VAN BAEL J. (0479.36.69.79)\n\nAccès voiture : Prendre 
+ équipe domicile: Van Bael J. (0479.36.69.79)\n\nAccès voiture : Prendre 
  l'autoroute de Namur (E411)\, sortie n° 4 - (Genval-Rosières). En bas de
   la sortie prendre la deuxième rue à droite (rue de La Hulpe) direction 
  "Genval - Maubroux". Au premier rond point continuez à suivre la directio
@@ -112,17 +113,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.724554;4.496792999999999
 LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
  \, Belgique
-ORGANIZER:MAILTO:blackstargenval@gmail.com
+ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: STRING PENELOPE (Eq. 3) vs EXTRANOS (LOS)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4D_19_181_569
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContac
- t équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En ve
+ t équipe domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : En ve
  nant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prend
  re la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, 
  prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation
@@ -145,6 +147,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

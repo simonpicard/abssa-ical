@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: AEMA VETERANS vs BRITISH UNITED (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6E_13_427_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: VAN INGELGOM J. (0475.36.44.88)\n\nAccès voiture : Via 
+ équipe domicile: Van Ingelgom J. (0475.36.44.88)\n\nAccès voiture : Via 
  la chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre
   à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. 
  Théo Lambert.\n\nInfo équipe domicile: https://www.abssa.org/team/427/AE
@@ -20,17 +20,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:vaningelgom_w_j@hotmail.com
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: TIGRE (LE) FC vs BRUSSELS LTC (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6E_13_237_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bordeaux\n\nContact éq
- uipe domicile: GOETGHEBUER G. (0494.46.63.32)\n\nAccès voiture : Au dépa
+ uipe domicile: Goetghebuer G. (0494.46.63.32)\n\nAccès voiture : Au dépa
  rt de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la so
  rtie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anc
  iens Combattants. Juste après le carrefour avec des feux de signalisation
@@ -41,17 +42,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:sportetvie@skynet.be
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: ECUSSON FC vs WATERMAEL CS
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6E_13_404_375
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, so
+  équipe domicile: Santoro M (0471.68.67.25)\n\nAccès voiture : Ring\, so
  rtie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dr
  oite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld
  . A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après 
@@ -62,18 +63,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
+ORGANIZER;CN="Santoro M";ROLE=Secrétaire:MAILTO:domisie@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: CHEVERNY SCHAERB (Eq. 2) vs BRAINE-TERMINUS FC (Eq.
   2)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6E_13_128_537
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Jaune et rouge\n\nContac
- t équipe domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place 
+ t équipe domicile: Lefebvre C. (0478 71.95.87)\n\nAccès voiture : Place 
  Meiser\, descendre le boulevard Wahis et le boulevard Lambermont\, puis pr
  endre à droite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m
  . à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEV
@@ -82,17 +83,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.86563899999999;4.392299299999999
 LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
  e
-ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+ORGANIZER;CN="Lefebvre C.";ROLE=Secrétaire:MAILTO:c.lefebvre@linklaw.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6E J13: KARIA FC (Eq. 2) vs PANGLOSS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6E_13_498_123
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken\, C
+ domicile: Bercha  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken\, C
  haussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Cr
  oix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis premièr
  e à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe domici
@@ -101,6 +102,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  g/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: SANSERIF FC vs CHOULE AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230304T103000Z
 DTEND;VALUE=DATE-TIME:20230304T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_657_517
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Noir\n\nContact é
- quipe domicile: KARPOWICZ A. (0493.16.46.10)\n\nAccès voiture : En venant
+ quipe domicile: Karpowicz A. (0493.16.46.10)\n\nAccès voiture : En venant
   de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi - prend
  re la sortie 21 et continuer sur la E429 direction Lille/Rijsel sur 7\,2 k
  m. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsesteenweg pe
@@ -28,17 +28,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:itsadonis0@gmail.com
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: WOKRASSE F.C. vs CHIEFS WSL (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_656_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: VERMYLEN J. (0499.26.24.00)\n\nAccès voiture : Au départ de l
+  domicile: Vermylen J. (0499.26.24.00)\n\nAccès voiture : Au départ de l
  a Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kr
  aainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Co
  mbattants. Juste après le carrefour avec des feux de signalisation prendr
@@ -49,17 +49,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:jules.vermylen7@hotmail.com
+ORGANIZER;CN="Vermylen J.";ROLE=Secrétaire:MAILTO:jules.vermylen7@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: SAINT-JOSSE 95 FC vs CHEVERNY SCHAERB
 DTSTART;VALUE=DATE-TIME:20230304T123000Z
 DTEND;VALUE=DATE-TIME:20230304T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_658_128
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bleu\nCouleur principale équipe exterieure: Jaune\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
+ équipe domicile: Yahya Jdidi A. (0498.41.74.34)\n\nAccès voiture : Prend
  re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
  ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
  rain est situé à 100 m.\n\nInfo équipe domicile: https://www.abssa.org/
@@ -69,17 +70,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8582632;4.4251766
 LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: FAUBOURG-BRAINOISE vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_100_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venan
+  équipe domicile: Herpain D. (0474.79.02.18)\n\nAccès voiture : En venan
  t de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'
  au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direct
  ion Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pr
@@ -90,17 +92,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: L'EKIP vs PICARDIE AS
 DTSTART;VALUE=DATE-TIME:20230304T140000Z
 DTEND;VALUE=DATE-TIME:20230304T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_662_63
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
+ domicile: Vercruijsse A. (0477.95.18.34)\n\nAccès voiture : a Partir de B
  ruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sortie 11  G
  embloux pour Rejoindre la N 29 en Direction de Gembloux / Tirlement / Jodo
  igne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Direction de 
@@ -113,17 +115,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /terrain/P02
 GEO:50.6251834;4.8051205
 LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+ORGANIZER;CN="Vercruijsse A.";ROLE=Secrétaire:MAILTO:lekipofficielle@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: PANTOUFLES FC vs RED STAR BRUSSELS
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5C_23_428_663
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et rouge\n\nContact 
- équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
+ équipe domicile: Laurent F (0478.68.80.02)\n\nAccès voiture : Autoroute 
  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
  oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
  \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
@@ -131,6 +134,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
+ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
+ .com
 END:VEVENT
 END:VCALENDAR

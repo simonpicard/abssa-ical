@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: LORRAINE (LA) RFC vs BRAINE STORMING
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_44_630
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
+ omicile: Degimbe M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
  rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
  t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
@@ -19,17 +19,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: IRLANDE FC (Eq. 2) vs ENGHIEN AMICAL
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_402_31
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -40,17 +40,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: BRITISH UNITED vs CURTIS L'AUSELE
 DTSTART;VALUE=DATE-TIME:20230304T120000Z
 DTEND;VALUE=DATE-TIME:20230304T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_132_599
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoro
+ quipe domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoro
  ute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans 
  le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et pa
  sser le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekk
@@ -62,17 +63,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: BESACE RFC vs UNION JP
 DTSTART;VALUE=DATE-TIME:20230304T123000Z
 DTEND;VALUE=DATE-TIME:20230304T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_24_504
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact 
- équipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de Br
+ équipe domicile: Masset M. (0485.61.39.19)\n\nAccès voiture : Ring de Br
  uxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la
   sortie\, en venant de Charleroi prendre à droite. Au feu rouge continuer
   sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la pomp
@@ -81,17 +83,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  JP\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: NEW ARQUOIS FC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_263_541
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autorou
+ ct équipe domicile: Beka J-M. (0495.25.31.25)\n\nAccès voiture : Autorou
  te E 19 (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Lou
  vière. A la station d'essence Total\, prendre à droite pendant +/- 700 m
  ètres.\nAu rond point\, prendre à droite en direction du château de La 
@@ -102,17 +104,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: SCHEUT FC vs TOURINNOIS FC
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_274_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris et Noir\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
+ équipe domicile: Huys R. (0477.59.24.22)\n\nAccès voiture : En venant de
   la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
   la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
  emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
@@ -123,17 +125,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: AZUR RCS vs ETINCELLE FC
 DTSTART;VALUE=DATE-TIME:20230304T140000Z
 DTEND;VALUE=DATE-TIME:20230304T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_2A_23_109_35
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et bleu\n\nCon
- tact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture :
+ tact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture :
   Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain
   prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de
   signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardi
@@ -144,6 +146,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 END:VCALENDAR

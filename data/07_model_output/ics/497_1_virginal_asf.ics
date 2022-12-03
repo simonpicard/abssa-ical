@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: GOALOIS (Eq. 2) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_1_345_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: LARUELLE M. (0494.52.09.71)\n\nAccès voiture : En venant de Br
+  domicile: Laruelle M. (0494.52.09.71)\n\nAccès voiture : En venant de Br
  uxelles\, prendre l’E411 en direction de Namur et prendre la sortie 11 P
  erwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-
  point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à la 3èm
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  //www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:martin.laruelle@gmail.com
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J3: VIRGINAL ASF vs FRIENDS SPIRIT AUD
 DTSTART;VALUE=DATE-TIME:20220917T130000Z
 DTEND;VALUE=DATE-TIME:20220917T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_3_497_522
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de B
+ domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ de B
  ruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre la 
  direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la direc
  tion Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-Charl
@@ -46,17 +47,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J4: CHENOIS (ESPER) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20220924T113000Z
 DTEND;VALUE=DATE-TIME:20220924T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_4_412_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Rouge\n\nContac
- t équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture : Venan
+ t équipe domicile: Gioffredi G. (0474.24.92.27)\n\nAccès voiture : Venan
  t d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bru
  xelles\, continuer jusqu'à la place E. Vandevelde (intersection de la cha
  ussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de
@@ -66,17 +68,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  497/VIRGINAL-ASF\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:412fcec@gmail.com
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J5: VIRGINAL ASF vs OMNISPORT BIERGHES
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_5_497_455
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune et bleu\n\nContact
-  équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dé
+  équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au dé
  part de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. S
  uivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre
   la direction Virginal-Samme. Franchir le pont surplombant le canal Bruxel
@@ -90,17 +92,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  RGHES\nInfo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J6: BRUSSELS LTC (Eq. 3) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20221008T113000Z
 DTEND;VALUE=DATE-TIME:20221008T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_6_39_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : A partir de
+ ipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : A partir de
   Bruxelles\, prendre la E 411 en direction de Namur. Prendre la sortie N°
   8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Do
  iceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 
@@ -110,17 +113,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  L-ASF\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J7: VIRGINAL ASF vs NEW INN FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221015T130000Z
 DTEND;VALUE=DATE-TIME:20221015T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_7_497_359
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et rouge\n\nContact
-  équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dé
+  équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au dé
  part de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. S
  uivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre
   la direction Virginal-Samme. Franchir le pont surplombant le canal Bruxel
@@ -134,17 +138,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  nfo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J8: TRINQUANT vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_8_445_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
+ équipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : Venant 
  de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
  roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
  le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
@@ -156,17 +161,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  g/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J9: VIRGINAL ASF vs WAPPERS FC
 DTSTART;VALUE=DATE-TIME:20221105T140000Z
 DTEND;VALUE=DATE-TIME:20221105T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_9_497_67
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rayé noir et blanc\n\nC
- ontact équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : 
+ ontact équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : 
  Au départ de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à It
  tre. Suivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et 
  suivre la direction Virginal-Samme. Franchir le pont surplombant le canal 
@@ -180,17 +186,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  -FC\nInfo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J10: VIRGINAL ASF vs MOON SHOOTERS
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_10_497_606
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
+  domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
  Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre la
   direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la dire
  ction Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-Char
@@ -204,17 +211,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J11: NIVELLES CS vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_11_306_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: COUTEAU A (0497.63.11.19)\n\nAccès voiture : En venant
+  équipe domicile: Couteau A (0497.63.11.19)\n\nAccès voiture : En venant
   de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivell
  es-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directi
  on de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dr
@@ -227,17 +235,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  IRGINAL-ASF\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:couteau.arnold.00@gmail.com
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J14: FRIENDS SPIRIT AUD vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20221210T113000Z
 DTEND;VALUE=DATE-TIME:20221210T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_14_522_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: RAU L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
+ domicile: Rau L. (0471.06.77.33)\n\nAccès voiture : En venant de Bruxelle
  s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
  les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
  vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
@@ -248,17 +257,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:ludo-r@hotmail.com
+ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J15: VIRGINAL ASF vs PATRONS (LES)
 DTSTART;VALUE=DATE-TIME:20221217T140000Z
 DTEND;VALUE=DATE-TIME:20221217T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4B_15_497_628
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
+  domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
  Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre la
   direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la dire
  ction Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-Char
@@ -272,17 +281,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J16: VIRGINAL ASF vs CHENOIS (ESPER)
 DTSTART;VALUE=DATE-TIME:20230107T140000Z
 DTEND;VALUE=DATE-TIME:20230107T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_16_497_412
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc et rouge\n\nContac
- t équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au d
+ t équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au d
  épart de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre.
   Suivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suiv
  re la direction Virginal-Samme. Franchir le pont surplombant le canal Brux
@@ -296,17 +306,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  PER\nInfo terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J17: OMNISPORT BIERGHES vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230114T120000Z
 DTEND;VALUE=DATE-TIME:20230114T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_17_455_497
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
+  équipe domicile: Barbe L. (0495.21.74.14)\n\nAccès voiture : Autoroute 
  Bruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21)
   pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Pren
  dre la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dr
@@ -318,17 +329,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/B02
 GEO:50.6957846;4.129257
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J18: VIRGINAL ASF vs BRUSSELS LTC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230121T140000Z
 DTEND;VALUE=DATE-TIME:20230121T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_18_497_39
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bordeaux\n\nContact équ
- ipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ 
+ ipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ 
  de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre
   la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la d
  irection Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-C
@@ -342,17 +354,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
   terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J19: NEW INN FC (Eq. 3) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_19_359_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
+  équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au dépar
  t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
  tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
  ens Combattants. Juste après le carrefour avec des feux de signalisation 
@@ -363,17 +376,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J20: VIRGINAL ASF vs TRINQUANT
 DTSTART;VALUE=DATE-TIME:20230204T140000Z
 DTEND;VALUE=DATE-TIME:20230204T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_20_497_445
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dép
+ équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au dép
  art de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Su
  ivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre 
  la direction Virginal-Samme. Franchir le pont surplombant le canal Bruxell
@@ -387,17 +400,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J21: WAPPERS FC vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_21_67_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé noir et blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: VINCK B. (0475.92.57.30)\n\nAccès voiture : Ring
+ ontact équipe domicile: Vinck B. (0475.92.57.30)\n\nAccès voiture : Ring
   de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. E
  nsuite première rue à droite (Louis Marcelisstraat) puis la troisième 
  à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche en
@@ -411,17 +425,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  7/VIRGINAL-ASF\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:bernard.vinck@belgacom.net
+ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J23: MOON SHOOTERS vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_23_606_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: MORELLE M. (0478.68.42.14)\n\nAccès voiture : En venant de Bru
+  domicile: Morelle M. (0478.68.42.14)\n\nAccès voiture : En venant de Bru
  xelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute B
  ruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descend
  re devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (e
@@ -432,17 +446,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:max.morelle@gmail.com
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J24: VIRGINAL ASF vs NIVELLES CS
 DTSTART;VALUE=DATE-TIME:20230311T140000Z
 DTEND;VALUE=DATE-TIME:20230311T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_24_497_306
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu et jaune\n\nContact
-  équipe domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au dé
+  équipe domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au dé
  part de Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. S
  uivre la direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre
   la direction Virginal-Samme. Franchir le pont surplombant le canal Bruxel
@@ -456,17 +470,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  Info terrain: https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J25: VIRGINAL ASF vs GOALOIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T140000Z
 DTEND;VALUE=DATE-TIME:20230318T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_25_497_345
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: VERHOEST P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
+  domicile: Verhoest P. (0494. 78.97.55)\n\nAccès voiture : Au départ de 
  Bruxelles\, l'autoroute E19 ou par le Ring RO\, sortir à Ittre. Suivre la
   direction Ittre-Virginal. Traverser Haut-Ittre et Ittre et suivre la dire
  ction Virginal-Samme. Franchir le pont surplombant le canal Bruxelles-Char
@@ -480,17 +495,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  : https://www.abssa.org/terrain/V02
 GEO:50.6528899;4.2178077
 LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER:MAILTO:secretariat@asfvirginal.be
+ORGANIZER;CN="Verhoest P.";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4B J26: PATRONS (LES) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4B_26_628_497
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: VAN ROEY G. (0478.24.03.05)\n\nAccès voiture : Boulevard de la
+  domicile: Van Roey G. (0478.24.03.05)\n\nAccès voiture : Boulevard de la
   Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Peti
  t Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\
  nInfo équipe domicile: https://www.abssa.org/team/628/PATRONS-LES\nInfo 
@@ -499,6 +515,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:lespatrons.fc@gmail.com
+ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
 END:VEVENT
 END:VCALENDAR

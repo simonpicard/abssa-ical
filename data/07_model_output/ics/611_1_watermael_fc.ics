@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J1: STER'S vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_1_598_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
+ équipe domicile: Reginster Th. (0475.52.11.27)\n\nAccès voiture : En ven
  ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
  e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
  rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
@@ -33,17 +33,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:Thomas.reginster@live.be
+ORGANIZER;CN="Reginster Th.";ROLE=Secrétaire:MAILTO:Thomas.reginster@live
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J2: WATERMAEL FC vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220910T120000Z
 DTEND;VALUE=DATE-TIME:20220910T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_2_611_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
+ domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
  are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
  hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
  \nInfo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH
@@ -51,17 +52,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J3: CHIEFS WSL vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20220917T120000Z
 DTEND;VALUE=DATE-TIME:20220917T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_3_303_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
+ domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
  luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
  ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nIn
  fo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équi
@@ -70,17 +71,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J4: WATERMAEL FC vs MACAPSULES (LES)
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_4_611_627
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert/blanc\n\nContact éq
- uipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir d
+ uipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir d
  u square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des
   Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMA
  EL-FC\nInfo équipe exterieure: https://www.abssa.org/team/627/MACAPSULES-
@@ -88,17 +89,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J5: BOUKS  FC vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_5_579_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxel
+ omicile: Schapira  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxel
  les\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenendae
  l\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chatea
  u de La Hulpe\, toujours tout droit. Au feu de signalisation et le carrefo
@@ -110,17 +111,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J6: WATERMAEL FC vs CORNAC UNITED FC
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_6_611_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
+ domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
  are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
  hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
  \nInfo équipe exterieure: https://www.abssa.org/team/151/CORNAC-UNITED-FC
@@ -128,17 +130,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J7: BREU UNITED vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_7_603_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange et Mauve\nCouleur principale équipe exterieure: Bleu\n\nContac
- t équipe domicile: PASCHOLD J. (0478.27.10.78)\n\nAccès voiture : En ven
+ t équipe domicile: Paschold J. (0478.27.10.78)\n\nAccès voiture : En ven
  ant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, p
  rendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jo
  sse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oisea
@@ -149,17 +151,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:paschold.j@gmail.com
+ORGANIZER;CN="Paschold J.";ROLE=Secrétaire:MAILTO:paschold.j@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J8: WATERMAEL FC vs ETTEKIJS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_8_611_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir rayé de blanc\n\nCo
- ntact équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A
+ ntact équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A
   partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'a
  venue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/61
  1/WATERMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/343/ET
@@ -167,17 +169,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J9: SYB  RFC vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_9_48_611
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: JOIE C (0496.87.21.50)\n\nAccès voiture : En vena
+ ntact équipe domicile: Joie C (0496.87.21.50)\n\nAccès voiture : En vena
  nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
  endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
  se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
@@ -188,17 +190,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:christophe.joie@hotmail.com
+ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J10: WATERMAEL FC vs CENTRAL PARK FC
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_10_611_562
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu et Blanc\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A parti
+ équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A parti
  r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATE
  RMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/562/CENTRAL-
@@ -206,17 +208,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J11: SAINT GEORGES RCS (Eq. 2) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_11_221_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervuren
+ domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Avenue de Tervuren
  \, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo é
  quipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/611/WATERMAEL-FC\nInfo terrain
@@ -224,17 +226,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J12: WATERMAEL FC vs CELTIC ROOSTERS
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_12_611_626
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert et blanc\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A parti
+ équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A parti
  r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATE
  RMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/626/CELTIC-R
@@ -242,17 +244,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: BRUSSELS BRITISH R (Eq. 3) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_13_1_611
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
+ domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, p
  rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
  t tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
@@ -260,17 +262,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J14: WATERMAEL FC vs CHIEFS WSL
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_14_611_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
+ domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
  are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
  hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
  \nInfo équipe exterieure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo
@@ -278,17 +280,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J15: WATERMAEL FC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3C_15_611_544
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir 
+ quipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir 
  du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue de
  s Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERM
  AEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\
@@ -296,17 +298,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: MACAPSULES (LES) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_16_627_611
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert/blanc\nCouleur principale équipe exterieure: Bleu\n\nContact éq
- uipe domicile: DAUMONT J. (0475.42.26.61)\n\nAccès voiture : Autoroute Br
+ uipe domicile: Daumont J. (0475.42.26.61)\n\nAccès voiture : Autoroute Br
  uxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prend
  re la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deu
  x premiers ronds-points à l'issue de la RN 25. Au troisième rond-point p
@@ -316,17 +318,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  MAEL-FC\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jordandaumont@gmail.com
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:jordandaumont@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J17: WATERMAEL FC vs BOUKS  FC
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_17_611_579
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squa
+ omicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir du squa
  re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
  es.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC\
  nInfo équipe exterieure: https://www.abssa.org/team/579/BOUKS-FC\nInfo te
@@ -334,17 +336,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J18: CORNAC UNITED FC vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230121T133000Z
 DTEND;VALUE=DATE-TIME:20230121T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_18_151_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -354,17 +356,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  MAEL-FC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J19: WATERMAEL FC vs BREU UNITED
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_19_611_603
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Orange et Mauve\n\nContac
- t équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A par
+ t équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A par
  tir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenu
  e des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WA
  TERMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/603/BREU-U
@@ -372,17 +374,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: ETTEKIJS (Eq. 2) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_20_343_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
+ ntact équipe domicile: Raes F. (0479.73.82.49)\n\nAccès voiture : A part
  ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
   des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/343/ETT
  EKIJS\nInfo équipe exterieure: https://www.abssa.org/team/611/WATERMAEL-F
@@ -390,17 +392,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J21: WATERMAEL FC vs SYB  RFC
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_21_611_48
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Vert et blanc\n\nCo
- ntact équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A
+ ntact équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A
   partir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'a
  venue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/61
  1/WATERMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/048/SY
@@ -408,17 +410,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J22: CELTIC ROOSTERS vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_22_626_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : Autoroute 
+ équipe domicile: Dubois S. (0479.04.13.70)\n\nAccès voiture : Autoroute 
  E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à ga
  uche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'E
  urope direction Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à 
@@ -431,17 +433,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.7216297;4.6192566
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
-ORGANIZER:MAILTO:celticroosters@gmail.com
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J23: CENTRAL PARK FC vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_23_562_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard d
+ équipe domicile: Genot F. (0473.57.28.61)\n\nAccès voiture : Boulevard d
  e la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au 
  Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche
  .\n\nInfo équipe domicile: https://www.abssa.org/team/562/CENTRAL-PARK-FC
@@ -450,17 +452,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J24: WATERMAEL FC vs SAINT GEORGES RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_24_611_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
+ domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A partir du squ
  are des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymp
  hes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATERMAEL-FC
  \nInfo équipe exterieure: https://www.abssa.org/team/221/SAINT-GEORGES-RC
@@ -468,17 +470,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J25: WATERMAEL FC vs STER'S
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_25_611_598
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A parti
+ équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès voiture : A parti
  r du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue 
  des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/611/WATE
  RMAEL-FC\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nI
@@ -486,17 +488,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3C J26: WELL TEAM vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_3C_26_544_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A partir du s
+ quipe domicile: Dayez M. (0472.61.95.08)\n\nAccès voiture : A partir du s
  quare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Ny
  mphes.\n\nInfo équipe domicile: https://www.abssa.org/team/544/WELL-TEAM\
  nInfo équipe exterieure: https://www.abssa.org/team/611/WATERMAEL-FC\nInf
@@ -504,6 +506,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:martindayez@hotmail.com
+ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
 END:VEVENT
 END:VCALENDAR

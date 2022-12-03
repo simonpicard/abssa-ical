@@ -223,6 +223,8 @@ def process_clubs(clubs_df):
         }
     )
 
+    clubs_df["secretary"] = clubs_df["secretary"].str.title()
+
     extra_club_info = clubs_df["info_terrain"].apply(get_extra_club_info)
     clubs_df = clubs_df.join(extra_club_info)
 

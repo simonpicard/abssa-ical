@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: LUNETTE (LA) FC vs MIREILLE WEMMEL
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_130_93
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge et  Noir\n
- \nContact équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture
+ \nContact équipe domicile: Bonifazio R. (0488.31.38.10)\n\nAccès voiture
   : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
  Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
  levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
+ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: NEW INN FC (Eq. 4) vs LORGNETTE (LA)  FC
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_359_392
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\, Blanc\nCouleur principale équipe exterieure: Bordeaux\n\nC
- ontact équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au 
+ ontact équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au 
  départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre 
  la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue de
  s Anciens Combattants. Juste après le carrefour avec des feux de signalis
@@ -43,17 +44,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  C\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: PETER PAN FC vs NEW ARQUOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_279_263
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: DRINE N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
+ omicile: Drine N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
  (n° 19)\, prendre direction Beersel\, ensuite direction Linkebeek En face
   du Delhaize prendre la rue de la Brasserie et ensuite suivre les indicati
  ons LHC-KHVCL.\nR.E. Sortie Groenendael - Direction Uccle\, dans la forêt
@@ -70,17 +71,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  tps://www.abssa.org/terrain/L07
 GEO:50.7627439;4.345177
 LOCATION:Wouterbos\, Rue Schavei 31\, 1630 Linkebeek\, Belgique
-ORGANIZER:MAILTO:neildrine@gmail.com
+ORGANIZER;CN="Drine N.";ROLE=Secrétaire:MAILTO:neildrine@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: BRITISH UNITED (Eq. 3) vs GREZ AJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_132_514
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ omicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
  xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
  re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
   viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
@@ -91,17 +92,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: TRICOTEUSES FC. vs BOUSVAL GENAPPE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_617_401
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Orange et bleu\n\nCon
- tact équipe domicile: CASTIN\, L (0484.80.59.60)\n\nAccès voiture : Ring
+ tact équipe domicile: Castin\, L (0484.80.59.60)\n\nAccès voiture : Ring
   de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. E
  nsuite première rue à droite (Louis Marcelisstraat) puis la troisième 
  à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche en
@@ -115,17 +117,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  m/401/BOUSVAL-GENAPPE\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:leopold.castin@hotmail.com
+ORGANIZER;CN="Castin, L";ROLE=Secrétaire:MAILTO:leopold.castin@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J21: ZIJP FC vs PANGLOSS FC
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_4C_21_646_123
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: SALAMONE E. (0475.20.92.37)\n\nAccès voiture : De la Place Meise
+ omicile: Salamone E. (0475.20.92.37)\n\nAccès voiture : De la Place Meise
  r\, remonter tous les boulevards. Au carrefour de la Chaussée de Wavre\, 
  prendre celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général
   Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\n\nInfo équipe domi
@@ -134,6 +137,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rg/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:elio.salamone46@gmail.com
+ORGANIZER;CN="Salamone E.";ROLE=Secrétaire:MAILTO:elio.salamone46@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J1: NO BOYS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_1_420_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: DEBY P. (0479.94.64.38)\n\nAccès voiture : Ring\, sortie Hopita
+ domicile: Deby P. (0479.94.64.38)\n\nAccès voiture : Ring\, sortie Hopita
  l Erasme\, après 300 m. en direction de Lennik\, prendre à droite.\nVena
  nt de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand
  \, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital E
@@ -21,17 +21,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:pierredeby@gmail.com
+ORGANIZER;CN="Deby P.";ROLE=Secrétaire:MAILTO:pierredeby@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J2: REAL TRAPPISTE vs ETTEKIJS
 DTSTART;VALUE=DATE-TIME:20220910T120000Z
 DTEND;VALUE=DATE-TIME:20220910T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_2_605_343
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
+ domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
  ove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n(+
  /- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO" p
  rendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\, 
@@ -41,17 +41,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J3: STRING PENELOPE vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20220917T120000Z
 DTEND;VALUE=DATE-TIME:20220917T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_3_181_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Jaune\n\nContact équip
- e domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de 
+ e domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : En venant de 
  Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la so
  rtie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre 
  la direction d'Ottignies par la N238. Au 1èr feu de signalisation continu
@@ -74,17 +75,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J4: REAL TRAPPISTE vs REQUINS (LES)
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_4_605_556
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
+ domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
  ove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n(+
  /- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO" p
  rendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\, 
@@ -94,17 +96,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J5: NEW INN FC vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_5_359_605
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge foncé\nCouleur principale équipe exterieure: Jaune\n\nContact 
- équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ
+ équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au départ
   de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
  ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
  ns Combattants. Juste après le carrefour avec des feux de signalisation p
@@ -115,17 +118,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J6: REAL TRAPPISTE vs SPARTA SCHEUT
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_6_605_340
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rayé Bleu et Jaune\n\nC
- ontact équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring
+ ontact équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring
   O\, sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée
   de Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste apr
  ès le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve 
@@ -136,17 +139,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J7: BRAINE-TERMINUS FC vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20221015T130000Z
 DTEND;VALUE=DATE-TIME:20221015T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_7_537_605
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et rouge\nCouleur principale équipe exterieure: Jaune\n\nContac
- t équipe domicile: DERO G. (0479.81.83.27)\n\nAccès voiture : En venant 
+ t équipe domicile: Dero G. (0479.81.83.27)\n\nAccès voiture : En venant 
  de Bruxelles : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\,
   direction Rebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entre
  r dans l'agglomération de Braine-Le-Comte et prendre la 1ère rue à droi
@@ -159,17 +163,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/B11
 GEO:50.6193857;4.1352085
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER:MAILTO:fcbraineterminus@gmail.com
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J8: REAL TRAPPISTE vs AZUR RCS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_8_605_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sorti
+ uipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sorti
  e Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove
   \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le "BRI
  CO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droi
@@ -180,17 +184,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J9: FOSSIS (LES) CS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20221105T140000Z
 DTEND;VALUE=DATE-TIME:20221105T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_9_217_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune fluo\nCouleur principale équipe exterieure: Jaune\n\nContact é
- quipe domicile: DESMEDT O. (0495.27.08.87)\n\nAccès voiture : En venant d
+ quipe domicile: Desmedt O. (0495.27.08.87)\n\nAccès voiture : En venant d
  e Bruxelles\, prendre l'autoroute E411 en direction de Namur. Prendre la s
  ortie 9 Corroy-le-Grand vers Louvain-la-Neuve  Sud / Nivelles / E 19. Rejo
  indre Chemin de Grez. Au rond-point\, prendre la 2ième sortie sur Grand'R
@@ -203,17 +208,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6415297;4.6219204
 LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
  Guibert\, Belgique
-ORGANIZER:MAILTO:oli.desmedt@gmail.com
+ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J10: REAL TRAPPISTE vs UNION SCHAERBEEK
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_10_605_543
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge et noir\n\nContact
-  équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, s
+  équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, s
  ortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ni
  nove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le 
  "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main 
@@ -224,17 +229,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J11: REAL TRAPPISTE vs PHARMA SC
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_11_605_268
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Ni
+  domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Ni
  nove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n(
  +/- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO" 
  prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\,
@@ -244,17 +250,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J12: REAL TRAPPISTE vs MIDI AS
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_12_605_169
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Ni
+  domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Ni
  nove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n(
  +/- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO" 
  prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\,
@@ -264,17 +271,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J13: ETTEKIJS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_13_343_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A partir du square d
+ domicile: Raes F. (0479.73.82.49)\n\nAccès voiture : A partir du square d
  es Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\
  n\nInfo équipe domicile: https://www.abssa.org/team/343/ETTEKIJS\nInfo é
  quipe exterieure: https://www.abssa.org/team/605/REAL-TRAPPISTE\nInfo terr
@@ -282,17 +290,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J14: REAL TRAPPISTE vs STRING PENELOPE
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_14_605_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie N
+ e domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie N
  inove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n
  (+/- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO"
   prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\
@@ -303,17 +311,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J15: HERMES FC vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3A_15_357_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé bleu jaune\nCouleur principale équipe exterieure: Jaune\n\nCont
- act équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A pa
+ act équipe domicile: Avdoulos S. (0479.61.63.24)\n\nAccès voiture : A pa
  rtir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'aven
  ue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/357/H
  ERMES-FC\nInfo équipe exterieure: https://www.abssa.org/team/605/REAL-TRA
@@ -321,17 +330,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
+ORGANIZER;CN="Avdoulos S.";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J16: REQUINS (LES) vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_16_556_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: BARBE L. (0476.04.93.45)\n\nAccès voiture : En venant de Bruxel
+ domicile: Barbe L. (0476.04.93.45)\n\nAccès voiture : En venant de Bruxel
  les\, prendre l'autoroute E411 en direction de Namur\, prendre la sortie  
  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la dir
  ection d'Ottignies par la N238. Au 1èr feu de signalisation continuer tou
@@ -353,17 +362,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  05/REAL-TRAPPISTE\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:louis.barbe1@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J17: REAL TRAPPISTE vs NEW INN FC
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_17_605_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge foncé\n\nContact 
- équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, so
+ équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, so
  rtie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Nin
  ove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le "
  BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main d
@@ -374,17 +383,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J18: SPARTA SCHEUT vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_18_340_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: VANDE VELDE J. (0486.97.70.66)\n\nAccès voiture 
+ ontact équipe domicile: Vande Velde J. (0486.97.70.66)\n\nAccès voiture 
  : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pr
  endre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van K
  alken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carèm
@@ -395,17 +405,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:sparta.scheut@hotmail.com
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J19: REAL TRAPPISTE vs BRAINE-TERMINUS FC
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_19_605_537
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Jaune et rouge\n\nContac
- t équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, 
+ t équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, 
  sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de N
  inove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le
   "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main
@@ -416,17 +427,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J20: AZUR RCS (Eq. 3) vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230204T110000Z
 DTEND;VALUE=DATE-TIME:20230204T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_20_109_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -437,17 +449,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J21: REAL TRAPPISTE vs FOSSIS (LES) CS
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_21_605_217
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Jaune fluo\n\nContact é
- quipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sort
+ quipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sort
  ie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninov
  e \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le "BR
  ICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main dro
@@ -458,17 +471,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: MIDI AS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_22_169_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: CANTINIAU J-C. (0479.84.17.35)\n\nAccès voiture : En venant de
+  domicile: Cantiniau J-C. (0479.84.17.35)\n\nAccès voiture : En venant de
   Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au m
  agasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction 
  Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, prendr
@@ -479,17 +493,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:standardmidi@hotmail.com
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J23: UNION SCHAERBEEK vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230304T133000Z
 DTEND;VALUE=DATE-TIME:20230304T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_23_543_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: SARI U. (0489.39.43.46)\n\nAccès voiture : Place Meise
+  équipe domicile: Sari U. (0489.39.43.46)\n\nAccès voiture : Place Meise
  r\, descendre le boulevard Lambermont. Au 3ème feu de signalisation prend
  re à gauche\, puis la première à droite.\n\nInfo équipe domicile: http
  s://www.abssa.org/team/543/UNION-SCHAERBEEK\nInfo équipe exterieure: http
@@ -498,17 +513,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
-ORGANIZER:MAILTO:ugursari007@hotmail.com
+ORGANIZER;CN="Sari U.";ROLE=Secrétaire:MAILTO:ugursari007@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J24: PHARMA SC vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_24_268_605
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : A partir du s
+  domicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : A partir du s
  quare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Ny
  mphes.\n\nInfo équipe domicile: https://www.abssa.org/team/268/PHARMA-SC\
  nInfo équipe exterieure: https://www.abssa.org/team/605/REAL-TRAPPISTE\nI
@@ -516,17 +531,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J25: REAL TRAPPISTE vs NO BOYS
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_25_605_420
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
+ domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie Nin
  ove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n(+
  /- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO" p
  rendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\, 
@@ -536,17 +552,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: REAL TRAPPISTE vs HERMES FC
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3A_26_605_357
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
- act équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\
+ act équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\
  , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
   Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
  le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
@@ -557,6 +574,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 END:VCALENDAR

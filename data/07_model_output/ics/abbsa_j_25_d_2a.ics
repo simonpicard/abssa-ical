@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: COBRA TEAM vs SCHEUT FC
 DTSTART;VALUE=DATE-TIME:20230318T113000Z
 DTEND;VALUE=DATE-TIME:20230318T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_541_274
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Gris et Noir\
- n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture 
+ n\nContact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture 
  : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
  t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
   200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: TOURINNOIS FC vs BESACE RFC
 DTSTART;VALUE=DATE-TIME:20230318T123000Z
 DTEND;VALUE=DATE-TIME:20230318T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_292_24
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ domicile: Strade P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
  oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
   de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
  ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
@@ -42,17 +42,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  .abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: ETINCELLE FC vs BRITISH UNITED
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_35_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
+ équipe domicile: Kremer N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
  ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
  te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
@@ -63,17 +63,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: CURTIS L'AUSELE vs NEW ARQUOIS FC
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_599_263
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : En venant
+ quipe domicile: Lambricht T. (0474.20.64.38)\n\nAccès voiture : En venant
   de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
  e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
   rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
@@ -84,17 +84,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:thomas.lambricht@gmail.com
+ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: ENGHIEN AMICAL vs AZUR RCS
 DTSTART;VALUE=DATE-TIME:20230318T140000Z
 DTEND;VALUE=DATE-TIME:20230318T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_31_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture : Pren
+ uipe domicile: Vanderplasschen E. (0475.87.45.71)\n\nAccès voiture : Pren
  dre la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sortie Pet
  it-Enghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghien. Au b
  out de la route prendre à gauche\, direction Enghien. Arrivé à Enghien\
@@ -105,17 +106,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6970878;4.0470023
 LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
  ique
-ORGANIZER:MAILTO:e.vdps.ev@gmail.com
+ORGANIZER;CN="Vanderplasschen E.";ROLE=Secrétaire:MAILTO:e.vdps.ev@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: UNION JP vs LORRAINE (LA) RFC
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_504_44
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voiture : Ring\,
+ équipe domicile: Vanderweyen V (0497.35.33.49)\n\nAccès voiture : Ring\,
   sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à
   droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, 
  Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, apr
@@ -126,17 +128,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: BRAINE STORMING vs IRLANDE FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_2A_25_630_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxell
+ omicile: Goethals E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxell
  es prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur
   la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sor
  tie Loupoigne\, traverser le carrefour\, tout droit direction route du suc
@@ -145,6 +148,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:manu.goethals@gmail.com
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 END:VCALENDAR

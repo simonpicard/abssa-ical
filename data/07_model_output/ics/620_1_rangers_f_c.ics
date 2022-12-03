@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J1: WINCHESTER F.C. vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_1_653_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et blanc\nCouleur principale équipe exterieure: Rayé Bordeaux B
- lanc et Bleu\n\nContact équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)
+ lanc et Bleu\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36)
  \n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en direction
   de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N 25
   vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au r
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
+ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J2: ELAN EVERE RAC vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20220910T113000Z
 DTEND;VALUE=DATE-TIME:20220910T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_2_7_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voi
+ leu\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49)\n\nAccès voi
  ture : Le terrain se trouve derrière l'église St. Vincent\n\nInfo équip
  e domicile: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe ex
  terieure: https://www.abssa.org/team/620/RANGERS-FC\nInfo terrain: https:/
@@ -40,17 +41,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J3: RANGERS F.C. vs BRITISH UNITED (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20220917T120000Z
 DTEND;VALUE=DATE-TIME:20220917T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_3_620_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+ leu\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voiture
   : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
  haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
  roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
@@ -59,17 +60,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J4: EFFETA FC vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_4_516_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rayé Bordeaux B
- lanc et Bleu\n\nContact équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAc
+ lanc et Bleu\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40)\n\nAc
  cès voiture : Autoroute Bruxelles-Anvers (A12)\, au premier feu de signal
  isation\, prendre à gauche\, direction Londerzeel. Suivre la plaque Stati
  onstraat. Passée la gare (après env. 1200 m.) prendre à gauche au " Mon
@@ -79,17 +80,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rrain/L05
 GEO:51.0192214;4.2904455
 LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
-ORGANIZER:MAILTO:effetafc@gmail.com
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J5: RANGERS F.C. vs FORESTOIS SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_5_620_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: V
- ert\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+ ert\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voiture
   : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
  haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
  roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
@@ -98,17 +99,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J6: WATERMAEL FC (Eq. 2) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20221008T113000Z
 DTEND;VALUE=DATE-TIME:20221008T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_6_611_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès vo
+ leu\n\nContact équipe domicile: Deschamps J. (0477.67.76.37)\n\nAccès vo
  iture : L'accès au terrain se fait à partir du n° 2057 de la chaussée 
  de Wavre (en face du stade communal d'Auderghem). L'accès au terrain se f
  ait par l'arrière du bâtiment principal (où sont situés les vestiaires
@@ -120,17 +121,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J7: RANGERS F.C. vs POSTBOYS FC
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_7_620_75
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: R
- ouge et noir\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccè
+ ouge et noir\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccè
  s voiture : De la Place Meiser\, remonter tous les boulevards. Au carrefou
  r de la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème
   rue à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron 
@@ -139,17 +140,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nfo terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J8: AZUR RCS (Eq. 4) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20221022T100000Z
 DTEND;VALUE=DATE-TIME:20221022T111000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_8_109_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc
-  et Bleu\n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nA
+  et Bleu\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nA
  ccès voiture : Avenue de Tervuren\, direction Tervuren. Passé le bouleva
  rd du Souverain prendre à gauche au premier feu de signalisation (Av. Mad
  oux). Au feu de signalisation suivant prendre la 2ème rue à main droite 
@@ -160,17 +161,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J9: RANGERS F.C. vs WOLUWE FC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_9_620_153
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: J
- aune et Bleu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccè
+ aune et Bleu\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccè
  s voiture : De la Place Meiser\, remonter tous les boulevards. Au carrefou
  r de la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème
   rue à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron 
@@ -179,17 +181,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: RANGERS F.C. vs BEA WOLUWE
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_10_620_459
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu clair\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès v
+ leu clair\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès v
  oiture : De la Place Meiser\, remonter tous les boulevards. Au carrefour d
  e la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème ru
  e à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dha
@@ -198,17 +200,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J12: RANGERS F.C. vs GAMBRINUS F.C.
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_12_620_645
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: R
- ose\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+ ose\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voiture
   : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
  haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
  roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
@@ -217,17 +219,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J13: RANGERS F.C. vs ELAN EVERE RAC
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_13_620_7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: V
- ert\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+ ert\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voiture
   : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
  haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
  roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
@@ -236,17 +238,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J14: BRITISH UNITED (Eq. 4) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_14_132_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès
+ leu\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès
   voiture : Autoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) 
  En arrivant dans le centre\, suivre la direction "Heist-op-den-Berg" Aller
   tout droit et passer le viaduc du chemin de fer. Après 1 km. suivre les 
@@ -258,17 +260,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J15: RANGERS F.C. vs CENTRAL PARK FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5A_15_620_562
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- ordeaux\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voi
+ ordeaux\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voi
  ture : De la Place Meiser\, remonter tous les boulevards. Au carrefour de 
  la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue 
  à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhani
@@ -277,17 +280,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J16: RANGERS F.C. vs EFFETA FC
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_16_620_516
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: R
- ouge et noir\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccè
+ ouge et noir\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccè
  s voiture : De la Place Meiser\, remonter tous les boulevards. Au carrefou
  r de la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème
   rue à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron 
@@ -296,17 +299,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J17: FORESTOIS SC (Eq. 3) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_17_152_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voi
+ leu\n\nContact équipe domicile: Janssens P. (0479.95.08.14)\n\nAccès voi
  ture : Au départ de la Place St. Denis à Forest prendre la chaussée de 
  Neerstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la 
  rue de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2èm
@@ -318,17 +321,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J18: RANGERS F.C. vs WATERMAEL FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230121T130000Z
 DTEND;VALUE=DATE-TIME:20230121T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_18_620_611
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
+ leu\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès voiture
   : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
  haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
  roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\
@@ -337,17 +340,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J19: POSTBOYS FC vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_19_75_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rayé Bordeaux B
- lanc et Bleu\n\nContact équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\n
+ lanc et Bleu\n\nContact équipe domicile: Burquel J-M. (0498.05.90.57)\n\n
  Accès voiture : Direction cimetière de Jette\, ensuite prendre la rue du
   "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le te
  rrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org
@@ -356,17 +359,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+ORGANIZER;CN="Burquel J-M.";ROLE=Secrétaire:MAILTO:secretariat@postboys.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: RANGERS F.C. vs AZUR RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_20_620_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu ciel\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès vo
+ leu ciel\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccès vo
  iture : De la Place Meiser\, remonter tous les boulevards. Au carrefour de
   la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue
   à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhan
@@ -375,17 +379,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J21: WOLUWE FC vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_21_153_620
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Bleu\nCouleur principale équipe exterieure: Rayé Bordeaux B
- lanc et Bleu\n\nContact équipe domicile: PURNELLE K. (0491.08.24.67)\n\nA
+ lanc et Bleu\n\nContact équipe domicile: Purnelle K. (0491.08.24.67)\n\nA
  ccès voiture : Par la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wav
  re Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendant 700 mètr
  es jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite la rue de M
@@ -397,17 +401,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
+ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J22: GAMBRINUS F.C. vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_22_645_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rose\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc et B
- leu\n\nContact équipe domicile: BRISMEE M (0474.68.53.85)\n\nAccès voitu
+ leu\n\nContact équipe domicile: Brismee M (0474.68.53.85)\n\nAccès voitu
  re : Prendre la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, pr
  endre ensuite la 2ème rue à droite\, l' Avenue des Communautés\, l'entr
  ée au terrain est situé à 100 m.\n\nInfo équipe domicile: https://www.
@@ -416,17 +420,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8582632;4.4251766
 LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:fcgambrinusfc@gmail.com
+ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J23: BEA WOLUWE vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_23_459_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu clair\nCouleur principale équipe exterieure: Rayé Bordeaux Blan
- c et Bleu\n\nContact équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nA
+ c et Bleu\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62)\n\nA
  ccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1
  ère rue à main gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
  eam/459/BEA-WOLUWE\nInfo équipe exterieure: https://www.abssa.org/team/62
@@ -434,17 +438,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J25: RANGERS F.C. vs WINCHESTER F.C.
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_25_620_653
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu et blanc\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccè
+ leu et blanc\n\nContact équipe domicile: Thuns S (0474.62.02.22)\n\nAccè
  s voiture : De la Place Meiser\, remonter tous les boulevards. Au carrefou
  r de la Chaussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème
   rue à droite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron 
@@ -453,17 +458,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nInfo terrain: https://www.abssa.org/terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5A J26: CENTRAL PARK FC (Eq. 2) vs RANGERS F.C.
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5A_26_562_620
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rayé Bordeaux Blanc 
- et Bleu\n\nContact équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès vo
+ et Bleu\n\nContact équipe domicile: Genot F. (0473.57.28.61)\n\nAccès vo
  iture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée d
  e Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain 
  se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/
@@ -472,6 +477,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 END:VCALENDAR

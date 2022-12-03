@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: IRLANDE FC (Eq. 3) vs RAPID TAMTAM FC.
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_402_600
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune et rose\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
  ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
   la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
  ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: RAPID MYMOL vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_622_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nCon
- tact équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Rin
+ tact équipe domicile: Delanghe A. (0498.42.21.39)\n\nAccès voiture : Rin
  g de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. 
  Ensuite première rue à droite (Louis Marcelisstraat) puis la troisième 
  à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche en
@@ -46,17 +47,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  23/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
+ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: FOOT JOSAPHAT vs SAINT GEORGES RCS
 DTSTART;VALUE=DATE-TIME:20220903T130000Z
 DTEND;VALUE=DATE-TIME:20220903T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_597_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\
+ domicile: El Youssefi J. (0488.30.74.66)\n\nAccès voiture : Place Meiser\
  , descendre le boulevard Lambermont. Au 3ème feu de signalisation prendre
   à gauche\, puis la première à droite.\n\nInfo équipe domicile: https:
  //www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https://w
@@ -65,17 +67,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
-ORGANIZER:MAILTO:jawad.ely@hotmail.com
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: PHARMA SC (Eq. 2) vs GREEN DEVILS
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_268_90
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
+ domicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : Au départ de 
  la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
  a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
  ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
@@ -86,17 +89,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: CHARLES-QUINT FC vs COPAINS REUNIS
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_499_49
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Jaune\n\nContact 
- équipe domicile: WOUSSEN N. (0479.26.00.34)\n\nAccès voiture : Par la vi
+ équipe domicile: Woussen N. (0479.26.00.34)\n\nAccès voiture : Par la vi
  lle. A partir de la Basilique de Koekelberg\, prendre l'Avenue Charles Qui
  nt\, prendre 3ème rue à droite\, Avenue de Villegas. Arrivé au rond poi
  nt prendre la 3ème sortie et  continuer sur l'avenue Marie de Hongrie. Pr
@@ -112,17 +116,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain/G03
 GEO:50.876279;4.3026291
 LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
-ORGANIZER:MAILTO:slipnic@hotmail.com
+ORGANIZER;CN="Woussen N.";ROLE=Secrétaire:MAILTO:slipnic@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: PATJES FC vs NEW INN FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_582_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc.\nCouleur principale équipe exterieure: Rose\n\nContac
- t équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venant
+ t équipe domicile: Stoop G. (0474.29.87.37)\n\nAccès voiture : En venant
   de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre l
  a sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, pren
  dre la direction d'Ottignies par la N238. Au 1èr feu de signalisation con
@@ -144,17 +148,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+ORGANIZER;CN="Stoop G.";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: BLEU-BLANC (ENT)R. vs ASTURIAS SPORTING
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_3B_1_53_602
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Bleu ciel\
- n\nContact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture :
+ n\nContact équipe domicile: Mineur X. (0471.56.08.07)\n\nAccès voiture :
   Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main
   gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLA
  NC-ENTR\nInfo équipe exterieure: https://www.abssa.org/team/602/ASTURIAS-
@@ -162,6 +166,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:josexavier.mineur@gmail.com
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

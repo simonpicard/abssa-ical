@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J1: RAPID MYMOL vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_1_622_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nCon
- tact équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture : Rin
+ tact équipe domicile: Delanghe A. (0498.42.21.39)\n\nAccès voiture : Rin
  g de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. 
  Ensuite première rue à droite (Louis Marcelisstraat) puis la troisième 
  à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gauche en
@@ -25,17 +25,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  23/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
+ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J2: CHARLES-QUINT FC vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_2_499_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Bleu Ciel\n\nConta
- ct équipe domicile: WOUSSEN N. (0479.26.00.34)\n\nAccès voiture : Par la
+ ct équipe domicile: Woussen N. (0479.26.00.34)\n\nAccès voiture : Par la
   ville. A partir de la Basilique de Koekelberg\, prendre l'Avenue Charles 
  Quint\, prendre 3ème rue à droite\, Avenue de Villegas. Arrivé au rond 
  point prendre la 3ème sortie et  continuer sur l'avenue Marie de Hongrie.
@@ -51,17 +52,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain/G03
 GEO:50.876279;4.3026291
 LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
-ORGANIZER:MAILTO:slipnic@hotmail.com
+ORGANIZER;CN="Woussen N.";ROLE=Secrétaire:MAILTO:slipnic@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J3: FORESTOISE E.J. vs FOOT JOSAPHAT
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_3_623_597
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Gris\n\nContact équ
- ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
+ ipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -72,17 +73,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J4: SAINT GEORGES RCS vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_4_221_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact éq
- uipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Avenue de Ter
+ uipe domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Avenue de Ter
  vuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nIn
  fo équipe domicile: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInf
  o équipe exterieure: https://www.abssa.org/team/623/FORESTOISE-EJ\nInfo t
@@ -90,17 +92,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J5: FORESTOISE E.J. vs COPAINS REUNIS
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_5_623_49
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ
+ uipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ
   de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -112,17 +114,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J6: RAPID TAMTAM FC. vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_6_600_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et rose\nCouleur principale équipe exterieure: Bleu Ciel\n\nCon
- tact équipe domicile: BELLENS S. (0474.72.49.62)\n\nAccès voiture : Boul
+ tact équipe domicile: Bellens S. (0474.72.49.62)\n\nAccès voiture : Boul
  evard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel ju
  squ'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à
   gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/600/RAPID-TA
@@ -131,17 +134,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:s.bellens@gmail.com
+ORGANIZER;CN="Bellens S.";ROLE=Secrétaire:MAILTO:s.bellens@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J7: FORESTOISE E.J. vs NEW INN FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_7_623_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Rose\n\nContact équ
- ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
+ ipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -152,17 +155,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J8: GREEN DEVILS vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_8_90_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
- ipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le terra
+ ipe domicile: Vandenbroeck K. (0477.66.15.69)\n\nAccès voiture : Le terra
  in se trouve derrière l'église St. Vincent\n\nInfo équipe domicile: htt
  ps://www.abssa.org/team/090/GREEN-DEVILS\nInfo équipe exterieure: https:/
  /www.abssa.org/team/623/FORESTOISE-EJ\nInfo terrain: https://www.abssa.org
@@ -170,17 +174,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
+ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
+ ail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J9: FORESTOISE E.J. vs ASTURIAS SPORTING
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_9_623_602
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Bleu ciel\n\nContact
-  équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au dé
+  équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au dé
  part de la Place St. Denis à Forest prendre la chaussée de Neerstalle ju
  squ'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soi
  erie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Brit
@@ -192,17 +197,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J10: FORESTOISE E.J. vs BLEU-BLANC (ENT)R.
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_10_623_53
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Bleu rayé de Blanc\
- n\nContact équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voitur
+ n\nContact équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voitur
  e : Au départ de la Place St. Denis à Forest prendre la chaussée de Nee
  rstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue
   de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème A
@@ -214,17 +220,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J11: PATJES FC vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_11_582_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc.\nCouleur principale équipe exterieure: Bleu Ciel\n\nC
- ontact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En v
+ ontact équipe domicile: Stoop G. (0474.29.87.37)\n\nAccès voiture : En v
  enant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, pren
  dre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\,
   prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisatio
@@ -247,17 +254,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+ORGANIZER;CN="Stoop G.";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J12: FORESTOISE E.J. vs PHARMA SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_12_623_268
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ
+ uipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ
   de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -268,17 +275,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J13: FORESTOISE E.J. vs CHARLES-QUINT FC
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_13_623_499
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Bleu marine\n\nConta
- ct équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au d
+ ct équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au d
  épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
  oierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Br
@@ -290,17 +298,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J14: FOOT JOSAPHAT vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20221210T140000Z
 DTEND;VALUE=DATE-TIME:20221210T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_14_597_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
- ipe domicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Place Mei
+ ipe domicile: El Youssefi J. (0488.30.74.66)\n\nAccès voiture : Place Mei
  ser\, descendre le boulevard Lambermont. Au 3ème feu de signalisation pre
  ndre à gauche\, puis la première à droite.\n\nInfo équipe domicile: ht
  tps://www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo équipe exterieure: https
@@ -309,17 +318,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
-ORGANIZER:MAILTO:jawad.ely@hotmail.com
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J15: FORESTOISE E.J. vs IRLANDE FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_3B_15_623_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
+ ipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -330,17 +340,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J16: FORESTOISE E.J. vs SAINT GEORGES RCS
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_16_623_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
- uipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ
+ uipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ
   de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -352,17 +363,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J17: COPAINS REUNIS vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_17_49_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact éq
- uipe domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : En vena
+ uipe domicile: Vandermeulen J. (0477.50.45.95)\n\nAccès voiture : En vena
  nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
  endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
  se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
@@ -373,17 +385,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J18: FORESTOISE E.J. vs RAPID TAMTAM FC.
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_18_623_600
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Jaune et rose\n\nCon
- tact équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au
+ tact équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au
   départ de la Place St. Denis à Forest prendre la chaussée de Neerstall
  e jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la
   Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée 
@@ -395,17 +407,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J19: NEW INN FC (Eq. 2) vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_19_359_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rose\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
- ipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au départ de 
+ ipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au départ de 
  la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie K
  raainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens C
  ombattants. Juste après le carrefour avec des feux de signalisation prend
@@ -416,17 +429,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  in: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J20: FORESTOISE E.J. vs GREEN DEVILS
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_20_623_90
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
+ ipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au départ 
  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -437,17 +450,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J21: ASTURIAS SPORTING vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_21_602_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact
-  équipe domicile: STULENS K. (0474.62.61.41)\n\nAccès voiture : Ring\, s
+  équipe domicile: Stulens K. (0474.62.61.41)\n\nAccès voiture : Ring\, s
  ortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à d
  roite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bl
  d. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après
@@ -458,17 +472,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kevin.stulens@live.be
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J22: PHARMA SC (Eq. 2) vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_22_268_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact éq
- uipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dépar
+ uipe domicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : Au dépar
  t de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu
  'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soieri
  e rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britann
@@ -479,17 +493,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J23: BLEU-BLANC (ENT)R. vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_23_53_623
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Bleu Ciel\
- n\nContact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voiture :
+ n\nContact équipe domicile: Mineur X. (0471.56.08.07)\n\nAccès voiture :
   Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main
   gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/053/BLEU-BLA
  NC-ENTR\nInfo équipe exterieure: https://www.abssa.org/team/623/FORESTOIS
@@ -497,17 +512,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:josexavier.mineur@gmail.com
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: FORESTOISE E.J. vs PATJES FC
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_24_623_582
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Rouge et blanc.\n\nC
- ontact équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : 
+ ontact équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : 
  Au départ de la Place St. Denis à Forest prendre la chaussée de Neersta
  lle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de 
  la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armé
@@ -519,17 +535,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J25: FORESTOISE E.J. vs RAPID MYMOL
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_25_623_622
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu Ciel\nCouleur principale équipe exterieure: Bleu et Jaune\n\nCon
- tact équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : Au
+ tact équipe domicile: El Yamani Y. (0474.75.75.02)\n\nAccès voiture : Au
   départ de la Place St. Denis à Forest prendre la chaussée de Neerstall
  e jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la
   Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée 
@@ -541,17 +558,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3B J26: IRLANDE FC (Eq. 3) vs FORESTOISE E.J.
 DTSTART;VALUE=DATE-TIME:20230325T113000Z
 DTEND;VALUE=DATE-TIME:20230325T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_3B_26_402_623
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu Ciel\n\nContact équ
- ipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée d
+ ipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée d
  e Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \
  nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'
  autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prend
@@ -562,6 +580,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 END:VCALENDAR

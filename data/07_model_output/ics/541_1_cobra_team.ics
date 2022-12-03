@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2A J1: SCHEUT FC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_1_274_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Gris et Noir\nCouleur principale équipe exterieure: Noir et bordeaux\
- n\nContact équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : E
+ n\nContact équipe domicile: Huys R. (0477.59.24.22)\n\nAccès voiture : E
  n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
  )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
  rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J2: AZUR RCS vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20220910T130000Z
 DTEND;VALUE=DATE-TIME:20220910T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_2_109_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Noir et bordeaux\n\n
- Contact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voitur
+ Contact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voitur
  e : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souver
  ain prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu
   de signalisation suivant prendre la 2ème rue à main droite (Av. J. Duja
@@ -43,17 +43,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J3: COBRA TEAM vs BRITISH UNITED
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_3_541_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -64,17 +65,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J4: ETINCELLE FC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_4_35_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Noir et bordeaux
- \n\nContact équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture :
+ \n\nContact équipe domicile: Kremer N (0471.37.59.81)\n\nAccès voiture :
   Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pre
  ndre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Ka
  lken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème
@@ -85,17 +86,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J5: COBRA TEAM vs ENGHIEN AMICAL
 DTSTART;VALUE=DATE-TIME:20221001T103000Z
 DTEND;VALUE=DATE-TIME:20221001T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_5_541_31
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Blanc\n\nCont
- act équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ve
+ act équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ve
  nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
  autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
   et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
@@ -106,17 +107,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J6: BRAINE STORMING vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_6_630_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venan
+ ct équipe domicile: Goethals E. (0492.43.68.79)\n\nAccès voiture : Venan
  t de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre 
  à droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 
  10 min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction
@@ -125,17 +126,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  OBRA-TEAM\nInfo terrain: https://www.abssa.org/terrain/L01
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER:MAILTO:manu.goethals@gmail.com
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J7: COBRA TEAM vs UNION JP
 DTSTART;VALUE=DATE-TIME:20221015T103000Z
 DTEND;VALUE=DATE-TIME:20221015T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_7_541_504
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu et jaune
- \n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture
+ \n\nContact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture
   : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du déb
  ut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/
  - 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le 
@@ -146,17 +147,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J8: TOURINNOIS FC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20221022T113000Z
 DTEND;VALUE=DATE-TIME:20221022T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_8_292_541
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et bordeaux\n\nCont
- act équipe domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A parti
+ act équipe domicile: Strade P. (010.65.83.02)\n\nAccès voiture : A parti
  r de l'autoroute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 
  10). Au pied de la rampe d'accès\, suivre la direction Walhain vers la dr
  oite et après 200 m. prendre à droite et 400 m. plus loin\, prendre à n
@@ -166,17 +167,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  https://www.abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J9: COBRA TEAM vs CURTIS L'AUSELE
 DTSTART;VALUE=DATE-TIME:20221105T113000Z
 DTEND;VALUE=DATE-TIME:20221105T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_9_541_599
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu marine\n
- \nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture :
+ \nContact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture :
   En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début
   de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 
  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tu
@@ -187,17 +188,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J10: COBRA TEAM vs NEW ARQUOIS FC
 DTSTART;VALUE=DATE-TIME:20221112T113000Z
 DTEND;VALUE=DATE-TIME:20221112T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_10_541_263
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -208,17 +209,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J11: LORRAINE (LA) RFC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20221119T113000Z
 DTEND;VALUE=DATE-TIME:20221119T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_11_44_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoro
+ ct équipe domicile: Degimbe M. (0478.53.63.56)\n\nAccès voiture : Autoro
  ute E411\, prendre la sortie Rosières. Passer devant l'église\, longer l
  'autoroute et tourner à droite au cimetière des animaux. Terrain à 200 
  m.\n\nInfo équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RF
@@ -226,17 +227,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J12: COBRA TEAM vs BESACE RFC
 DTSTART;VALUE=DATE-TIME:20221126T113000Z
 DTEND;VALUE=DATE-TIME:20221126T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_12_541_24
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -247,17 +248,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J13: COBRA TEAM vs AZUR RCS
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_13_541_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\n
- Contact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : E
+ Contact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : E
  n venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début d
  e l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 20
  0 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunn
@@ -268,17 +269,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J14: BRITISH UNITED vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_14_132_541
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : A
+ ct équipe domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : A
  utoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant 
  dans le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit 
  et passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De
@@ -290,17 +291,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J15: COBRA TEAM vs IRLANDE FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221217T113000Z
 DTEND;VALUE=DATE-TIME:20221217T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_2A_15_541_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Vert\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -311,17 +313,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J16: COBRA TEAM vs ETINCELLE FC
 DTSTART;VALUE=DATE-TIME:20230107T113000Z
 DTEND;VALUE=DATE-TIME:20230107T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_16_541_35
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Jaune et bleu
- \n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture
+ \n\nContact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture
   : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du déb
  ut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/
  - 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le 
@@ -332,17 +334,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J17: ENGHIEN AMICAL vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230114T140000Z
 DTEND;VALUE=DATE-TIME:20230114T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_17_31_541
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir et bordeaux\n\nCont
- act équipe domicile: VANDERPLASSCHEN E. (0475.87.45.71)\n\nAccès voiture
+ act équipe domicile: Vanderplasschen E. (0475.87.45.71)\n\nAccès voiture
   : Prendre la E429 (Lille-Tournai-Ath) à hauteur de Halle. Prendre la sor
  tie Petit-Enghien-Hoves (25)\, prendre à droite\, direction  Petit-Enghie
  n. Au bout de la route prendre à gauche\, direction Enghien. Arrivé à E
@@ -353,17 +355,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6970878;4.0470023
 LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
  ique
-ORGANIZER:MAILTO:e.vdps.ev@gmail.com
+ORGANIZER;CN="Vanderplasschen E.";ROLE=Secrétaire:MAILTO:e.vdps.ev@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J18: COBRA TEAM vs BRAINE STORMING
 DTSTART;VALUE=DATE-TIME:20230121T113000Z
 DTEND;VALUE=DATE-TIME:20230121T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_18_541_630
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -374,17 +377,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J19: UNION JP vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_19_504_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et jaune\nCouleur principale équipe exterieure: Noir et bordeaux
- \n\nContact équipe domicile: VANDERWEYEN V (0497.35.33.49)\n\nAccès voit
+ \n\nContact équipe domicile: Vanderweyen V (0497.35.33.49)\n\nAccès voit
  ure : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\
  , prendre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. V
  an Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Ca
@@ -395,17 +398,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:victor.vanderweyen@gmail.com
+ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J20: COBRA TEAM vs TOURINNOIS FC
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_20_541_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Rouge\n\nCont
- act équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ve
+ act équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ve
  nant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'
  autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m.
   et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
@@ -416,17 +420,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J21: CURTIS L'AUSELE vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_21_599_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Noir et bordeaux\n
- \nContact équipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture
+ \nContact équipe domicile: Lambricht T. (0474.20.64.38)\n\nAccès voiture
   : En venant de Bruxelles\, prendre l’E411 en direction de Namur et pren
  dre la sortie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N2
  9 jusqu’au rond-point de Glimes qui croise la N91 (7km depuis l’E411).
@@ -437,17 +441,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  M\nInfo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:thomas.lambricht@gmail.com
+ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J22: BESACE RFC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230225T123000Z
 DTEND;VALUE=DATE-TIME:20230225T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_22_24_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: MASSET M. (0485.61.39.19)\n\nAccès voiture : Ring de
+ ct équipe domicile: Masset M. (0485.61.39.19)\n\nAccès voiture : Ring de
   Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à
   la sortie\, en venant de Charleroi prendre à droite. Au feu rouge contin
  uer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de la p
@@ -456,17 +461,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  RA-TEAM\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:rfcbesace.024@gmail.com
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J23: NEW ARQUOIS FC vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_23_263_541
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autorou
+ ct équipe domicile: Beka J-M. (0495.25.31.25)\n\nAccès voiture : Autorou
  te E 19 (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Lou
  vière. A la station d'essence Total\, prendre à droite pendant +/- 700 m
  ètres.\nAu rond point\, prendre à droite en direction du château de La 
@@ -477,17 +482,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J24: COBRA TEAM vs LORRAINE (LA) RFC
 DTSTART;VALUE=DATE-TIME:20230311T113000Z
 DTEND;VALUE=DATE-TIME:20230311T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_24_541_44
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture : En ven
+ ct équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture : En ven
  ant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'a
  utoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. 
  et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à
@@ -498,17 +503,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J25: COBRA TEAM vs SCHEUT FC
 DTSTART;VALUE=DATE-TIME:20230318T113000Z
 DTEND;VALUE=DATE-TIME:20230318T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_25_541_274
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bordeaux\nCouleur principale équipe exterieure: Gris et Noir\
- n\nContact équipe domicile: LECHIEN M. (0474.62.66.29)\n\nAccès voiture 
+ n\nContact équipe domicile: Lechien M. (0474.62.66.29)\n\nAccès voiture 
  : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
  t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
   200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
@@ -519,17 +524,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:maximelechien@gmail.com
+ORGANIZER;CN="Lechien M.";ROLE=Secrétaire:MAILTO:maximelechien@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D2A J26: IRLANDE FC (Eq. 2) vs COBRA TEAM
 DTSTART;VALUE=DATE-TIME:20230325T113000Z
 DTEND;VALUE=DATE-TIME:20230325T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_2A_26_402_541
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir et bordeaux\n\nConta
- ct équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chau
+ ct équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chau
  ssée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauc
  he la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\
  nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\
@@ -540,6 +545,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 END:VCALENDAR

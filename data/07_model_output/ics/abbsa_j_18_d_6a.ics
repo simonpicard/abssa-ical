@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: CHOULE AUDERGHEM (Eq. 3) vs ITT - GECKO FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230121T130000Z
 DTEND;VALUE=DATE-TIME:20230121T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_517_92
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ domicile: Vandenplas D. (0476.54.48.01)\n\nAccès voiture : En venant de B
  ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
   Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
  ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: J.ST-GILLOISE R. vs FORESTOIS SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230121T130000Z
 DTEND;VALUE=DATE-TIME:20230121T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_38_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé\nCouleur principale équipe exterieure: Vert\n\nContact é
- quipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sorti
+ quipe domicile: Honore K. (0475.53.32.84)\n\nAccès voiture : Ring\, sorti
  e Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droit
  e.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A
  . Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'h
@@ -43,17 +43,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kenny.honore9@gmail.com
+ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: TRINQUANT (Eq. 2) vs METRASPORT R.
 DTSTART;VALUE=DATE-TIME:20230121T130000Z
 DTEND;VALUE=DATE-TIME:20230121T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_445_33
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Rouge et Bleu\n\nC
- ontact équipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : 
+ ontact équipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : 
  Venant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au po
  nt de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. 
  Après le chateau de La Hulpe\, toujours tout droit. Au feu de signalisati
@@ -65,17 +65,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: JEFKE COUNTRY (Eq. 2) vs TOURINNOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230121T133000Z
 DTEND;VALUE=DATE-TIME:20230121T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_423_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boule
+  équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture : Boule
  vard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jus
  qu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à 
  gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COU
@@ -84,17 +85,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: AUDERGHEM RU vs AMB. AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_376_249
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Blanc rayé de Gris\n\nC
- ontact équipe domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : 
+ ontact équipe domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : 
  En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du début 
  de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 2
  00 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le tun
@@ -105,17 +106,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: IRLANDE FC (Eq. 5) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_402_5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : C
+ ntact équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : C
  haussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à g
  auche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauch
  e.\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebe
@@ -126,17 +128,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: GAST FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_6A_18_388_132
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
+ omicile: Clais D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
  enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
@@ -146,6 +149,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 END:VCALENDAR

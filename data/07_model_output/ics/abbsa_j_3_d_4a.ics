@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: BRUSSELS BRITISH R (Eq. 4) vs REALISTES MEXICO R
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_1_57
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu marine/Orange\n\nCo
- ntact équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Auto
+ ntact équipe domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Auto
  route E411\, prendre la sortie Rosières. Passer devant l'église\, longer
   l'autoroute et tourner à droite au cimetière des animaux. Terrain à 20
  0 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRI
@@ -19,17 +19,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  MEXICO-R\nInfo terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: STRING PENELOPE (Eq. 2) vs SAINT GEORGES RCS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_181_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Blanc\n\nContact équip
- e domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de 
+ e domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : En venant de 
  Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la so
  rtie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre 
  la direction d'Ottignies par la N238. Au 1èr feu de signalisation continu
@@ -52,17 +52,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  n/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: BEEKINGS F.C. vs RHINOCEROS
 DTSTART;VALUE=DATE-TIME:20220917T130000Z
 DTEND;VALUE=DATE-TIME:20220917T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_648_654
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et noir\nCouleur principale équipe exterieure: Jaune et bleu\n\
- nContact équipe domicile: THONART W. (0475.96.36.63)\n\nAccès voiture : 
+ nContact équipe domicile: Thonart W. (0475.96.36.63)\n\nAccès voiture : 
  Par la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixens
  art\, Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond
  -point\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à 
@@ -74,17 +75,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:williamthonart@gmail.com
+ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: NIVELLOIS-ACLOT BS vs TAURO FC
 DTSTART;VALUE=DATE-TIME:20220917T130000Z
 DTEND;VALUE=DATE-TIME:20220917T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_503_574
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: DRAUX N. (0472.40.01.22)\n\nAccès voiture : En venant d
+ équipe domicile: Draux N. (0472.40.01.22)\n\nAccès voiture : En venant d
  e Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles
  -Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la direction
   de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à droi
@@ -97,17 +98,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:ni.draux@gmail.com
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: VOGELPIK FC. vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_629_22
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: NOLET P (0486.56.82.31)\n\nAccès voiture : Au
+ \nContact équipe domicile: Nolet P (0486.56.82.31)\n\nAccès voiture : Au
  toroute Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-N
  euve\, continuer sur la N4 direction Namur\, au premier rond-point prendre
   à droite vers la N250 et suivre "Blocry/Hocaille". Après le second rond
@@ -119,17 +120,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:pierrenolet91@gmail.com
+ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: NEPTUNE FC vs HELLAS BERCHEM FC.
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_3_56_488
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LOUIES S. (0474.55.15.41)\n\nAccès voiture : Via la chaussée de
+ omicile: Louies S. (0474.55.15.41)\n\nAccès voiture : Via la chaussée de
   Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le b
  oulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\
  n\nInfo équipe domicile: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo 
@@ -138,6 +139,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:louiesstephane@gmail.com
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
 END:VEVENT
 END:VCALENDAR

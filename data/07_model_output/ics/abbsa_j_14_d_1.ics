@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: JEFKE COUNTRY vs COIN DU BALAI FC
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_423_229
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
+ équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture : Boulev
  ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
  u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
  auche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COUN
@@ -20,34 +20,35 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: EURO UNION vs CHENOIS SC
 DTSTART;VALUE=DATE-TIME:20221210T123000Z
 DTEND;VALUE=DATE-TIME:20221210T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_567_84
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Mad. DE BECKER S (0473.54.89.74)\n\nAccès voiture : Av
+  équipe domicile: Mad. De Becker S (0473.54.89.74)\n\nAccès voiture : Av
  enue de la Couronne jusqu'au cimetière d'Ixelles\, suivre les plaques "St
  ade A. Demuyter".\n\nInfo équipe domicile: https://www.abssa.org/team/567
  /EURO-UNION\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENO
  IS-SC\nInfo terrain: https://www.abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
-ORGANIZER:MAILTO:euro.union567@gmail.com
+ORGANIZER;CN="Mad. De Becker S";ROLE=Secrétaire:MAILTO:euro.union567@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: LXG CINQUANTENAIRE vs WONG A.S.
 DTSTART;VALUE=DATE-TIME:20221210T123000Z
 DTEND;VALUE=DATE-TIME:20221210T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_542_523
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et Bleu.\nCouleur principale équipe exterieure: Jaune\n\nContac
- t équipe domicile: GIMENEZ VILLAHOZ M (0487.79.91.95)\n\nAccès voiture :
+ t équipe domicile: Gimenez Villahoz M (0487.79.91.95)\n\nAccès voiture :
   Place Meiser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxiè
  me carrefour prendre à gauche\, puis encore la première à gauche\nOu : 
   Place Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Cha
@@ -57,17 +58,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
-ORGANIZER:MAILTO:lxgfc50@gmail.com
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: IRLANDE FC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_402_403
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -78,17 +80,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: BRUSSELS LTC vs ITT - GECKO FC
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_39_92
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
+ pe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
  uxelles\, prendre ring Est direction Waterloo. Sortir à la sortie n°27 W
  aterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au
   3ème rond-point et prendre à gauche la 	Chaussée de Louvain sur enviro
@@ -102,17 +105,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: AMB. AUDERGHEM vs CHOULE AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_249_517
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En venant de Bruxel
+ omicile: Leclef R. (0473.13.76.27)\n\nAccès voiture : En venant de Bruxel
  les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
  elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
  devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
@@ -123,17 +127,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: GREZ AJ vs BRUSSELS BRITISH R
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_1_14_514_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : A partir de Brux
+ domicile: Vanhamme J. (0474.56.81.54)\n\nAccès voiture : A partir de Brux
  elles\, prendre la E 411 en direction de Namur. Prendre la sortie N° 8 pu
  is à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau
   / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers 
@@ -143,6 +147,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  R\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 END:VCALENDAR

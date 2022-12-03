@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J1: IRLANDE FC (Eq. 5) vs METRASPORT R.
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_1_402_33
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
  ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
   la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
  ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J2: IRLANDE FC (Eq. 5) vs J.ST-GILLOISE R.
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_2_402_38
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu foncé\n\nContact é
- quipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
+ quipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
   de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la
   \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar 
  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pre
@@ -43,17 +44,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J3: AUDERGHEM RU vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_3_376_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
+ domicile: Van Eycke R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -64,17 +66,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J4: IRLANDE FC (Eq. 5) vs GAST FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_4_402_388
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Gris\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ omicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
  vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
  elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
  oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
@@ -85,17 +88,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J5: JEFKE COUNTRY (Eq. 2) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221001T123000Z
 DTEND;VALUE=DATE-TIME:20221001T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_5_423_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et blanc\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
+ équipe domicile: Parmentier A. (0476.88.11.08)\n\nAccès voiture : Boulev
  ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
  u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
  auche.\n\nInfo équipe domicile: https://www.abssa.org/team/423/JEFKE-COUN
@@ -104,17 +108,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J6: MUTUELLE RSB vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221008T131500Z
 DTEND;VALUE=DATE-TIME:20221008T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_6_5_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : Ri
+ ntact équipe domicile: Palanga  M. (0479.61.03.59)\n\nAccès voiture : Ri
  ng de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauc
  he à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge c
  ontinuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de
@@ -123,17 +127,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:royalemumu@gmail.com
+ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J7: IRLANDE FC (Eq. 5) vs TOURINNOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_7_402_292
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -144,17 +148,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J8: BRITISH UNITED (Eq. 5) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_8_132_402
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ omicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
  xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
  re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
   viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
@@ -165,17 +170,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J9: IRLANDE FC (Eq. 5) vs AMB. AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_9_402_249
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc rayé de Gris\n\nCo
- ntact équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : C
+ ntact équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : C
  haussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à g
  auche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauch
  e.\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebe
@@ -186,17 +192,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J10: FORESTOIS SC (Eq. 4) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_10_152_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
+ omicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
  ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
   env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
@@ -207,17 +214,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J11: IRLANDE FC (Eq. 5) vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_11_402_517
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -228,17 +235,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J12: ITT - GECKO FC (Eq. 3) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221126T113000Z
 DTEND;VALUE=DATE-TIME:20221126T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_12_92_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
+ omicile: Schmidt Ch. (0475.61.97.33)\n\nAccès voiture : Chaussée de Louv
  ain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMeche
  lsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoro
  ute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à 
@@ -249,17 +257,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:christian@schmidt1.be
+ORGANIZER;CN="Schmidt Ch.";ROLE=Secrétaire:MAILTO:christian@schmidt1.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J13: J.ST-GILLOISE R. vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_13_38_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu foncé\nCouleur principale équipe exterieure: Vert\n\nContact é
- quipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sorti
+ quipe domicile: Honore K. (0475.53.32.84)\n\nAccès voiture : Ring\, sorti
  e Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droit
  e.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A
  . Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'h
@@ -270,17 +278,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kenny.honore9@gmail.com
+ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J14: IRLANDE FC (Eq. 5) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_14_402_376
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -291,17 +299,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J15: TRINQUANT (Eq. 2) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6A_15_445_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Vert\n\nContact é
- quipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
+ quipe domicile: Bernard J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
   Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Gro
  enendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le
   chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le 
@@ -313,17 +322,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J16: GAST FC (Eq. 2) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_16_388_402
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Gris\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
+ omicile: Clais D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
  enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
@@ -333,17 +343,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J17: IRLANDE FC (Eq. 5) vs JEFKE COUNTRY (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_17_402_423
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir et blanc\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
+ équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
  ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
   la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
  ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
@@ -354,17 +364,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: IRLANDE FC (Eq. 5) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_18_402_5
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : C
+ ntact équipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : C
  haussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à g
  auche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauch
  e.\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebe
@@ -375,17 +386,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J19: TOURINNOIS FC (Eq. 3) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230128T123000Z
 DTEND;VALUE=DATE-TIME:20230128T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_19_292_402
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
+ domicile: Strade P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
  oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
   de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
  ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
@@ -395,17 +407,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  .abssa.org/terrain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J20: IRLANDE FC (Eq. 5) vs BRITISH UNITED (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_20_402_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ omicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
  vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
  elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
  oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
@@ -416,17 +428,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: AMB. AUDERGHEM (Eq. 2) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_21_249_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc rayé de Gris\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En v
+ ntact équipe domicile: Leclef R. (0473.13.76.27)\n\nAccès voiture : En v
  enant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l
  'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m
  . et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
@@ -437,17 +450,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J22: IRLANDE FC (Eq. 5) vs ITT - GECKO FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_22_402_92
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ omicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
  vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
  elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
  oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
@@ -458,17 +471,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J23: IRLANDE FC (Eq. 5) vs FORESTOIS SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_23_402_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
+ omicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
  vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
  elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
  oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
@@ -479,17 +493,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J24: CHOULE AUDERGHEM (Eq. 3) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_24_517_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
+ domicile: Vandenplas D. (0476.54.48.01)\n\nAccès voiture : En venant de B
  ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
   Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
  ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
@@ -500,17 +515,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J25: METRASPORT R. vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_25_33_402
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et Bleu\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: PIRLOT E. (0474.90.52.25)\n\nAccès voiture : Ring de Br
+ équipe domicile: Pirlot E. (0474.90.52.25)\n\nAccès voiture : Ring de Br
  uxelles\, Sortie Wemmel\, prendre l'Avenue Houba de Strooper\, puis la rue
   à gauche\, avant le bâtiment de l'URBSFA\, direction Atomium.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/033/METRASPORT-R\nInfo équip
@@ -519,17 +534,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8933845;4.3399807
 LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
  \, Belgique
-ORGANIZER:MAILTO:emilepirlot@outlook.be
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: IRLANDE FC (Eq. 5) vs TRINQUANT (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6A_26_402_445
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
+ quipe domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée
   de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la
   \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar 
  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pre
@@ -540,6 +555,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 END:VCALENDAR

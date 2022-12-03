@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5C J1: SAINT-JOSSE 95 FC vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20220903T113000Z
 DTEND;VALUE=DATE-TIME:20220903T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_1_658_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et bleu\nCouleur principale équipe exterieure: Noir et jaune\n\n
- Contact équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture
+ Contact équipe domicile: Yahya Jdidi A. (0498.41.74.34)\n\nAccès voiture
   : Prendre la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, pren
  dre ensuite la 2ème rue à droite\, l' Avenue des Communautés\, l'entré
  e au terrain est situé à 100 m.\n\nInfo équipe domicile: https://www.ab
@@ -21,17 +21,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8582632;4.4251766
 LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J2: JODOIGNOISE FC vs WOKRASSE F.C.
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_2_664_656
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -42,17 +43,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J3: RED STAR BRUSSELS vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_3_663_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et rouge\nCouleur principale équipe exterieure: Noir et jaune\n\
- nContact équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : E
+ nContact équipe domicile: Amrani B. (0489.66.36.24)\n\nAccès voiture : E
  n venant de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sorti
  e Nivelles-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la
   direction de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourn
@@ -66,17 +67,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:redstarbxl@outlook.com
+ORGANIZER;CN="Amrani B.";ROLE=Secrétaire:MAILTO:redstarbxl@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J4: JODOIGNOISE FC vs PANTOUFLES FC
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_4_664_428
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
+ équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venant
   de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
  e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
   rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
@@ -87,17 +88,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J5: CHIEFS WSL (Eq. 3) vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20221001T103000Z
 DTEND;VALUE=DATE-TIME:20221001T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_5_303_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard
+  équipe domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard
   de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
  u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
  he.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nI
@@ -106,17 +107,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J6: JODOIGNOISE FC vs SANSERIF FC
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_6_664_657
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En
+ ontact équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En
   venant de Bruxelles\, prendre l’E411 en direction de Namur et prendre l
  a sortie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jus
  qu’au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sort
@@ -127,17 +128,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nfo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J8: JODOIGNOISE FC vs L'EKIP
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_8_664_662
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -148,17 +149,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
   https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J9: CHEVERNY SCHAERB vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_9_128_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place M
+  équipe domicile: Lefebvre C. (0478 71.95.87)\n\nAccès voiture : Place M
  eiser\, descendre le boulevard Wahis et le boulevard Lambermont\, puis pre
  ndre à droite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m.
   à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/128/CHEVE
@@ -167,17 +168,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.86563899999999;4.392299299999999
 LOCATION:Terdelt - Parc Albert\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
  e
-ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+ORGANIZER;CN="Lefebvre C.";ROLE=Secrétaire:MAILTO:c.lefebvre@linklaw.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J10: JODOIGNOISE FC vs FAUBOURG-BRAINOISE
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_10_664_100
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -188,17 +189,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  Info terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J11: JODOIGNOISE FC vs BLOOD SPIKES
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_11_664_660
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -209,17 +210,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  errain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J12: JODOIGNOISE FC vs PICARDIE AS
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_12_664_63
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
+ équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venant
   de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
  e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
   rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
@@ -230,17 +231,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J13: WOKRASSE F.C. vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_13_656_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: VERMYLEN J. (0499.26.24.00)\n\nAccès voiture : Au dép
+  équipe domicile: Vermylen J. (0499.26.24.00)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -251,17 +252,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  nfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:jules.vermylen7@hotmail.com
+ORGANIZER;CN="Vermylen J.";ROLE=Secrétaire:MAILTO:jules.vermylen7@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J14: JODOIGNOISE FC vs RED STAR BRUSSELS
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_14_664_663
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Noir et rouge\n\
- nContact équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : 
+ nContact équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : 
  En venant de Bruxelles\, prendre l’E411 en direction de Namur et prendre
   la sortie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 j
  usqu’au rond-point de Glimes qui croise la N91 (7km depuis l’E411). So
@@ -272,17 +274,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  SSELS\nInfo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J15: CHOULE AUDERGHEM (Eq. 2) vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20221217T113000Z
 DTEND;VALUE=DATE-TIME:20221217T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_5C_15_517_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
- équipe domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A part
+ équipe domicile: Vandenplas D. (0476.54.48.01)\n\nAccès voiture : A part
  ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
   des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/team/517/CHO
  ULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.org/team/664/JOD
@@ -290,17 +292,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J16: PANTOUFLES FC vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_16_428_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
- équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
+ équipe domicile: Laurent F (0478.68.80.02)\n\nAccès voiture : Autoroute 
  E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
  oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n
  \nInfo équipe domicile: https://www.abssa.org/team/428/PANTOUFLES-FC\nInf
@@ -308,17 +310,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
+ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J17: JODOIGNOISE FC vs CHIEFS WSL (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_17_664_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -329,17 +332,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J18: SANSERIF FC vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230121T103000Z
 DTEND;VALUE=DATE-TIME:20230121T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_18_657_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu marine\nCouleur principale équipe exterieure: Noir et jaune\n\nC
- ontact équipe domicile: KARPOWICZ A. (0493.16.46.10)\n\nAccès voiture : 
+ ontact équipe domicile: Karpowicz A. (0493.16.46.10)\n\nAccès voiture : 
  En venant de Bruxelles : Prendre le RO en direction Mons-Bergen / Charlero
  i - prendre la sortie 21 et continuer sur la E429 direction Lille/Rijsel s
  ur 7\,2 km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsest
@@ -356,17 +359,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /team/664/JODOIGNOISE-FC\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:itsadonis0@gmail.com
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J20: L'EKIP vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230204T140000Z
 DTEND;VALUE=DATE-TIME:20230204T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_20_662_664
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : a Pa
+  équipe domicile: Vercruijsse A. (0477.95.18.34)\n\nAccès voiture : a Pa
  rtir de Bruxelles\, Prendre la E 411 en Direction de Namur. Prendre la Sor
  tie 11  Gembloux pour Rejoindre la N 29 en Direction de Gembloux / Tirleme
  nt / Jodoigne / Perwez. suivre la N29 et Chaussée de Wavre (N243) en Dire
@@ -379,17 +382,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  www.abssa.org/terrain/P02
 GEO:50.6251834;4.8051205
 LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+ORGANIZER;CN="Vercruijsse A.";ROLE=Secrétaire:MAILTO:lekipofficielle@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J21: JODOIGNOISE FC vs CHEVERNY SCHAERB
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_21_664_128
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Jaune\n\nContact
-  équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venan
+  équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venan
  t de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sort
  ie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’a
  u rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à 
@@ -400,17 +404,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J22: PICARDIE AS vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230225T123000Z
 DTEND;VALUE=DATE-TIME:20230225T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_22_63_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir et jaune\n\nContact 
- équipe domicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\
+ équipe domicile: Coopmans R. (0474.42.47.29)\n\nAccès voiture : Ring RO\
  , sortie Ophain\, prendre la direction de Ophain Village\, jusqu'à l'égl
  ise. Ensuite à droite. Le terrain se trouve à 200 m. à gauche.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/063/PICARDIE-AS\nInfo équipe
@@ -418,17 +422,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  https://www.abssa.org/terrain/O02
 GEO:50.6643844;4.351335199999999
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
+ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
+ r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J23: FAUBOURG-BRAINOISE vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_23_100_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venan
+  équipe domicile: Herpain D. (0474.79.02.18)\n\nAccès voiture : En venan
  t de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'
  au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direct
  ion Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pr
@@ -439,17 +444,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J24: BLOOD SPIKES vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_24_660_664
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir et jaune\n\nContact
-  équipe domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute B
+  équipe domicile: Otte J. (0486.41.87.42)\n\nAccès voiture : Autoroute B
  ruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Pren
  dre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les de
  ux premiers ronds-points à l'issue de la RN 25. Au troisième rond-point 
@@ -459,17 +464,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  NOISE-FC\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:bloodspikes9@gmail.com
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J25: JODOIGNOISE FC vs SAINT-JOSSE 95 FC
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_25_664_658
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Noir et bleu\n\n
- Contact équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : E
+ Contact équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : E
  n venant de Bruxelles\, prendre l’E411 en direction de Namur et prendre 
  la sortie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 ju
  squ’au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sor
@@ -480,17 +485,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  5-FC\nInfo terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5C J26: JODOIGNOISE FC vs CHOULE AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_5C_26_664_517
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir et jaune\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : En venant
+ équipe domicile: Severin S. (0470.55.74.46)\n\nAccès voiture : En venant
   de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
  e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
   rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
@@ -501,6 +506,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  o terrain: https://www.abssa.org/terrain/I03
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: AZUR RCS (Eq. 3) vs BRAINE-TERMINUS FC
 DTSTART;VALUE=DATE-TIME:20230325T110000Z
 DTEND;VALUE=DATE-TIME:20230325T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_109_537
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et rouge\n\nCo
- ntact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture 
+ ntact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture 
  : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverai
  n prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu d
  e signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujard
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: ETTEKIJS vs PHARMA SC
 DTSTART;VALUE=DATE-TIME:20230325T113000Z
 DTEND;VALUE=DATE-TIME:20230325T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_343_268
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A partir du square d
+ domicile: Raes F. (0479.73.82.49)\n\nAccès voiture : A partir du square d
  es Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\
  n\nInfo équipe domicile: https://www.abssa.org/team/343/ETTEKIJS\nInfo é
  quipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: 
@@ -40,17 +41,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: REAL TRAPPISTE vs HERMES FC
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_605_357
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rayé bleu jaune\n\nCont
- act équipe domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\
+ act équipe domicile: Bensi L. (0478.49.90.80)\n\nAccès voiture : Ring O\
  , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
   Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
  le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
@@ -61,17 +62,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+ORGANIZER;CN="Bensi L.";ROLE=Secrétaire:MAILTO:realtrappiste2013abssa@gma
+ il.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: REQUINS (LES) vs NO BOYS
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_556_420
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: BARBE L. (0476.04.93.45)\n\nAccès voiture : En venant de Bruxell
+ omicile: Barbe L. (0476.04.93.45)\n\nAccès voiture : En venant de Bruxell
  es\, prendre l'autoroute E411 en direction de Namur\, prendre la sortie  W
  avre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la dire
  ction d'Ottignies par la N238. Au 1èr feu de signalisation continuer tout
@@ -93,17 +95,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  20/NO-BOYS\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:louis.barbe1@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: UNION SCHAERBEEK vs NEW INN FC
 DTSTART;VALUE=DATE-TIME:20230325T133000Z
 DTEND;VALUE=DATE-TIME:20230325T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_543_359
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge foncé\n\n
- Contact équipe domicile: SARI U. (0489.39.43.46)\n\nAccès voiture : Plac
+ Contact équipe domicile: Sari U. (0489.39.43.46)\n\nAccès voiture : Plac
  e Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signalisatio
  n prendre à gauche\, puis la première à droite.\n\nInfo équipe domicil
  e: https://www.abssa.org/team/543/UNION-SCHAERBEEK\nInfo équipe exterieur
@@ -112,17 +114,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
-ORGANIZER:MAILTO:ugursari007@hotmail.com
+ORGANIZER;CN="Sari U.";ROLE=Secrétaire:MAILTO:ugursari007@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: SPARTA SCHEUT vs FOSSIS (LES) CS
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_340_217
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Jaune fluo
- \n\nContact équipe domicile: VANDE VELDE J. (0486.97.70.66)\n\nAccès voi
+ \n\nContact équipe domicile: Vande Velde J. (0486.97.70.66)\n\nAccès voi
  ture : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik
  \, prendre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. 
  Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. C
@@ -133,17 +135,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:sparta.scheut@hotmail.com
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D3A J26: MIDI AS vs STRING PENELOPE
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133950Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155615Z
 UID:2023_3A_26_169_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: CANTINIAU J-C. (0479.84.17.35)\n\nAccès voiture : En venant d
+ e domicile: Cantiniau J-C. (0479.84.17.35)\n\nAccès voiture : En venant d
  e Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au 
  magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction
   Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, prend
@@ -154,6 +157,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:standardmidi@hotmail.com
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
 END:VEVENT
 END:VCALENDAR

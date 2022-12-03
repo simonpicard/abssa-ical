@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: HELLAS BERCHEM FC. vs NEPTUNE FC
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_488_56
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: HADJIANESTIS A. (0475.31.23.80)\n\nAccès voiture : A partir du b
+ omicile: Hadjianestis A. (0475.31.23.80)\n\nAccès voiture : A partir du b
  oulevard Charles Quint à hauteur de Basilix Shopping Center\, prendre la 
  rue des Châlets (Lusthuizenstraat)\n\nInfo équipe domicile: https://www.
  abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo équipe exterieure: https://www
@@ -20,17 +20,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8696433;4.2873126
 LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
  Belgique
-ORGANIZER:MAILTO:fchellas@gmail.com
+ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: TAURO FC vs NIVELLOIS-ACLOT BS
 DTSTART;VALUE=DATE-TIME:20221210T120000Z
 DTEND;VALUE=DATE-TIME:20221210T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_574_503
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
+ équipe domicile: Lietaer Y. (0484.16.30.31)\n\nAccès voiture : Place Mei
  ser\, descendre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefo
  ur prendre à gauche\, puis encore la première à gauche\nOu :  Place Mei
  ser prendre Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInf
@@ -40,17 +40,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
-ORGANIZER:MAILTO:ylietaer@gmail.com
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: REALISTES MEXICO R vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_57_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine/Orange\nCouleur principale équipe exterieure: Blanc\n\nCo
- ntact équipe domicile: Mad. BRUSSELAERS P. (02.478.40.33)\n\nAccès voitu
+ ntact équipe domicile: Mad. Brusselaers P. (02.478.40.33)\n\nAccès voitu
  re : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, p
  rendre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit Chem
  in Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300 m.
@@ -59,17 +59,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  SH-R\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:real_mexico_057@yahoo.fr
+ORGANIZER;CN="Mad. Brusselaers P.";ROLE=Secrétaire:MAILTO:real_mexico_057
+ @yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: DUDEN SPORT R vs VOGELPIK FC.
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_22_629
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge et noir\n
- \nContact équipe domicile: ISABEAUX A (0472.34.00.24)\n\nAccès voiture :
+ \nContact équipe domicile: Isabeaux A (0472.34.00.24)\n\nAccès voiture :
   Ring\, sortie Hopital Erasme\, après 300 m. en direction de Lennik\, pre
  ndre à droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Ka
  lken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème
@@ -80,17 +81,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:arnaud8684@hotmail.be
+ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: RHINOCEROS vs BEEKINGS F.C.
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_654_648
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Jaune et noir\n\
- nContact équipe domicile: WATTEYNE R. (0498.16.13.01)\n\nAccès voiture :
+ nContact équipe domicile: Watteyne R. (0498.16.13.01)\n\nAccès voiture :
   Autoroute Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-l
  a-Neuve\, continuer sur la N4 direction Namur\, au premier rond-point pren
  dre à droite vers la N250 et suivre "Blocry/Hocaille". Après le second r
@@ -102,18 +103,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:robin@watteyne.com
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: SAINT GEORGES RCS (Eq. 3) vs STRING PENELOPE (Eq. 2
  )
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_14_221_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la 
+ e domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la 
  Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer en des
  sous du petit pont et continuer la chaussée de Stockel pendant env. 500 m
  . Le terrain est situé sur la droite de la chaussée.\n\nInfo équipe dom
@@ -122,6 +123,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  s://www.abssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 END:VCALENDAR

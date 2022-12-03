@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: ALIZE VETERANS FC vs FAUBOURG-BRAINOISE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_395_100
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: HAENTJENS J-L. (0473.88.82.20)\n\nAccès voiture : Via la chaus
+  domicile: Haentjens J-L. (0473.88.82.20)\n\nAccès voiture : Via la chaus
  sée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droi
  te le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo La
  mbert.\n\nInfo équipe domicile: https://www.abssa.org/team/395/ALIZE-VETE
@@ -20,17 +20,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:jean-luc.haentjens@police.belgium.eu
+ORGANIZER;CN="Haentjens J-L.";ROLE=Secrétaire:MAILTO:jean-luc.haentjens@p
+ olice.belgium.eu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: PHARMA SC (Eq. 4) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_268_72
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de l
+ omicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : Au départ de l
  a Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la
   rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roul
  er env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) 
@@ -41,17 +42,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: BRUSSELS LTC (Eq. 6) vs CAMPOMAIORENSE SC
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_39_467
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Vert rayé de blanc\n
- \nContact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture
+ \nContact équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture
   : Venant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au
   pont de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 k
  m. Après le chateau de La Hulpe\, toujours tout droit. Au feu de signalis
@@ -63,17 +65,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  tps://www.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: ANDERLECHT US vs COSMOS BRUWOLF MJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_280_338
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Mauve\nCouleur principale équipe exterieure: Orange/Noir\n\nContact 
- équipe domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant d
+ équipe domicile: Sadin D. (0477.76.34.69)\n\nAccès voiture : En venant d
  e la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendr
  e la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse L
  eemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (V
@@ -84,17 +87,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: SAINT GEORGES RCS (Eq. 4) vs FORESTOIS SC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_221_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la Wo
+ domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la Wo
  luwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer en desso
  us du petit pont et continuer la chaussée de Stockel pendant env. 500 m. 
  Le terrain est situé sur la droite de la chaussée.\n\nInfo équipe domic
@@ -103,18 +106,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ww.abssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: ELAN EVERE RAC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 6
  )
 DTSTART;VALUE=DATE-TIME:20221119T140000Z
 DTEND;VALUE=DATE-TIME:20221119T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_7_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc rayé\nCouleur principale équipe exterieure: Blanc\n\n
- Contact équipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : 
+ Contact équipe domicile: Dubois J-J. (0486.47.10.49)\n\nAccès voiture : 
  Le terrain se trouve derrière l'église St. Vincent\n\nInfo équipe domic
  ile: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exterieur
  e: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https:
@@ -122,17 +125,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: TUBIFOOT AS vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_6C_11_451_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nCo
- ntact équipe domicile: GIRARDO. M (0491.35.69.81)\n\nAccès voiture : En 
+ ntact équipe domicile: Girardo. M (0491.35.69.81)\n\nAccès voiture : En 
  venant de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi -
   prendre la sortie 21 et continuer sur la E429 direction Lille/Rijsel sur 
  7\,2 km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsesteen
@@ -149,6 +152,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  am/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:astubifoot@gmail.com
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
 END:VEVENT
 END:VCALENDAR

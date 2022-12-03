@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: BRUSSELS LTC (Eq. 2) vs BEEKINGS F.C.
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_39_648
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Jaune et noir\n\nCont
- act équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ven
+ act équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ven
  ant de Bruxelles\, prendre ring Est direction Waterloo. Sortir à la sorti
  e n°27 Waterloo Centre.\n	Prendre ensuite à gauche La Drève de Richelle
   jusqu'au 3ème rond-point et prendre à gauche la 	Chaussée de Louvain s
@@ -25,17 +25,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  S-FC\nInfo terrain: https://www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: BRUSSELS BRITISH R (Eq. 4) vs VOGELPIK FC.
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_1_629
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Rouge et noir\n\nContact
-  équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute
+  équipe domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute
   E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'au
  toroute et tourner à droite au cimetière des animaux. Terrain à 200 m.\
  n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-
@@ -43,17 +44,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: REALISTES MEXICO R vs HELLAS BERCHEM FC.
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_57_488
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu marine/Orange\nCouleur principale équipe exterieure: Bleu\n\nCon
- tact équipe domicile: Mad. BRUSSELAERS P. (02.478.40.33)\n\nAccès voitur
+ tact équipe domicile: Mad. Brusselaers P. (02.478.40.33)\n\nAccès voitur
  e : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, pr
  endre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit Chemi
  n Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300 m.\
@@ -62,17 +63,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  FC\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:real_mexico_057@yahoo.fr
+ORGANIZER;CN="Mad. Brusselaers P.";ROLE=Secrétaire:MAILTO:real_mexico_057
+ @yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: DUDEN SPORT R vs STRING PENELOPE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_22_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Orange\n\nConta
- ct équipe domicile: ISABEAUX A (0472.34.00.24)\n\nAccès voiture : Ring\,
+ ct équipe domicile: Isabeaux A (0472.34.00.24)\n\nAccès voiture : Ring\,
   sortie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à
   droite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, 
  Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, apr
@@ -83,17 +85,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:arnaud8684@hotmail.be
+ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: SAINT GEORGES RCS (Eq. 3) vs NIVELLOIS-ACLOT BS
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_221_503
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Rouge et noir\n\nContact
-  équipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard
+  équipe domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Boulevard
   de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer
   en dessous du petit pont et continuer la chaussée de Stockel pendant env
  . 500 m. Le terrain est situé sur la droite de la chaussée.\n\nInfo équ
@@ -102,17 +104,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: RHINOCEROS vs NEPTUNE FC
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4A_4_654_56
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: WATTEYNE R. (0498.16.13.01)\n\nAccès voiture : Autorout
+ équipe domicile: Watteyne R. (0498.16.13.01)\n\nAccès voiture : Autorout
  e Bruxelles-Namur E411\, après Wavre prendre la sortie Louvain-la-Neuve\,
   continuer sur la N4 direction Namur\, au premier rond-point prendre à dr
  oite vers la N250 et suivre "Blocry/Hocaille". Après le second rond-point
@@ -124,6 +126,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
-ORGANIZER:MAILTO:robin@watteyne.com
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
 END:VEVENT
 END:VCALENDAR

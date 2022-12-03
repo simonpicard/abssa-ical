@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: PETER PAN FC vs BOUSVAL GENAPPE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_279_401
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Orange et bleu\n\nContact
-  équipe domicile: DRINE N. (0476.80.28.02)\n\nAccès voiture : R.O. Sorti
+  équipe domicile: Drine N. (0476.80.28.02)\n\nAccès voiture : R.O. Sorti
  e Beersel (n° 19)\, prendre direction Beersel\, ensuite direction Linkebe
  ek En face du Delhaize prendre la rue de la Brasserie et ensuite suivre le
  s indications LHC-KHVCL.\nR.E. Sortie Groenendael - Direction Uccle\, dans
@@ -28,17 +28,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  terrain: https://www.abssa.org/terrain/L07
 GEO:50.7627439;4.345177
 LOCATION:Wouterbos\, Rue Schavei 31\, 1630 Linkebeek\, Belgique
-ORGANIZER:MAILTO:neildrine@gmail.com
+ORGANIZER;CN="Drine N.";ROLE=Secrétaire:MAILTO:neildrine@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: LUNETTE (LA) FC vs LORGNETTE (LA)  FC
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_130_392
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et bleu\nCouleur principale équipe exterieure: Bordeaux\n\nCont
- act équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture : En 
+ act équipe domicile: Bonifazio R. (0488.31.38.10)\n\nAccès voiture : En 
  venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\
  , prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard
   Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oi
@@ -49,17 +49,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
+ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: NEW INN FC (Eq. 4) vs NEW ARQUOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_359_263
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bordeaux\, Blanc\nCouleur principale équipe exterieure: Bleu\n\nConta
- ct équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dép
+ ct équipe domicile: Cornil B. (0494.16.15.11)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -70,17 +71,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  fo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: BRITISH UNITED (Eq. 3) vs PANGLOSS FC
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_132_123
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
+ omicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
  xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
  re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
   viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
@@ -91,17 +92,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: TRICOTEUSES FC. vs GREZ AJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_617_514
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Noir\n\nContact équi
- pe domicile: CASTIN\, L (0484.80.59.60)\n\nAccès voiture : Ring de Bruxel
+ pe domicile: Castin\, L (0484.80.59.60)\n\nAccès voiture : Ring de Bruxel
  les (RO)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite pre
  mière rue à droite (Louis Marcelisstraat) puis la troisième à droite (
  Sportpleinstraat).\nL'entrée au terrain se trouve à gauche entre les n°
@@ -115,17 +117,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  AJ\nInfo terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:leopold.castin@hotmail.com
+ORGANIZER;CN="Castin, L";ROLE=Secrétaire:MAILTO:leopold.castin@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J8: BRUSSELS LTC (Eq. 4) vs MIREILLE WEMMEL
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_4C_8_39_93
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Rouge et  Noir\n\nCon
- tact équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Ve
+ tact équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Ve
  nant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont
   de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Ap
  rès le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation
@@ -137,6 +140,7 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ww.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 END:VCALENDAR

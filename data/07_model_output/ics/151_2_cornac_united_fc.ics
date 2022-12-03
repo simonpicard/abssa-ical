@@ -8,11 +8,11 @@ SUMMARY:ABSSA D6D J1: CORNAC UNITED FC (Eq. 2) vs OMNISPORT BIERGHES (Eq.
  2)
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_1_151_455
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -22,17 +22,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  PORT-BIERGHES\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J2: IRLANDE FC (Eq. 6) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_2_402_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
+ domicile: Bridoux J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lo
  uvain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMec
  helsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'auto
  route Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre 
@@ -43,17 +43,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J3: CORNAC UNITED FC (Eq. 2) vs HIGGINS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_3_151_416
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Pa
+ ontact équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Pa
  r le Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 1
  4) continuer tout droit\, remonter vers le Ring et prendre à droite pour 
  sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\,
@@ -63,17 +64,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /team/416/HIGGINS\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J4: BRITISH UNITED (Eq. 6) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T110000Z
 DTEND;VALUE=DATE-TIME:20220924T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_4_132_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
+ domicile: Vanderseypen G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
  uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
  tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
  e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
@@ -84,17 +85,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:51.0216563;4.5020273
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J5: CORNAC UNITED FC (Eq. 2) vs CHENOIS (ESPER) (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221001T103000Z
 DTEND;VALUE=DATE-TIME:20221001T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_5_151_412
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc et rouge\n\nContac
- t équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le 
+ t équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le 
  Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) co
  ntinuer tout droit\, remonter vers le Ring et prendre à droite pour sorti
  r vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pass
@@ -104,17 +106,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /412/CHENOIS-ESPER\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J6: STRING PENELOPE (Eq. 4) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221008T130000Z
 DTEND;VALUE=DATE-TIME:20221008T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_6_181_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Rouge\n\nContact équip
- e domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : Au départ de
+ e domicile: Collignon T. (0474.89.84.20)\n\nAccès voiture : Au départ de
   Bruxelles\, prendre l'autoroute E411 en direction de Namur. Prendre la so
  rtie  Wavre ( n° 6) ensuite à droite la N238 en direction d'Ottignies. P
  rendre la sortie Ottignies/Louvain-La-Neuve (N237) et suivre la direction 
@@ -130,17 +132,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J7: CORNAC UNITED FC (Eq. 2) vs POSTBOYS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221015T103000Z
 DTEND;VALUE=DATE-TIME:20221015T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_7_151_75
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge et noir\n\nContact
-  équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
+  équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le R
  ing Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) con
  tinuer tout droit\, remonter vers le Ring et prendre à droite pour sortir
   vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passe
@@ -150,17 +153,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J8: CHIEFS WSL (Eq. 4) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T090000Z
 DTEND;VALUE=DATE-TIME:20221022T101000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_8_303_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
+  domicile: De San G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
  oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
  Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo équ
@@ -169,17 +172,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J9: CORNAC UNITED FC (Eq. 2) vs CHENOIS SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221105T113000Z
 DTEND;VALUE=DATE-TIME:20221105T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_9_151_84
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge et noir\n\nContact
-  équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
+  équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le R
  ing Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) con
  tinuer tout droit\, remonter vers le Ring et prendre à droite pour sortir
   vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passe
@@ -189,17 +192,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: JETTOISE (AMICALE) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_10_347_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu et blanc\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Direct
+  équipe domicile: Pogradja  A. (0478.37.94.22)\n\nAccès voiture : Direct
  ion cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'a
  u bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauc
  he.\n\nInfo équipe domicile: https://www.abssa.org/team/347/JETTOISE-AMIC
@@ -208,17 +211,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J11: MIREILLE WEMMEL (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_11_93_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: VERMEERBERGEN D. (0497.31.76.07)\n\nAccès voiture : Ring RO\, a
+ domicile: Vermeerbergen D. (0497.31.76.07)\n\nAccès voiture : Ring RO\, a
  frit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meysken
  sstraat tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraa
  t deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kr
@@ -229,17 +232,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.900999;4.4855744
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
-ORGANIZER:MAILTO:daanvermeerbergen@hotmail.com
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J12: CORNAC UNITED FC (Eq. 2) vs ENTENTE  RACB (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T113000Z
 DTEND;VALUE=DATE-TIME:20221126T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_12_151_2
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
+  domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
  t\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer t
  out droit\, remonter vers le Ring et prendre à droite pour sortir vers It
  terbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le rin
@@ -249,17 +253,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  NTE-RACB\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J13: CORNAC UNITED FC (Eq. 2) vs IRLANDE FC (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_13_151_402
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -269,17 +273,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  DE-FC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J14: HIGGINS (Eq. 3) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_14_416_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
+ ontact équipe domicile: De Biolley Ph. (0477.23.31.25)\n\nAccès voiture 
  : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
  t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
   200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
@@ -290,18 +294,19 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J15: CORNAC UNITED FC (Eq. 2) vs LORRAINE (LA) RFC (Eq. 
  3)
 DTSTART;VALUE=DATE-TIME:20221217T113000Z
 DTEND;VALUE=DATE-TIME:20221217T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2022_6D_15_151_44
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -311,17 +316,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  INE-LA-RFC\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J16: CORNAC UNITED FC (Eq. 2) vs BRITISH UNITED (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230107T113000Z
 DTEND;VALUE=DATE-TIME:20230107T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_16_151_132
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -331,17 +336,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  SH-UNITED\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J17: CHENOIS (ESPER) (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T140000Z
 DTEND;VALUE=DATE-TIME:20230114T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_17_412_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc et rouge\nCouleur principale équipe exterieure: Rouge\n\nContac
- t équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture : Venan
+ t équipe domicile: Gioffredi G. (0474.24.92.27)\n\nAccès voiture : Venan
  t d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bru
  xelles\, continuer jusqu'à la place E. Vandevelde (intersection de la cha
  ussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de
@@ -351,17 +356,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  151/CORNAC-UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:412fcec@gmail.com
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J18: CORNAC UNITED FC (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230121T113000Z
 DTEND;VALUE=DATE-TIME:20230121T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_18_151_181
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oue
+ e domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oue
  st\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer 
  tout droit\, remonter vers le Ring et prendre à droite pour sortir vers I
  tterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ri
@@ -371,17 +376,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  ING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J19: POSTBOYS FC (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_19_75_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Direct
+  équipe domicile: Burquel J-M. (0498.05.90.57)\n\nAccès voiture : Direct
  ion cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'a
  u bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauc
  he.\n\nInfo équipe domicile: https://www.abssa.org/team/075/POSTBOYS-FC\n
@@ -390,17 +395,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+ORGANIZER;CN="Burquel J-M.";ROLE=Secrétaire:MAILTO:secretariat@postboys.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J20: CORNAC UNITED FC (Eq. 2) vs CHIEFS WSL (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_20_151_303
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
+  domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Oues
  t\, direction Paris\, sortie Westland Shopping Center (n° 14) continuer t
  out droit\, remonter vers le Ring et prendre à droite pour sortir vers It
  terbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le rin
@@ -410,17 +416,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  FS-WSL\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J21: CHENOIS SC (Eq. 3) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T140000Z
 DTEND;VALUE=DATE-TIME:20230211T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_21_84_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Rouge\n\nContact
-  équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venan
+  équipe domicile: Versmissen P. (0495.59.61.77)\n\nAccès voiture : Venan
  t d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Bru
  xelles\, continuer jusqu'à la place E. Vandevelde (intersection de la cha
  ussée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de
@@ -430,17 +436,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  /CORNAC-UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J22: ENTENTE  RACB (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_22_2_151
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: DATH D. (0473.47.15.41)\n\nAccès voiture : Pont de Laeken\, Ch
+  domicile: Dath D. (0473.47.15.41)\n\nAccès voiture : Pont de Laeken\, Ch
  aussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Cro
  ix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis première
   à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe domicil
@@ -449,17 +456,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:daniel.dath@hotmail.com
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J23: CORNAC UNITED FC (Eq. 2) vs JETTOISE (AMICALE)
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_23_151_347
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu et blanc\n\nContact
-  équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
+  équipe domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le R
  ing Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) con
  tinuer tout droit\, remonter vers le Ring et prendre à droite pour sortir
   vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passe
@@ -469,17 +476,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  347/JETTOISE-AMICALE\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J24: CORNAC UNITED FC (Eq. 2) vs MIREILLE WEMMEL (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T113000Z
 DTEND;VALUE=DATE-TIME:20230311T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_24_151_93
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
+ domicile: Denayer M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
  \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
  ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
  erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
@@ -489,18 +496,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  LLE-WEMMEL\nInfo terrain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J25: OMNISPORT BIERGHES (Eq. 2) vs CORNAC UNITED FC (Eq.
   2)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_25_455_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute Bruxelles
+ domicile: Barbe L. (0495.21.74.14)\n\nAccès voiture : Autoroute Bruxelles
  -Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rej
  oindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Prendre la so
  rtie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à droite\, di
@@ -512,18 +519,19 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/B02
 GEO:50.6957846;4.129257
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J26: LORRAINE (LA) RFC (Eq. 3) vs CORNAC UNITED FC (Eq. 
  2)
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155613Z
 UID:2023_6D_26_44_151
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, 
+ domicile: Degimbe M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, 
  prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
  et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nInfo 
  équipe domicile: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo éq
@@ -531,6 +539,6 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 END:VCALENDAR

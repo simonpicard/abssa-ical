@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5B J1: UNION BRUXELLOISE vs PIRATERIE (LA)
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_1_655_652
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ de la 
+ omicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ de la 
  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraa
  inem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Comb
  attants. Juste après le carrefour avec des feux de signalisation prendre 
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  rrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J2: UNION BRUXELLOISE vs COSMOS BRUWOLF MJ
 DTSTART;VALUE=DATE-TIME:20220910T103000Z
 DTEND;VALUE=DATE-TIME:20220910T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_2_655_338
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Orange/Noir\n\nContact é
- quipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ
+ quipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ
   de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
  ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
  ns Combattants. Juste après le carrefour avec des feux de signalisation p
@@ -43,17 +44,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  -MJ\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J3: KARIA FC vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_3_498_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bleu\n\nContact équipe
-  domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken\, 
+  domicile: Bercha  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken\, 
  Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des C
  roix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis premiè
  re à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe domic
@@ -62,17 +64,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  bssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J4: UNION BRUXELLOISE vs CELTIC FORESTOIS
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_4_655_330
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert et  blanc\n\nContact
-  équipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au dép
+  équipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -83,17 +85,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  STOIS\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J5: MASIA CITY vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221001T113000Z
 DTEND;VALUE=DATE-TIME:20221001T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_5_661_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Beige et bordeaux\nCouleur principale équipe exterieure: Bleu\n\nCont
- act équipe domicile: SAOUD T. (0460.97.04.65)\n\nAccès voiture : A parti
+ act équipe domicile: Saoud T. (0460.97.04.65)\n\nAccès voiture : A parti
  r de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la sortie
   N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux / Gre
  z Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la sorti
@@ -103,17 +106,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  -BRUXELLOISE\nInfo terrain: https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:masiacity@gmail.com
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J7: UNION BRUXELLOISE vs CORNOI AS
 DTSTART;VALUE=DATE-TIME:20221015T103000Z
 DTEND;VALUE=DATE-TIME:20221015T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_7_655_417
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au dép
+  équipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au dép
  art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
  ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
  ciens Combattants. Juste après le carrefour avec des feux de signalisatio
@@ -124,17 +127,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  Info terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J8: GALACTIC JUMPERTZ vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221022T103000Z
 DTEND;VALUE=DATE-TIME:20221022T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_8_659_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Orange\nCouleur principale équipe exterieure: Bleu\n\nContact équipe
-  domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la E411 Bru
+  domicile: Eyletten J. (0470.31.54.56)\n\nAccès voiture : Par la E411 Bru
  xelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).
  \nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendr
  e la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Apr
@@ -146,17 +150,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J9: UNION BRUXELLOISE vs BLUE THRILLS
 DTSTART;VALUE=DATE-TIME:20221105T113000Z
 DTEND;VALUE=DATE-TIME:20221105T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_9_655_619
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu Marine\n\nContact é
- quipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ
+ quipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ
   de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sort
  ie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancie
  ns Combattants. Juste après le carrefour avec des feux de signalisation p
@@ -167,17 +172,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  Info terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J10: DEAF BRUSSELS FC vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_10_593_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: VAN BRANDT S. (0494.24.34.05 (SMS))\n\nAccès voiture : 
+ équipe domicile: Van Brandt S. (0494.24.34.05 (SMS))\n\nAccès voiture : 
  Chaussée de Haecht\, vers Diegem. Prendre la rue Harenheyde à gauche\, j
  uste au feu de signalisation\, après la station "JET"\, situé à gauche.
   Entrée du stade par la rue Harenheyde\, 100 m. au-delà du pont du chemi
@@ -186,17 +192,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  RUXELLOISE\nInfo terrain: https://www.abssa.org/terrain/B05
 GEO:50.8929668;4.4236193
 LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER:MAILTO:fc_deaf_brussels@live.be
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:fc_deaf_brussels@live
+ .be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J11: UNION BRUXELLOISE vs GREZ AJ (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221119T113000Z
 DTEND;VALUE=DATE-TIME:20221119T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_11_655_514
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ de la 
+ omicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ de la 
  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraa
  inem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Comb
  attants. Juste après le carrefour avec des feux de signalisation prendre 
@@ -207,17 +214,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  : https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J12: RAYO LATINO vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_12_572_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et noir\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: LEPORCQ N (0485.64.31.86)\n\nAccès voiture : Chaussée 
+ équipe domicile: Leporcq N (0485.64.31.86)\n\nAccès voiture : Chaussée 
  de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche la 
  \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l
  'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pren
@@ -228,17 +236,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:rayolatino@gmail.com
+ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J13: COSMOS BRUWOLF MJ vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_13_338_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange/Noir\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Direction ci
+ quipe domicile: Dehaut A. (0476.26.26.87)\n\nAccès voiture : Direction ci
  metière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout
  \, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\
  nInfo équipe domicile: https://www.abssa.org/team/338/COSMOS-BRUWOLF-MJ\n
@@ -247,17 +255,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J14: UNION BRUXELLOISE vs KARIA FC
 DTSTART;VALUE=DATE-TIME:20221210T113000Z
 DTEND;VALUE=DATE-TIME:20221210T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_14_655_498
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ de l
+  domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ de l
  a Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kr
  aainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Co
  mbattants. Juste après le carrefour avec des feux de signalisation prendr
@@ -268,17 +276,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J15: PINK PANTHERS vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2022_5B_15_635_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Noir/ rose\nCouleur principale équipe exterieure: Bleu\n\nContact éq
- uipe domicile: ARGYRAKIS J. (0492.88.69.79)\n\nAccès voiture : Autoroute 
+ uipe domicile: Argyrakis J. (0492.88.69.79)\n\nAccès voiture : Autoroute 
  Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Pre
  ndre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les d
  eux premiers ronds-points à l'issue de la RN 25. Au troisième rond-point
@@ -288,17 +297,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  N-BRUXELLOISE\nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jeremy_a@hotmail.fr
+ORGANIZER;CN="Argyrakis J.";ROLE=Secrétaire:MAILTO:jeremy_a@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J16: CELTIC FORESTOIS vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_16_330_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert et  blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture : Au d
+  équipe domicile: Leal Soria D. (0474.88.64.33)\n\nAccès voiture : Au d
  épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
  oierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Br
@@ -310,17 +319,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J17: UNION BRUXELLOISE vs MASIA CITY
 DTSTART;VALUE=DATE-TIME:20230114T113000Z
 DTEND;VALUE=DATE-TIME:20230114T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_17_655_661
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Beige et bordeaux\n\nCont
- act équipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au d
+ act équipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au d
  épart de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre l
  a sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des
   Anciens Combattants. Juste après le carrefour avec des feux de signalisa
@@ -331,17 +340,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  TY\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J19: CORNOI AS vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20230128T140000Z
 DTEND;VALUE=DATE-TIME:20230128T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_19_417_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: DEVILLE A (0492. 67.96.76)\n\nAccès voiture : En venan
+  équipe domicile: Deville A (0492. 67.96.76)\n\nAccès voiture : En venan
  t de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'
  au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direct
  ion Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pr
@@ -352,17 +362,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:ascornoi@live.fr
+ORGANIZER;CN="Deville A";ROLE=Secrétaire:MAILTO:ascornoi@live.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J20: UNION BRUXELLOISE vs GALACTIC JUMPERTZ
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_20_655_659
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ de l
+  domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ de l
  a Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kr
  aainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Co
  mbattants. Juste après le carrefour avec des feux de signalisation prendr
@@ -373,17 +383,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  Info terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J21: BLUE THRILLS vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20230211T140000Z
 DTEND;VALUE=DATE-TIME:20230211T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_21_619_655
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu Marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès au
+ quipe domicile: De Briey A. (0479.858.374)\n\nAccès voiture : L'accès au
   terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face d
  u stade communal d'Auderghem). L'accès au terrain se fait par l'arrière 
  du bâtiment principal (où sont situés les vestiaires) il faut parcourir
@@ -395,17 +406,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.80890770000001;4.4427327
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J22: UNION BRUXELLOISE vs RAYO LATINO
 DTSTART;VALUE=DATE-TIME:20230225T113000Z
 DTEND;VALUE=DATE-TIME:20230225T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_22_655_572
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au dépa
+ équipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au dépa
  rt de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la so
  rtie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anc
  iens Combattants. Juste après le carrefour avec des feux de signalisation
@@ -416,17 +427,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J23: UNION BRUXELLOISE vs DEAF BRUSSELS FC
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_23_655_593
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Vert et noir\n\nContact 
- équipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au dépa
+ équipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au dépa
  rt de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la so
  rtie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anc
  iens Combattants. Juste après le carrefour avec des feux de signalisation
@@ -437,17 +449,18 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  S-FC\nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J24: GREZ AJ (Eq. 3) vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_24_514_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
+ omicile: Vanhamme J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
  es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
   RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
  miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
@@ -457,17 +470,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  \nInfo terrain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J25: PIRATERIE (LA) vs UNION BRUXELLOISE
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_25_652_655
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: COOK Z (0497.25.56.22)\n\nAccès voiture : En venant de Bruxelles
+ omicile: Cook Z (0497.25.56.22)\n\nAccès voiture : En venant de Bruxelles
  \, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 1
  9)\, passer sous le pont de l'autoroute et prendre la direction de Nivelle
  s. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en direc
@@ -480,17 +494,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  OISE\nInfo terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D5B J26: UNION BRUXELLOISE vs PINK PANTHERS
 DTSTART;VALUE=DATE-TIME:20230325T113000Z
 DTEND;VALUE=DATE-TIME:20230325T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133949Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155614Z
 UID:2023_5B_26_655_635
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Noir/ rose\n\nContact éq
- uipe domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ 
+ uipe domicile: Herinckx C. (0472.83.06.56)\n\nAccès voiture : Au départ 
  de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sorti
  e Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Ancien
  s Combattants. Juste après le carrefour avec des feux de signalisation pr
@@ -501,6 +515,7 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  nInfo terrain: https://www.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 END:VCALENDAR

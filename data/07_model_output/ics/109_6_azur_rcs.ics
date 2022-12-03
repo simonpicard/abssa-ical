@@ -7,11 +7,11 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J1: PHARMA SC (Eq. 4) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_1_268_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ
+ ipe domicile: Van Durme Th. (0477.71.89.93)\n\nAccès voiture : Au départ
   de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
  à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
   rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
@@ -22,17 +22,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J2: BRUSSELS LTC (Eq. 6) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20220910T120000Z
 DTEND;VALUE=DATE-TIME:20220910T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_2_39_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bordeaux\nCouleur principale équipe exterieure: Bleu ciel\n\nContact 
- équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant 
+ équipe domicile: Van Hacht O. (0475.96.43.03)\n\nAccès voiture : Venant 
  de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
  roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
  le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
@@ -44,17 +45,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  /terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J3: AZUR RCS (Eq. 6) vs SAINT GEORGES RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20220917T130000Z
 DTEND;VALUE=DATE-TIME:20220917T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_3_109_221
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -65,17 +67,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J4: FORESTOIS SC (Eq. 5) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_4_152_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ d
+ ipe domicile: Janssens P. (0479.95.08.14)\n\nAccès voiture : Au départ d
  e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
   la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
  ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
@@ -86,17 +89,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J5: AZUR RCS (Eq. 6) vs CAMPOMAIORENSE SC
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_5_109_467
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Vert rayé de blanc\
- n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voi
+ n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voi
  ture : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Sou
  verain prendre à gauche au premier feu de signalisation (Av. Madoux). Au 
  feu de signalisation suivant prendre la 2ème rue à main droite (Av. J. D
@@ -107,17 +110,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J6: BRUSSELS BRITISH R (Eq. 6) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_6_1_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E41
+ uipe domicile: Lachia S. (0484.27.72.64)\n\nAccès voiture : Autoroute E41
  1\, prendre la sortie Rosières. Passer devant l'église\, longer l'autoro
  ute et tourner à droite au cimetière des animaux. Terrain à 200 m.\n\nI
  nfo équipe domicile: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nI
@@ -125,17 +129,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  ain: https://www.abssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J7: AZUR RCS (Eq. 6) vs ANDERLECHT US
 DTSTART;VALUE=DATE-TIME:20221015T130000Z
 DTEND;VALUE=DATE-TIME:20221015T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_7_109_280
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Mauve\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -146,17 +150,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J8: AZUR RCS (Eq. 6) vs FAUBOURG-BRAINOISE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T130000Z
 DTEND;VALUE=DATE-TIME:20221022T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_8_109_100
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rouge\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -167,17 +172,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J9: AUDERGHEM R.CF vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_9_72_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: PLECK P. (0475.82.01.41)\n\nAccès voiture : En venant de Br
+ ipe domicile: Pleck P. (0475.82.01.41)\n\nAccès voiture : En venant de Br
  uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
  dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
@@ -188,17 +194,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER:MAILTO:ppleckson@hotmail.com
+ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J10: AZUR RCS (Eq. 6) vs COSMOS BRUWOLF MJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_10_109_338
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Orange/Noir\n\nConta
- ct équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : A
+ ct équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : A
  venue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain p
  rendre à gauche au premier feu de signalisation (Av. Madoux). Au feu de s
  ignalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin)
@@ -209,17 +215,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: TUBIFOOT AS vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_11_451_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Jaune et Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nCo
- ntact équipe domicile: GIRARDO. M (0491.35.69.81)\n\nAccès voiture : En 
+ ntact équipe domicile: Girardo. M (0491.35.69.81)\n\nAccès voiture : En 
  venant de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi -
   prendre la sortie 21 et continuer sur la E429 direction Lille/Rijsel sur 
  7\,2 km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsesteen
@@ -236,17 +243,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  am/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/T06
 GEO:50.684014;4.1993301
 LOCATION:Allée des Sports 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:astubifoot@gmail.com
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J12: AZUR RCS (Eq. 6) vs ALIZE VETERANS FC
 DTSTART;VALUE=DATE-TIME:20221126T140000Z
 DTEND;VALUE=DATE-TIME:20221126T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_12_109_395
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -257,17 +264,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J13: AZUR RCS (Eq. 6) vs BRUSSELS LTC (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221203T140000Z
 DTEND;VALUE=DATE-TIME:20221203T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_13_109_39
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bordeaux\n\nContact 
- équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Aven
+ équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Aven
  ue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pren
  dre à gauche au premier feu de signalisation (Av. Madoux). Au feu de sign
  alisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). E
@@ -278,17 +286,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J14: SAINT GEORGES RCS (Eq. 4) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221210T130000Z
 DTEND;VALUE=DATE-TIME:20221210T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_14_221_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Blanc\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de 
+ uipe domicile: Destin C. (0483.33.01.12)\n\nAccès voiture : Boulevard de 
  la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer en 
  dessous du petit pont et continuer la chaussée de Stockel pendant env. 50
  0 m. Le terrain est situé sur la droite de la chaussée.\n\nInfo équipe 
@@ -297,17 +306,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  www.abssa.org/terrain/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J15: AZUR RCS (Eq. 6) vs ELAN EVERE RAC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221217T140000Z
 DTEND;VALUE=DATE-TIME:20221217T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2022_6C_15_109_7
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Rouge et blanc rayé
- \n\nContact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès vo
+ \n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès vo
  iture : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du So
  uverain prendre à gauche au premier feu de signalisation (Av. Madoux). Au
   feu de signalisation suivant prendre la 2ème rue à main droite (Av. J. 
@@ -318,17 +327,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J16: AZUR RCS (Eq. 6) vs FORESTOIS SC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230107T140000Z
 DTEND;VALUE=DATE-TIME:20230107T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_16_109_152
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Vert\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ ipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue d
  e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
  ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
@@ -338,17 +348,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J17: CAMPOMAIORENSE SC vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_17_467_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Vert rayé de blanc\nCouleur principale équipe exterieure: Bleu ciel\
- n\nContact équipe domicile: CESAR PAIXAO I. (0496.37.12.76)\n\nAccès voi
+ n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76)\n\nAccès voi
  ture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de
   Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain s
  e trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/4
@@ -357,17 +368,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:ivocp1@hotmail.com
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J18: AZUR RCS (Eq. 6) vs BRUSSELS BRITISH R (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230121T140000Z
 DTEND;VALUE=DATE-TIME:20230121T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_18_109_1
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Blanc\n\nContact éq
- uipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue 
+ uipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue 
  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre
   à gauche au premier feu de signalisation (Av. Madoux). Au feu de signali
  sation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensu
@@ -378,17 +389,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J19: ANDERLECHT US vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230128T130000Z
 DTEND;VALUE=DATE-TIME:20230128T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_19_280_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Mauve\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de l
+ uipe domicile: Sadin D. (0477.76.34.69)\n\nAccès voiture : En venant de l
  a Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre l
  a direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leem
  ans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Voge
@@ -399,17 +411,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J20: FAUBOURG-BRAINOISE (Eq. 2) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_20_100_109
 DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
  le: Rouge\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de
+ uipe domicile: Herpain D. (0474.79.02.18)\n\nAccès voiture : En venant de
   Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au m
  agasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction 
  Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, prendr
@@ -420,17 +432,17 @@ DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J21: AZUR RCS (Eq. 6) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230211T140000Z
 DTEND;VALUE=DATE-TIME:20230211T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_21_109_72
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ ipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue d
  e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
  ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
@@ -441,17 +453,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J22: ALIZE VETERANS FC vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_22_395_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nContact éq
- uipe domicile: HAENTJENS J-L. (0473.88.82.20)\n\nAccès voiture : Via la c
+ uipe domicile: Haentjens J-L. (0473.88.82.20)\n\nAccès voiture : Via la c
  haussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à 
  droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Thé
  o Lambert.\n\nInfo équipe domicile: https://www.abssa.org/team/395/ALIZE-
@@ -460,17 +473,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:jean-luc.haentjens@police.belgium.eu
+ORGANIZER;CN="Haentjens J-L.";ROLE=Secrétaire:MAILTO:jean-luc.haentjens@p
+ olice.belgium.eu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J23: COSMOS BRUWOLF MJ (Eq. 2) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_23_338_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Orange/Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nConta
- ct équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\
+ ct équipe domicile: Dehaut A. (0476.26.26.87)\n\nAccès voiture : Ring O\
  , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
   Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
  le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
@@ -481,17 +495,17 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8511158;4.3192467
 LOCATION:Stade Verbist - Parc Marie-Jose\, Avenue J. Baeck\, 1080 Molenbee
  k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J24: AZUR RCS (Eq. 6) vs TUBIFOOT AS
 DTSTART;VALUE=DATE-TIME:20230311T140000Z
 DTEND;VALUE=DATE-TIME:20230311T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_24_109_451
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Jaune et Rouge\n\nCo
- ntact équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture 
+ ntact équipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture 
  : Avenue de Tervuren\, direction Tervuren. Passé le boulevard du Souverai
  n prendre à gauche au premier feu de signalisation (Av. Madoux). Au feu d
  e signalisation suivant prendre la 2ème rue à main droite (Av. J. Dujard
@@ -502,17 +516,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J25: AZUR RCS (Eq. 6) vs PHARMA SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230318T140000Z
 DTEND;VALUE=DATE-TIME:20230318T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_25_109_268
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
+ ipe domicile: Mad. Decamps N. (0477.27.39.66)\n\nAccès voiture : Avenue d
  e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
  à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
  ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
@@ -522,17 +537,18 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6C J26: ELAN EVERE RAC (Eq. 2) vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230325T140000Z
 DTEND;VALUE=DATE-TIME:20230325T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221201T133948Z
+DTSTAMP;VALUE=DATE-TIME:20221203T155612Z
 UID:2023_6C_26_7_109
 DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
  le: Rouge et blanc rayé\nCouleur principale équipe exterieure: Bleu ciel
- \n\nContact équipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voitur
+ \n\nContact équipe domicile: Dubois J-J. (0486.47.10.49)\n\nAccès voitur
  e : Le terrain se trouve derrière l'église St. Vincent\n\nInfo équipe d
  omicile: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo équipe exter
  ieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.
@@ -540,6 +556,6 @@ DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 END:VCALENDAR
