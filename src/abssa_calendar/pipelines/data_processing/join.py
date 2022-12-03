@@ -57,7 +57,7 @@ def get_events(fixtures_df, team_club_df, fields_df):
         "Terrain synthétique: {artificial_grass_home}\n\nCouleur"
         " principale équipe domicile: {color_home}\nCouleur principale"
         " équipe exterieure: {color_away}\n\nContact équipe domicile:"
-        " {secretary_home} ({phone_number_home})\n\nAccès voiture :"
+        " {secretary_home} ({phone_number_home} - {email_home})\n\nAccès voiture :"
         " {car_access}\n\nInfo équipe domicile: {home_team_link}\nInfo équipe exterieure: {away_team_link}\nInfo terrain: {field_link}"
     )
 
@@ -82,6 +82,7 @@ def get_events(fixtures_df, team_club_df, fields_df):
             home_team_link=x["club_url_home"],
             away_team_link=x["club_url_away"],
             field_link=x["field_url"],
+            email_home=x["email_home"],
         ),
         axis=1,
     )
