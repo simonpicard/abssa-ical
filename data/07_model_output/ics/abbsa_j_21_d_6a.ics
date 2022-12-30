@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: ITT - GECKO FC (Eq. 3) vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20230211T113000Z
 DTEND;VALUE=DATE-TIME:20230211T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_92_376
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: METRASPORT R. vs GAST FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_33_388
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: CHOULE AUDERGHEM (Eq. 3) vs J.ST-GILLOISE R.
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_517_38
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
@@ -61,7 +61,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  micile: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo équipe exte
  rieure: https://www.abssa.org/team/038/JST-GILLOISE-R\nInfo terrain: https
  ://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: AMB. AUDERGHEM (Eq. 2) vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230211T130000Z
 DTEND;VALUE=DATE-TIME:20230211T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_249_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Blanc rayé de Gris\nCouleur principale équipe ext
@@ -83,7 +83,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  quipe domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe
   exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: http
  s://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: MUTUELLE RSB vs TRINQUANT (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T141500Z
 DTEND;VALUE=DATE-TIME:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_5_445
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: BRITISH UNITED (Eq. 5) vs TOURINNOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_132_292
 DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: FORESTOIS SC (Eq. 4) vs JEFKE COUNTRY (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233504Z
 UID:2023_6A_21_152_423
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir e

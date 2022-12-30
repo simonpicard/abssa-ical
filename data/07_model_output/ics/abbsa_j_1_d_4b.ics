@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: FRIENDS SPIRIT AUD vs CHENOIS (ESPER)
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233503Z
 UID:2022_4B_1_522_412
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
@@ -20,7 +20,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  e: https://www.abssa.org/team/522/FRIENDS-SPIRIT-AUD\nInfo équipe exterie
  ure: https://www.abssa.org/team/412/CHENOIS-ESPER\nInfo terrain: https://w
  ww.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: GOALOIS (Eq. 2) vs VIRGINAL ASF
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233503Z
 UID:2022_4B_1_345_497
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: NIVELLES CS vs NEW INN FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233503Z
 UID:2022_4B_1_306_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: PATRONS (LES) vs BRUSSELS LTC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233503Z
 UID:2022_4B_1_628_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4B J1: MOON SHOOTERS vs WAPPERS FC
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233503Z
 UID:2022_4B_1_606_67
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rayé
@@ -109,7 +109,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  quipe domicile: https://www.abssa.org/team/606/MOON-SHOOTERS\nInfo équipe
   exterieure: https://www.abssa.org/team/067/WAPPERS-FC\nInfo terrain: http
  s://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com

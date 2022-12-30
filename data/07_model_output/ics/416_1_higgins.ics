@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J1: PRESS (AMICALE) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20220903T133000Z
 DTEND;VALUE=DATE-TIME:20220903T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_1_30_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J2: HIGGINS vs GAST FC
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_2_416_388
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -42,7 +42,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  \n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo é
  quipe exterieure: https://www.abssa.org/team/388/GAST-FC\nInfo terrain: ht
  tps://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J3: BRUSSELS BRITISH R (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_3_1_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J4: HIGGINS vs LORRAINE (LA) RFC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_4_416_44
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -84,7 +84,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo terr
  ain: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J5: VOLLENBACK FC vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221001T124500Z
 DTEND;VALUE=DATE-TIME:20221001T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_5_589_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J6: HIGGINS vs GOALOIS
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_6_416_345
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -130,7 +130,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  \n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo é
  quipe exterieure: https://www.abssa.org/team/345/GOALOIS\nInfo terrain: ht
  tps://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J7: TOURINNOIS FC (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221015T130000Z
 DTEND;VALUE=DATE-TIME:20221015T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_7_292_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J8: HIGGINS vs AZUR RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_8_416_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -174,7 +174,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  hé.\n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInf
  o équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrai
  n: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: MTM FC vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_9_578_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Bleu et bordeaux\nCouleur principale équipe exteri
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J10: HIGGINS vs BRITISH UNITED (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_10_416_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -221,7 +221,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terra
  in: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J11: HIGGINS vs ENTENTE  RACB
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_11_416_2
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -244,7 +244,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  \n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo é
  quipe exterieure: https://www.abssa.org/team/002/ENTENTE-RACB\nInfo terrai
  n: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J12: HIGGINS vs BIG J - ASPS
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_12_416_137
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -267,7 +267,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/137/BIG-J-ASPS\nInfo terrain: 
  https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J13: GAST FC vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221203T124500Z
 DTEND;VALUE=DATE-TIME:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_13_388_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rayé
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J14: HIGGINS vs BRUSSELS BRITISH R (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_14_416_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -311,7 +311,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  \n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo é
  quipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo 
  terrain: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J15: FORESTOIS SC vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_2B_15_152_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rayé 
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J16: LORRAINE (LA) RFC (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_16_44_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J17: HIGGINS vs VOLLENBACK FC
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_17_416_589
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -375,7 +375,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  éché.\n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\n
  Info équipe exterieure: https://www.abssa.org/team/589/VOLLENBACK-FC\nInf
  o terrain: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J18: GOALOIS vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230121T113000Z
 DTEND;VALUE=DATE-TIME:20230121T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_18_345_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rayé
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J19: HIGGINS vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_19_416_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -419,7 +419,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  \n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo é
  quipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terra
  in: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J20: AZUR RCS (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230204T123000Z
 DTEND;VALUE=DATE-TIME:20230204T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_20_109_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J21: HIGGINS vs MTM FC
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_21_416_578
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -464,7 +464,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  t fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGI
  NS\nInfo équipe exterieure: https://www.abssa.org/team/578/MTM-FC\nInfo t
  errain: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J22: BIG J - ASPS vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_22_137_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: BRITISH UNITED (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_23_132_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J24: ENTENTE  RACB vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_24_2_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J25: HIGGINS vs PRESS (AMICALE)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_25_416_30
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -548,7 +548,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/030/PRESS-AMICALE\nInfo terrai
  n: https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J26: HIGGINS vs FORESTOIS SC
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_2B_26_416_152
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -571,7 +571,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
  uipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain
  : https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g

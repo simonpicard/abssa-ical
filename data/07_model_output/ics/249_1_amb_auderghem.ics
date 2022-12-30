@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: LXG CINQUANTENAIRE vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20220903T113000Z
 DTEND;VALUE=DATE-TIME:20220903T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_1_542_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
  pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J2: AMB. AUDERGHEM vs ITT - GECKO FC
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_2_249_92
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
@@ -42,7 +42,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa
  .org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J3: CHOULE AUDERGHEM vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_3_517_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
@@ -64,7 +64,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: 
  https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo terrain: https://www.ab
  ssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J4: AMB. AUDERGHEM vs WONG A.S.
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_4_249_523
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
@@ -86,7 +86,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  : https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: h
  ttps://www.abssa.org/team/523/WONG-AS\nInfo terrain: https://www.abssa.org
  /terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J5: CHENOIS SC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_5_84_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J6: AMB. AUDERGHEM vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_6_249_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
@@ -130,7 +130,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  : https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: h
  ttps://www.abssa.org/team/403/PORTUGAL-FC\nInfo terrain: https://www.abssa
  .org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J7: COIN DU BALAI FC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_7_229_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J8: AMB. AUDERGHEM vs JEFKE COUNTRY
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_8_249_423
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
@@ -172,7 +172,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exter
  ieure: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo terrain: https:/
  /www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J9: IRLANDE FC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_9_402_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J10: AMB. AUDERGHEM vs EURO UNION
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_10_249_567
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
@@ -217,7 +217,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/567/EURO-UNION\nInfo terrain: https://www.abssa.o
  rg/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J11: AMB. AUDERGHEM vs BRUSSELS LTC
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_11_249_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
@@ -239,7 +239,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure
  : https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://www.a
  bssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J12: GREZ AJ vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_12_514_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J13: ITT - GECKO FC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_13_92_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: AMB. AUDERGHEM vs CHOULE AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_14_249_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
@@ -305,7 +305,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.a
  bssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J15: BRUSSELS BRITISH R vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_1_15_1_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J16: WONG A.S. vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230107T120000Z
 DTEND;VALUE=DATE-TIME:20230107T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_16_523_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J17: AMB. AUDERGHEM vs CHENOIS SC
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_17_249_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
@@ -372,7 +372,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exte
  rieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://w
  ww.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J18: PORTUGAL FC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_18_403_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J19: AMB. AUDERGHEM vs COIN DU BALAI FC
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_19_249_229
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
@@ -416,7 +416,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/229/COIN-DU-BALAI-FC\nInfo terrain: https://www.a
  bssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J20: JEFKE COUNTRY vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230204T120000Z
 DTEND;VALUE=DATE-TIME:20230204T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_20_423_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J21: AMB. AUDERGHEM vs IRLANDE FC
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_21_249_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
@@ -458,7 +458,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.o
  rg/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J22: AMB. AUDERGHEM vs GREZ AJ
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_22_249_514
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
@@ -480,7 +480,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: ht
  tps://www.abssa.org/team/514/GREZ-AJ\nInfo terrain: https://www.abssa.org/
  terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J23: EURO UNION vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230304T123000Z
 DTEND;VALUE=DATE-TIME:20230304T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_23_567_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: I02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J24: BRUSSELS LTC vs AMB. AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_24_39_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: AMB. AUDERGHEM vs LXG CINQUANTENAIRE
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_25_249_542
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
@@ -547,7 +547,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
   domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exte
  rieure: https://www.abssa.org/team/542/LXG-CINQUANTENAIRE\nInfo terrain: h
  ttps://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: AMB. AUDERGHEM vs BRUSSELS BRITISH R
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_1_26_249_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
@@ -569,7 +569,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  : https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: h
  ttps://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://ww
  w.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr

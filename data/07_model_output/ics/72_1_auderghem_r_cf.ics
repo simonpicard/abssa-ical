@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J1: AUDERGHEM R.CF vs ANDERLECHT US
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_1_72_280
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Mauve\
@@ -20,7 +20,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ttps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: http
  s://www.abssa.org/team/280/ANDERLECHT-US\nInfo terrain: https://www.abssa.
  org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J2: TUBIFOOT AS vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_2_451_72
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T06\n\nCouleur princi
  pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J3: AUDERGHEM R.CF vs ELAN EVERE RAC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220917T120000Z
 DTEND;VALUE=DATE-TIME:20220917T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_3_72_7
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
@@ -70,7 +70,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ipe domicile: https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe e
  xterieure: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo terrain: ht
  tps://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J4: BRUSSELS LTC (Eq. 6) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20220924T120000Z
 DTEND;VALUE=DATE-TIME:20220924T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_4_39_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J5: AUDERGHEM R.CF vs SAINT GEORGES RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_5_72_221
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
@@ -115,7 +115,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ttps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: http
  s://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.ab
  ssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J6: FORESTOIS SC (Eq. 5) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221008T120000Z
 DTEND;VALUE=DATE-TIME:20221008T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_6_152_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J7: AUDERGHEM R.CF vs CAMPOMAIORENSE SC
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_7_72_467
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert r
@@ -159,7 +159,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pe domicile: https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe ex
  terieure: https://www.abssa.org/team/467/CAMPOMAIORENSE-SC\nInfo terrain: 
  https://www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J8: BRUSSELS BRITISH R (Eq. 6) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221022T120000Z
 DTEND;VALUE=DATE-TIME:20221022T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_8_1_72
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J9: AUDERGHEM R.CF vs AZUR RCS (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_9_72_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
@@ -200,7 +200,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  e: https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: 
  https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.o
  rg/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J10: FAUBOURG-BRAINOISE (Eq. 2) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_10_100_72
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J11: PHARMA SC (Eq. 4) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221119T130000Z
 DTEND;VALUE=DATE-TIME:20221119T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_11_268_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J12: AUDERGHEM R.CF vs COSMOS BRUWOLF MJ (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T130000Z
 DTEND;VALUE=DATE-TIME:20221126T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_12_72_338
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
@@ -267,7 +267,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ile: https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure
  : https://www.abssa.org/team/338/COSMOS-BRUWOLF-MJ\nInfo terrain: https://
  www.abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J13: AUDERGHEM R.CF vs TUBIFOOT AS
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_13_72_451
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
@@ -289,7 +289,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  micile: https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterie
  ure: https://www.abssa.org/team/451/TUBIFOOT-AS\nInfo terrain: https://www
  .abssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J14: ELAN EVERE RAC (Eq. 2) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20221210T140000Z
 DTEND;VALUE=DATE-TIME:20221210T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_14_7_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
  pale équipe domicile: Rouge et blanc rayé\nCouleur principale équipe ex
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J15: AUDERGHEM R.CF vs ALIZE VETERANS FC
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2022_6C_15_72_395
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
@@ -329,7 +329,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ttps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: http
  s://www.abssa.org/team/395/ALIZE-VETERANS-FC\nInfo terrain: https://www.ab
  ssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J16: AUDERGHEM R.CF vs BRUSSELS LTC (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230107T130000Z
 DTEND;VALUE=DATE-TIME:20230107T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_16_72_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
@@ -351,7 +351,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  : https://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: h
  ttps://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://www.abss
  a.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J17: SAINT GEORGES RCS (Eq. 4) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_17_221_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J18: AUDERGHEM R.CF vs FORESTOIS SC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230121T130000Z
 DTEND;VALUE=DATE-TIME:20230121T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_18_72_152
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
@@ -392,7 +392,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  tps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: https
  ://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.or
  g/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J19: CAMPOMAIORENSE SC vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_19_467_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J20: AUDERGHEM R.CF vs BRUSSELS BRITISH R (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_20_72_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
@@ -434,7 +434,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ttps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: http
  s://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.a
  bssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J21: AZUR RCS (Eq. 6) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230211T140000Z
 DTEND;VALUE=DATE-TIME:20230211T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_21_109_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J22: COSMOS BRUWOLF MJ (Eq. 2) vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_22_338_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M06\n\nCouleur princi
  pale équipe domicile: Orange/Noir\nCouleur principale équipe exterieure:
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J23: AUDERGHEM R.CF vs FAUBOURG-BRAINOISE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_23_72_100
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -499,7 +499,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  ttps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: http
  s://www.abssa.org/team/100/FAUBOURG-BRAINOISE\nInfo terrain: https://www.a
  bssa.org/terrain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J24: AUDERGHEM R.CF vs PHARMA SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_24_72_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
@@ -521,7 +521,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  tps://www.abssa.org/team/072/AUDERGHEM-RCF\nInfo équipe exterieure: https
  ://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/t
  errain/A11
-GEO:nan;nan
+GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J25: ANDERLECHT US vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_25_280_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
  pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
@@ -552,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6C J26: ALIZE VETERANS FC vs AUDERGHEM R.CF
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
+DTSTAMP;VALUE=DATE-TIME:20221230T233502Z
 UID:2023_6C_26_395_72
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
