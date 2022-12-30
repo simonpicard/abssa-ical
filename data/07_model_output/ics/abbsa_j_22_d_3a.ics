@@ -7,18 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: AZUR RCS (Eq. 3) vs STRING PENELOPE
 DTSTART;VALUE=DATE-TIME:20230225T110000Z
 DTEND;VALUE=DATE-TIME:20230225T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_109_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Orange\n\nContact é
- quipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_decamps@hotmail.
- com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervuren. Passé l
- e boulevard du Souverain prendre à gauche au premier feu de signalisation
-  (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à mai
- n droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).\n\n
- Info équipe domicile: https://www.abssa.org/team/109/AZUR-RCS\nInfo équi
- pe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrai
- n: https://www.abssa.org/terrain/W12
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: O
+ range\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
+ ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
+  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
+ eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
+ la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
+  (Av. Salomé).\n\nInfo équipe domicile: https://www.abssa.org/team/109/A
+ ZUR-RCS\nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-PE
+ NELOPE\nInfo terrain: https://www.abssa.org/terrain/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -29,15 +29,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: ETTEKIJS vs FOSSIS (LES) CS
 DTSTART;VALUE=DATE-TIME:20230225T113000Z
 DTEND;VALUE=DATE-TIME:20230225T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_343_217
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune fluo\n\nContact éq
- uipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.com)\n\nAccès v
- oiture : A partir du square des Archiducs\, prendre la rue Berensheide\, e
- nsuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.org/team/
- 217/FOSSIS-LES-CS\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ fluo\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gma
+ il.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la 
+ rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exterieure: https://
+ www.abssa.org/team/217/FOSSIS-LES-CS\nInfo terrain: https://www.abssa.org/
+ terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -47,31 +48,31 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: REQUINS (LES) vs BRAINE-TERMINUS FC
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_556_537
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune et rouge\n\nContact
-  équipe domicile: Barbe L. (0476.04.93.45 - louis.barbe1@gmail.com)\n\nAc
- cès voiture : En venant de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite et au bo
- ut de la bretelle\, prendre la direction d'Ottignies par la N238. Au 1èr 
- feu de signalisation continuer tout droit en passant devant Walibi (qui se
-  trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de cette sort
- ie\, en face du Tennis Club La Palestre\, prendre à droite la rue Charles
-  Dubois\, jusqu'au carrefour principal. Continuer tout droit en traversant
-  l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin de fer et 
- prendre la rue de l'Europe jusqu'à la place de l'Europe. Traverser cette 
- place par la droite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 
- 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Continuer c
- ette rue et passer en dessous du 2ème pont du chemin de fer. Après ce po
- nt\, prendre tout de suite à gauche l'avenue Demolder (panneau F.C. Limel
- ette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'à la 4è
- me rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, 
- prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelette). L'ent
- rée du terrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/556/REQUINS-LES\nInfo équipe exterie
- ure: https://www.abssa.org/team/537/BRAINE-TERMINUS-FC\nInfo terrain: http
- s://www.abssa.org/terrain/O05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Barbe L. (0476.04.93.45 - louis.barb
+ e1@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir
+  la droite et au bout de la bretelle\, prendre la direction d'Ottignies pa
+ r la N238. Au 1èr feu de signalisation continuer tout droit en passant de
+ vant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au
+  bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dr
+ oite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout 
+ droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont d
+ u chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europ
+ e. Traverser cette place par la droite. Au bout à gauche\, suivre l'avenu
+ e Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Lime
+ lette). Continuer cette rue et passer en dessous du 2ème pont du chemin d
+ e fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder 
+ (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette ave
+ nue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m
+ . dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C
+ . Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauch
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/556/REQUINS-LES\nI
+ nfo équipe exterieure: https://www.abssa.org/team/537/BRAINE-TERMINUS-FC\
+ nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
@@ -80,16 +81,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: UNION SCHAERBEEK vs HERMES FC
 DTSTART;VALUE=DATE-TIME:20230225T133000Z
 DTEND;VALUE=DATE-TIME:20230225T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_543_357
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Rayé bleu jaune
- \n\nContact équipe domicile: Sari U. (0489.39.43.46 - ugursari007@hotmail
- .com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont
- . Au 3ème feu de signalisation prendre à gauche\, puis la première à d
- roite.\n\nInfo équipe domicile: https://www.abssa.org/team/543/UNION-SCHA
- ERBEEK\nInfo équipe exterieure: https://www.abssa.org/team/357/HERMES-FC\
- nInfo terrain: https://www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rayé bleu jaune\n\nContact équipe domicile: Sari U. (0489.39.43.46 - 
+ ugursari007@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le b
+ oulevard Lambermont. Au 3ème feu de signalisation prendre à gauche\, pui
+ s la première à droite.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/543/UNION-SCHAERBEEK\nInfo équipe exterieure: https://www.abssa.org/
+ team/357/HERMES-FC\nInfo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -99,18 +100,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: MIDI AS vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_169_605
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Jaune\n\nContact équipe
-  domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@hotmail.com)\n\nAc
- cès voiture : En venant de Bruxelles\, emprunter la chaussée de Bruxelle
- s ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-
- Jean) prendre la direction Nivelles. Sur cette chaussée\, au deuxième fe
- u de signalisation\, prendre à droite\, le terrain se trouve à 500 m. et
-  est fléché.\n\nInfo équipe domicile: https://www.abssa.org/team/169/MI
- DI-AS\nInfo équipe exterieure: https://www.abssa.org/team/605/REAL-TRAPPI
- STE\nInfo terrain: https://www.abssa.org/terrain/B03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi
+ @hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la ch
+ aussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit c
+ arrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussé
+ e\, au deuxième feu de signalisation\, prendre à droite\, le terrain se 
+ trouve à 500 m. et est fléché.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/169/MIDI-AS\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/605/REAL-TRAPPISTE\nInfo terrain: https://www.abssa.org/terrain/B03
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
@@ -121,15 +122,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: PHARMA SC vs NO BOYS
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_268_420
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@scarlet.be)\n\nAccès
-  voiture : A partir du square des Archiducs\, prendre la rue Berensheide\,
-  ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa
- .org/team/268/PHARMA-SC\nInfo équipe exterieure: https://www.abssa.org/te
- am/420/NO-BOYS\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : A partir du square des Archiducs\, prendre l
+ a rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/268/PHARMA-SC\nInfo équipe exterieure: https
+ ://www.abssa.org/team/420/NO-BOYS\nInfo terrain: https://www.abssa.org/ter
+ rain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -140,18 +142,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3A J22: SPARTA SCHEUT vs NEW INN FC
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3A_22_340_359
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Jaune\nCouleur principale équipe exterieure: Rouge fonc
- é\n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 - sparta.sch
- eut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après
-  300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussé
- e de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, 
- Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en d
- irection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/3
- 40/SPARTA-SCHEUT\nInfo équipe exterieure: https://www.abssa.org/team/359/
- NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Jaune\nCouleur principale équipe ext
+ erieure: Rouge foncé\n\nContact équipe domicile: Vande Velde J. (0486.97
+ .70.66 - sparta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopi
+ tal Erasme\, après 300 m. en direction de Lennik\, prendre à droite.\nVe
+ nant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Bria
+ nd\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital
+  Erasme 400 m. en direction de Lennik.\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/340/SPARTA-SCHEUT\nInfo équipe exterieure: https://www.
+ abssa.org/team/359/NEW-INN-FC\nInfo terrain: https://www.abssa.org/terrain
+ /A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique

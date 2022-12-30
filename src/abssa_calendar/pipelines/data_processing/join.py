@@ -54,7 +54,7 @@ def get_events(fixtures_df, team_club_df, fields_df):
 
     summary = "ABSSA D{division} J{day}: {club_team_name_home} vs {club_team_name_away}"
     description = (
-        "Terrain synthétique: {artificial_grass_home}\n\nCouleur"
+        "Terrain synthétique: {artificial_grass_home}\nCode terrain: {field_id_home}\n\nCouleur"
         " principale équipe domicile: {color_home}\nCouleur principale"
         " équipe exterieure: {color_away}\n\nContact équipe domicile:"
         " {secretary_home} ({phone_number_home} - {email_home})\n\nAccès voiture :"
@@ -74,6 +74,7 @@ def get_events(fixtures_df, team_club_df, fields_df):
     events_df["ical_desc"] = events_df.apply(
         lambda x: description.format(
             artificial_grass_home="oui" if x["artificial_grass_home"] else "non",
+            field_id_home=x["field_id_home"],  # TODO
             color_home=x["color_home"],
             color_away=x["color_away"],
             secretary_home=x["secretary_home"],

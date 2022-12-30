@@ -7,18 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J1: J.ST-GILLOISE R. vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_1_38_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu foncé\nCouleur principale équipe exterieure: Vert rayé de blan
- c\n\nContact équipe domicile: Honore K. (0475.53.32.84 - kenny.honore9@gm
- ail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. 
- en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mon
- s\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
- éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
- n de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/038/JST-
- GILLOISE-R\nInfo équipe exterieure: https://www.abssa.org/team/005/MUTUEL
- LE-RSB\nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Vert rayé de blanc\n\nContact équipe domicile: Honore K. (0475.53.32.84
+  - kenny.honore9@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Eras
+ me\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de 
+ la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pla
+ ce Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 
+ 400 m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abssa
+ .org/team/038/JST-GILLOISE-R\nInfo équipe exterieure: https://www.abssa.o
+ rg/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -28,18 +28,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J2: MUTUELLE RSB vs GAST FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T131500Z
 DTEND;VALUE=DATE-TIME:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_2_5_388
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Gris\n\nCo
- ntact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com)
- \n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Zav
- entem\, prendre à gauche à la sortie\, en venant de Charleroi prendre à
-  droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le terra
- in se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: http
- s://www.abssa.org/team/388/GAST-FC\nInfo terrain: https://www.abssa.org/te
- rrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Gris\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - ro
+ yalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équi
+ pe exterieure: https://www.abssa.org/team/388/GAST-FC\nInfo terrain: https
+ ://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -48,16 +48,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J3: METRASPORT R. vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20220917T120000Z
 DTEND;VALUE=DATE-TIME:20220917T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_3_33_5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et Bleu\nCouleur principale équipe exterieure: Vert rayé de bl
- anc\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlot@ou
- tlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, prendre 
- l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtiment de
-  l'URBSFA\, direction Atomium.\n\nInfo équipe domicile: https://www.abssa
- .org/team/033/METRASPORT-R\nInfo équipe exterieure: https://www.abssa.org
- /team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/B07
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Vert rayé de blanc\n\nContact équipe domicile: Pirlot E. (0474.90.52.
+ 25 - emilepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sorti
+ e Wemmel\, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, av
+ ant le bâtiment de l'URBSFA\, direction Atomium.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/033/METRASPORT-R\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa
+ .org/terrain/B07
 GEO:50.8933845;4.3399807
 LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
  \, Belgique
@@ -67,18 +68,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J4: MUTUELLE RSB vs JEFKE COUNTRY (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T131500Z
 DTEND;VALUE=DATE-TIME:20220924T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_4_5_423
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Noir et bl
- anc\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@g
- mail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
- nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
- rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
-  Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterie
- ure: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo terrain: https://w
- ww.abssa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir et blanc\n\nContact équipe domicile: Palanga  M. (0479.61.0
+ 3.59 - royalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sorti
+ e 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en ve
+ nant de Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km j
+ usqu'au rond point. Le terrain se trouve en face de la pompe à essence Q8
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nI
+ nfo équipe exterieure: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo
+  terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -87,19 +88,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J5: ITT - GECKO FC (Eq. 3) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20221001T103000Z
 DTEND;VALUE=DATE-TIME:20221001T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_5_92_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: Schmidt Ch. (0475.61.97.33 - christian@schmidt1.be
- )\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premier 
- croisement prendre à gauche la \nMechelsesteenweg. Le terrain est indiqu
- é à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la 
- sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, trave
- rser la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo équipe exterie
- ure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://ww
- w.abssa.org/terrain/N04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert r
+ ayé de blanc\n\nContact équipe domicile: Schmidt Ch. (0475.61.97.33 - ch
+ ristian@schmidt1.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nos
+ segem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le 
+ terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Li
+ ège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechel
+ sesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.
+ \n\nInfo équipe domicile: https://www.abssa.org/team/092/ITT-GECKO-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo t
+ errain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -109,18 +110,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J6: MUTUELLE RSB vs IRLANDE FC (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221008T131500Z
 DTEND;VALUE=DATE-TIME:20221008T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_6_5_402
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com)
- \n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Zav
- entem\, prendre à gauche à la sortie\, en venant de Charleroi prendre à
-  droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le terra
- in se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: http
- s://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org
- /terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Vert\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - ro
+ yalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équi
+ pe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: ht
+ tps://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -129,20 +130,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J7: CHOULE AUDERGHEM (Eq. 3) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_7_517_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
- ontact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail.com
- )\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre\, r
- ejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la bande d
- e droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, 
- puis passer par le tunnel à gauche (en dessous de l'autoroute). Le terrai
- n se trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.
- org/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ rayé de blanc\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 -
+  dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la cha
+ ussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, 
+ utiliser la bande de droite pendant +/- 200 m. et descendre devant le bât
+ iment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'au
+ toroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain:
+  https://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
@@ -151,18 +152,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J8: MUTUELLE RSB vs TOURINNOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221022T131500Z
 DTEND;VALUE=DATE-TIME:20221022T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_8_5_292
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Rouge\n\nC
- ontact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com
- )\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Za
- ventem\, prendre à gauche à la sortie\, en venant de Charleroi prendre 
- à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le ter
- rain se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile
- : https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain: https://www.abss
- a.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Rouge\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - r
+ oyalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jett
+ e.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de 
+ Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au 
+ rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInfo terrain
+ : https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -171,20 +172,21 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J9: TRINQUANT (Eq. 2) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_9_445_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Vert rayé de blan
- c\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard.tri
- nquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring
-  Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulp
- e\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujo
- urs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout
-  droit direction Genval. Au feu de signalisation prendre à gauche et ensu
- ite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain 
- se trouve à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/team/4
- 45/TRINQUANT\nInfo équipe exterieure: https://www.abssa.org/team/005/MUTU
- ELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/L09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Vert rayé de blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08
+ .14 - jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelle
+ s\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\
+ , direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau 
+ de La Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour
+  de La Hulpe\, tout droit direction Genval. Au feu de signalisation prendr
+ e à gauche et ensuite directement à droite\, l'avenue Soyer\, derrière 
+ le G.B. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/445/TRINQUANT\nInfo équipe exterieure: https://www.abss
+ a.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/L
+ 09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
@@ -194,18 +196,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J10: MUTUELLE RSB vs BRITISH UNITED (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20221112T141500Z
 DTEND;VALUE=DATE-TIME:20221112T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_10_5_132
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com)
- \n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Zav
- entem\, prendre à gauche à la sortie\, en venant de Charleroi prendre à
-  droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le terra
- in se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: http
- s://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa
- .org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - ro
+ yalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équi
+ pe exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain
+ : https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -214,18 +216,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J11: MUTUELLE RSB vs AUDERGHEM RU
 DTSTART;VALUE=DATE-TIME:20221119T141500Z
 DTEND;VALUE=DATE-TIME:20221119T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_11_5_376
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com
- )\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Za
- ventem\, prendre à gauche à la sortie\, en venant de Charleroi prendre 
- à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le ter
- rain se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile
- : https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/376/AUDERGHEM-RU\nInfo terrain: https://www.abssa
- .org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Jaune\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - r
+ oyalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jett
+ e.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de 
+ Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au 
+ rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/376/AUDERGHEM-RU\nInfo terrain:
+  https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -234,18 +236,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J12: MUTUELLE RSB vs AMB. AUDERGHEM (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T141500Z
 DTEND;VALUE=DATE-TIME:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_12_5_249
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Blanc ray
- é de Gris\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - royal
- emumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\n
- En venant de Zaventem\, prendre à gauche à la sortie\, en venant de Char
- leroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond
-  point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo é
- quipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe 
- exterieure: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo terrain: ht
- tps://www.abssa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Blanc rayé de Gris\n\nContact équipe domicile: Palanga  M. (047
+ 9.61.03.59 - royalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\,
+  sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\,
+  en venant de Charleroi prendre à droite. Au feu rouge continuer sur +/- 
+ 1 km jusqu'au rond point. Le terrain se trouve en face de la pompe à esse
+ nce Q8.\n\nInfo équipe domicile: https://www.abssa.org/team/005/MUTUELLE-
+ RSB\nInfo équipe exterieure: https://www.abssa.org/team/249/AMB-AUDERGHEM
+ \nInfo terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -254,18 +256,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J13: GAST FC (Eq. 2) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_13_388_5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.com)\
- n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Paris\, 
- sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant la Ma
- ison Communale et le terminus du tram\, ensuite à la 3ème rue tourner à
-  main droite (Le terrain se trouve au bout de la rue au Bois).\n\nInfo éq
- uipe domicile: https://www.abssa.org/team/388/GAST-FC\nInfo équipe exteri
- eure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://w
- ww.abssa.org/terrain/D01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Vert r
+ ayé de blanc\n\nContact équipe domicile: Clais D. (0476.99.88.10 - david
+ clais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Brux
+ elles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, 
+ passer devant la Maison Communale et le terminus du tram\, ensuite à la 3
+ ème rue tourner à main droite (Le terrain se trouve au bout de la rue au
+  Bois).\n\nInfo équipe domicile: https://www.abssa.org/team/388/GAST-FC\n
+ Info équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo
+  terrain: https://www.abssa.org/terrain/D01
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
@@ -275,18 +277,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J14: MUTUELLE RSB vs METRASPORT R.
 DTSTART;VALUE=DATE-TIME:20221210T141500Z
 DTEND;VALUE=DATE-TIME:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_14_5_33
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Rouge et B
- leu\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@g
- mail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
- nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
- rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
-  Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterie
- ure: https://www.abssa.org/team/033/METRASPORT-R\nInfo terrain: https://ww
- w.abssa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Rouge et Bleu\n\nContact équipe domicile: Palanga  M. (0479.61.0
+ 3.59 - royalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sorti
+ e 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en ve
+ nant de Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km j
+ usqu'au rond point. Le terrain se trouve en face de la pompe à essence Q8
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nI
+ nfo équipe exterieure: https://www.abssa.org/team/033/METRASPORT-R\nInfo 
+ terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -295,19 +297,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J15: FORESTOIS SC (Eq. 4) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6A_15_152_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.com)\n
- \nAccès voiture : Au départ de la Place St. Denis à Forest prendre la c
- haussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à droite)
-  et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld
- . de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Complex
- e se trouve à hauteur de City Cart\, à gauche de la route.\n\nInfo équi
- pe domicile: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo équipe ext
- erieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https:
- //www.abssa.org/terrain/F01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert r
+ ayé de blanc\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - pa
+ tj.scf@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nInfo équipe domicile: https://www.abssa.org/team/152/FORESTOIS-S
+ C\nInfo équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nI
+ nfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -317,18 +319,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J16: JEFKE COUNTRY (Eq. 2) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230107T133000Z
 DTEND;VALUE=DATE-TIME:20230107T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_16_423_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et blanc\nCouleur principale équipe exterieure: Vert rayé de bl
- anc\n\nContact équipe domicile: Parmentier A. (0476.88.11.08 - alainjefke
- @outlook.fr)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue V
- oot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). 
- Avant ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo équipe exterieure: https
- ://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.or
- g/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Vert rayé de blanc\n\nContact équipe domicile: Parmentier A. (0476.88
+ .11.08 - alainjefke@outlook.fr)\n\nAccès voiture : Boulevard de la Woluwe
+ \, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont 
+ (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo équi
+ pe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: 
+ https://www.abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
@@ -337,18 +339,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J17: MUTUELLE RSB vs ITT - GECKO FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230114T141500Z
 DTEND;VALUE=DATE-TIME:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_17_5_92
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Noir\n\nCo
- ntact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com)
- \n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Zav
- entem\, prendre à gauche à la sortie\, en venant de Charleroi prendre à
-  droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le terra
- in se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: http
- s://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.o
- rg/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - ro
+ yalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équi
+ pe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: 
+ https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -357,19 +359,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J18: IRLANDE FC (Eq. 5) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_18_402_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.mens@o
- utlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, a
- u premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain e
- st indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, pr
- endre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenwe
- g\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo 
- équipe domicile: https://www.abssa.org/team/402/IRLANDE-FC\nInfo équipe 
- exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: htt
- ps://www.abssa.org/terrain/N04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert r
+ ayé de blanc\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - f
+ ci.secretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain ju
+ squ'à Nossegem\, au premier croisement prendre à gauche la \nMechelseste
+ enweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Br
+ uxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche
+  la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme
+  ci-avant.\n\nInfo équipe domicile: https://www.abssa.org/team/402/IRLAND
+ E-FC\nInfo équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB
+ \nInfo terrain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -380,18 +382,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J19: MUTUELLE RSB vs CHOULE AUDERGHEM (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230128T141500Z
 DTEND;VALUE=DATE-TIME:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_19_5_517
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Blanc\n\nC
- ontact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com
- )\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Za
- ventem\, prendre à gauche à la sortie\, en venant de Charleroi prendre 
- à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le ter
- rain se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile
- : https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.a
- bssa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Blanc\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - r
+ oyalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jett
+ e.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de 
+ Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au 
+ rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terr
+ ain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -400,18 +402,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J20: TOURINNOIS FC (Eq. 3) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230204T123000Z
 DTEND;VALUE=DATE-TIME:20230204T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_20_292_5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
- ontact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.com)
- \n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, pren
- dre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre la 
- direction Walhain vers la droite et après 200 m. prendre à droite et 400
-  m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à +/- 
- 300 m. sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team
- /292/TOURINNOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/00
- 5/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/T02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert 
+ rayé de blanc\n\nContact équipe domicile: Strade P. (010.65.83.02 - stra
+ depaul@hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-
+ Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'
+ accès\, suivre la direction Walhain vers la droite et après 200 m. prend
+ re à droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrai
+ n se trouve à +/- 300 m. sur la gauche.\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/292/TOURINNOIS-FC\nInfo équipe exterieure: https://ww
+ w.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa.org/ter
+ rain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -420,18 +423,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J21: MUTUELLE RSB vs TRINQUANT (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T141500Z
 DTEND;VALUE=DATE-TIME:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_21_5_445
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gma
- il.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant
-  de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pre
- ndre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. L
- e terrain se trouve en face de la pompe à essence Q8.\n\nInfo équipe dom
- icile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieur
- e: https://www.abssa.org/team/445/TRINQUANT\nInfo terrain: https://www.abs
- sa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu marine\n\nContact équipe domicile: Palanga  M. (0479.61.03.
+ 59 - royalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 
+ 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en vena
+ nt de Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jus
+ qu'au rond point. Le terrain se trouve en face de la pompe à essence Q8.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInf
+ o équipe exterieure: https://www.abssa.org/team/445/TRINQUANT\nInfo terra
+ in: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -440,20 +443,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J22: AMB. AUDERGHEM (Eq. 2) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_22_249_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc rayé de Gris\nCouleur principale équipe exterieure: Vert rayé
-  de blanc\n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudle
- clef@hotmail.fr)\n\nAccès voiture : En venant de Bruxelles par la chauss
- ée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, uti
- liser la bande de droite pendant +/- 200 m. et descendre devant le bâtime
- nt de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autor
- oute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nInfo équi
- pe domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe ex
- terieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https
- ://www.abssa.org/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc rayé de Gris\nCouleur principale équipe ext
+ erieure: Vert rayé de blanc\n\nContact équipe domicile: Leclef R. (0473.
+ 13.76.27 - renaudleclef@hotmail.fr)\n\nAccès voiture : En venant de Bruxe
+ lles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bru
+ xelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre
+  devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en 
+ dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléc
+ hé.\n\nInfo équipe domicile: https://www.abssa.org/team/249/AMB-AUDERGHE
+ M\nInfo équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nI
+ nfo terrain: https://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -462,20 +465,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J23: BRITISH UNITED (Eq. 5) vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_23_132_5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nCo
- ntact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanderseype
- n@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sortie M
- echelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction "He
- ist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Ap
- rès 1 km. suivre les flèches "De Nekker". Garer les voitures à l'extér
- ieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.\n
- \nInfo équipe domicile: https://www.abssa.org/team/132/BRITISH-UNITED\nIn
- fo équipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo t
- errain: https://www.abssa.org/terrain/M02
-GEO:51.0216563;4.5020273
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert r
+ ayé de blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 
+ - gillesvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-An
+ vers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suiv
+ re la direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc d
+ u chemin de fer. Après 1 km. suivre les flèches "De Nekker". Garer les v
+ oitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied 
+ jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org/team/132
+ /BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/team/005/M
+ UTUELLE-RSB\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0254354;4.503786799999999
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
@@ -485,20 +488,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J24: AUDERGHEM RU vs MUTUELLE RSB
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_24_376_5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert rayé de blanc\n\nC
- ontact équipe domicile: Van Eycke R. (0479.27.27.46 - rvaneycke@biac.skyn
- et.be)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
- e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
- nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
- PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
- errain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile
- : https://www.abssa.org/team/376/AUDERGHEM-RU\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain: https://www.abssa
- .org/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert 
+ rayé de blanc\n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - 
+ rvaneycke@biac.skynet.be)\n\nAccès voiture : En venant de Bruxelles par l
+ a chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Nam
+ ur\, utiliser la bande de droite pendant +/- 200 m. et descendre devant le
+  bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de
+  l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/376/AUDERGHEM-RU\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo terrain
+ : https://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
@@ -508,18 +511,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J25: MUTUELLE RSB vs J.ST-GILLOISE R.
 DTSTART;VALUE=DATE-TIME:20230318T141500Z
 DTEND;VALUE=DATE-TIME:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_25_5_38
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Bleu fonc
- é\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gm
- ail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
- t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
- endre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. 
- Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo équipe do
- micile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieu
- re: https://www.abssa.org/team/038/JST-GILLOISE-R\nInfo terrain: https://w
- ww.abssa.org/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu foncé\n\nContact équipe domicile: Palanga  M. (0479.61.03.
+ 59 - royalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 
+ 9 Jette.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en vena
+ nt de Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jus
+ qu'au rond point. Le terrain se trouve en face de la pompe à essence Q8.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInf
+ o équipe exterieure: https://www.abssa.org/team/038/JST-GILLOISE-R\nInfo 
+ terrain: https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com
@@ -528,18 +531,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6A J26: MUTUELLE RSB vs FORESTOIS SC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230325T141500Z
 DTEND;VALUE=DATE-TIME:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6A_26_5_152
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe exterieure: Vert\n\nCo
- ntact équipe domicile: Palanga  M. (0479.61.03.59 - royalemumu@gmail.com)
- \n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant de Zav
- entem\, prendre à gauche à la sortie\, en venant de Charleroi prendre à
-  droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le terra
- in se trouve en face de la pompe à essence Q8.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équipe exterieure: http
- s://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.o
- rg/terrain/J02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert rayé de blanc\nCouleur principale équipe ext
+ erieure: Vert\n\nContact équipe domicile: Palanga  M. (0479.61.03.59 - ro
+ yalemumu@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/005/MUTUELLE-RSB\nInfo équi
+ pe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: 
+ https://www.abssa.org/terrain/J02
 GEO:50.8832985;4.3163697
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Palanga  M.";ROLE=Secrétaire:MAILTO:royalemumu@gmail.com

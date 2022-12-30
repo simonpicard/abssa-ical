@@ -7,17 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: GOALOIS vs FORESTOIS SC
 DTSTART;VALUE=DATE-TIME:20230304T113000Z
 DTEND;VALUE=DATE-TIME:20230304T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_345_152
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: Laruelle M. (0494.52.09.71 - martin.laruelle@gmail.com)\n\nAccè
- s voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chauss
- ée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le ter
- rain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/
- team/345/GOALOIS\nInfo équipe exterieure: https://www.abssa.org/team/152/
- FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laruelle@
+ gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
+ t\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Av
+ ant ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/345/GOALOIS\nInfo équipe exterieure: https://www.a
+ bssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrai
+ n/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
@@ -27,18 +28,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: AZUR RCS (Eq. 2) vs BIG J - ASPS
 DTSTART;VALUE=DATE-TIME:20230304T123000Z
 DTEND;VALUE=DATE-TIME:20230304T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_109_137
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu\n\nContact équ
- ipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_decamps@hotmail.co
- m)\n\nAccès voiture : Avenue de Tervuren\, direction Tervuren. Passé le 
- boulevard du Souverain prendre à gauche au premier feu de signalisation (
- Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue à main 
- droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salomé).\n\nIn
- fo équipe domicile: https://www.abssa.org/team/109/AZUR-RCS\nInfo équipe
-  exterieure: https://www.abssa.org/team/137/BIG-J-ASPS\nInfo terrain: http
- s://www.abssa.org/terrain/W12
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie
+ _decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction T
+ ervuren. Passé le boulevard du Souverain prendre à gauche au premier feu
+  de signalisation (Av. Madoux). Au feu de signalisation suivant prendre la
+  2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (
+ Av. Salomé).\n\nInfo équipe domicile: https://www.abssa.org/team/109/AZU
+ R-RCS\nInfo équipe exterieure: https://www.abssa.org/team/137/BIG-J-ASPS\
+ nInfo terrain: https://www.abssa.org/terrain/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -49,18 +50,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: GAST FC vs VOLLENBACK FC
 DTSTART;VALUE=DATE-TIME:20230304T124500Z
 DTEND;VALUE=DATE-TIME:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_388_589
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Rose et noir\n\nContact 
- équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.com)\n\nAcc
- ès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Paris\, sortie
-  Drogenbos. Prendre direction Drogenbos-Centre\, passer devant la Maison C
- ommunale et le terminus du tram\, ensuite à la 3ème rue tourner à main 
- droite (Le terrain se trouve au bout de la rue au Bois).\n\nInfo équipe d
- omicile: https://www.abssa.org/team/388/GAST-FC\nInfo équipe exterieure: 
- https://www.abssa.org/team/589/VOLLENBACK-FC\nInfo terrain: https://www.ab
- ssa.org/terrain/D01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rose 
+ et noir\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@
+ hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-
+ Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer
+  devant la Maison Communale et le terminus du tram\, ensuite à la 3ème r
+ ue tourner à main droite (Le terrain se trouve au bout de la rue au Bois)
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/388/GAST-FC\nInfo 
+ équipe exterieure: https://www.abssa.org/team/589/VOLLENBACK-FC\nInfo ter
+ rain: https://www.abssa.org/terrain/D01
 GEO:50.7815004;4.3192086
 LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
@@ -70,17 +71,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: ENTENTE  RACB vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_2_292
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.com)\n\nAccès voi
- ture : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\,
-  prendre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit Ch
- emin Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300 
- m.\n\nInfo équipe domicile: https://www.abssa.org/team/002/ENTENTE-RACB\n
- Info équipe exterieure: https://www.abssa.org/team/292/TOURINNOIS-FC\nInf
- o terrain: https://www.abssa.org/terrain/B08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
+ .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
+ der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
+ int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
+ t\, terrain à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/team
+ /002/ENTENTE-RACB\nInfo équipe exterieure: https://www.abssa.org/team/292
+ /TOURINNOIS-FC\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
@@ -90,16 +91,17 @@ SUMMARY:ABSSA D2B J23: LORRAINE (LA) RFC (Eq. 2) vs BRUSSELS BRITISH R (Eq
  . 2)
 DTSTART;VALUE=DATE-TIME:20230304T130000Z
 DTEND;VALUE=DATE-TIME:20230304T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_44_1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail.com)\n\nAccès vo
- iture : Autoroute E411\, prendre la sortie Rosières. Passer devant l'égl
- ise\, longer l'autoroute et tourner à droite au cimetière des animaux. T
- errain à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/team/044/
- LORRAINE-LA-RFC\nInfo équipe exterieure: https://www.abssa.org/team/001/B
- RUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
+ l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https://www.
+ abssa.org/team/044/LORRAINE-LA-RFC\nInfo équipe exterieure: https://www.a
+ bssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/
+ terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
@@ -108,20 +110,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: BRITISH UNITED (Eq. 2) vs HIGGINS
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_132_416
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\nCo
- ntact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanderseype
- n@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sortie M
- echelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction "He
- ist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer. Ap
- rès 1 km. suivre les flèches "De Nekker". Garer les voitures à l'extér
- ieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.\n
- \nInfo équipe domicile: https://www.abssa.org/team/132/BRITISH-UNITED\nIn
- fo équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrai
- n: https://www.abssa.org/terrain/M02
-GEO:51.0216563;4.5020273
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 
+ - gillesvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-An
+ vers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suiv
+ re la direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc d
+ u chemin de fer. Après 1 km. suivre les flèches "De Nekker". Garer les v
+ oitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied 
+ jusqu'au terrain.\n\nInfo équipe domicile: https://www.abssa.org/team/132
+ /BRITISH-UNITED\nInfo équipe exterieure: https://www.abssa.org/team/416/H
+ IGGINS\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0254354;4.503786799999999
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
@@ -131,18 +133,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: PRESS (AMICALE) vs MTM FC
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_2B_23_30_578
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu et bordeaux\n\nConta
- ct équipe domicile: Timperman E. (0468.41.16.68 - eric.timperman@skynet.b
- e)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemmel (n° 9
- )\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, prendre 
- direction Asse. Après l'église\, prendre la 1ère à main droite (direct
- ion Mollem). Après 2 km. prendre la Kouterstraat qui se trouve juste en f
- ace de l'église.\n\nInfo équipe domicile: https://www.abssa.org/team/030
- /PRESS-AMICALE\nInfo équipe exterieure: https://www.abssa.org/team/578/MT
- M-FC\nInfo terrain: https://www.abssa.org/terrain/M07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t bordeaux\n\nContact équipe domicile: Timperman E. (0468.41.16.68 - eric
+ .timperman@skynet.be)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie 
+ Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-W
+ olvertem\, prendre direction Asse. Après l'église\, prendre la 1ère à 
+ main droite (direction Mollem). Après 2 km. prendre la Kouterstraat qui s
+ e trouve juste en face de l'église.\n\nInfo équipe domicile: https://www
+ .abssa.org/team/030/PRESS-AMICALE\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/578/MTM-FC\nInfo terrain: https://www.abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.

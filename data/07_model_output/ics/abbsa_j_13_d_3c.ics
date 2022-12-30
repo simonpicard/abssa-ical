@@ -7,16 +7,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: ETTEKIJS (Eq. 2) vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_343_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.
- com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue
-  Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exterieure: https://www
- .abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain
- /W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu marine\n\nContact équipe domicile: Raes F. (0479.73.82.49 -
+  freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archidu
+ cs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exte
+ rieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://ww
+ w.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -26,16 +26,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: BRUSSELS BRITISH R (Eq. 3) vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_1_611
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.org)\n\nAccès voitur
- e : Autoroute E411\, prendre la sortie Rosières. Passer devant l'église\
- , longer l'autoroute et tourner à droite au cimetière des animaux. Terra
- in à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUS
- SELS-BRITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/611/WA
- TERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain
+ /R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -44,19 +45,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: BREU UNITED vs SYB  RFC
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_603_48
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange et Mauve\nCouleur principale équipe exterieure: Rayé Vert et 
- blanc\n\nContact équipe domicile: Paschold J. (0478.27.10.78 - paschold.j
- @gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën)
-  ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'
- Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre 
- la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du compl
- exe et des terrains se situe à +/- 500 m. sur la gauche.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/603/BREU-UNITED\nInfo équipe exterie
- ure: https://www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abs
- sa.org/terrain/A09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Orange et Mauve\nCouleur principale équipe exterie
+ ure: Rayé Vert et blanc\n\nContact équipe domicile: Paschold J. (0478.27
+ .10.78 - paschold.j@gmail.com)\n\nAccès voiture : En venant de la Route d
+ e Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directi
+ on du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au 
+ rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang).
+  L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauch
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/603/BREU-UNITED\nI
+ nfo équipe exterieure: https://www.abssa.org/team/048/SYB-RFC\nInfo terra
+ in: https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -66,17 +67,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: CHIEFS WSL vs SAINT GEORGES RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221203T130000Z
 DTEND;VALUE=DATE-TIME:20221203T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_303_221
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nAccès voiture : Bo
- ulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel 
- jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve 
- à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEFS
- -WSL\nInfo équipe exterieure: https://www.abssa.org/team/221/SAINT-GEORGE
- S-RCS\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
+ Accès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la ch
+ aussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le
+  terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/303/CHIEFS-WSL\nInfo équipe exterieure: https://www.abssa.org/te
+ am/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
@@ -85,19 +86,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: CORNAC UNITED FC vs CENTRAL PARK FC
 DTSTART;VALUE=DATE-TIME:20221203T133000Z
 DTEND;VALUE=DATE-TIME:20221203T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_151_562
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu et Blanc\n\nContact
-  équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gmail.com)\n\
- nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie Westland Sh
- opping Center (n° 14) continuer tout droit\, remonter vers le Ring et pre
- ndre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au
-  parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se trouve à 
- gauche\, entre l'école Van Belle et Veeweyde.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.a
- bssa.org/terrain/A01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ et Blanc\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdena
+ yermd@gmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\,
+  sortie Westland Shopping Center (n° 14) continuer tout droit\, remonter 
+ vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'av
+ enue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le te
+ rrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo é
+ quipe exterieure: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo ter
+ rain: https://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
@@ -106,19 +107,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: MACAPSULES (LES) vs CELTIC ROOSTERS
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_627_626
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert/blanc\nCouleur principale équipe exterieure: Vert et blanc\n\nCo
- ntact équipe domicile: Daumont J. (0475.42.26.61 - jordandaumont@gmail.co
- m)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre la sortie 
- Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/Grez
- -Doiceau. Passer tout droit les deux premiers ronds-points à l'issue de l
- a RN 25. Au troisième rond-point prendre à droite. Le terrain se trouve 
- 150 m. plus loin à gauche de la rue du Stampia.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/627/MACAPSULES-LES\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo terrain: https://www.a
- bssa.org/terrain/G04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Vert et blanc\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - jor
+ dandaumont@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411)
+  prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direct
+ ion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-poi
+ nts à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le
+  terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/627/MACAPSULES-LES\nInfo é
+ quipe exterieure: https://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo ter
+ rain: https://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
 ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:jordandaumont@gmail.com
@@ -127,20 +128,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: BOUKS  FC vs STER'S
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_579_598
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Vert et Blanc\n\nContact 
- équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapira5@hotmail
- .com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est direct
- ion Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval.
-  Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout dr
- oit. Au feu de signalisation et le carrefour de La Hulpe\, tout droit dire
- ction Genval. Au feu de signalisation prendre à gauche et ensuite directe
- ment à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve 
- à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/team/579/BOUKS-F
- C\nInfo équipe exterieure: https://www.abssa.org/team/598/STERS\nInfo ter
- rain: https://www.abssa.org/terrain/L09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t Blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francoi
+ s_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre
+  le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction
+  La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe
+ \, toujours tout droit. Au feu de signalisation et le carrefour de La Hulp
+ e\, tout droit direction Genval. Au feu de signalisation prendre à gauche
+  et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le 
+ terrain se trouve à 300 m.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/579/BOUKS-FC\nInfo équipe exterieure: https://www.abssa.org/team/5
+ 98/STERS\nInfo terrain: https://www.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot

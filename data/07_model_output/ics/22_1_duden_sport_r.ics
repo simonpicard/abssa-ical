@@ -7,23 +7,23 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J1: BRUSSELS LTC (Eq. 2) vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_1_39_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Rouge et blanc\n\nCon
- tact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@hotmail.c
- om)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est direction W
- aterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ensuite à g
- auche La Drève de Richelle jusqu'au 3ème rond-point et prendre à gauche
-  la 	Chaussée de Louvain sur environ 2km et prendre à droite la Rue des 
- Saules toujours tout droit et 	qui devient ensuite la Route des Marnières
- . Continuer ensuite tout droit\, passer un premier rond-point puis continu
- er tout droit jusqu'au rond-point du Messager où il faut prendre la 2ème
-  sortie. Vous êtes alors sur la Route de Genval et l'entrée du Complexe 
- se trouve à environ 200m sur la gauche.\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure: https://www
- .abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/ter
- rain/O01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et blanc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - br
+ usselsltc@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre r
+ ing Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	P
+ rendre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-point e
+ t prendre à gauche la 	Chaussée de Louvain sur environ 2km et prendre à
+  droite la Rue des Saules toujours tout droit et 	qui devient ensuite la R
+ oute des Marnières. Continuer ensuite tout droit\, passer un premier rond
+ -point puis continuer tout droit jusqu'au rond-point du Messager où il fa
+ ut prendre la 2ème sortie. Vous êtes alors sur la Route de Genval et l'e
+ ntrée du Complexe se trouve à environ 200m sur la gauche.\n\nInfo équip
+ e domicile: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exte
+ rieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https:
+ //www.abssa.org/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
 ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
@@ -33,18 +33,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J2: DUDEN SPORT R vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_2_22_1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Blanc\n\nContac
- t équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\n
- Accès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction
-  de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefou
- r Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\,
-  Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\
- n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nIn
- fo équipe exterieure: https://www.abssa.org/team/001/BRUSSELS-BRITISH-R\n
- Info terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8
+ 684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
+ 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
+  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
+ ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
+ rection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/02
+ 2/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/001/B
+ RUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -54,19 +54,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J3: VOGELPIK FC. vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20220917T133000Z
 DTEND;VALUE=DATE-TIME:20220917T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_3_629_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: Nolet P (0486.56.82.31 - pierrenolet91@gmail.c
- om)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après Wavre pren
- dre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, au 
- premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hocail
- le". Après le second rond-point\, prendre à droite\, au carrefour\, la r
- ue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS se 
- trouve au bout de l'avenue.\n\nInfo équipe domicile: https://www.abssa.or
- g/team/629/VOGELPIK-FC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/L08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Nolet P (0486.56.82.31 - pi
+ errenolet91@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\
+ , après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 di
+ rection Namur\, au premier rond-point prendre à droite vers la N250 et su
+ ivre "Blocry/Hocaille". Après le second rond-point\, prendre à droite\, 
+ au carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée
+  du terrain ROS se trouve au bout de l'avenue.\n\nInfo équipe domicile: h
+ ttps://www.abssa.org/team/629/VOGELPIK-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.or
+ g/terrain/L08
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
@@ -76,18 +77,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J4: DUDEN SPORT R vs STRING PENELOPE (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_4_22_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Orange\n\nConta
- ct équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\
- nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en directio
- n de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefo
- ur Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\
- , Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.
- \n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nI
- nfo équipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nIn
- fo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud
+ 8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après
+  300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussé
+ e de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, 
+ Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en d
+ irection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/0
+ 22/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/181/
+ STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -97,22 +98,22 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J5: NIVELLOIS-ACLOT BS vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20221001T130000Z
 DTEND;VALUE=DATE-TIME:20221001T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_5_503_22
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gmail.com)\
- n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelles-Par
- is\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de l'au
- toroute et prendre la direction de Nivelles. A 200 m.\, au rond-point (Sho
- pping Center)\, tourner à droite en direction de Wavre (petit ring de Niv
- elles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopping C
- enter)\, tourner à gauche \, rue de l'Industrie et pénétrer dans le zon
- ing. Au bout de la rue\, avant le feu de signalisation\, tourner à gauche
-  et prendre la rue du Progrès pendant +/- 400 m.\n\nInfo équipe domicile
- : https://www.abssa.org/team/503/NIVELLOIS-ACLOT-BS\nInfo équipe exterieu
- re: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://ww
- w.abssa.org/terrain/N03
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Draux N. (0472.40.01.22 - n
+ i.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
+ route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
+ ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
+  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
+  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
+ point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
+ nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
+ , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/503/NIVELLOIS-ACLOT-BS\nIn
+ fo équipe exterieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo 
+ terrain: https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
@@ -121,19 +122,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J7: BEEKINGS F.C. vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20221015T130000Z
 DTEND;VALUE=DATE-TIME:20221015T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_7_648_22
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et noir\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: Thonart W. (0475.96.36.63 - williamthonart@gma
- il.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la sorti
- e n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 penda
- nt 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite
-  la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de
-  la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'a
- venue Clermont Tonnerre.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/648/BEEKINGS-FC\nInfo équipe exterieure: https://www.abssa.org/team/0
- 22/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/R03
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Jaune et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Thonart W. (0475.96.36.63 -
+  williamthonart@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur
+ \, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite pr
+ endre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de 
+ l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètr
+ es\, à la Place de la Perche\, prendre à droite l'avenue de la Paix et e
+ ncore à droite l'avenue Clermont Tonnerre.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/648/BEEKINGS-FC\nInfo équipe exterieure: https://w
+ ww.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/t
+ errain/R03
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
@@ -143,18 +145,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J8: DUDEN SPORT R vs NEPTUNE FC
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_8_22_56
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\nA
- ccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction 
- de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour
-  Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, 
- Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n
- \nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInf
- o équipe exterieure: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo terr
- ain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud86
+ 84@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022
+ /DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/056/NE
+ PTUNE-FC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -164,16 +166,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J9: HELLAS BERCHEM FC. vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20221105T120000Z
 DTEND;VALUE=DATE-TIME:20221105T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_9_488_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gmail.com)\n\
- nAccès voiture : A partir du boulevard Charles Quint à hauteur de Basili
- x Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat)\n\nInfo
-  équipe domicile: https://www.abssa.org/team/488/HELLAS-BERCHEM-FC\nInfo 
- équipe exterieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo ter
- rain: https://www.abssa.org/terrain/S04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fch
+ ellas@gmail.com)\n\nAccès voiture : A partir du boulevard Charles Quint 
+ à hauteur de Basilix Shopping Center\, prendre la rue des Châlets (Lusth
+ uizenstraat)\n\nInfo équipe domicile: https://www.abssa.org/team/488/HELL
+ AS-BERCHEM-FC\nInfo équipe exterieure: https://www.abssa.org/team/022/DUD
+ EN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/S04
 GEO:50.8696433;4.2873126
 LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
  Belgique
@@ -183,18 +185,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J10: DUDEN SPORT R vs RHINOCEROS
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_10_22_654
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Jaune et bleu\n
- \nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail
- .be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en d
- irection de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, 
- carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo L
- ambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de 
- Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPO
- RT-R\nInfo équipe exterieure: https://www.abssa.org/team/654/RHINOCEROS\n
- Info terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Jaune et bleu\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 -
+  arnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/te
+ am/654/RHINOCEROS\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -204,17 +206,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J11: SAINT GEORGES RCS (Eq. 3) vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_11_221_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge et blanc\n\nContac
- t équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmail.com)\n\
- nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la c
- haussée de Stockel. Passer en dessous du petit pont et continuer la chaus
- sée de Stockel pendant env. 500 m. Le terrain est situé sur la droite de
-  la chaussée.\n\nInfo équipe domicile: https://www.abssa.org/team/221/SA
- INT-GEORGES-RCS\nInfo équipe exterieure: https://www.abssa.org/team/022/D
- UDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/W13
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
+ estin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et
+  continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
+ é sur la droite de la chaussée.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/221/SAINT-GEORGES-RCS\nInfo équipe exterieure: https://www.a
+ bssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terra
+ in/W13
 GEO:50.8416675;4.454784399999999
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
@@ -223,18 +226,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J12: DUDEN SPORT R vs TAURO FC
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_12_22_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\nA
- ccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction 
- de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour
-  Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, 
- Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n
- \nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInf
- o équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrai
- n: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud86
+ 84@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022
+ /DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/574/TA
+ URO-FC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -244,16 +247,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J13: BRUSSELS BRITISH R (Eq. 4) vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_13_1_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Rouge et blanc\n\nContac
- t équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.org)\n\nAcc
- ès voiture : Autoroute E411\, prendre la sortie Rosières. Passer devant 
- l'église\, longer l'autoroute et tourner à droite au cimetière des anim
- aux. Terrain à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https://www.abssa.org/t
- eam/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: http
+ s://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.
+ org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -262,18 +266,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J14: DUDEN SPORT R vs VOGELPIK FC.
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_14_22_629
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge et noir\n
- \nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail
- .be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en d
- irection de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, 
- carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo L
- ambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de 
- Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPO
- RT-R\nInfo équipe exterieure: https://www.abssa.org/team/629/VOGELPIK-FC\
- nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge et noir\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 -
+  arnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/te
+ am/629/VOGELPIK-FC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -283,18 +287,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J15: DUDEN SPORT R vs REALISTES MEXICO R
 DTSTART;VALUE=DATE-TIME:20221217T143000Z
 DTEND;VALUE=DATE-TIME:20221217T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2022_4A_15_22_57
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu marine/Ora
- nge\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@ho
- tmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m.
-  en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mo
- ns\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
- éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
- n de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDE
- N-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/057/REALIST
- ES-MEXICO-R\nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu marine/Orange\n\nContact équipe domicile: Isabeaux A (0472.34.00
+ .24 - arnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Era
+ sme\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de
+  la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pl
+ ace Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme
+  400 m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.o
+ rg/team/057/REALISTES-MEXICO-R\nInfo terrain: https://www.abssa.org/terrai
+ n/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -304,31 +309,31 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J16: STRING PENELOPE (Eq. 2) vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20230107T113000Z
 DTEND;VALUE=DATE-TIME:20230107T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_16_181_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rouge et blanc\n\nConta
- ct équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.co
- m)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 e
- n direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite 
- et au bout de la bretelle\, prendre la direction d'Ottignies par la N238. 
- Au 1èr feu de signalisation continuer tout droit en passant devant Walibi
-  (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de ce
- tte sortie\, en face du Tennis Club La Palestre\, prendre à droite la rue
-  Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en tr
- aversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin de
-  fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Traverse
- r cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans. 
- Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Con
- tinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
- ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
- .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
- à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
- te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
- e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nInfo
-  équipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo é
- quipe exterieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terra
- in: https://www.abssa.org/terrain/O05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom
+ .collignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre
+  l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)
+ \, tenir la droite et au bout de la bretelle\, prendre la direction d'Otti
+ gnies par la N238. Au 1èr feu de signalisation continuer tout droit en pa
+ ssant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limel
+ ette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prend
+ re à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continu
+ er tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1è
+ r pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de
+  l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre
+  l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F
+ .C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du 
+ chemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue D
+ emolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre c
+ ette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
+ ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
+ u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
+ la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/181/STRING
+ -PENELOPE\nInfo équipe exterieure: https://www.abssa.org/team/022/DUDEN-S
+ PORT-R\nInfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
@@ -338,18 +343,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J17: DUDEN SPORT R vs NIVELLOIS-ACLOT BS
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_17_22_503
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge et noir\n
- \nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail
- .be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en d
- irection de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, 
- carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo L
- ambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de 
- Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPO
- RT-R\nInfo équipe exterieure: https://www.abssa.org/team/503/NIVELLOIS-AC
- LOT-BS\nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge et noir\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 -
+  arnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/te
+ am/503/NIVELLOIS-ACLOT-BS\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -359,18 +364,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J19: DUDEN SPORT R vs BEEKINGS F.C.
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_19_22_648
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Jaune et noir\n
- \nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail
- .be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en d
- irection de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, 
- carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo L
- ambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de 
- Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPO
- RT-R\nInfo équipe exterieure: https://www.abssa.org/team/648/BEEKINGS-FC\
- nInfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Jaune et noir\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 -
+  arnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nInfo équipe domicile: https://www.abssa.org
+ /team/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/te
+ am/648/BEEKINGS-FC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -380,17 +385,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J20: NEPTUNE FC vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_20_56_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Louies S. (0474.55.15.41 - louiesstephane@gmail.com)\n\
- nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (carrefour Fr
- . Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à la Place
-  Verdi\, puis le Bld. Théo Lambert.\n\nInfo équipe domicile: https://www
- .abssa.org/team/056/NEPTUNE-FC\nInfo équipe exterieure: https://www.abssa
- .org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/A
- 08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - louiesste
+ phane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Vee
+ weyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Brian
+ d jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/056/NEPTUNE-FC\nInfo équipe exterieure
+ : https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.
+ abssa.org/terrain/A08
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
@@ -400,18 +405,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J21: DUDEN SPORT R vs HELLAS BERCHEM FC.
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_21_22_488
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact
-  équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\nA
- ccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction 
- de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour
-  Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, 
- Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n
- \nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInf
- o équipe exterieure: https://www.abssa.org/team/488/HELLAS-BERCHEM-FC\nIn
- fo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud86
+ 84@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/022
+ /DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/488/HE
+ LLAS-BERCHEM-FC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -421,17 +426,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J22: TAURO FC vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20230225T120000Z
 DTEND;VALUE=DATE-TIME:20230225T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_22_574_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAcc
- ès voiture : Place Meiser\, descendre Bd. Général Wahis\, Bd Lambermont
- \, au deuxième carrefour prendre à gauche\, puis encore la première à 
- gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram n° 7  - Bus 
- 65 arrêt Chazal\n\nInfo équipe domicile: https://www.abssa.org/team/574/
- TAURO-FC\nInfo équipe exterieure: https://www.abssa.org/team/022/DUDEN-SP
- ORT-R\nInfo terrain: https://www.abssa.org/terrain/S09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer
+ @gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Général Wah
+ is\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encor
+ e la première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - 
+ Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe domicile: https://www.a
+ bssa.org/team/574/TAURO-FC\nInfo équipe exterieure: https://www.abssa.org
+ /team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/S09
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
@@ -441,19 +446,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J23: RHINOCEROS vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_23_654_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyne.co
- m)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après Wavre prend
- re la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, au p
- remier rond-point prendre à droite vers la N250 et suivre "Blocry/Hocaill
- e". Après le second rond-point\, prendre à droite\, au carrefour\, la ru
- e de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS se t
- rouve au bout de l'avenue.\n\nInfo équipe domicile: https://www.abssa.org
- /team/654/RHINOCEROS\nInfo équipe exterieure: https://www.abssa.org/team/
- 022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/terrain/L08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 
+ - robin@watteyne.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\,
+  après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 dir
+ ection Namur\, au premier rond-point prendre à droite vers la N250 et sui
+ vre "Blocry/Hocaille". Après le second rond-point\, prendre à droite\, a
+ u carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée 
+ du terrain ROS se trouve au bout de l'avenue.\n\nInfo équipe domicile: ht
+ tps://www.abssa.org/team/654/RHINOCEROS\nInfo équipe exterieure: https://
+ www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/
+ terrain/L08
 GEO:50.6706953;4.5975173
 LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
   Louvain-La-Neuve\, Belgique
@@ -463,18 +469,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J24: DUDEN SPORT R vs SAINT GEORGES RCS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_24_22_221
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Blanc\n\nContac
- t équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\n\n
- Accès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction
-  de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefou
- r Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\,
-  Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\
- n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\nIn
- fo équipe exterieure: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nI
- nfo terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8
+ 684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
+ 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
+  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
+ ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
+ rection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/02
+ 2/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/221/S
+ AINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -484,18 +490,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J25: DUDEN SPORT R vs BRUSSELS LTC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_25_22_39
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Bordeaux\n\nCon
- tact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail.be)\
- n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direct
- ion de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carre
- four Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lamber
- t\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lenni
- k.\n\nInfo équipe domicile: https://www.abssa.org/team/022/DUDEN-SPORT-R\
- nInfo équipe exterieure: https://www.abssa.org/team/039/BRUSSELS-LTC\nInf
- o terrain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arna
+ ud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/022/DUDEN-SPORT-R\nInfo équipe exterieure: https://www.abssa.org/team/0
+ 39/BRUSSELS-LTC\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -505,18 +511,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4A J26: REALISTES MEXICO R vs DUDEN SPORT R
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160124Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232703Z
 UID:2023_4A_26_57_22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine/Orange\nCouleur principale équipe exterieure: Rouge et bl
- anc\n\nContact équipe domicile: Mad. Brusselaers P. (02.478.40.33 - real_
- mexico_057@yahoo.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vil
- vorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre j
- usqu'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, P
- etit Chemin Vert\, terrain à 300 m.\n\nInfo équipe domicile: https://www
- .abssa.org/team/057/REALISTES-MEXICO-R\nInfo équipe exterieure: https://w
- ww.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: https://www.abssa.org/t
- errain/B08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Bleu marine/Orange\nCouleur principale équipe exte
+ rieure: Rouge et blanc\n\nContact équipe domicile: Mad. Brusselaers P. (0
+ 2.478.40.33 - real_mexico_057@yahoo.fr)\n\nAccès voiture : Pont de Laeken
+ \, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue de
+ s Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis prem
+ ière à gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/057/REALISTES-MEXICO-R\nInfo équipe ex
+ terieure: https://www.abssa.org/team/022/DUDEN-SPORT-R\nInfo terrain: http
+ s://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Mad. Brusselaers P.";ROLE=Secrétaire:MAILTO:real_mexico_057

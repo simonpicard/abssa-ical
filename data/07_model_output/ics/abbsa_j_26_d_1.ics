@@ -7,18 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: JEFKE COUNTRY vs CHENOIS SC
 DTSTART;VALUE=DATE-TIME:20230325T120000Z
 DTEND;VALUE=DATE-TIME:20230325T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_423_84
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et blanc\nCouleur principale équipe exterieure: Rouge et blanc\n
- \nContact équipe domicile: Parmentier A. (0476.88.11.08 - alainjefke@outl
- ook.fr)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\,
-  puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant
-  ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/423/JEFKE-COUNTRY\nInfo équipe exterieure: https://ww
- w.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terra
- in/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Parmentier A. (0476.88.11.0
+ 8 - alainjefke@outlook.fr)\n\nAccès voiture : Boulevard de la Woluwe\, pr
+ endre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (term
+ inus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nInfo équip
+ e domicile: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo équipe ext
+ erieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://
+ www.abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Parmentier A.";ROLE=Secrétaire:MAILTO:alainjefke@outlook.fr
@@ -27,16 +27,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: EURO UNION vs CHOULE AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20230325T123000Z
 DTEND;VALUE=DATE-TIME:20230325T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_567_517
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: Mad. De Becker S (0473.54.89.74 - euro.union567@gmail.com)\n\nAcc
- ès voiture : Avenue de la Couronne jusqu'au cimetière d'Ixelles\, suivre
-  les plaques "Stade A. Demuyter".\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/567/EURO-UNION\nInfo équipe exterieure: https://www.abssa.or
- g/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.abssa.org/terrain/I
- 02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Mad. De Becker S (0473.54.89.74 - euro.union56
+ 7@gmail.com)\n\nAccès voiture : Avenue de la Couronne jusqu'au cimetière
+  d'Ixelles\, suivre les plaques "Stade A. Demuyter".\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/567/EURO-UNION\nInfo équipe exterieure: h
+ ttps://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo terrain: https://www.
+ abssa.org/terrain/I02
 GEO:50.8134117;4.3956336
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER;CN="Mad. De Becker S";ROLE=Secrétaire:MAILTO:euro.union567@gmai
@@ -46,17 +46,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: LXG CINQUANTENAIRE vs ITT - GECKO FC
 DTSTART;VALUE=DATE-TIME:20230325T123000Z
 DTEND;VALUE=DATE-TIME:20230325T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_542_92
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu.\nCouleur principale équipe exterieure: Noir\n\nContact
-  équipe domicile: Gimenez Villahoz M (0487.79.91.95 - lxgfc50@gmail.com)\
- n\nAccès voiture : Place Meiser\, descendre Bd. Général Wahis\, Bd Lamb
- ermont\, au deuxième carrefour prendre à gauche\, puis encore la premiè
- re à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram n° 7  
- - Bus 65 arrêt Chazal\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/542/LXG-CINQUANTENAIRE\nInfo équipe exterieure: https://www.abssa.org/t
- eam/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/S09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Gimenez Villahoz M (0487.79.91.95 - 
+ lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Géné
+ ral Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, pui
+ s encore la première à gauche\nOu :  Place Meiser prendre Av Ernest Camb
+ ier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/542/LXG-CINQUANTENAIRE\nInfo équipe exterieure: http
+ s://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.o
+ rg/terrain/S09
 GEO:50.8581505;4.3949329
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
@@ -67,16 +68,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: COIN DU BALAI FC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_229_403
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: Rosenfeld J. (0485.05.40.06 - rosenfeldjean@hotmail.com)\n\nAcc
- ès voiture : A partir du square des Archiducs\, prendre la rue Berensheid
- e\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/229/COIN-DU-BALAI-FC\nInfo équipe exterieure: https://www.ab
- ssa.org/team/403/PORTUGAL-FC\nInfo terrain: https://www.abssa.org/terrain/
- W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeldjean@h
+ otmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domici
+ le: https://www.abssa.org/team/229/COIN-DU-BALAI-FC\nInfo équipe exterieu
+ re: https://www.abssa.org/team/403/PORTUGAL-FC\nInfo terrain: https://www.
+ abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -87,19 +88,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: IRLANDE FC vs WONG A.S.
 DTSTART;VALUE=DATE-TIME:20230325T130000Z
 DTEND;VALUE=DATE-TIME:20230325T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_402_523
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune\n\nContact équipe 
- domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.mens@outlook.com)\n\
- nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premier croi
- sement prendre à gauche la \nMechelsesteenweg. Le terrain est indiqué à
-  +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la sorti
- e Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, traverser 
- la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équipe domici
- le: https://www.abssa.org/team/402/IRLANDE-FC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/523/WONG-AS\nInfo terrain: https://www.abssa.org/
- terrain/N04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
+ ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
+ m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
+ ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
+ \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
+ eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
+ Info équipe domicile: https://www.abssa.org/team/402/IRLANDE-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/523/WONG-AS\nInfo terrain: htt
+ ps://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -110,20 +111,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: AMB. AUDERGHEM vs BRUSSELS BRITISH R
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_249_1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotmail.fr)\n\nAccès vo
- iture : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du
-  début de l'autoroute Bruxelles-Namur\, utiliser la bande de droite penda
- nt +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer pa
- r le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve à
-  200 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa
- .org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.or
- g/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain
- /A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotma
+ il.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: h
+ ttps://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://ww
+ w.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -132,19 +133,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: GREZ AJ vs BRUSSELS LTC
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_26_514_39
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@hotmail.com)\n\n
- Accès voiture : A partir de Bruxelles\, prendre la E 411 en direction de 
- Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N 25 ver
- s Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-
- point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\, puis 
- à gauche dans la rue de la Grande lecke.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/514/GREZ-AJ\nInfo équipe exterieure: https://www.abs
- sa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://www.abssa.org/terrain/
- B14
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanham
+ me@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 4
+ 11 en direction de Namur. Prendre la sortie N° 8 puis à droite la bretel
+ le pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/-
+  6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la 
+ Libération\, puis à gauche dans la rue de la Grande lecke.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/514/GREZ-AJ\nInfo équipe exterieu
+ re: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo terrain: https://www
+ .abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail

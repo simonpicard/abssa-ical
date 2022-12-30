@@ -7,19 +7,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J1: CORNAC UNITED FC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20220903T123000Z
 DTEND;VALUE=DATE-TIME:20220903T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_1_151_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gmail.com)\n\n
- Accès voiture : Par le Ring Ouest\, direction Paris\, sortie Westland Sho
- pping Center (n° 14) continuer tout droit\, remonter vers le Ring et pren
- dre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au 
- parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se trouve à g
- auche\, entre l'école Van Belle et Veeweyde.\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.or
- g/terrain/A01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenaye
+ rmd@gmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, s
+ ortie Westland Shopping Center (n° 14) continuer tout droit\, remonter ve
+ rs le Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'aven
+ ue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terr
+ ain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: ht
+ tps://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
@@ -28,16 +28,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J2: WELL TEAM vs ETTEKIJS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_2_544_343
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Noir rayé de blan
- c\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotma
- il.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la 
- rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https:/
- /www.abssa.org/team/343/ETTEKIJS\nInfo terrain: https://www.abssa.org/terr
- ain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Noir rayé de blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 
+ - martindayez@hotmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe 
+ exterieure: https://www.abssa.org/team/343/ETTEKIJS\nInfo terrain: https:/
+ /www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -47,16 +47,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J3: BRUSSELS BRITISH R (Eq. 3) vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20220917T103000Z
 DTEND;VALUE=DATE-TIME:20220917T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_3_1_544
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.org)\n\nAccè
- s voiture : Autoroute E411\, prendre la sortie Rosières. Passer devant l'
- église\, longer l'autoroute et tourner à droite au cimetière des animau
- x. Terrain à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/team/
- 001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https://www.abssa.org/tea
- m/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@r
+ bbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières
+ . Passer devant l'église\, longer l'autoroute et tourner à droite au cim
+ etière des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https:/
+ /www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/ter
+ rain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -65,16 +66,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J4: WELL TEAM vs SYB  RFC
 DTSTART;VALUE=DATE-TIME:20220924T133000Z
 DTEND;VALUE=DATE-TIME:20220924T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_4_544_48
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Rayé Vert et blan
- c\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotma
- il.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la 
- rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https:/
- /www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://www.abssa.org/terra
- in/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rayé Vert et blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 
+ - martindayez@hotmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe 
+ exterieure: https://www.abssa.org/team/048/SYB-RFC\nInfo terrain: https://
+ www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -84,17 +85,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J5: CHIEFS WSL vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221001T120000Z
 DTEND;VALUE=DATE-TIME:20221001T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_5_303_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nAccès voitu
- re : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de S
- tockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se 
- trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303
- /CHIEFS-WSL\nInfo équipe exterieure: https://www.abssa.org/team/544/WELL-
- TEAM\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.b
+ e)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis
+  la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce p
+ ont le terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.
+ abssa.org/team/303/CHIEFS-WSL\nInfo équipe exterieure: https://www.abssa.
+ org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
@@ -103,16 +104,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J6: WELL TEAM vs CENTRAL PARK FC
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_6_544_562
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Bleu et Blanc\n\nC
- ontact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com
- )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
- rensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.a
- bssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.abssa.org/ter
- rain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu et Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - mart
+ indayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\
+ , prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exteri
+ eure: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https:
+ //www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -122,19 +123,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J7: MACAPSULES (LES) vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221015T133000Z
 DTEND;VALUE=DATE-TIME:20221015T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_7_627_544
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert/blanc\nCouleur principale équipe exterieure: Bleu marine\n\nCont
- act équipe domicile: Daumont J. (0475.42.26.61 - jordandaumont@gmail.com)
- \n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre la sortie Lo
- uvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Louvain/Grez-D
- oiceau. Passer tout droit les deux premiers ronds-points à l'issue de la 
- RN 25. Au troisième rond-point prendre à droite. Le terrain se trouve 15
- 0 m. plus loin à gauche de la rue du Stampia.\n\nInfo équipe domicile: h
- ttps://www.abssa.org/team/627/MACAPSULES-LES\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org
- /terrain/G04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Bleu marine\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - jorda
+ ndaumont@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) p
+ rendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en directio
+ n de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-point
+ s à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le t
+ errain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/627/MACAPSULES-LES\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: ht
+ tps://www.abssa.org/terrain/G04
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
 ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:jordandaumont@gmail.com
@@ -143,15 +144,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J8: WELL TEAM vs STER'S
 DTSTART;VALUE=DATE-TIME:20221022T133000Z
 DTEND;VALUE=DATE-TIME:20221022T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_8_544_598
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Vert et Blanc\n\nC
- ontact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com
- )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
- rensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.a
- bssa.org/team/598/STERS\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Vert et Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - mart
+ indayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\
+ , prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exteri
+ eure: https://www.abssa.org/team/598/STERS\nInfo terrain: https://www.abss
+ a.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -161,20 +163,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J9: BOUKS  FC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221105T143000Z
 DTEND;VALUE=DATE-TIME:20221105T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_9_579_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: Schapira  F. (0485.60.96.01 - francois_schapira5@hotmail.c
- om)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est directio
- n Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, Genval. T
- out droit pendant 2 km. Après le chateau de La Hulpe\, toujours tout droi
- t. Au feu de signalisation et le carrefour de La Hulpe\, tout droit direct
- ion Genval. Au feu de signalisation prendre à gauche et ensuite directeme
- nt à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve à 
- 300 m.\n\nInfo équipe domicile: https://www.abssa.org/team/579/BOUKS-FC\n
- Info équipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo te
- rrain: https://www.abssa.org/terrain/L09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_
+ schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/
+ team/579/BOUKS-FC\nInfo équipe exterieure: https://www.abssa.org/team/544
+ /WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
@@ -184,16 +186,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J10: WELL TEAM vs CELTIC ROOSTERS
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_10_544_626
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Vert et blanc\n\nC
- ontact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com
- )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
- rensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.a
- bssa.org/team/626/CELTIC-ROOSTERS\nInfo terrain: https://www.abssa.org/ter
- rain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Vert et blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - mart
+ indayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\
+ , prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exteri
+ eure: https://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo terrain: https:
+ //www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -203,16 +205,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J11: WELL TEAM vs BREU UNITED
 DTSTART;VALUE=DATE-TIME:20221119T143000Z
 DTEND;VALUE=DATE-TIME:20221119T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_11_544_603
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Orange et Mauve\n\
- nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.c
- om)\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue 
- Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: http
- s://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www
- .abssa.org/team/603/BREU-UNITED\nInfo terrain: https://www.abssa.org/terra
- in/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Orange et Mauve\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - ma
+ rtindayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiduc
+ s\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo éq
+ uipe domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exte
+ rieure: https://www.abssa.org/team/603/BREU-UNITED\nInfo terrain: https://
+ www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -222,16 +224,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J12: WELL TEAM vs SAINT GEORGES RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221126T143000Z
 DTEND;VALUE=DATE-TIME:20221126T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_12_544_221
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAc
- cès voiture : A partir du square des Archiducs\, prendre la rue Berenshei
- de\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.or
- g/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/terrain/
- W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@
+ hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
+ e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.
+ abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -241,16 +243,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J13: ETTEKIJS (Eq. 2) vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221203T113000Z
 DTEND;VALUE=DATE-TIME:20221203T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_13_343_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.
- com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue
-  Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exterieure: https://www
- .abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain
- /W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu marine\n\nContact équipe domicile: Raes F. (0479.73.82.49 -
+  freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archidu
+ cs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exte
+ rieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://ww
+ w.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -260,16 +262,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J14: WELL TEAM vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20221210T143000Z
 DTEND;VALUE=DATE-TIME:20221210T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_14_544_1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAc
- cès voiture : A partir du square des Archiducs\, prendre la rue Berenshei
- de\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.or
- g/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain
- /W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@
+ hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
+ e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www
+ .abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -279,15 +281,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J15: WATERMAEL FC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20221217T130000Z
 DTEND;VALUE=DATE-TIME:20221217T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_3C_15_611_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotmail.com)\n\nAc
- cès voiture : A partir du square des Archiducs\, prendre la rue Berenshei
- de\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/611/WATERMAEL-FC\nInfo équipe exterieure: https://www.abssa
- .org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch
+ @hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prend
+ re la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/611/WATERMAEL-FC\nInfo équipe exterieure
+ : https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abss
+ a.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -297,19 +300,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J16: SYB  RFC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230107T143000Z
 DTEND;VALUE=DATE-TIME:20230107T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_16_48_544
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rayé Vert et blanc\nCouleur principale équipe exterieure: Bleu marin
- e\n\nContact équipe domicile: Joie C (0496.87.21.50 - christophe.joie@hot
- mail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) o
- u de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'An
- derlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la
-  sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complex
- e et des terrains se situe à +/- 500 m. sur la gauche.\n\nInfo équipe do
- micile: https://www.abssa.org/team/048/SYB-RFC\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.o
- rg/terrain/A09
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
+ erieure: Bleu marine\n\nContact équipe domicile: Joie C (0496.87.21.50 - 
+ christophe.joie@hotmail.com)\n\nAccès voiture : En venant de la Route de 
+ Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction
+  du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au ro
+ nd-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L
+ 'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauche.
+ \n\nInfo équipe domicile: https://www.abssa.org/team/048/SYB-RFC\nInfo é
+ quipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: 
+ https://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -319,15 +322,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J17: WELL TEAM vs CHIEFS WSL
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_17_544_303
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Blanc\n\nContact 
- équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAc
- cès voiture : A partir du square des Archiducs\, prendre la rue Berenshei
- de\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.or
- g/team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@
+ hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
+ e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.o
+ rg/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -337,18 +341,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J18: CENTRAL PARK FC vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_18_562_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: Genot F. (0473.57.28.61 - genotflorian@hotmail.co
- m)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis
-  la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce p
- ont le terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.
- abssa.org/team/562/CENTRAL-PARK-FC\nInfo équipe exterieure: https://www.a
- bssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/W
- 10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Genot F. (0473.57.28.61 - geno
+ tflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
+  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
+ bus 28). Avant ce pont le terrain se trouve à gauche.\n\nInfo équipe dom
+ icile: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo équipe exteri
+ eure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.
+ abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
@@ -357,16 +361,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J19: WELL TEAM vs MACAPSULES (LES)
 DTSTART;VALUE=DATE-TIME:20230128T143000Z
 DTEND;VALUE=DATE-TIME:20230128T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_19_544_627
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Vert/blanc\n\nCont
- act équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n
- \nAccès voiture : A partir du square des Archiducs\, prendre la rue Beren
- sheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://w
- ww.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abss
- a.org/team/627/MACAPSULES-LES\nInfo terrain: https://www.abssa.org/terrain
- /W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Vert/blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martind
+ ayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe 
+ domicile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieur
+ e: https://www.abssa.org/team/627/MACAPSULES-LES\nInfo terrain: https://ww
+ w.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -376,31 +380,31 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J20: STER'S vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230204T113000Z
 DTEND;VALUE=DATE-TIME:20230204T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_20_598_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: Reginster Th. (0475.52.11.27 - Thomas.reginster@l
- ive.be)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E
- 411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dr
- oite et au bout de la bretelle\, prendre la direction d'Ottignies par la N
- 238. Au 1èr feu de signalisation continuer tout droit en passant devant W
- alibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout 
- de cette sortie\, en face du Tennis Club La Palestre\, prendre à droite l
- a rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit 
- en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chem
- in de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Tra
- verser cette place par la droite. Au bout à gauche\, suivre l'avenue Jass
- ans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette)
- . Continuer cette rue et passer en dessous du 2ème pont du chemin de fer.
-  Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (panne
- au F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue ju
- squ'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans
-  cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Lime
- lette). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\n
- Info équipe domicile: https://www.abssa.org/team/598/STERS\nInfo équipe 
- exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https:
- //www.abssa.org/terrain/O05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Vert et Blanc\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Reginster Th. (0475.52.11.27 -
+  Thomas.reginster@live.be)\n\nAccès voiture : En venant de Bruxelles\, pr
+ endre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n
+ ° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d
+ 'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit 
+ en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie 
+ Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, 
+ prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Co
+ ntinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous d
+ u 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pla
+ ce de l'Europe. Traverser cette place par la droite. Au bout à gauche\, s
+ uivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pann
+ eau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pon
+ t du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'ave
+ nue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Sui
+ vre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers
+ . Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (p
+ anneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas
+  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/598/S
+ TERS\nInfo équipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nI
+ nfo terrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Reginster Th.";ROLE=Secrétaire:MAILTO:Thomas.reginster@live
@@ -410,15 +414,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J21: WELL TEAM vs BOUKS  FC
 DTSTART;VALUE=DATE-TIME:20230211T143000Z
 DTEND;VALUE=DATE-TIME:20230211T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_21_544_579
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAcc
- ès voiture : A partir du square des Archiducs\, prendre la rue Berensheid
- e\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.org
- /team/579/BOUKS-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@h
+ otmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domici
+ le: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/579/BOUKS-FC\nInfo terrain: https://www.abssa.org/
+ terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -428,15 +433,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J22: SAINT GEORGES RCS (Eq. 2) vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_22_221_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Bleu marine\n\nContact 
- équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmail.com)\n\nA
- ccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1
- ère rue à main gauche.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/221/SAINT-GEORGES-RCS\nInfo équipe exterieure: https://www.abssa.org/
- team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/W15
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ in@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Pa
+ rmentier\, puis 1ère rue à main gauche.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo équipe exterieure: https
+ ://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/t
+ errain/W15
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
@@ -446,20 +452,21 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J23: CELTIC ROOSTERS vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_23_626_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et blanc\nCouleur principale équipe exterieure: Bleu marine\n\nC
- ontact équipe domicile: Dubois S. (0479.04.13.70 - celticroosters@gmail.c
- om)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg\, pre
- ndre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	poi
- nt 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entrer dan
- s Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prendre la 
- première sortie Rue Haute\, continuer sur rue de Bruxelles\, continuer su
- r rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à droite l'
- avenue du Centre Sportif.\n\nInfo équipe domicile: https://www.abssa.org/
- team/626/CELTIC-ROOSTERS\nInfo équipe exterieure: https://www.abssa.org/t
- eam/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/terrain/W07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - cel
+ ticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur
+  / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction 
+ Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre
+  Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au ron
+ d-point prendre la première sortie Rue Haute\, continuer sur rue de Bruxe
+ lles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. P
+ rendre à droite l'avenue du Centre Sportif.\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/626/CELTIC-ROOSTERS\nInfo équipe exterieure: http
+ s://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org/
+ terrain/W07
 GEO:50.7216297;4.6192566
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
@@ -469,19 +476,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J24: BREU UNITED vs WELL TEAM
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_24_603_544
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange et Mauve\nCouleur principale équipe exterieure: Bleu marine\n\
- nContact équipe domicile: Paschold J. (0478.27.10.78 - paschold.j@gmail.c
- om)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou de l
- a Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlec
- ht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la sorti
- e pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et d
- es terrains se situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile
- : https://www.abssa.org/team/603/BREU-UNITED\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: https://www.abssa.org
- /terrain/A09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Orange et Mauve\nCouleur principale équipe exterie
+ ure: Bleu marine\n\nContact équipe domicile: Paschold J. (0478.27.10.78 -
+  paschold.j@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik
+  (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du ci
+ metière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poi
+ nt prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
+ ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/603/BREU-UNITED\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/544/WELL-TEAM\nInfo terrain: h
+ ttps://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -491,16 +498,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J25: WELL TEAM vs CORNAC UNITED FC
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_25_544_151
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Rouge\n\nContact 
- équipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAc
- cès voiture : A partir du square des Archiducs\, prendre la rue Berenshei
- de\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.or
- g/team/151/CORNAC-UNITED-FC\nInfo terrain: https://www.abssa.org/terrain/W
- 05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@
+ hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
+ e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo terrain: https://www.a
+ bssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -510,15 +517,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3C J26: WELL TEAM vs WATERMAEL FC
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_3C_26_544_611
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe exterieure: Bleu\n\nContact é
- quipe domicile: Dayez M. (0472.61.95.08 - martindayez@hotmail.com)\n\nAcc
- ès voiture : A partir du square des Archiducs\, prendre la rue Berensheid
- e\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.ab
- ssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: https://www.abssa.org
- /team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@h
+ otmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domici
+ le: https://www.abssa.org/team/544/WELL-TEAM\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa.
+ org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique

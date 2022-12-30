@@ -7,15 +7,15 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: GREEN DEVILS vs IRLANDE FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230311T123000Z
 DTEND;VALUE=DATE-TIME:20230311T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_90_402
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: Vandenbroeck K. (0477.66.15.69 - krvandenbroeck@hotmail.be)\n\nAc
- cès voiture : Le terrain se trouve derrière l'église St. Vincent\n\nInf
- o équipe domicile: https://www.abssa.org/team/090/GREEN-DEVILS\nInfo équ
- ipe exterieure: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: h
- ttps://www.abssa.org/terrain/E08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - krvandenbroec
+ k@hotmail.be)\n\nAccès voiture : Le terrain se trouve derrière l'église
+  St. Vincent\n\nInfo équipe domicile: https://www.abssa.org/team/090/GREE
+ N-DEVILS\nInfo équipe exterieure: https://www.abssa.org/team/402/IRLANDE-
+ FC\nInfo terrain: https://www.abssa.org/terrain/E08
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
@@ -26,17 +26,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: RAPID TAMTAM FC. vs FOOT JOSAPHAT
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_600_597
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et rose\nCouleur principale équipe exterieure: Gris\n\nContact 
- équipe domicile: Bellens S. (0474.72.49.62 - s.bellens@gmail.com)\n\nAcc
- ès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaus
- sée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le te
- rrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org
- /team/600/RAPID-TAMTAM-FC\nInfo équipe exterieure: https://www.abssa.org/
- team/597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Bellens S. (0474.72.49.62 - s.bellens
+ @gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Vo
+ ot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). A
+ vant ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: htt
+ ps://www.abssa.org/team/600/RAPID-TAMTAM-FC\nInfo équipe exterieure: http
+ s://www.abssa.org/team/597/FOOT-JOSAPHAT\nInfo terrain: https://www.abssa.
+ org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Bellens S.";ROLE=Secrétaire:MAILTO:s.bellens@gmail.com
@@ -45,23 +46,23 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: RAPID MYMOL vs ASTURIAS SPORTING
 DTSTART;VALUE=DATE-TIME:20230311T130000Z
 DTEND;VALUE=DATE-TIME:20230311T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_622_602
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Jaune\nCouleur principale équipe exterieure: Bleu ciel\n\nCon
- tact équipe domicile: Delanghe A. (0498.42.21.39 - rapidmymolabssa@gmail.
- com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n° 2. Prendre la
-  direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marceli
- sstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au te
- rrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A partir
-  du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours tou
- t droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pass
- ez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pren
- dre à droite et ensuite tout droit. Au bout de la rue prendre à droite\,
-  le terrain se trouve à 100 mètres  sur la gauche.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/622/RAPID-MYMOL\nInfo équipe exterieure: 
- https://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo terrain: https://ww
- w.abssa.org/terrain/W19
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
+ e: Bleu ciel\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 - rap
+ idmymolabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sorti
+ e n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à dr
+ oite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat
+ ).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar 
+ la ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquev
+ ille\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujour
+ s tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de
+  signalisation prendre à droite et ensuite tout droit. Au bout de la rue 
+ prendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\
+ nInfo équipe domicile: https://www.abssa.org/team/622/RAPID-MYMOL\nInfo 
+ équipe exterieure: https://www.abssa.org/team/602/ASTURIAS-SPORTING\nInfo
+  terrain: https://www.abssa.org/terrain/W19
 GEO:50.8424503;4.4865891
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
 ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
@@ -71,16 +72,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: BLEU-BLANC (ENT)R. vs PHARMA SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_53_268
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu rayé de Blanc\nCouleur principale équipe exterieure: Jaune\n\nC
- ontact équipe domicile: Mineur X. (0471.56.08.07 - josexavier.mineur@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/053/BLEU-BLANC-ENTR\nInfo équipe exterieure: https://www.ab
- ssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.abssa.org/terrain/W1
- 5
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Jaune\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jos
+ exavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
+  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/053/BLEU-BLANC-ENTR\nInfo équipe exterie
+ ure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain: https://www.a
+ bssa.org/terrain/W15
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
@@ -91,19 +92,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: COPAINS REUNIS vs SAINT GEORGES RCS
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_49_221
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Blanc\n\nContact équipe
-  domicile: Vandermeulen J. (0477.50.45.95 - meulenj@hotmail.com)\n\nAccès
-  voiture : En venant de la Route de Lennik (Citroën) ou de la Chaussée d
- e Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunte
- r le Boulevard Josse Leemans\, au rond-point prendre la sortie pour la rue
-  du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains s
- e situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://www
- .abssa.org/team/049/COPAINS-REUNIS\nInfo équipe exterieure: https://www.a
- bssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: https://www.abssa.org/t
- errain/A09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulenj@hot
+ mail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) o
+ u de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'An
+ derlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la
+  sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complex
+ e et des terrains se situe à +/- 500 m. sur la gauche.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/049/COPAINS-REUNIS\nInfo équipe exteri
+ eure: https://www.abssa.org/team/221/SAINT-GEORGES-RCS\nInfo terrain: http
+ s://www.abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -113,19 +114,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: NEW INN FC (Eq. 2) vs CHARLES-QUINT FC
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_359_499
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Bleu marine\n\nContact é
- quipe domicile: Cornil B. (0494.16.15.11 - bencornil@gmail.com)\n\nAccès 
- voiture : Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E4
- 0)\, prendre la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\
- , l'avenue des Anciens Combattants. Juste après le carrefour avec des feu
- x de signalisation prendre à droite vers la Place de la Chapelle\, puis p
- rendre la 4ème rue à main droite (rue au Bois). Le terrain se trouve à 
- 300 m. sur la droite.\n\nInfo équipe domicile: https://www.abssa.org/team
- /359/NEW-INN-FC\nInfo équipe exterieure: https://www.abssa.org/team/499/C
- HARLES-QUINT-FC\nInfo terrain: https://www.abssa.org/terrain/K02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@gm
+ ail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute B
+ ruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc
+  prendre à droite\, l'avenue des Anciens Combattants. Juste après le car
+ refour avec des feux de signalisation prendre à droite vers la Place de l
+ a Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le te
+ rrain se trouve à 300 m. sur la droite.\n\nInfo équipe domicile: https:/
+ /www.abssa.org/team/359/NEW-INN-FC\nInfo équipe exterieure: https://www.a
+ bssa.org/team/499/CHARLES-QUINT-FC\nInfo terrain: https://www.abssa.org/te
+ rrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
@@ -134,19 +136,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3B J24: FORESTOISE E.J. vs PATJES FC
 DTSTART;VALUE=DATE-TIME:20230311T143000Z
 DTEND;VALUE=DATE-TIME:20230311T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3B_24_623_582
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu Ciel\nCouleur principale équipe exterieure: Rouge et blanc.\n\nC
- ontact équipe domicile: El Yamani Y. (0474.75.75.02 - yahyaelyamani96@gma
- il.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pre
- ndre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
- à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
- auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
- du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
- Info équipe domicile: https://www.abssa.org/team/623/FORESTOISE-EJ\nInfo 
- équipe exterieure: https://www.abssa.org/team/582/PATJES-FC\nInfo terrain
- : https://www.abssa.org/terrain/F01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: R
+ ouge et blanc.\n\nContact équipe domicile: El Yamani Y. (0474.75.75.02 - 
+ yahyaelyamani96@gmail.com)\n\nAccès voiture : Au départ de la Place St. 
+ Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la S
+ oierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 
+ m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env.
+  500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauch
+ e de la route.\n\nInfo équipe domicile: https://www.abssa.org/team/623/FO
+ RESTOISE-EJ\nInfo équipe exterieure: https://www.abssa.org/team/582/PATJE
+ S-FC\nInfo terrain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique

@@ -7,15 +7,15 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: ELAN EVERE RAC vs WOLUWE FC
 DTSTART;VALUE=DATE-TIME:20230204T123000Z
 DTEND;VALUE=DATE-TIME:20230204T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_7_153
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Jaune et Bleu\n\nContact 
- équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubois58@gmail.com)\n\nAc
- cès voiture : Le terrain se trouve derrière l'église St. Vincent\n\nInf
- o équipe domicile: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo é
- quipe exterieure: https://www.abssa.org/team/153/WOLUWE-FC\nInfo terrain: 
- https://www.abssa.org/terrain/E08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
+ et Bleu\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubois
+ 58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'église
+  St. Vincent\n\nInfo équipe domicile: https://www.abssa.org/team/007/ELAN
+ -EVERE-RAC\nInfo équipe exterieure: https://www.abssa.org/team/153/WOLUWE
+ -FC\nInfo terrain: https://www.abssa.org/terrain/E08
 GEO:50.8786351;4.3949376
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue de Picardie\, 1140 Evere\, B
  elgique
@@ -25,17 +25,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: RANGERS F.C. vs AZUR RCS (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_620_109
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu ciel\n\nContact équipe domicile: Thuns S (0474.62.02.22 - samuel.thun
- s@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les bo
- ulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droi
- te\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème 
- à droite (rue Baron Dhanis).\n\nInfo équipe domicile: https://www.abssa.
- org/team/620/RANGERS-FC\nInfo équipe exterieure: https://www.abssa.org/te
- am/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/terrain/E04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rayé Bordeaux Blanc et Bleu\nCouleur principale é
+ quipe exterieure: Bleu ciel\n\nContact équipe domicile: Thuns S (0474.62.
+ 02.22 - samuel.thuns@gmail.com)\n\nAccès voiture : De la Place Meiser\, r
+ emonter tous les boulevards. Au carrefour de la Chaussée de Wavre\, prend
+ re celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fiv
+ é)\, puis la 3ème à droite (rue Baron Dhanis).\n\nInfo équipe domicile
+ : https://www.abssa.org/team/620/RANGERS-FC\nInfo équipe exterieure: http
+ s://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.org/t
+ errain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
 ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
@@ -44,17 +45,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: CENTRAL PARK FC (Eq. 2) vs BRITISH UNITED (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_562_132
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: Genot F. (0473.57.28.61 - genotflorian@hotmail.com)\n\nAccès
-  voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chaussé
- e de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terra
- in se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/te
- am/562/CENTRAL-PARK-FC\nInfo équipe exterieure: https://www.abssa.org/tea
- m/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflorian@hot
+ mail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot
+ \, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Ava
+ nt ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: https
+ ://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo équipe exterieure: https:
+ //www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.o
+ rg/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
@@ -63,17 +65,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: GAMBRINUS F.C. vs FORESTOIS SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_645_152
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: Brismee M (0474.68.53.85 - fcgambrinusfc@gmail.com)\n\nAccès voi
- ture : Prendre la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, 
- prendre ensuite la 2ème rue à droite\, l' Avenue des Communautés\, l'en
- trée au terrain est situé à 100 m.\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/645/GAMBRINUS-FC\nInfo équipe exterieure: https://www.ab
- ssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.abssa.org/terrain
- /E10
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrinusfc@gmail
+ .com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Place Meiser\,
+  Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des 
+ Communautés\, l'entrée au terrain est situé à 100 m.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/645/GAMBRINUS-FC\nInfo équipe exterie
+ ure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://ww
+ w.abssa.org/terrain/E10
 GEO:50.8582632;4.4251766
 LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
@@ -83,16 +85,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: BEA WOLUWE vs POSTBOYS FC
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_459_75
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe exterieure: Rouge et noir\n\nCo
- ntact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaquestiau
- @yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parm
- entier\, puis 1ère rue à main gauche.\n\nInfo équipe domicile: https://
- www.abssa.org/team/459/BEA-WOLUWE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/terrain/
- W15
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu clair\nCouleur principale équipe exterieure: 
+ Rouge et noir\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 -
+  philippemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, pr
+ endre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/459/BEA-WOLUWE\nInfo équipe exterie
+ ure: https://www.abssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www
+ .abssa.org/terrain/W15
 GEO:50.8343279;4.4397562
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
@@ -103,19 +105,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J20: WINCHESTER F.C. vs WATERMAEL FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230204T143000Z
 DTEND;VALUE=DATE-TIME:20230204T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_5A_20_653_611
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: Descheemaeker M. (0488.92.88.36 - winchesterfc@outlook.c
- om)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en direct
- ion de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N
-  25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, a
- u rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\
- , puis à gauche dans la rue de la Grande lecke.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/653/WINCHESTER-FC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/611/WATERMAEL-FC\nInfo terrain: https://www.abssa
- .org/terrain/B14
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36 - win
+ chesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\, prendre
+  la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la
+  bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/653/WINCHESTER-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/611/WATERMAEL-FC\nInfo terrain
+ : https://www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo

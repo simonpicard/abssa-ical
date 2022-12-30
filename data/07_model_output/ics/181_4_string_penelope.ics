@@ -7,20 +7,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J1: HIGGINS (Eq. 3) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20220903T120000Z
 DTEND;VALUE=DATE-TIME:20220903T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_1_416_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Orange\n\n
- Contact équipe domicile: De Biolley Ph. (0477.23.31.25 - philippe.debioll
- ey@gmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée 
- de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utilise
- r la bande de droite pendant +/- 200 m. et descendre devant le bâtiment d
- e l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute
- ). Le terrain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/416/HIGGINS\nInfo équipe exterieure: 
- https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.
- abssa.org/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Orange\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25
+  - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo 
+ équipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo t
+ errain: https://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -30,24 +30,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J2: STRING PENELOPE (Eq. 4) vs POSTBOYS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T130000Z
 DTEND;VALUE=DATE-TIME:20220910T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_2_181_75
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rouge et noir\n\nContac
- t équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com
- )\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 e
- n direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite 
- la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-N
- euve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du c
- hemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu s
- uivant\, toujours tout droit par l'avenue des Combattants. Franchir le pas
- sage protégé pour piétons (feu clignotant) et au feu de signalisation s
- uivant\, prendre à droite direction Ceroux-Mousty par la rue des Coqueré
- es. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pannea
- u "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https
- ://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https:
- //www.abssa.org/team/075/POSTBOYS-FC\nInfo terrain: https://www.abssa.org/
- terrain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et noir\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre
+  l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6)
+  ensuite à droite la N238 en direction d'Ottignies. Prendre la sortie Ott
+ ignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Passer so
+ us les 2 ponts du chemin de fer et\, au feu de signalisation\, continuer t
+ out droit. Au feu suivant\, toujours tout droit par l'avenue des Combattan
+ ts. Franchir le passage protégé pour piétons (feu clignotant) et au feu
+  de signalisation suivant\, prendre à droite direction Ceroux-Mousty par 
+ la rue des Coquerées. Le terrain se trouve sur la droite à env. 400 m. A
+ u n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équ
+ ipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe
+  exterieure: https://www.abssa.org/team/075/POSTBOYS-FC\nInfo terrain: htt
+ ps://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -58,17 +58,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J3: CHIEFS WSL (Eq. 4) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20220917T090000Z
 DTEND;VALUE=DATE-TIME:20220917T101000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_3_303_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nAccès voiture : B
- oulevard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel
-  jusqu'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve
-  à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/303/CHIEF
- S-WSL\nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-PENE
- LOPE\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\
+ nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la c
+ haussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont l
+ e terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa
+ .org/team/303/CHIEFS-WSL\nInfo équipe exterieure: https://www.abssa.org/t
+ eam/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
@@ -77,24 +77,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J4: STRING PENELOPE (Eq. 4) vs CHENOIS SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20220924T130000Z
 DTEND;VALUE=DATE-TIME:20220924T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_4_181_84
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rouge et noir\n\nContac
- t équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com
- )\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 e
- n direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite 
- la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-N
- euve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du c
- hemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu s
- uivant\, toujours tout droit par l'avenue des Combattants. Franchir le pas
- sage protégé pour piétons (feu clignotant) et au feu de signalisation s
- uivant\, prendre à droite direction Ceroux-Mousty par la rue des Coqueré
- es. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pannea
- u "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https
- ://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https:
- //www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/t
- errain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et noir\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre
+  l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6)
+  ensuite à droite la N238 en direction d'Ottignies. Prendre la sortie Ott
+ ignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Passer so
+ us les 2 ponts du chemin de fer et\, au feu de signalisation\, continuer t
+ out droit. Au feu suivant\, toujours tout droit par l'avenue des Combattan
+ ts. Franchir le passage protégé pour piétons (feu clignotant) et au feu
+  de signalisation suivant\, prendre à droite direction Ceroux-Mousty par 
+ la rue des Coquerées. Le terrain se trouve sur la droite à env. 400 m. A
+ u n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équ
+ ipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe
+  exterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: http
+ s://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -105,17 +105,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J5: JETTOISE (AMICALE) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221001T133000Z
 DTEND;VALUE=DATE-TIME:20221001T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_5_347_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe exterieure: Orange\n\nContac
- t équipe domicile: Pogradja  A. (0478.37.94.22 - avnipogradja@gmail.com)\
- n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la rue
-  du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le
-  terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.
- org/team/347/JETTOISE-AMICALE\nInfo équipe exterieure: https://www.abssa.
- org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/
- J01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnip
+ ogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
+ uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
+ enue J.J. Crocq. Le terrain se trouve à gauche.\n\nInfo équipe domicile:
+  https://www.abssa.org/team/347/JETTOISE-AMICALE\nInfo équipe exterieure:
+  https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www
+ .abssa.org/terrain/J01
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
@@ -125,24 +125,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J6: STRING PENELOPE (Eq. 4) vs CORNAC UNITED FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221008T130000Z
 DTEND;VALUE=DATE-TIME:20221008T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_6_181_151
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rouge\n\nContact équip
- e domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/151/CORNAC-UNITED-FC\nInfo terrain: https://www.abssa.org/ter
- rain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite
+  à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/L
+ ouvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2
+  ponts du chemin de fer et\, au feu de signalisation\, continuer tout droi
+ t. Au feu suivant\, toujours tout droit par l'avenue des Combattants. Fran
+ chir le passage protégé pour piétons (feu clignotant) et au feu de sign
+ alisation suivant\, prendre à droite direction Ceroux-Mousty par la rue d
+ es Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50
+ A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterie
+ ure: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo terrain: https:
+ //www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -153,17 +153,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J7: ENTENTE  RACB (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_7_2_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.com)\n\nAccès vo
- iture : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\
- , prendre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit C
- hemin Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 300
-  m.\n\nInfo équipe domicile: https://www.abssa.org/team/002/ENTENTE-RACB\
- nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\n
- Info terrain: https://www.abssa.org/terrain/B08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmai
+ l.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/002/ENTENTE-RACB\nInfo équipe exterieure: https://www.abssa.org/team/18
+ 1/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
@@ -172,24 +172,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J8: STRING PENELOPE (Eq. 4) vs MIREILLE WEMMEL (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T130000Z
 DTEND;VALUE=DATE-TIME:20221022T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_8_181_93
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Noir\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/093/MIREILLE-WEMMEL\nInfo terrain: https://www.abssa.org/terr
- ain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieu
+ re: https://www.abssa.org/team/093/MIREILLE-WEMMEL\nInfo terrain: https://
+ www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -200,16 +200,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J9: LORRAINE (LA) RFC (Eq. 3) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221105T130000Z
 DTEND;VALUE=DATE-TIME:20221105T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_9_44_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail.com)\n\nAccès v
- oiture : Autoroute E411\, prendre la sortie Rosières. Passer devant l'ég
- lise\, longer l'autoroute et tourner à droite au cimetière des animaux. 
- Terrain à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/team/044
- /LORRAINE-LA-RFC\nInfo équipe exterieure: https://www.abssa.org/team/181/
- STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gma
+ il.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. 
+ Passer devant l'église\, longer l'autoroute et tourner à droite au cimet
+ ière des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https://www
+ .abssa.org/team/044/LORRAINE-LA-RFC\nInfo équipe exterieure: https://www.
+ abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/te
+ rrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
@@ -218,24 +219,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J10: STRING PENELOPE (Eq. 4) vs IRLANDE FC (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221112T140000Z
 DTEND;VALUE=DATE-TIME:20221112T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_10_181_402
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Vert\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/O
- 04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Vert
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieu
+ re: https://www.abssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.a
+ bssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -246,19 +247,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J11: CHENOIS (ESPER) (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221119T140000Z
 DTEND;VALUE=DATE-TIME:20221119T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_11_412_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc et rouge\nCouleur principale équipe exterieure: Orange\n\nConta
- ct équipe domicile: Gioffredi G. (0474.24.92.27 - 412fcec@gmail.com)\n\nA
- ccès voiture : Venant d'Uccle\, prendre la chaussée de Waterloo\, ensuit
- e la chaussée de Bruxelles\, continuer jusqu'à la place E. Vandevelde (i
- ntersection de la chaussée de Bruxelles avec la chaussée de Tervuren à 
- Joli-Bois). Au feu de signalisation prendre à droite la chaussée Bara. L
- e terrain se trouve à droite à +/- 500 m.\n\nInfo équipe domicile: http
- s://www.abssa.org/team/412/CHENOIS-ESPER\nInfo équipe exterieure: https:/
- /www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.o
- rg/terrain/W02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412f
+ cec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée d
+ e Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la pla
+ ce E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
+ ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
+ a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nInfo éq
+ uipe domicile: https://www.abssa.org/team/412/CHENOIS-ESPER\nInfo équipe 
+ exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: 
+ https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
@@ -267,24 +268,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J12: STRING PENELOPE (Eq. 4) vs BRITISH UNITED (Eq. 6)
 DTSTART;VALUE=DATE-TIME:20221126T140000Z
 DTEND;VALUE=DATE-TIME:20221126T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_12_181_132
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Bleu\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terra
- in/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieu
+ re: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain: https://w
+ ww.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -295,16 +296,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J13: POSTBOYS FC (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221203T143000Z
 DTEND;VALUE=DATE-TIME:20221203T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_13_75_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Orange\n\nContac
- t équipe domicile: Burquel J-M. (0498.05.90.57 - secretariat@postboys.be)
- \n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la ru
- e du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. L
- e terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa
- .org/team/075/POSTBOYS-FC\nInfo équipe exterieure: https://www.abssa.org/
- team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/J01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Burquel J-M. (0498.05.90.57 - secre
+ tariat@postboys.be)\n\nAccès voiture : Direction cimetière de Jette\, en
+ suite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, a
+ venue J.J. Crocq. Le terrain se trouve à gauche.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/075/POSTBOYS-FC\nInfo équipe exterieure: htt
+ ps://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abs
+ sa.org/terrain/J01
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
@@ -315,24 +317,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J14: STRING PENELOPE (Eq. 4) vs CHIEFS WSL (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221210T140000Z
 DTEND;VALUE=DATE-TIME:20221210T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_14_181_303
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Blanc\n\nContact équip
- e domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/O
- 04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite
+  à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/L
+ ouvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2
+  ponts du chemin de fer et\, au feu de signalisation\, continuer tout droi
+ t. Au feu suivant\, toujours tout droit par l'avenue des Combattants. Fran
+ chir le passage protégé pour piétons (feu clignotant) et au feu de sign
+ alisation suivant\, prendre à droite direction Ceroux-Mousty par la rue d
+ es Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50
+ A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterie
+ ure: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrain: https://www.
+ abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -344,24 +346,24 @@ SUMMARY:ABSSA D6D J15: STRING PENELOPE (Eq. 4) vs OMNISPORT BIERGHES (Eq.
  2)
 DTSTART;VALUE=DATE-TIME:20221217T140000Z
 DTEND;VALUE=DATE-TIME:20221217T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_6D_15_181_455
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Noir\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/455/OMNISPORT-BIERGHES\nInfo terrain: https://www.abssa.org/t
- errain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieu
+ re: https://www.abssa.org/team/455/OMNISPORT-BIERGHES\nInfo terrain: https
+ ://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -372,19 +374,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J16: CHENOIS SC (Eq. 3) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230107T140000Z
 DTEND;VALUE=DATE-TIME:20230107T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_16_84_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Orange\n\nContac
- t équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@waterloo.eu)
- \n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Waterloo\, e
- nsuite la chaussée de Bruxelles\, continuer jusqu'à la place E. Vandevel
- de (intersection de la chaussée de Bruxelles avec la chaussée de Tervure
- n à Joli-Bois). Au feu de signalisation prendre à droite la chaussée Ba
- ra. Le terrain se trouve à droite à +/- 500 m.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/084/CHENOIS-SC\nInfo équipe exterieure: https
- ://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa
- .org/terrain/W02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.c
+ henois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chauss
+ ée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à l
+ a place E. Vandevelde (intersection de la chaussée de Bruxelles avec la c
+ haussée de Tervuren à Joli-Bois). Au feu de signalisation prendre à dro
+ ite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/084/CHENOIS-SC\nInfo équip
+ e exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain
+ : https://www.abssa.org/terrain/W02
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
@@ -394,24 +396,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J17: STRING PENELOPE (Eq. 4) vs JETTOISE (AMICALE)
 DTSTART;VALUE=DATE-TIME:20230114T140000Z
 DTEND;VALUE=DATE-TIME:20230114T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_17_181_347
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Bleu et blanc\n\nContac
- t équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com
- )\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 e
- n direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite 
- la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-N
- euve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du c
- hemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu s
- uivant\, toujours tout droit par l'avenue des Combattants. Franchir le pas
- sage protégé pour piétons (feu clignotant) et au feu de signalisation s
- uivant\, prendre à droite direction Ceroux-Mousty par la rue des Coqueré
- es. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pannea
- u "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https
- ://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https:
- //www.abssa.org/team/347/JETTOISE-AMICALE\nInfo terrain: https://www.abssa
- .org/terrain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  et blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre
+  l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6)
+  ensuite à droite la N238 en direction d'Ottignies. Prendre la sortie Ott
+ ignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Passer so
+ us les 2 ponts du chemin de fer et\, au feu de signalisation\, continuer t
+ out droit. Au feu suivant\, toujours tout droit par l'avenue des Combattan
+ ts. Franchir le passage protégé pour piétons (feu clignotant) et au feu
+  de signalisation suivant\, prendre à droite direction Ceroux-Mousty par 
+ la rue des Coquerées. Le terrain se trouve sur la droite à env. 400 m. A
+ u n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équ
+ ipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe
+  exterieure: https://www.abssa.org/team/347/JETTOISE-AMICALE\nInfo terrain
+ : https://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -422,19 +424,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J18: CORNAC UNITED FC (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230121T113000Z
 DTEND;VALUE=DATE-TIME:20230121T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_18_151_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe exterieure: Orange\n\nContact équip
- e domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gmail.com)\n\nAccès
-  voiture : Par le Ring Ouest\, direction Paris\, sortie Westland Shopping 
- Center (n° 14) continuer tout droit\, remonter vers le Ring et prendre à
-  droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d
- 'Anderlecht\, passer le ring\, reste 2 km. Le terrain se trouve à gauche\
- , entre l'école Van Belle et Veeweyde.\n\nInfo équipe domicile: https://
- www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo équipe exterieure: https://
- www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.or
- g/terrain/A01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@g
+ mail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie
+  Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le
+  Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'
+ Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain s
+ e trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/151/CORNAC-UNITED-FC\nInfo équipe e
+ xterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: h
+ ttps://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
@@ -443,24 +445,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J19: STRING PENELOPE (Eq. 4) vs ENTENTE  RACB (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T140000Z
 DTEND;VALUE=DATE-TIME:20230128T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_19_181_2
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rouge\n\nContact équip
- e domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/002/ENTENTE-RACB\nInfo terrain: https://www.abssa.org/terrain
- /O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite
+  à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/L
+ ouvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2
+  ponts du chemin de fer et\, au feu de signalisation\, continuer tout droi
+ t. Au feu suivant\, toujours tout droit par l'avenue des Combattants. Fran
+ chir le passage protégé pour piétons (feu clignotant) et au feu de sign
+ alisation suivant\, prendre à droite direction Ceroux-Mousty par la rue d
+ es Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50
+ A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domi
+ cile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterie
+ ure: https://www.abssa.org/team/002/ENTENTE-RACB\nInfo terrain: https://ww
+ w.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -471,20 +473,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J20: MIREILLE WEMMEL (Eq. 2) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230204T130000Z
 DTEND;VALUE=DATE-TIME:20230204T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_20_93_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeerbergen@hotmail.com
- )\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting M
- erchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de rotond
- e de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op Brus
- sel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links van d
- e steenweg\, bevindt zich het stadium (parking)\n\nInfo équipe domicile: 
- https://www.abssa.org/team/093/MIREILLE-WEMMEL\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.a
- bssa.org/terrain/W16
-GEO:50.900999;4.4855744
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermee
+ rbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (
+ n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de rot
+ onde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in 
+ de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeersli
+ chten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nInfo
+  équipe domicile: https://www.abssa.org/team/093/MIREILLE-WEMMEL\nInfo é
+ quipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo ter
+ rain: https://www.abssa.org/terrain/W16
+GEO:50.9068107;4.311412799999999
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
@@ -495,24 +497,24 @@ SUMMARY:ABSSA D6D J21: STRING PENELOPE (Eq. 4) vs LORRAINE (LA) RFC (Eq. 3
  )
 DTSTART;VALUE=DATE-TIME:20230211T140000Z
 DTEND;VALUE=DATE-TIME:20230211T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_21_181_44
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Bleu\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 en direct
- ion de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite la N238 
- en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N2
- 37) et suivre la direction Ottignies. Passer sous les 2 ponts du chemin de
-  fer et\, au feu de signalisation\, continuer tout droit. Au feu suivant\,
-  toujours tout droit par l'avenue des Combattants. Franchir le passage pro
- tégé pour piétons (feu clignotant) et au feu de signalisation suivant\,
-  prendre à droite direction Ceroux-Mousty par la rue des Coquerées. Le t
- errain se trouve sur la droite à env. 400 m. Au n° 50A \, panneau "Coca-
- Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: https://www.a
- bssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: https://www.ab
- ssa.org/team/044/LORRAINE-LA-RFC\nInfo terrain: https://www.abssa.org/terr
- ain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domic
+ ile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieu
+ re: https://www.abssa.org/team/044/LORRAINE-LA-RFC\nInfo terrain: https://
+ www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -523,20 +525,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J22: BRITISH UNITED (Eq. 6) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230225T120000Z
 DTEND;VALUE=DATE-TIME:20230225T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_22_132_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Vanderseypen G. (0476.58.89.77 - gillesvanderseypen@gmail.com)\
- n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord
-  (n° 9) En arrivant dans le centre\, suivre la direction "Heist-op-den-Be
- rg" Aller tout droit et passer le viaduc du chemin de fer. Après 1 km. su
- ivre les flèches "De Nekker". Garer les voitures à l'extérieur du compl
- exe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrain.\n\nInfo équip
- e domicile: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo équipe ex
- terieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: ht
- tps://www.abssa.org/terrain/M02
-GEO:51.0216563;4.5020273
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvande
+ rseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) so
+ rtie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directi
+ on "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de f
+ er. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'
+ extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terr
+ ain.\n\nInfo équipe domicile: https://www.abssa.org/team/132/BRITISH-UNIT
+ ED\nInfo équipe exterieure: https://www.abssa.org/team/181/STRING-PENELOP
+ E\nInfo terrain: https://www.abssa.org/terrain/M02
+GEO:51.0254354;4.503786799999999
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
 ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
@@ -546,19 +548,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J23: IRLANDE FC (Eq. 6) vs STRING PENELOPE (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_23_402_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.mens@outlook.com)\n
- \nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premier cro
- isement prendre à gauche la \nMechelsesteenweg. Le terrain est indiqué 
- à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la sor
- tie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, traverse
- r la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équipe domi
- cile: https://www.abssa.org/team/402/IRLANDE-FC\nInfo équipe exterieure: 
- https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.
- abssa.org/terrain/N04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.
+ mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosseg
+ em\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le ter
+ rain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Lièg
+ e\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelses
+ teenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\
+ nInfo équipe domicile: https://www.abssa.org/team/402/IRLANDE-FC\nInfo é
+ quipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo ter
+ rain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -569,24 +571,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J24: STRING PENELOPE (Eq. 4) vs CHENOIS (ESPER) (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230311T140000Z
 DTEND;VALUE=DATE-TIME:20230311T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_24_181_412
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Blanc et rouge\n\nConta
- ct équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.co
- m)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 
- en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite
-  la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-
- Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du 
- chemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu 
- suivant\, toujours tout droit par l'avenue des Combattants. Franchir le pa
- ssage protégé pour piétons (feu clignotant) et au feu de signalisation 
- suivant\, prendre à droite direction Ceroux-Mousty par la rue des Coquer
- ées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pann
- eau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: http
- s://www.abssa.org/team/412/CHENOIS-ESPER\nInfo terrain: https://www.abssa.
- org/terrain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c et rouge\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom
+ .collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendr
+ e l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6
+ ) ensuite à droite la N238 en direction d'Ottignies. Prendre la sortie Ot
+ tignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Passer s
+ ous les 2 ponts du chemin de fer et\, au feu de signalisation\, continuer 
+ tout droit. Au feu suivant\, toujours tout droit par l'avenue des Combatta
+ nts. Franchir le passage protégé pour piétons (feu clignotant) et au fe
+ u de signalisation suivant\, prendre à droite direction Ceroux-Mousty par
+  la rue des Coquerées. Le terrain se trouve sur la droite à env. 400 m. 
+ Au n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo éq
+ uipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équip
+ e exterieure: https://www.abssa.org/team/412/CHENOIS-ESPER\nInfo terrain: 
+ https://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -597,24 +599,24 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6D J25: STRING PENELOPE (Eq. 4) vs HIGGINS (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230318T140000Z
 DTEND;VALUE=DATE-TIME:20230318T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_25_181_416
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Rayé Bleu et Blanc\n\n
- Contact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon@gma
- il.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute 
- E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à d
- roite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvai
- n-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 pont
- s du chemin de fer et\, au feu de signalisation\, continuer tout droit. Au
-  feu suivant\, toujours tout droit par l'avenue des Combattants. Franchir 
- le passage protégé pour piétons (feu clignotant) et au feu de signalisa
- tion suivant\, prendre à droite direction Ceroux-Mousty par la rue des Co
- querées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, 
- panneau "Coca-Cola" l'entrée du centre sportif.\n\nInfo équipe domicile:
-  https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exterieure: 
- https://www.abssa.org/team/416/HIGGINS\nInfo terrain: https://www.abssa.or
- g/terrain/O04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Ray
+ é Bleu et Blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 
+ - thom.collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, 
+ prendre l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre (
+  n° 6) ensuite à droite la N238 en direction d'Ottignies. Prendre la sor
+ tie Ottignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Pa
+ sser sous les 2 ponts du chemin de fer et\, au feu de signalisation\, cont
+ inuer tout droit. Au feu suivant\, toujours tout droit par l'avenue des Co
+ mbattants. Franchir le passage protégé pour piétons (feu clignotant) et
+  au feu de signalisation suivant\, prendre à droite direction Ceroux-Mous
+ ty par la rue des Coquerées. Le terrain se trouve sur la droite à env. 4
+ 00 m. Au n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo 
+ équipe exterieure: https://www.abssa.org/team/416/HIGGINS\nInfo terrain: 
+ https://www.abssa.org/terrain/O04
 GEO:50.6630401;4.5569959
 LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
  gnies-Ceroux-Mousty\, Belgique
@@ -626,20 +628,21 @@ SUMMARY:ABSSA D6D J26: OMNISPORT BIERGHES (Eq. 2) vs STRING PENELOPE (Eq.
  4)
 DTSTART;VALUE=DATE-TIME:20230325T143000Z
 DTEND;VALUE=DATE-TIME:20230325T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_6D_26_455_181
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Barbe L. (0495.21.74.14 - omnisportbierghes1995@gmail.com)\n\nA
- ccès voiture : Autoroute Bruxelles-Charleroi (E19)\, prendre la sortie Ha
- lle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tournai-Lille\, anci
- enne route A8 (E429). Prendre la sortie Rebecq-Quenast (n° 24). En bas de
-  la sortie\, prendre à droite\, direction Bierghes. Rouler tout droit jus
- qu'au premier feu rouge. Tourner à droite en direction de Halle\, ensuite
-  la deuxième rue à droite (rue du Sartiau)\, ensuite à gauche. Le terra
- in se trouve à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/455/OMNISPORT-BIERGHES\nInfo équipe exterieure: https://www.abssa.org/t
- eam/181/STRING-PENELOPE\nInfo terrain: https://www.abssa.org/terrain/B02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes1
+ 995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, p
+ rendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute T
+ ournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast 
+ (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Ro
+ uler tout droit jusqu'au premier feu rouge. Tourner à droite en direction
+  de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite 
+ à gauche. Le terrain se trouve à 300 m.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/455/OMNISPORT-BIERGHES\nInfo équipe exterieure: http
+ s://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://www.abss
+ a.org/terrain/B02
 GEO:50.6957846;4.129257
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai

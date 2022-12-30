@@ -7,20 +7,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: CHOULE AUDERGHEM vs COIN DU BALAI FC
 DTSTART;VALUE=DATE-TIME:20230318T113000Z
 DTEND;VALUE=DATE-TIME:20230318T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_517_229
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail.com)\n\nAccès voit
- ure : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du d
- ébut de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant
-  +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par 
- le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 2
- 00 m. Le stade est fléché.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: https://www.abssa.o
- rg/team/229/COIN-DU-BALAI-FC\nInfo terrain: https://www.abssa.org/terrain/
- A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail.
+ com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre\
+ , rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la band
+ e de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEPS
+ \, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le ter
+ rain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/517/CHOULE-AUDERGHEM\nInfo équipe exterieure: 
+ https://www.abssa.org/team/229/COIN-DU-BALAI-FC\nInfo terrain: https://www
+ .abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
@@ -29,23 +29,23 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: WONG A.S. vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20230318T120000Z
 DTEND;VALUE=DATE-TIME:20230318T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_523_403
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Rouge\n\nContact équipe
-  domicile: Van Impe J. (0476.78.52.59 - vanimpe-julien@hotmail.be)\n\nAcc
- ès voiture : Aux quatre-Bras\, prendre direction Tervuren via l’avenue 
- de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 1ère sortie et c
- ontinuer sur l’avenue de Tervuren pendant 1\,2km puis prendre à droite 
- sur la chaussée de Bruxelles pendant 500m. Ensuite Prendre légèrement s
- ur la droite dans la Wijngaardstraat pendant 400m et tourner à gauche dan
- s la Pepperstraat pendant 400m. Ensuite tourner à droite sur la chaussée
-  de Duisburg et rouler pendant 1\,4 km... Continuer tout droit sur la chau
- ssée de Tervuren pendant 1\,3 km et prendre à gauche dans la rue de dest
- ination ( Schonenboomstraat).\nLe terrain se situe sur la droite de la rou
- te!\n\nInfo équipe domicile: https://www.abssa.org/team/523/WONG-AS\nInfo
-  équipe exterieure: https://www.abssa.org/team/403/PORTUGAL-FC\nInfo terr
- ain: https://www.abssa.org/terrain/T07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - vanimpe-julien@
+ hotmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre direction Tervur
+ en via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la
+  1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis 
+ prendre à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Pren
+ dre légèrement sur la droite dans la Wijngaardstraat pendant 400m et tou
+ rner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droit
+ e sur la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout
+  droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche d
+ ans la rue de destination ( Schonenboomstraat).\nLe terrain se situe sur l
+ a droite de la route!\n\nInfo équipe domicile: https://www.abssa.org/team
+ /523/WONG-AS\nInfo équipe exterieure: https://www.abssa.org/team/403/PORT
+ UGAL-FC\nInfo terrain: https://www.abssa.org/terrain/T07
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
@@ -55,16 +55,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: BRUSSELS BRITISH R vs IRLANDE FC
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_1_402
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Vert\n\nContact équipe 
- domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.org)\n\nAccès voitur
- e : Autoroute E411\, prendre la sortie Rosières. Passer devant l'église\
- , longer l'autoroute et tourner à droite au cimetière des animaux. Terra
- in à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/team/001/BRUS
- SELS-BRITISH-R\nInfo équipe exterieure: https://www.abssa.org/team/402/IR
- LANDE-FC\nInfo terrain: https://www.abssa.org/terrain/R02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https://www.abss
+ a.org/team/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/402/IRLANDE-FC\nInfo terrain: https://www.abssa.org/terrain/R
+ 02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -73,22 +74,23 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: BRUSSELS LTC vs EURO UNION
 DTSTART;VALUE=DATE-TIME:20230318T130000Z
 DTEND;VALUE=DATE-TIME:20230318T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_39_567
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Bleu\n\nContact équi
- pe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@hotmail.com)\n\nAcc
- ès voiture : Venant de Bruxelles\, prendre ring Est direction Waterloo. S
- ortir à la sortie n°27 Waterloo Centre.\n	Prendre ensuite à gauche La D
- rève de Richelle jusqu'au 3ème rond-point et prendre à gauche la 	Chaus
- sée de Louvain sur environ 2km et prendre à droite la Rue des Saules tou
- jours tout droit et 	qui devient ensuite la Route des Marnières. Continue
- r ensuite tout droit\, passer un premier rond-point puis continuer tout dr
- oit jusqu'au rond-point du Messager où il faut prendre la 2ème sortie. V
- ous êtes alors sur la Route de Genval et l'entrée du Complexe se trouve 
- à environ 200m sur la gauche.\n\nInfo équipe domicile: https://www.abssa
- .org/team/039/BRUSSELS-LTC\nInfo équipe exterieure: https://www.abssa.org
- /team/567/EURO-UNION\nInfo terrain: https://www.abssa.org/terrain/O01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nInfo équipe domicile
+ : https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo équipe exterieure: ht
+ tps://www.abssa.org/team/567/EURO-UNION\nInfo terrain: https://www.abssa.o
+ rg/terrain/O01
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
 ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
@@ -98,20 +100,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: AMB. AUDERGHEM vs LXG CINQUANTENAIRE
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_249_542
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Jaune et Bleu.\n\nContact
-  équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotmail.fr)\n\n
- Accès voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoin
- dre le du début de l'autoroute Bruxelles-Namur\, utiliser la bande de dro
- ite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis 
- passer par le tunnel à gauche (en dessous de l'autoroute). Le terrain se 
- trouve à 200 m. Le stade est fléché.\n\nInfo équipe domicile: https://
- www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exterieure: https://www
- .abssa.org/team/542/LXG-CINQUANTENAIRE\nInfo terrain: https://www.abssa.or
- g/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et Bleu.\n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudlec
+ lef@hotmail.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussé
+ e de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utili
+ ser la bande de droite pendant +/- 200 m. et descendre devant le bâtiment
+  de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autorou
+ te). Le terrain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/249/AMB-AUDERGHEM\nInfo équipe exte
+ rieure: https://www.abssa.org/team/542/LXG-CINQUANTENAIRE\nInfo terrain: h
+ ttps://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
@@ -120,19 +122,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: GREZ AJ vs CHENOIS SC
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_514_84
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et blanc\n\nContact
-  équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@hotmail.co
- m)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en directi
- on de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N 
- 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au
-  rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\,
-  puis à gauche dans la rue de la Grande lecke.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/514/GREZ-AJ\nInfo équipe exterieure: https://w
- ww.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terr
- ain/B14
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.
+ vanhamme@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre 
+ la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la 
+ bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nInf
+ o équipe domicile: https://www.abssa.org/team/514/GREZ-AJ\nInfo équipe e
+ xterieure: https://www.abssa.org/team/084/CHENOIS-SC\nInfo terrain: https:
+ //www.abssa.org/terrain/B14
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
@@ -142,19 +144,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: ITT - GECKO FC vs JEFKE COUNTRY
 DTSTART;VALUE=DATE-TIME:20230318T143000Z
 DTEND;VALUE=DATE-TIME:20230318T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_1_25_92_423
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir et blanc\n\nContact 
- équipe domicile: Schmidt Ch. (0475.61.97.33 - christian@schmidt1.be)\n\nA
- ccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premier croise
- ment prendre à gauche la \nMechelsesteenweg. Le terrain est indiqué à +
- /- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la sortie 
- Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, traverser la
-  chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équipe domicile
- : https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo terrain: https://www.abss
- a.org/terrain/N04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
+ t blanc\n\nContact équipe domicile: Schmidt Ch. (0475.61.97.33 - christia
+ n@schmidt1.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\
+ , au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrai
+ n est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\,
+  prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsestee
+ nweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/423/JEFKE-COUNTRY\nInfo terrai
+ n: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e

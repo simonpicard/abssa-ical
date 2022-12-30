@@ -7,20 +7,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: COLO-COLO UNITED vs WONG A.S. (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T113000Z
 DTEND;VALUE=DATE-TIME:20230114T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_625_523
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu foncé et blanc\nCouleur principale équipe exterieure: Jaune\n\n
- Contact équipe domicile: De Le Court Y. (0472.35.25.20 - youdelecourt@gma
- il.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Br
- uxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc 
- prendre à droite\, l'avenue des Anciens Combattants. Juste après le carr
- efour avec des feux de signalisation prendre à droite vers la Place de la
-  Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le ter
- rain se trouve à 300 m. sur la droite.\n\nInfo équipe domicile: https://
- www.abssa.org/team/625/COLO-COLO-UNITED\nInfo équipe exterieure: https://
- www.abssa.org/team/523/WONG-AS\nInfo terrain: https://www.abssa.org/terrai
- n/K02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Jaune\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20
+  - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meis
+ er\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 
+ 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. J
+ uste après le carrefour avec des feux de signalisation prendre à droite 
+ vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (r
+ ue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/625/COLO-COLO-UNITED\nInfo équipe e
+ xterieure: https://www.abssa.org/team/523/WONG-AS\nInfo terrain: https://w
+ ww.abssa.org/terrain/K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
@@ -30,20 +30,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: HIGGINS (Eq. 2) vs MACCABI BXL
 DTSTART;VALUE=DATE-TIME:20230114T113000Z
 DTEND;VALUE=DATE-TIME:20230114T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_416_634
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: De Biolley Ph. (0477.23.31.25 - philippe.debiolley
- @gmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de
-  Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser 
- la bande de droite pendant +/- 200 m. et descendre devant le bâtiment de 
- l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute).
-  Le terrain se trouve à 200 m. Le stade est fléché.\n\nInfo équipe dom
- icile: https://www.abssa.org/team/416/HIGGINS\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/634/MACCABI-BXL\nInfo terrain: https://www.abssa.
- org/terrain/A11
-GEO:50.8103473;4.443252699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
+  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
+ par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
+ s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
+ nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
+ us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
+ n\nInfo équipe domicile: https://www.abssa.org/team/416/HIGGINS\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/634/MACCABI-BXL\nInfo terrain:
+  https://www.abssa.org/terrain/A11
+GEO:nan;nan
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
@@ -53,16 +53,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: BXL ALLIANCE JETTE vs VETUSO FC.
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_566_624
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: Zaleski S. (0473.34.57.81 - zal.stan@hotmail.com)\n\nAccès voitu
- re : Direction cimetière de Jette\, ensuite prendre la rue du "Sacré-Coe
- ur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se tro
- uve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/566/BX
- L-ALLIANCE-JETTE\nInfo équipe exterieure: https://www.abssa.org/team/624/
- VETUSO-FC\nInfo terrain: https://www.abssa.org/terrain/J01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@hotmail.c
+ om)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la
+  rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq
+ . Le terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.ab
+ ssa.org/team/566/BXL-ALLIANCE-JETTE\nInfo équipe exterieure: https://www.
+ abssa.org/team/624/VETUSO-FC\nInfo terrain: https://www.abssa.org/terrain/
+ J01
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
@@ -72,17 +73,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: GERMINAL CSA vs CHIEFS WSL (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_235_303
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: Naniot M. (0477.47.14.56 - m.naniot@skynet.be)\n\nAccès voiture
-  : Boulevard Lambermont\, prendre le boulevard Léopold III\, direction a
- éroport de Bruxelles-National\, au 3ème feu de signalisation prendre à 
- droite. le terrain se trouve à 50 m.\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/235/GERMINAL-CSA\nInfo équipe exterieure: https://www.ab
- ssa.org/team/303/CHIEFS-WSL\nInfo terrain: https://www.abssa.org/terrain/E
- 07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.naniot@skynet.be
+ )\n\nAccès voiture : Boulevard Lambermont\, prendre le boulevard Léopold
+  III\, direction aéroport de Bruxelles-National\, au 3ème feu de signali
+ sation prendre à droite. le terrain se trouve à 50 m.\n\nInfo équipe do
+ micile: https://www.abssa.org/team/235/GERMINAL-CSA\nInfo équipe exterieu
+ re: https://www.abssa.org/team/303/CHIEFS-WSL\nInfo terrain: https://www.a
+ bssa.org/terrain/E07
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
@@ -92,19 +93,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: IRLANDE FC (Eq. 4) vs BOUSVAL GENAPPE
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_402_401
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Blanc\n\nContact équipe 
- domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.mens@outlook.com)\n\
- nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premier croi
- sement prendre à gauche la \nMechelsesteenweg. Le terrain est indiqué à
-  +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la sorti
- e Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, traverser 
- la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équipe domici
- le: https://www.abssa.org/team/402/IRLANDE-FC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/401/BOUSVAL-GENAPPE\nInfo terrain: https://www.ab
- ssa.org/terrain/N04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
+ ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
+ m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
+ ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
+ \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
+ eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
+ Info équipe domicile: https://www.abssa.org/team/402/IRLANDE-FC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/401/BOUSVAL-GENAPPE\nInfo terr
+ ain: https://www.abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -115,22 +116,22 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: MOUSSES TACHENT vs FRANGINOS (LOS)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_643_647
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Blanc\n\nContact équ
- ipe domicile: Stevens F. (0472.09.43.58 - les.mousses.tachent@gmail.com)\n
- \nAccès voiture : Ring ouest: Direction Waterloo\, prendre la sortie "but
- te du lion" \, prendre à droite\, puis au feu rouge prendre à droite\, r
- ouler jusque Genappe et prendre la RN 25 en direction de Wavre\, prendre l
- a deuxième sortie (Court St. Etienne) et prendre à gauche\, le terrain s
- e trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 direction N
- amur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-La-Ville
- \, ensuite à droite puis directement à gauche a l'arbre et descendre jus
- que dans le fond\, prendre a droite et le terrain se trouve à 500 m. a ma
- in gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/643/MOUSSE
- S-TACHENT\nInfo équipe exterieure: https://www.abssa.org/team/647/FRANGIN
- OS-LOS\nInfo terrain: https://www.abssa.org/terrain/C02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc\n\nContact équipe domicile: Stevens F. (0472.09.43.58 - les.mousses.t
+ achent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, pre
+ ndre la sortie "butte du lion" \, prendre à droite\, puis au feu rouge pr
+ endre à droite\, rouler jusque Genappe et prendre la RN 25 en direction d
+ e Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendre à ga
+ uche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre 
+ la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sort
+ ie Villers-La-Ville\, ensuite à droite puis directement à gauche a l'arb
+ re et descendre jusque dans le fond\, prendre a droite et le terrain se tr
+ ouve à 500 m. a main gauche.\n\nInfo équipe domicile: https://www.abssa.
+ org/team/643/MOUSSES-TACHENT\nInfo équipe exterieure: https://www.abssa.o
+ rg/team/647/FRANGINOS-LOS\nInfo terrain: https://www.abssa.org/terrain/C02
 GEO:50.6343528;4.5383633
 LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
 ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
@@ -140,18 +141,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D3D J17: SPARTAK SYNERGY vs CHENOIS SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T143000Z
 DTEND;VALUE=DATE-TIME:20230114T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_3D_17_637_84
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe exterieure: Rouge\n\nContac
- t équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly@gmail.com)\n\nAcc
- ès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direc
- tion Merchtem. A Brussegem au carrefour Asse-Wolvertem\, prendre direction
-  Asse. Après l'église\, prendre la 1ère à main droite (direction Molle
- m). Après 2 km. prendre la Kouterstraat qui se trouve juste en face de l'
- église.\n\nInfo équipe domicile: https://www.abssa.org/team/637/SPARTAK-
- SYNERGY\nInfo équipe exterieure: https://www.abssa.org/team/084/CHENOIS-S
- C\nInfo terrain: https://www.abssa.org/terrain/M07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.baill
+ y@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wem
+ mel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\
+ , prendre direction Asse. Après l'église\, prendre la 1ère à main droi
+ te (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve 
+ juste en face de l'église.\n\nInfo équipe domicile: https://www.abssa.or
+ g/team/637/SPARTAK-SYNERGY\nInfo équipe exterieure: https://www.abssa.org
+ /team/084/CHENOIS-SC\nInfo terrain: https://www.abssa.org/terrain/M07
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com

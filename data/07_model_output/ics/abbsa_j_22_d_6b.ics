@@ -7,18 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: ETINCELLE FC (Eq. 2) vs COPAINS REUNIS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230225T113000Z
 DTEND;VALUE=DATE-TIME:20230225T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_35_49
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Gris\n\nContact 
- équipe domicile: Kremer N (0471.37.59.81 - nicolas.kremer@gmail.com)\n\nA
- ccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction 
- de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour
-  Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, 
- Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n
- \nInfo équipe domicile: https://www.abssa.org/team/035/ETINCELLE-FC\nInfo
-  équipe exterieure: https://www.abssa.org/team/049/COPAINS-REUNIS\nInfo t
- errain: https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas.kre
+ mer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/035
+ /ETINCELLE-FC\nInfo équipe exterieure: https://www.abssa.org/team/049/COP
+ AINS-REUNIS\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -28,17 +28,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs ITT - GECKO FC (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_345_92
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Noir\n\nContact équipe 
- domicile: Laruelle M. (0494.52.09.71 - martin.laruelle@gmail.com)\n\nAccè
- s voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la chauss
- ée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le ter
- rain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.org/
- team/345/GOALOIS\nInfo équipe exterieure: https://www.abssa.org/team/092/
- ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/terrain/W10
-GEO:50.8423054;4.445628699999999
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laruelle@
+ gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
+ t\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Av
+ ant ce pont le terrain se trouve à gauche.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/345/GOALOIS\nInfo équipe exterieure: https://www.a
+ bssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.abssa.org/terrai
+ n/W10
+GEO:50.8441549;4.445223599999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
@@ -48,16 +49,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: ETTEKIJS (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_343_263
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe exterieure: Bleu\n\nCo
- ntact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.com)\n\
- nAccès voiture : A partir du square des Archiducs\, prendre la rue Berens
- heide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https://ww
- w.abssa.org/team/343/ETTEKIJS\nInfo équipe exterieure: https://www.abssa.
- org/team/263/NEW-ARQUOIS-FC\nInfo terrain: https://www.abssa.org/terrain/W
- 05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe d
+ omicile: https://www.abssa.org/team/343/ETTEKIJS\nInfo équipe exterieure:
+  https://www.abssa.org/team/263/NEW-ARQUOIS-FC\nInfo terrain: https://www.
+ abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -67,18 +68,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: TOURINNOIS FC (Eq. 4) vs BRUSSELS BRITISH R (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230225T140000Z
 DTEND;VALUE=DATE-TIME:20230225T151000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_292_1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et bleu\nCouleur principale équipe exterieure: Blanc\n\nContact
-  équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.com)\n\nAc
- cès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, prendre la
-  sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre la direct
- ion Walhain vers la droite et après 200 m. prendre à droite et 400 m. pl
- us loin\, prendre à nouveau à droite. Le terrain se trouve à +/- 300 m.
-  sur la gauche.\n\nInfo équipe domicile: https://www.abssa.org/team/292/T
- OURINNOIS-FC\nInfo équipe exterieure: https://www.abssa.org/team/001/BRUS
- SELS-BRITISH-R\nInfo terrain: https://www.abssa.org/terrain/T02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge et bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul
+ @hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur 
+ (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès
+ \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
+ droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
+ rouve à +/- 300 m. sur la gauche.\n\nInfo équipe domicile: https://www.a
+ bssa.org/team/292/TOURINNOIS-FC\nInfo équipe exterieure: https://www.abss
+ a.org/team/001/BRUSSELS-BRITISH-R\nInfo terrain: https://www.abssa.org/ter
+ rain/T02
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -87,16 +89,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: COIN DU BALAI FC (Eq. 2) vs IDEAL RANGERS R
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_229_47
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Orange et Noir\n\nContact
-  équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeldjean@hotmail.com
- )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
- rensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: https:
- //www.abssa.org/team/229/COIN-DU-BALAI-FC\nInfo équipe exterieure: https:
- //www.abssa.org/team/047/IDEAL-RANGERS-R\nInfo terrain: https://www.abssa.
- org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenf
+ eldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\
+ , prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équi
+ pe domicile: https://www.abssa.org/team/229/COIN-DU-BALAI-FC\nInfo équipe
+  exterieure: https://www.abssa.org/team/047/IDEAL-RANGERS-R\nInfo terrain:
+  https://www.abssa.org/terrain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -107,20 +109,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: BRUSSELS LTC (Eq. 5) vs PHARMA SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_39_268
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe exterieure: Vert\n\nContact équi
- pe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@hotmail.com)\n\nAcc
- ès voiture : Venant de Bruxelles\, prendre le Ring Est direction Waterloo
- . Sortir au pont de Groenendael\, direction La Hulpe\, Genval. Tout droit 
- pendant 2 km. Après le chateau de La Hulpe\, toujours tout droit. Au feu 
- de signalisation et le carrefour de La Hulpe\, tout droit direction Genval
- . Au feu de signalisation prendre à gauche et ensuite directement à droi
- te\, l'avenue Soyer\, derrière le G.B. Le terrain se trouve à 300 m.\n\n
- Info équipe domicile: https://www.abssa.org/team/039/BRUSSELS-LTC\nInfo 
- équipe exterieure: https://www.abssa.org/team/268/PHARMA-SC\nInfo terrain
- : https://www.abssa.org/terrain/L09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
+ rt\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/team/039/B
+ RUSSELS-LTC\nInfo équipe exterieure: https://www.abssa.org/team/268/PHARM
+ A-SC\nInfo terrain: https://www.abssa.org/terrain/L09
 GEO:50.7309582;4.4952087
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
@@ -130,22 +132,22 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6B J22: NIVELLES CS (Eq. 2) vs AZUR RCS (Eq. 5)
 DTSTART;VALUE=DATE-TIME:20230225T143000Z
 DTEND;VALUE=DATE-TIME:20230225T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6B_22_306_109
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange fluo\nCouleur principale équipe exterieure: Bleu ciel\n\nConta
- ct équipe domicile: Couteau A (0497.63.11.19 - couteau.arnold.00@gmail.co
- m)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelles-
- Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de l
- 'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point (
- Shopping Center)\, tourner à droite en direction de Wavre (petit ring de 
- Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shoppin
- g Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans le 
- zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à gau
- che et prendre la rue du Progrès pendant +/- 400 m.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/306/NIVELLES-CS\nInfo équipe exterieure: 
- https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain: https://www.abssa.o
- rg/terrain/N03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
+  Bleu ciel\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau
+ .arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'a
+ utoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passe
+ r sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m
+ .\, au rond-point (Shopping Center)\, tourner à droite en direction de Wa
+ vre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du ro
+ nd-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et 
+ pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisati
+ on\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\
+ nInfo équipe domicile: https://www.abssa.org/team/306/NIVELLES-CS\nInfo 
+ équipe exterieure: https://www.abssa.org/team/109/AZUR-RCS\nInfo terrain:
+  https://www.abssa.org/terrain/N03
 GEO:50.5963436;4.3564187
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c

@@ -7,19 +7,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J1: BEETHOVEN FCS vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220903T103000Z
 DTEND;VALUE=DATE-TIME:20220903T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_1_493_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Noir\n\nContact équ
- ipe domicile: Steenhaut F. (0477.37.74.47 - fsteenhaut@hotmail.com)\n\nAcc
- ès voiture : En venant de la Route de Lennik (Citroën) ou de la Chaussé
- e de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, empru
- nter le Boulevard Josse Leemans\, au rond-point prendre la sortie pour la 
- rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrain
- s se situe à +/- 500 m. sur la gauche.\n\nInfo équipe domicile: https://
- www.abssa.org/team/493/BEETHOVEN-FCS\nInfo équipe exterieure: https://www
- .abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/
- A09
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
+ oir\n\nContact équipe domicile: Steenhaut F. (0477.37.74.47 - fsteenhaut@
+ hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nInfo équipe
+  domicile: https://www.abssa.org/team/493/BEETHOVEN-FCS\nInfo équipe exte
+ rieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www
+ .abssa.org/terrain/A09
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -29,26 +29,26 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: BLACK STAR GENVAL vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220910T133000Z
 DTEND;VALUE=DATE-TIME:20220910T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_2_601_574
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Van Bael J. (0479.36.69.79 - blackstargenval@gmail.com)\n\nAccès
-  voiture : Prendre l'autoroute de Namur (E411)\, sortie n° 4 - (Genval-Ro
- sières). En bas de la sortie prendre la deuxième rue à droite (rue de L
- a Hulpe) direction "Genval - Maubroux". Au premier rond point continuez à
-  suivre la direction "Genval - Maubroux" (continuation de la rue de La Hul
- pe). Au rond point suivant\, suivre toujours la direction "Genval-Maubroux
- ". Au troisième rond point (Café du Lac sur la gauche) suivre toujours l
- a direction "Genval-Maubroux" (3ème sortie - rue de Genval). Continuez to
- ut droit jusqu'au feu de signalisation (Eglise de Genval) et tourner à dr
- oite (Avenue Albert 1èr). Après +/- 800 mètres\, à l'ancienne station 
- service\, prendre à gauche et suivre la route (rue Joseph Desmet) sur +/-
-  700 mètres\, puis tourner à droite\, rue du Tilleul (panneau : Les Char
- mettes). Le terrain se trouve à environ 200 mètres sur la droite.\n\nInf
- o équipe domicile: https://www.abssa.org/team/601/BLACK-STAR-GENVAL\nInfo
-  équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain
- : https://www.abssa.org/terrain/G01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: G01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Van Bael J. (0479.36.69.79 - blackstargenval@g
+ mail.com)\n\nAccès voiture : Prendre l'autoroute de Namur (E411)\, sortie
+  n° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue 
+ à droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond
+  point continuez à suivre la direction "Genval - Maubroux" (continuation 
+ de la rue de La Hulpe). Au rond point suivant\, suivre toujours la directi
+ on "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche
+ ) suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Ge
+ nval). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genva
+ l) et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à 
+ l'ancienne station service\, prendre à gauche et suivre la route (rue Jos
+ eph Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul 
+ (panneau : Les Charmettes). Le terrain se trouve à environ 200 mètres su
+ r la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/601/BLAC
+ K-STAR-GENVAL\nInfo équipe exterieure: https://www.abssa.org/team/574/TAU
+ RO-FC\nInfo terrain: https://www.abssa.org/terrain/G01
 GEO:50.724554;4.496792999999999
 LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
  \, Belgique
@@ -59,16 +59,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J3: TAURO FC (Eq. 2) vs SNEAKY BABOONS
 DTSTART;VALUE=DATE-TIME:20220917T110000Z
 DTEND;VALUE=DATE-TIME:20220917T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_3_574_641
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/641/SNEAKY-BABOONS\nInfo terrain: https://www
- .abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/641/SNEAKY-BABOONS\nInfo t
+ errain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -78,19 +78,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J4: UNION TIGERS vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20220924T103000Z
 DTEND;VALUE=DATE-TIME:20220924T114000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_4_649_574
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe exterieure: Noir\n\nCon
- tact équipe domicile: Thibaut L (0472.52.93.45 - union.tigers@hotmail.com
- )\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie Westlan
- d Shopping Center (n° 14) continuer tout droit\, remonter vers le Ring et
-  prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbee
- k au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se trouve
-  à gauche\, entre l'école Van Belle et Veeweyde.\n\nInfo équipe domicil
- e: https://www.abssa.org/team/649/UNION-TIGERS\nInfo équipe exterieure: h
- ttps://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.or
- g/terrain/A01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Noir\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
+ .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
+ is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
+ ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
+ l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
+ e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nI
+ nfo équipe domicile: https://www.abssa.org/team/649/UNION-TIGERS\nInfo é
+ quipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: h
+ ttps://www.abssa.org/terrain/A01
 GEO:50.8344692;4.2821012
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
@@ -99,16 +99,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J5: TAURO FC (Eq. 2) vs FORESTOIS SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221001T110000Z
 DTEND;VALUE=DATE-TIME:20221001T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_5_574_152
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/152/FORESTOIS-SC\nInfo terrain: https://www.a
- bssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo ter
+ rain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -118,31 +118,31 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J6: STRING PENELOPE (Eq. 3) vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221008T133000Z
 DTEND;VALUE=DATE-TIME:20221008T144000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_6_181_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe exterieure: Noir\n\nContact équipe
-  domicile: Collignon T. (0474.89.84.20 - thom.collignon@gmail.com)\n\nAcc
- ès voiture : En venant de Bruxelles\, prendre l'autoroute E411 en directi
- on de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite et au bou
- t de la bretelle\, prendre la direction d'Ottignies par la N238. Au 1èr f
- eu de signalisation continuer tout droit en passant devant Walibi (qui se 
- trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de cette sorti
- e\, en face du Tennis Club La Palestre\, prendre à droite la rue Charles 
- Dubois\, jusqu'au carrefour principal. Continuer tout droit en traversant 
- l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin de fer et p
- rendre la rue de l'Europe jusqu'à la place de l'Europe. Traverser cette p
- lace par la droite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1
- ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Continuer ce
- tte rue et passer en dessous du 2ème pont du chemin de fer. Après ce pon
- t\, prendre tout de suite à gauche l'avenue Demolder (panneau F.C. Limele
- tte)\, en face de l'étang du Buston. Suivre cette avenue jusqu'à la 4èm
- e rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, p
- rendre à droite l'avenue des Sorbiers (panneau du F.C. Limelette). L'entr
- ée du terrain est située 50 m. plus bas sur la gauche.\n\nInfo équipe d
- omicile: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo équipe exte
- rieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www
- .abssa.org/terrain/O05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autorou
+ te E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir l
+ a droite et au bout de la bretelle\, prendre la direction d'Ottignies par 
+ la N238. Au 1èr feu de signalisation continuer tout droit en passant deva
+ nt Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au b
+ out de cette sortie\, en face du Tennis Club La Palestre\, prendre à droi
+ te la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout dr
+ oit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du 
+ chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe.
+  Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue 
+ Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limele
+ tte). Continuer cette rue et passer en dessous du 2ème pont du chemin de 
+ fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (p
+ anneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenu
+ e jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. 
+ dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. 
+ Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+ \n\nInfo équipe domicile: https://www.abssa.org/team/181/STRING-PENELOPE\
+ nInfo équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo te
+ rrain: https://www.abssa.org/terrain/O05
 GEO:50.6762848;4.562820299999999
 LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
@@ -152,16 +152,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J7: TAURO FC (Eq. 2) vs ITT - GECKO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221015T110000Z
 DTEND;VALUE=DATE-TIME:20221015T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_7_574_92
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo terrain: https://www.a
- bssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo ter
+ rain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -171,16 +171,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J8: BIERGEOIS CS vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221022T123000Z
 DTEND;VALUE=DATE-TIME:20221022T134000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_8_70_574
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Ver Elst J. (0498.11.12.98 - verelstjerome@hotmail.fr)\n\nAccès 
- voiture : Autoroute Bruxelles-Namur\, sortie Bierges\, prendre à droite\,
-  le terrain se trouve à +/- 500 m. du côté droit.\n\nInfo équipe domic
- ile: https://www.abssa.org/team/070/BIERGEOIS-CS\nInfo équipe exterieure:
-  https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.
- org/terrain/B01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Ver Elst J. (0498.11.12.98 - verelstjerome@hot
+ mail.fr)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie Bierges\, 
+ prendre à droite\, le terrain se trouve à +/- 500 m. du côté droit.\n\
+ nInfo équipe domicile: https://www.abssa.org/team/070/BIERGEOIS-CS\nInfo 
+ équipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain:
+  https://www.abssa.org/terrain/B01
 GEO:50.7113792;4.5897825
 LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
  , Belgique
@@ -191,16 +191,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J9: TAURO FC (Eq. 2) vs COMP. CINEMA R
 DTSTART;VALUE=DATE-TIME:20221105T120000Z
 DTEND;VALUE=DATE-TIME:20221105T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_9_574_16
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Vert\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/016/COMP-CINEMA-R\nInfo terrain: https://www.
- abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/016/COMP-CINEMA-R\nInfo te
+ rrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -210,16 +210,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J10: TAURO FC (Eq. 2) vs EXTRANOS (LOS)
 DTSTART;VALUE=DATE-TIME:20221112T120000Z
 DTEND;VALUE=DATE-TIME:20221112T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_10_574_569
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et Bleu\n\nContact 
- équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccè
- s voiture : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu
-  de signalisation prendre à gauche\, puis la première à droite.\n\nInfo
-  équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe e
- xterieure: https://www.abssa.org/team/569/EXTRANOS-LOS\nInfo terrain: http
- s://www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@
+ gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambe
+ rmont. Au 3ème feu de signalisation prendre à gauche\, puis la première
+  à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO
+ -FC\nInfo équipe exterieure: https://www.abssa.org/team/569/EXTRANOS-LOS\
+ nInfo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -229,16 +229,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J12: TAURO FC (Eq. 2) vs UCCLE STENDHAL
 DTSTART;VALUE=DATE-TIME:20221126T120000Z
 DTEND;VALUE=DATE-TIME:20221126T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_12_574_214
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Equipe 1 : Rouge rayé de
-  noir\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gm
- ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
- ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-
- FC\nInfo équipe exterieure: https://www.abssa.org/team/214/UCCLE-STENDHAL
- \nInfo terrain: https://www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Equipe
+  1 : Rouge rayé de noir\n\nContact équipe domicile: Lietaer Y. (0484.16.
+ 30.31 - ylietaer@gmail.com)\n\nAccès voiture : Place Meiser\, descendre l
+ e boulevard Lambermont. Au 3ème feu de signalisation prendre à gauche\, 
+ puis la première à droite.\n\nInfo équipe domicile: https://www.abssa.o
+ rg/team/574/TAURO-FC\nInfo équipe exterieure: https://www.abssa.org/team/
+ 214/UCCLE-STENDHAL\nInfo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -248,16 +248,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J13: TAURO FC (Eq. 2) vs BLACK STAR GENVAL
 DTSTART;VALUE=DATE-TIME:20221203T120000Z
 DTEND;VALUE=DATE-TIME:20221203T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_13_574_601
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/601/BLACK-STAR-GENVAL\nInfo terrain: https://
- www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/601/BLACK-STAR-GENVAL\nInf
+ o terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -267,15 +267,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J14: SNEAKY BABOONS vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221210T113000Z
 DTEND;VALUE=DATE-TIME:20221210T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_14_641_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Stasse\, W (0473.95.76.80 - willstasse@gmail.com)\n\nAccès voitu
- re : A partir du square des Archiducs\, prendre la rue Berensheide\, ensui
- te l'avenue des Nymphes.\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/641/SNEAKY-BABOONS\nInfo équipe exterieure: https://www.abssa.org/tea
- m/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/W05
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstasse@gmail.c
+ om)\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue 
+ Berensheide\, ensuite l'avenue des Nymphes.\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/641/SNEAKY-BABOONS\nInfo équipe exterieure: https:
+ //www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/ter
+ rain/W05
 GEO:50.8059064;4.4137412
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -285,16 +286,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J15: TAURO FC (Eq. 2) vs TIEKSS WEMMEL
 DTSTART;VALUE=DATE-TIME:20221217T120000Z
 DTEND;VALUE=DATE-TIME:20221217T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_4D_15_574_644
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Rouge et noir\n\nContact 
- équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccè
- s voiture : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu
-  de signalisation prendre à gauche\, puis la première à droite.\n\nInfo
-  équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe e
- xterieure: https://www.abssa.org/team/644/TIEKSS-WEMMEL\nInfo terrain: htt
- ps://www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@
+ gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambe
+ rmont. Au 3ème feu de signalisation prendre à gauche\, puis la première
+  à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO
+ -FC\nInfo équipe exterieure: https://www.abssa.org/team/644/TIEKSS-WEMMEL
+ \nInfo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -304,16 +305,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J16: TAURO FC (Eq. 2) vs UNION TIGERS
 DTSTART;VALUE=DATE-TIME:20230107T120000Z
 DTEND;VALUE=DATE-TIME:20230107T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_16_574_649
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\n
- Accès voiture : Place Meiser\, descendre le boulevard Lambermont. Au 3èm
- e feu de signalisation prendre à gauche\, puis la première à droite.\n\
- nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équ
- ipe exterieure: https://www.abssa.org/team/649/UNION-TIGERS\nInfo terrain:
-  https://www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
+ iel et Blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylie
+ taer@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard 
+ Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la prem
+ ière à droite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/
+ TAURO-FC\nInfo équipe exterieure: https://www.abssa.org/team/649/UNION-TI
+ GERS\nInfo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -323,19 +324,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J17: FORESTOIS SC (Eq. 2) vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230114T130000Z
 DTEND;VALUE=DATE-TIME:20230114T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_17_152_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.com)\n\nAccès voitur
- e : Au départ de la Place St. Denis à Forest prendre la chaussée de Nee
- rstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue
-  de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème A
- rmée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à 
- hauteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile: ht
- tps://www.abssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: https:
- //www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/ter
- rain/F01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo équip
+ e exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https
+ ://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -345,16 +346,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J18: TAURO FC (Eq. 2) vs STRING PENELOPE (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230121T120000Z
 DTEND;VALUE=DATE-TIME:20230121T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_18_574_181
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Orange\n\nContact équipe
-  domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voitu
- re : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de sig
- nalisation prendre à gauche\, puis la première à droite.\n\nInfo équip
- e domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieu
- re: https://www.abssa.org/team/181/STRING-PENELOPE\nInfo terrain: https://
- www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.c
+ om)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. 
+ Au 3ème feu de signalisation prendre à gauche\, puis la première à dro
+ ite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nIn
+ fo équipe exterieure: https://www.abssa.org/team/181/STRING-PENELOPE\nInf
+ o terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -364,19 +365,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: ITT - GECKO FC (Eq. 2) vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230128T113000Z
 DTEND;VALUE=DATE-TIME:20230128T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_19_92_574
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Schmidt Ch. (0475.61.97.33 - christian@schmidt1.be)\n\nAccès voi
- ture : Chaussée de Louvain jusqu'à Nossegem\, au premier croisement pren
- dre à gauche la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. 
- à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-
- Sterrebeek\, prendre à gauche la Mechelsesteenweg\, traverser la chaussé
- e de Louvain\, et suivre comme ci-avant.\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/092/ITT-GECKO-FC\nInfo équipe exterieure: https://www
- .abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/
- N04
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Schmidt Ch. (0475.61.97.33 - christian@schmidt
+ 1.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au prem
+ ier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est ind
+ iqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre 
+ la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, tr
+ averser la chaussée de Louvain\, et suivre comme ci-avant.\n\nInfo équip
+ e domicile: https://www.abssa.org/team/092/ITT-GECKO-FC\nInfo équipe exte
+ rieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www
+ .abssa.org/terrain/N04
 GEO:50.8877772;4.5090761
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -386,16 +387,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J20: TAURO FC (Eq. 2) vs BIERGEOIS CS
 DTSTART;VALUE=DATE-TIME:20230204T120000Z
 DTEND;VALUE=DATE-TIME:20230204T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_20_574_70
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu\n\nContact équipe d
- omicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès voiture
-  : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signa
- lisation prendre à gauche\, puis la première à droite.\n\nInfo équipe 
- domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exterieure
- : https://www.abssa.org/team/070/BIERGEOIS-CS\nInfo terrain: https://www.a
- bssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo
+  équipe exterieure: https://www.abssa.org/team/070/BIERGEOIS-CS\nInfo ter
+ rain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -405,17 +406,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J21: COMP. CINEMA R vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230211T113000Z
 DTEND;VALUE=DATE-TIME:20230211T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_21_16_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Noir\n\nContact équipe d
- omicile: Sartori B. (0479.15.31.09 - compagnonscinema016@gmail.com)\n\nAcc
- ès voiture : Boulevard Lambermont\, prendre le boulevard Léopold III\, d
- irection aéroport de Bruxelles-National\, au 3ème feu de signalisation p
- rendre à droite. le terrain se trouve à 50 m.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/016/COMP-CINEMA-R\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/
- terrain/E07
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Sartori B. (0479.15.31.09 - compagnonscinema01
+ 6@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le bouleva
+ rd Léopold III\, direction aéroport de Bruxelles-National\, au 3ème feu
+  de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nInfo
+  équipe domicile: https://www.abssa.org/team/016/COMP-CINEMA-R\nInfo équ
+ ipe exterieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: htt
+ ps://www.abssa.org/terrain/E07
 GEO:50.8691981;4.4067073
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
@@ -426,19 +427,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J22: UCCLE STENDHAL vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230225T130000Z
 DTEND;VALUE=DATE-TIME:20230225T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_22_214_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Equipe 1 : Rouge rayé de noir\nCouleur principale équipe exterieure:
-  Noir\n\nContact équipe domicile: Mathuren A. (0499.52.56.54 - alainmathu
- ren@yahoo.fr)\n\nAccès voiture : L'entrée se fait par la rue du Zwartebe
- ek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direction Uccle
- \, par la rue de Stalle prolongée.  Après le rond-point prendre la 1ère
-  rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue à gauc
- he\, rue du Zwartebeek\, l'entrée du complexe est située à +/- 200 mèt
- res sur la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/21
- 4/UCCLE-STENDHAL\nInfo équipe exterieure: https://www.abssa.org/team/574/
- TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/U02
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Equipe 1 : Rouge rayé de noir\nCouleur principale 
+ équipe exterieure: Noir\n\nContact équipe domicile: Mathuren A. (0499.52
+ .56.54 - alainmathuren@yahoo.fr)\n\nAccès voiture : L'entrée se fait par
+  la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroe
+ k\, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poi
+ nt prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite l
+ a 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
+ ée à +/- 200 mètres sur la droite.\n\nInfo équipe domicile: https://ww
+ w.abssa.org/team/214/UCCLE-STENDHAL\nInfo équipe exterieure: https://www.
+ abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/U
+ 02
 GEO:50.7970805;4.3177254
 LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
 ORGANIZER;CN="Mathuren A.";ROLE=Secrétaire:MAILTO:alainmathuren@yahoo.fr
@@ -447,17 +449,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J23: EXTRANOS (LOS) vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230304T143000Z
 DTEND;VALUE=DATE-TIME:20230304T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_23_569_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et Bleu\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: Vazquez Rodriguez K. (0470.86.40.55 - losextranos569@gma
- il.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les bouleva
- rds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, 
- ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dr
- oite (rue Baron Dhanis).\n\nInfo équipe domicile: https://www.abssa.org/t
- eam/569/EXTRANOS-LOS\nInfo équipe exterieure: https://www.abssa.org/team/
- 574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain/E04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Vazquez Rodriguez K. (0470.86.40.55 -
+  losextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remont
+ er tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre ce
+ lle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, 
+ puis la 3ème à droite (rue Baron Dhanis).\n\nInfo équipe domicile: http
+ s://www.abssa.org/team/569/EXTRANOS-LOS\nInfo équipe exterieure: https://
+ www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terra
+ in/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
 ORGANIZER;CN="Vazquez Rodriguez K.";ROLE=Secrétaire:MAILTO:losextranos569
@@ -467,16 +470,16 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J25: TAURO FC (Eq. 2) vs BEETHOVEN FCS
 DTSTART;VALUE=DATE-TIME:20230318T120000Z
 DTEND;VALUE=DATE-TIME:20230318T131000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_25_574_493
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe exterieure: Bleu ciel\n\nContact équ
- ipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com)\n\nAccès vo
- iture : Place Meiser\, descendre le boulevard Lambermont. Au 3ème feu de 
- signalisation prendre à gauche\, puis la première à droite.\n\nInfo éq
- uipe domicile: https://www.abssa.org/team/574/TAURO-FC\nInfo équipe exter
- ieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nInfo terrain: https:/
- /www.abssa.org/terrain/S01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
+ iel\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmai
+ l.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.\n\nInfo équipe domicile: https://www.abssa.org/team/574/TAURO-FC\
+ nInfo équipe exterieure: https://www.abssa.org/team/493/BEETHOVEN-FCS\nIn
+ fo terrain: https://www.abssa.org/terrain/S01
 GEO:50.8666244;4.382361899999999
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -486,20 +489,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J26: TIEKSS WEMMEL vs TAURO FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230325T134500Z
 DTEND;VALUE=DATE-TIME:20230325T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2023_4D_26_644_574
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Noir\n\nContact 
- équipe domicile: Mad. De Decker N (0477.64.40.18 - info@tiekss.org)\n\nAc
- cès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem
-  volgen via de Is. Meyskensstraat tot aan de rotonde\, op de rotonde de 4d
- e afslag nemen\, Diepstraat deze vloeit over in de Steenweg op Brussel\, 5
- 0 m. voorbij het eerste kruispunt met verkeerslichten\, links van de steen
- weg\, bevindt zich het stadium (parking)\n\nInfo équipe domicile: https:/
- /www.abssa.org/team/644/TIEKSS-WEMMEL\nInfo équipe exterieure: https://ww
- w.abssa.org/team/574/TAURO-FC\nInfo terrain: https://www.abssa.org/terrain
- /W16
-GEO:50.900999;4.4855744
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Mad. De Decker N (0477.64.40.18 - inf
+ o@tiekss.org)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\
+ , richting Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, 
+ op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Stee
+ nweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\,
+  links van de steenweg\, bevindt zich het stadium (parking)\n\nInfo équip
+ e domicile: https://www.abssa.org/team/644/TIEKSS-WEMMEL\nInfo équipe ext
+ erieure: https://www.abssa.org/team/574/TAURO-FC\nInfo terrain: https://ww
+ w.abssa.org/terrain/W16
+GEO:50.9068107;4.311412799999999
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Mad. De Decker N";ROLE=Secrétaire:MAILTO:info@tiekss.org

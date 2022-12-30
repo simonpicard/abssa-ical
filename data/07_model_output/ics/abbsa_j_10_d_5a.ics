@@ -7,18 +7,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: AZUR RCS (Eq. 4) vs WINCHESTER F.C.
 DTSTART;VALUE=DATE-TIME:20221112T110000Z
 DTEND;VALUE=DATE-TIME:20221112T121000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_109_653
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe exterieure: Bleu et blanc\n\nCon
- tact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_decamps@h
- otmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervuren. P
- assé le boulevard du Souverain prendre à gauche au premier feu de signal
- isation (Av. Madoux). Au feu de signalisation suivant prendre la 2ème rue
-  à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. Salom
- é).\n\nInfo équipe domicile: https://www.abssa.org/team/109/AZUR-RCS\nIn
- fo équipe exterieure: https://www.abssa.org/team/653/WINCHESTER-FC\nInfo 
- terrain: https://www.abssa.org/terrain/W12
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu et blanc\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 -
+  nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, di
+ rection Tervuren. Passé le boulevard du Souverain prendre à gauche au pr
+ emier feu de signalisation (Av. Madoux). Au feu de signalisation suivant p
+ rendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à
+  gauche (Av. Salomé).\n\nInfo équipe domicile: https://www.abssa.org/tea
+ m/109/AZUR-RCS\nInfo équipe exterieure: https://www.abssa.org/team/653/WI
+ NCHESTER-FC\nInfo terrain: https://www.abssa.org/terrain/W12
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -29,18 +29,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: EFFETA FC vs ELAN EVERE RAC
 DTSTART;VALUE=DATE-TIME:20221112T113000Z
 DTEND;VALUE=DATE-TIME:20221112T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_516_7
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Vert\n\nContact 
- équipe domicile: Eryuruk K. (0487.34.08.40 - effetafc@gmail.com)\n\nAccè
- s voiture : Autoroute Bruxelles-Anvers (A12)\, au premier feu de signalisa
- tion\, prendre à gauche\, direction Londerzeel. Suivre la plaque Stations
- traat. Passée la gare (après env. 1200 m.) prendre à gauche au " Monume
- nt aux Morts". Le terrain se trouve à 50 m.\n\nInfo équipe domicile: htt
- ps://www.abssa.org/team/516/EFFETA-FC\nInfo équipe exterieure: https://ww
- w.abssa.org/team/007/ELAN-EVERE-RAC\nInfo terrain: https://www.abssa.org/t
- errain/L05
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - effetafc@
+ gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, au premi
+ er feu de signalisation\, prendre à gauche\, direction Londerzeel. Suivre
+  la plaque Stationstraat. Passée la gare (après env. 1200 m.) prendre à
+  gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\nInfo é
+ quipe domicile: https://www.abssa.org/team/516/EFFETA-FC\nInfo équipe ext
+ erieure: https://www.abssa.org/team/007/ELAN-EVERE-RAC\nInfo terrain: http
+ s://www.abssa.org/terrain/L05
 GEO:51.0192214;4.2904455
 LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
 ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
@@ -49,16 +49,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: POSTBOYS FC vs GAMBRINUS F.C.
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_75_645
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe exterieure: Rose\n\nContact 
- équipe domicile: Burquel J-M. (0498.05.90.57 - secretariat@postboys.be)\n
- \nAccès voiture : Direction cimetière de Jette\, ensuite prendre la rue 
- du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le 
- terrain se trouve à gauche.\n\nInfo équipe domicile: https://www.abssa.o
- rg/team/075/POSTBOYS-FC\nInfo équipe exterieure: https://www.abssa.org/te
- am/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.org/terrain/J01
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rose\n\nContact équipe domicile: Burquel J-M. (0498.05.90.57 - secreta
+ riat@postboys.be)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nInfo équipe domicile: 
+ https://www.abssa.org/team/075/POSTBOYS-FC\nInfo équipe exterieure: https
+ ://www.abssa.org/team/645/GAMBRINUS-FC\nInfo terrain: https://www.abssa.or
+ g/terrain/J01
 GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
@@ -69,17 +70,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: RANGERS F.C. vs BEA WOLUWE
 DTSTART;VALUE=DATE-TIME:20221112T130000Z
 DTEND;VALUE=DATE-TIME:20221112T141000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_620_459
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe exterieure: B
- leu clair\n\nContact équipe domicile: Thuns S (0474.62.02.22 - samuel.thu
- ns@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les b
- oulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dro
- ite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème
-  à droite (rue Baron Dhanis).\n\nInfo équipe domicile: https://www.abssa
- .org/team/620/RANGERS-FC\nInfo équipe exterieure: https://www.abssa.org/t
- eam/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org/terrain/E04
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rayé Bordeaux Blanc et Bleu\nCouleur principale é
+ quipe exterieure: Bleu clair\n\nContact équipe domicile: Thuns S (0474.62
+ .02.22 - samuel.thuns@gmail.com)\n\nAccès voiture : De la Place Meiser\, 
+ remonter tous les boulevards. Au carrefour de la Chaussée de Wavre\, pren
+ dre celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fiv
+ é)\, puis la 3ème à droite (rue Baron Dhanis).\n\nInfo équipe domicile
+ : https://www.abssa.org/team/620/RANGERS-FC\nInfo équipe exterieure: http
+ s://www.abssa.org/team/459/BEA-WOLUWE\nInfo terrain: https://www.abssa.org
+ /terrain/E04
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
 ORGANIZER;CN="Thuns S";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
@@ -88,19 +90,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: FORESTOIS SC (Eq. 3) vs CENTRAL PARK FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_152_562
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe exterieure: Bordeaux\n\nContact équi
- pe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.com)\n\nAccès vo
- iture : Au départ de la Place St. Denis à Forest prendre la chaussée de
-  Neerstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la
-  rue de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2è
- me Armée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve
-  à hauteur de City Cart\, à gauche de la route.\n\nInfo équipe domicile
- : https://www.abssa.org/team/152/FORESTOIS-SC\nInfo équipe exterieure: ht
- tps://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo terrain: https://www.ab
- ssa.org/terrain/F01
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pren
+ dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
+  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
+ che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
+  Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nIn
+ fo équipe domicile: https://www.abssa.org/team/152/FORESTOIS-SC\nInfo éq
+ uipe exterieure: https://www.abssa.org/team/562/CENTRAL-PARK-FC\nInfo terr
+ ain: https://www.abssa.org/terrain/F01
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -110,19 +112,19 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D5A J10: WOLUWE FC vs BRITISH UNITED (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20221112T143000Z
 DTEND;VALUE=DATE-TIME:20221112T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160125Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232704Z
 UID:2022_5A_10_153_132
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: Purnelle K. (0491.08.24.67 - kevin.purnelle@ing.com)\n\n
- Accès voiture : Par la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wa
- vre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendant 700 mèt
- res jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite la rue de 
- Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de la Perche\
- , prendre à droite l'avenue de la Paix et encore à droite l'avenue Clerm
- ont Tonnerre.\n\nInfo équipe domicile: https://www.abssa.org/team/153/WOL
- UWE-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UN
- ITED\nInfo terrain: https://www.abssa.org/terrain/R03
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Purnelle K. (0491.08.24.67 - kevin.pu
+ rnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre 
+ la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N2
+ 57 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et
+  ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la 
+ Place de la Perche\, prendre à droite l'avenue de la Paix et encore à dr
+ oite l'avenue Clermont Tonnerre.\n\nInfo équipe domicile: https://www.abs
+ sa.org/team/153/WOLUWE-FC\nInfo équipe exterieure: https://www.abssa.org/
+ team/132/BRITISH-UNITED\nInfo terrain: https://www.abssa.org/terrain/R03
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique

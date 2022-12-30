@@ -7,17 +7,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J18: AEMA VETERANS vs TIGRE (LE) FC
 DTSTART;VALUE=DATE-TIME:20230121T113000Z
 DTEND;VALUE=DATE-TIME:20230121T124000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6E_18_427_237
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe exterieure: Orange\n\nContac
- t équipe domicile: Van Ingelgom J. (0475.36.44.88 - vaningelgom_w_j@hotma
- il.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (ca
- rrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'
- à la Place Verdi\, puis le Bld. Théo Lambert.\n\nInfo équipe domicile: 
- https://www.abssa.org/team/427/AEMA-VETERANS\nInfo équipe exterieure: htt
- ps://www.abssa.org/team/237/TIGRE-LE-FC\nInfo terrain: https://www.abssa.o
- rg/terrain/A08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.88 - va
+ ningelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de Mons ju
+ squ'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard
+   A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nInfo 
+ équipe domicile: https://www.abssa.org/team/427/AEMA-VETERANS\nInfo équi
+ pe exterieure: https://www.abssa.org/team/237/TIGRE-LE-FC\nInfo terrain: h
+ ttps://www.abssa.org/terrain/A08
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
@@ -28,18 +28,18 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J18: ECUSSON FC vs BRITISH UNITED (Eq. 7)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6E_18_404_132
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe exterieure: Bleu\n\nContact 
- équipe domicile: Santoro M (0471.68.67.25 - domisie@hotmail.be)\n\nAccès
-  voiture : Ring\, sortie Hopital Erasme\, après 300 m. en direction de Le
- nnik\, prendre à droite.\nVenant de la chaussée de Mons\, carrefour Av. 
- Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. 
- M. Carème\, après l'hopital Erasme 400 m. en direction de Lennik.\n\nInf
- o équipe domicile: https://www.abssa.org/team/404/ECUSSON-FC\nInfo équip
- e exterieure: https://www.abssa.org/team/132/BRITISH-UNITED\nInfo terrain:
-  https://www.abssa.org/terrain/A03
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Santoro M (0471.68.67.25 - domisie@ho
+ tmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m.
+  en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mo
+ ns\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
+ éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
+ n de Lennik.\n\nInfo équipe domicile: https://www.abssa.org/team/404/ECUS
+ SON-FC\nInfo équipe exterieure: https://www.abssa.org/team/132/BRITISH-UN
+ ITED\nInfo terrain: https://www.abssa.org/terrain/A03
 GEO:50.8177195;4.2558158
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -49,19 +49,20 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J18: PANGLOSS FC (Eq. 2) vs WATERMAEL CS
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6E_18_123_375
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe exterieure: Rouge\n\nContact équipe 
- domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail.com)\n\nAccès vo
- iture : Au départ de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)
- \, prendre la sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, 
- l'avenue des Anciens Combattants. Juste après le carrefour avec des feux 
- de signalisation prendre à droite vers la Place de la Chapelle\, puis pre
- ndre la 4ème rue à main droite (rue au Bois). Le terrain se trouve à 30
- 0 m. sur la droite.\n\nInfo équipe domicile: https://www.abssa.org/team/1
- 23/PANGLOSS-FC\nInfo équipe exterieure: https://www.abssa.org/team/375/WA
- TERMAEL-CS\nInfo terrain: https://www.abssa.org/terrain/K02
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nInfo équipe domicile: https://w
+ ww.abssa.org/team/123/PANGLOSS-FC\nInfo équipe exterieure: https://www.ab
+ ssa.org/team/375/WATERMAEL-CS\nInfo terrain: https://www.abssa.org/terrain
+ /K02
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
@@ -70,17 +71,17 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D6E J18: KARIA FC (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6E_18_498_401
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe exterieure: Bleu\n\nContact équipe 
- domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotmail.fr)\n\nAccès v
- oiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek
- \, prendre l' Avenue des Croix de Guerre jusqu'au rond-point\, tout droit 
- Chemin Vert\, puis première à gauche\, Petit Chemin Vert\, terrain à 30
- 0 m.\n\nInfo équipe domicile: https://www.abssa.org/team/498/KARIA-FC\nIn
- fo équipe exterieure: https://www.abssa.org/team/401/BOUSVAL-GENAPPE\nInf
- o terrain: https://www.abssa.org/terrain/B08
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotm
+ ail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers 
+ Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-
+ point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin V
+ ert\, terrain à 300 m.\n\nInfo équipe domicile: https://www.abssa.org/te
+ am/498/KARIA-FC\nInfo équipe exterieure: https://www.abssa.org/team/401/B
+ OUSVAL-GENAPPE\nInfo terrain: https://www.abssa.org/terrain/B08
 GEO:50.8998295;4.3935952
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
@@ -90,17 +91,17 @@ SUMMARY:ABSSA D6E J18: BRUSSELS BRITISH R (Eq. 7) vs BRAINE-TERMINUS FC (E
  q. 2)
 DTSTART;VALUE=DATE-TIME:20230121T143000Z
 DTEND;VALUE=DATE-TIME:20230121T154000Z
-DTSTAMP;VALUE=DATE-TIME:20221203T160126Z
+DTSTAMP;VALUE=DATE-TIME:20221230T232705Z
 UID:2023_6E_18_1_537
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe exterieure: Jaune et rouge\n\nContac
- t équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.org)\n\nAcc
- ès voiture : Autoroute E411\, prendre la sortie Rosières. Passer devant 
- l'église\, longer l'autoroute et tourner à droite au cimetière des anim
- aux. Terrain à 200 m.\n\nInfo équipe domicile: https://www.abssa.org/tea
- m/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: https://www.abssa.org/t
- eam/537/BRAINE-TERMINUS-FC\nInfo terrain: https://www.abssa.org/terrain/R0
- 2
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nInfo équipe domicile: https:
+ //www.abssa.org/team/001/BRUSSELS-BRITISH-R\nInfo équipe exterieure: http
+ s://www.abssa.org/team/537/BRAINE-TERMINUS-FC\nInfo terrain: https://www.a
+ bssa.org/terrain/R02
 GEO:50.728425;4.5537381
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
